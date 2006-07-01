@@ -1,0 +1,38 @@
+{
+  "act": "ch-31b",
+  "day": "2006-07-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/31B/full",
+  "statute_source_sha256": "b1255741c56fb33aa2a6207a4ec5e4783c0a19714ccda6c4bedbff4f2b6da71a",
+  "latest_year": 2006,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2006/0/212/",
+      "source_sha256": "c98c48c9792a15c38b31796a0795373fd48307bf9d5fe5e2dd424a59618ac5ca",
+      "source_ref": "/laws/2006/0/212/#laws.1.22.0",
+      "citation": "2006 c 212 art 1 s 22",
+      "day": "2006-07-01",
+      "operative_clauses": [
+        {
+          "rule": "645.02",
+          "classification": "actual appropriation grant",
+          "items": [
+            {
+              "id": "laws.3.8.0",
+              "quote": "Sec. 8. Minnesota Statutes 2004, section 115A.0716, subdivision 3, is amended to read: Subd. 3. Revolving account. All repayments of loans awarded under this section , including principal and interest, must be credited to the environmental fund. Money deposited in the fund under this section is annually appropriated to the director for loans for purposes identified in subdivisions 1 and 2."
+            },
+            {
+              "id": "laws.3.37.0",
+              "quote": "Sec. 37. Minnesota Statutes 2005 Supplement, section 357.021, subdivision 1a, is amended to read: Subd. 1a. Transmittal of fees to commissioner of finance. (a) Every person, including the state of Minnesota and all bodies politic and corporate, who shall transact any business in the district court, shall pay to the court administrator of said court the sundry fees prescribed in subdivision 2. Except as provided in paragraph (d), the court administrator shall transmit the fees monthly to the commissioner of finance for deposit in the state treasury and credit to the general fund. $30 of each fee collected in a dissolution action under subdivision 2, clause (1), must be deposited by the commissioner of finance in the special revenue fund and is appropriated to the commissioner of employment and economic development for the displaced homemaker program under section 116L.96 . (b) In a county which has a screener-collector position, fees paid by a county pursuant to this subdivision shall be transmitted monthly to the county treasurer, who shall apply the fees first to reimburse the county for the amount of the salary paid for the screener-collector position. The balance of the fees collected shall then be forwarded to the commissioner of finance for deposit in the state treasury and credited to the general fund. In a county in a judicial district under section 480.181, subdivision 1 , paragraph (b), which has a screener-collector position, the fees paid by a county shall be transmitted monthly to the commissioner of finance for deposit in the state treasury and credited to the general fund. A screener-collector position for purposes of this paragraph is an employee whose function is to increase the collection of fines and to review the incomes of potential clients of the public defender, in order to verify eligibility for that service. (c) No fee is required under this section from the public authority or the party the public authority represents in an action for: (1) child support enforcement or modification, medical assistance enforcement, or establishment of parentage in the district court, or in a proceeding under section 484.702 ; (2) civil commitment under chapter 253B; (3) the appointment of a public conservator or public guardian or any other action under chapters 252A and 525; (4) wrongfully obtaining public assistance under section 256.98 or 256D.07 , or recovery of overpayments of public assistance; (5) court relief under chapters 260, 260A, 260B, and 260C ; (6) forfeiture of property under sections 169A.63 and 609.531 to 609.5317 ; (7) recovery of amounts issued by political subdivisions or public institutions under sections 246.52 , 252.27 , 256.045 , 256.25 , 256.87 , 256B.042 , 256B.14 , 256B.15 , 256B.37 , 260B.331 , and 260C.331 , or other sections referring to other forms of public assistance; (8) restitution under section 611A.04 ; or (9) actions seeking monetary relief in favor of the state pursuant to section 16D.14, subdivision 5 . (d) $20 from each fee collected for child support modifications under subdivision 2, clause (13), must be transmitted to the county treasurer for deposit in the county general fund and $35 from each fee shall be credited to the state general fund. The fees must be used by the county to pay for child support enforcement efforts by county attorneys."
+            }
+          ]
+        }
+      ],
+      "signed_quote": [
+        "Signed by the governor May 18, 2006, 7:15 p.m."
+      ],
+      "act_title": "An act relating to legislation; correcting erroneous, ambiguous, and omitted text and obsolete references; eliminating certain redundant, conflicting, and superseded provisions; making miscellaneous technical corrections to statutes and other laws; amending Minnesota Statutes 2004, sections 3.736, subdivision 8; 13.322, subdivision 3, by adding a subdivision; 13.6905, by adding a subdivision; 16B.85, subdivision 5; 45.011, subdivision 1; 62D.03, subdivision 4; 62D.30, subdivision 8; 62Q.19, subdivision 2; 82.50, subdivision 7; 97A.445, subdivision 3; 103F.205, subdivision 1; 103G.293; 115A.0716, subdivision 3; 145A.09, subdivision 4; 168.187, subdivision 12; 169.781, subdivision 1; 253B.045, subdivision 2; 256.9831, subdivision 1; 256B.0917, subdivision 13; 256B.093, subdivision 3a; 256J.88; 260C.007, subdivision 6; 273.03, subdivision 3; 273.111, subdivision 3; 290.48, subdivision 10; 295.50, subdivision 10b; 297E.01, subdivision 8; 299A.292, subdivision 2; 299A.80, subdivision 1; 299C.091, subdivision 2; 349.12, subdivision 21; 353.27, subdivision 9; 353.33, subdivision 1; 353.656, subdivision 8; 354.05, subdivision 13; 466.06; 581.02; 609.652, subdivision 2; 609.671, subdivision 1; 626.5572, subdivision 2; Minnesota Statutes 2005 Supplement, sections 16C.33, subdivision 3; 116J.575, subdivision 1; 138.17, subdivision 10; 144.225, subdivision 7; 144.335, subdivision 1; 144.602, subdivision 1; 148B.60, subdivision 3; 148D.240, subdivision 5; 168.128, subdivision 2; 168.33, subdivision 2; 169.18, subdivision 11; 216B.1612, subdivision 2; 237.763; 245C.15, subdivision 3; 256B.441, subdivision 13; 270C.96; 289A.42, subdivision 1; 296A.22, subdivision 9; 325E.61, subdivision 5; 349.153; 357.021, subdivision 1a; 604A.33, subdivision 1; Laws 2005, chapter 20, article 2, section 1; Laws 2005, chapter 88, article 3, section 10; Laws 2005, First Special Session chapter 6, article 3, section 95; repealing Minnesota Statutes 2004, sections 155A.03, subdivision 11; 299J.061; 309.50, subdivision 8; 326.991, subdivision 2; Laws 2001, First Special Session chapter 5, article 12, sections 31; 32; Laws 2005, chapter 156, article 5, section 20; Laws 2005, First Special Session chapter 4, article 5, section 14.",
+      "reason": null
+    }
+  ]
+}
