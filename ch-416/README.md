@@ -1,22 +1,7 @@
 # Minnesota Statutes chapter 416 (Public Buildings)
 
-Minn. Stat. ch. 416 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/416/full>
+Current-source text is recorded from 2008-08-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 416.01 | [416-010000.md](416-010000.md) | 0 |  |
-| 416.02 | [416-020000.md](416-020000.md) | 0 |  |
-| 416.03 | [416-030000.md](416-030000.md) | 0 |  |
-| 416.04 | [416-040000.md](416-040000.md) | 0 |  |
-| 416.05 | [416-050000.md](416-050000.md) | 0 |  |
-| 416.06 | [416-060000.md](416-060000.md) | 0 |  |
-| 416.07 | [416-070000.md](416-070000.md) | 0 |  |
-| 416.08 | [416-080000.md](416-080000.md) | 0 |  |
-| 416.09 | [416-090000.md](416-090000.md) | 0 |  |
-| 416.10 | [416-100000.md](416-100000.md) | 0 |  |
-| 416.11 | [416-110000.md](416-110000.md) | 0 |  |
-| 416.12 | [416-120000.md](416-120000.md) | 0 |  |
-| 416.13 | [416-130000.md](416-130000.md) | 0 |  |
-| 416.14 | [416-140000.md](416-140000.md) | 0 |  |
-| 416.15 | [416-150000.md](416-150000.md) | 0 |  |
-| 416.16 | [416-160000.md](416-160000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/416/full
+
+Operative clauses and source references: ../data/commencement/ch-416.json
