@@ -1,0 +1,25 @@
+{
+  "act": "ch-435",
+  "day": "2009-05-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/435/full",
+  "statute_source_sha256": "556a73482b1f6e66532f72208c1869ef4b3074bf77ce7502cd1df0c320173fce",
+  "latest_year": 2009,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2009/0/30/",
+      "source_sha256": "6d5b7e7f0e52e62311002b79163735bec410a74acb1b6c03354cc07a2ca41e8b",
+      "source_ref": "/laws/2009/0/30/#laws.3.3.0",
+      "citation": "2009 c 30 art 3 s 3",
+      "day": "2009-05-01",
+      "operative_clauses": [
+        "EFFECTIVE DATE. This section is effective the day following final enactment and applies only to cartway petitions filed on or after that date."
+      ],
+      "signed_quote": [
+        "Signed by the governor April 30, 2009, 4:20 p.m."
+      ],
+      "act_title": "An act relating to real property; making clarifying, technical, and conforming changes to transfer on death deeds; expanding common element certificates of title to include planned communities; exempting designated transfers from certain requirements; establishing procedures for cartways in cities; modifying power of attorney provision relating to real property transactions; amending Minnesota Statutes 2008, sections 272.115, subdivision 1, by adding a subdivision; 435.37, by adding a subdivision; 507.071, subdivision 20, by adding a subdivision; 507.092, subdivisions 1, 2; 508.351; 508.50; 508A.351; 508A.50; 523.17, by adding a subdivision.",
+      "reason": null
+    }
+  ]
+}
