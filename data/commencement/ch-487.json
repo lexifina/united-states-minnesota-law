@@ -1,0 +1,25 @@
+{
+  "act": "ch-487",
+  "day": "2009-07-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/487/full",
+  "statute_source_sha256": "4c3dd90b2657c140977d02ffe7c61504e64c4cc00015b78bd6629f9233a0bf52",
+  "latest_year": 2009,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2009/0/83/",
+      "source_sha256": "2043c7e410c74ecdb2a907c420798f6cef4159f8f9e7f8af3f5e8f49d0195a5e",
+      "source_ref": "/laws/2009/0/83/#laws.2.50.0",
+      "citation": "2009 c 83 art 2 s 50",
+      "day": "2009-07-01",
+      "operative_clauses": [
+        "645.02 EFFECTIVE DATE AND TIME OF LAWS. Each act, except one making appropriations, enacted finally at any session of the legislature takes effect on August 1 next following its final enactment, unless a different date is specified in the act. A special law required to be approved by the local government unit affected before it goes into effect becomes effective as to the approving unit the day following the day on which the certificate of approval prescribed by section 645.021 is filed with the secretary of state, unless a later date is specified in the act. When approval of such a special law is required by two or more local government units before it may become effective, the day after the day when the last of the required certificates is filed is the effective date, unless a later date is specified in the act. An appropriation act or an act having appropriation items enacted finally at any session of the legislature takes effect at the beginning of the first day of July next following its final enactment, unless a different date is specified in the act. Each act takes effect at 12:01 a.m. on the day it becomes effective, unless a different time is specified in the act."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 15, 2009, 11:46 a.m."
+      ],
+      "act_title": "An act relating to public safety; providing for the courts and public defenders including court vacancies, referees, fines and fees, surcharges, collection policies and procedures, driving while impaired, judgments, and restorative justice for juvenile petty offenders; providing for public safety and corrections including reports, controlled substance crimes, sentencing, MINNCOR, challenge incarceration program, supervised release violations, and county-based revocation center pilot project; authorizing a task force and forum; providing for penalties; appropriating money for the courts, public defenders, public safety, corrections, certain other criminal justice agencies, boards, and commissions; amending Minnesota Statutes 2008, sections 2.722, subdivisions 4, 4a; 2.724, subdivisions 2, 3; 3.195, subdivision 1, by adding a subdivision; 86B.705, subdivision 2; 134A.09, subdivision 2a; 134A.10, subdivision 3; 152.025, subdivisions 1, 2; 152.0262, subdivision 1; 169A.20, subdivision 1, by adding subdivisions; 169A.25, subdivision 1; 169A.26, subdivision 1; 169A.27, subdivision 1; 169A.28, subdivision 2; 169A.284; 169A.46, subdivision 1; 169A.54, subdivision 1; 171.29, subdivision 2; 241.016, subdivision 1; 241.27, subdivision 1a, by adding subdivisions; 244.055, subdivision 11; 244.17; 244.172, subdivision 1; 299A.01, subdivision 1a, by adding a subdivision; 299C.65, subdivision 3a; 299D.03, subdivision 5; 357.021, subdivisions 2, 6, 7; 357.022; 357.08; 364.08; 375.14; 480.15, by adding a subdivision; 484.85; 484.90, subdivision 6; 484.91, subdivision 1; 491A.02, subdivision 9; 491A.03, subdivision 1; 525.091, subdivision 1; 549.09, subdivision 1; 550.011; 609.035, subdivision 2; 609.10, subdivision 1; 609.101, subdivisions 3, 4; 609.105, subdivision 1; 609.125, subdivision 1; 609.135, subdivisions 1, 1a, 2; 611.17; 631.48; proposing coding for new law in Minnesota Statutes, chapters 244; 609; repealing Minnesota Statutes 2008, sections 152.025, subdivision 3; 152.0262, subdivision 2; 260B.199, subdivision 2; 260B.201, subdivision 3; 325E.22; 383B.65, subdivision 2; 484.90, subdivisions 1, 2, 3; 487.08, subdivisions 1, 2, 3, 5; 609.105, subdivisions 1a, 1b; 609.135, subdivision 8.",
+      "reason": null
+    }
+  ]
+}

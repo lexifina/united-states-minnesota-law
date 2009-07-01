@@ -1,25 +1,7 @@
 # Minnesota Statutes chapter 62R (Health Care Cooperatives)
 
-Minn. Stat. ch. 62R · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/62R/full>
+Current-source text is recorded from 2009-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 62R.01 | [62r-010000.md](62r-010000.md) | 0 |  |
-| 62R.02 | [62r-020000.md](62r-020000.md) | 0 |  |
-| 62R.03 | [62r-030000.md](62r-030000.md) | 0 |  |
-| 62R.04 | [62r-040000.md](62r-040000.md) | 0 |  |
-| 62R.05 | [62r-050000.md](62r-050000.md) | 0 |  |
-| 62R.06 | [62r-060000.md](62r-060000.md) | 0 |  |
-| 62R.07 | [62r-070000.md](62r-070000.md) | 0 |  |
-| 62R.08 | [62r-080000.md](62r-080000.md) | 0 |  |
-| 62R.09 | [62r-090000.md](62r-090000.md) | 0 |  |
-| 62R.17 | [62r-170000.md](62r-170000.md) | 0 |  |
-| 62R.18 | [62r-180000.md](62r-180000.md) | 0 |  |
-| 62R.19 | [62r-190000.md](62r-190000.md) | 0 |  |
-| 62R.20 | [62r-200000.md](62r-200000.md) | 0 |  |
-| 62R.21 | [62r-210000.md](62r-210000.md) | 0 |  |
-| 62R.22 | [62r-220000.md](62r-220000.md) | 0 |  |
-| 62R.23 | [62r-230000.md](62r-230000.md) | 0 |  |
-| 62R.24 | [62r-240000.md](62r-240000.md) | 0 |  |
-| 62R.25 | [62r-250000.md](62r-250000.md) | 0 |  |
-| 62R.26 | [62r-260000.md](62r-260000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/62R/full
+
+Operative clauses and source references: ../data/commencement/ch-62r.json
