@@ -1,0 +1,40 @@
+{
+  "act": "ch-44",
+  "day": "2010-03-10",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/44/full",
+  "statute_source_sha256": "e5b0a5cf91c58485a7b169ce587466cbaf8c1856d41b77bfca9a81fea1c5cec1",
+  "latest_year": 2010,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2010/0/186/",
+      "source_sha256": "75e6c4070ed4d77613e7409bbd14b24ea9ffcd9aae9e8af181287152406f75af",
+      "source_ref": "/laws/2010/0/186/#laws.0.1.0",
+      "citation": "2010 c 186 s 1",
+      "day": "2010-03-10",
+      "operative_clauses": [
+        "Sections 1 and 2 are effective the day following final enactment and apply to all peace officers hired under Minnesota Statutes, chapter 44, on or after that date."
+      ],
+      "signed_quote": [
+        "Signed by the governor March 9, 2010, 11:17 a.m."
+      ],
+      "act_title": "An act relating to local government; lengthening probationary period for newly hired peace officers in certain statutory cities; amending Minnesota Statutes 2008, sections 44.01, by adding a subdivision; 44.10, subdivision 1.",
+      "reason": null
+    },
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2010/0/186/",
+      "source_sha256": "75e6c4070ed4d77613e7409bbd14b24ea9ffcd9aae9e8af181287152406f75af",
+      "source_ref": "/laws/2010/0/186/#laws.0.2.0",
+      "citation": "2010 c 186 s 2",
+      "day": "2010-03-10",
+      "operative_clauses": [
+        "Sections 1 and 2 are effective the day following final enactment and apply to all peace officers hired under Minnesota Statutes, chapter 44, on or after that date."
+      ],
+      "signed_quote": [
+        "Signed by the governor March 9, 2010, 11:17 a.m."
+      ],
+      "act_title": "An act relating to local government; lengthening probationary period for newly hired peace officers in certain statutory cities; amending Minnesota Statutes 2008, sections 44.01, by adding a subdivision; 44.10, subdivision 1.",
+      "reason": null
+    }
+  ]
+}
