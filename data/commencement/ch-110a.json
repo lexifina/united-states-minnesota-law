@@ -1,0 +1,25 @@
+{
+  "act": "ch-110a",
+  "day": "2010-08-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/110A/full",
+  "statute_source_sha256": "142bc20f33cd7fd780ac8009b7afe42deed90facf488bd92670525056ad88b79",
+  "latest_year": 2010,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2010/0/191/",
+      "source_sha256": "23bd13cf2ea071c70d0cf6b8ac346161699207df721954d85426c6815305f003",
+      "source_ref": "/laws/2010/0/191/#laws.0.3.0",
+      "citation": "2010 c 191 s 3",
+      "day": "2010-08-01",
+      "operative_clauses": [
+        "645.02 EFFECTIVE DATE AND TIME OF LAWS. Each act, except one making appropriations, enacted finally at any session of the legislature takes effect on August 1 next following its final enactment, unless a different date is specified in the act. A special law required to be approved by the local government unit affected before it goes into effect becomes effective as to the approving unit the day following the day on which the certificate of approval prescribed by section 645.021 is filed with the secretary of state, unless a later date is specified in the act. When approval of such a special law is required by two or more local government units before it may become effective, the day after the day when the last of the required certificates is filed is the effective date, unless a later date is specified in the act. An appropriation act or an act having appropriation items enacted finally at any session of the legislature takes effect at the beginning of the first day of July next following its final enactment, unless a different date is specified in the act. Each act takes effect at 12:01 a.m. on the day it becomes effective, unless a different time is specified in the act."
+      ],
+      "signed_quote": [
+        "Signed by the governor March 24, 2010, 10:18 a.m."
+      ],
+      "act_title": "An act relating to certified public accountants; clarifying licensing requirements; amending Minnesota Statutes 2008, sections 3.972, subdivision 1; 6.66; 110A.32, subdivision 2; 144A.05; 367.36, subdivision 1; 385.06, subdivision 2; 412.222; 412.591, subdivision 3; 471.49, subdivision 10; 471.6985, subdivision 2; 515B.3-121; Minnesota Statutes 2009 Supplement, section 297E.06, subdivision 4; repealing Minnesota Rules, parts 8122.0150, subpart 7; 8122.0600.",
+      "reason": null
+    }
+  ]
+}
