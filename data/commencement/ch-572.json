@@ -1,0 +1,25 @@
+{
+  "act": "ch-572",
+  "day": "2012-08-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/572/full",
+  "statute_source_sha256": "e8d202a40a01a605be4f7852a4afe2f5a872ec1fff117d670e5b89cc40b62e63",
+  "latest_year": 2010,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2010/0/264/",
+      "source_sha256": "8f7300b9fd3dcb13d3d2e779b7feecbf28dc537cd9687f59fdbc45a15bd2d6e1",
+      "source_ref": "/laws/2010/0/264/#laws.1.32.0",
+      "citation": "2010 c 264 art 1 s 32",
+      "day": "2012-08-01",
+      "operative_clauses": [
+        "EFFECTIVE DATE. This section is effective August 1, 2012."
+      ],
+      "signed_quote": [
+        "Signed by the governor April 22, 2010, 12:28 p.m."
+      ],
+      "act_title": "An act relating to dispute resolution; providing for arbitration of disputes; adopting the Uniform Arbitration Act; amending Minnesota Statutes 2008, sections 80C.146, subdivision 2; 122A.40, subdivision 15; 122A.41, subdivision 13; 179.09; 325E.37, subdivision 5; 325F.665, subdivision 6; 469.1762; 572A.02, subdivision 1; proposing coding for new law as Minnesota Statutes, chapter 572B; repealing Minnesota Statutes 2008, sections 572.08; 572.09; 572.10; 572.11; 572.12; 572.13; 572.14; 572.15; 572.16; 572.17; 572.18; 572.19; 572.20; 572.21; 572.22; 572.23; 572.24; 572.25; 572.26; 572.27; 572.28; 572.29; 572.30.",
+      "reason": null
+    }
+  ]
+}
