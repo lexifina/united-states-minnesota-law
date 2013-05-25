@@ -1,0 +1,25 @@
+{
+  "act": "ch-510",
+  "day": "2013-05-25",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/510/full",
+  "statute_source_sha256": "c14f5183ab4df1b172ea6afa0f2add946fd5dafcf20eb582d3d822a9413d24f6",
+  "latest_year": 2013,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2013/0/135/",
+      "source_sha256": "c04d9bae3041b298575159630f98e275005237438828f3fef150039be8ca9b5b",
+      "source_ref": "/laws/2013/0/135/#laws.2.8.0",
+      "citation": "2013 c 135 art 2 s 8",
+      "day": "2013-05-25",
+      "operative_clauses": [
+        "Sec. 16. EFFECTIVE DATE. Sections 1 to 15 are effective the day following final enactment."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 24, 2013, 2:36 p.m."
+      ],
+      "act_title": "An act relating to commerce; making various technical and housekeeping changes related to staff adjusters, canceled licenses, and transfer fees; providing producer training requirements for flood insurance products; regulating the Commerce Fraud Bureau; requiring property and casualty actuarial opinions of reserves and supporting documentation; regulating the agricultural cooperative health plan for farmers; regulating real property appraisals; providing application, education, and training requirements; regulating certain Public Utilities Commission requests relating to service of notices, orders, and other documents; eliminating the membership camping license requirement; repealing an obsolete collection agency rule; correcting cross-references; making adjustments to various dollar amounts as required by state law; providing for a method to periodically update Minnesota Statutes to reflect the current dollar amounts as adjusted; amending Minnesota Statutes 2012, sections 13.712, by adding a subdivision; 45.0135; 45.027, subdivision 2; 45.307; 45.43; 47.59, subdivisions 3, 6; 56.12; 56.125, subdivision 2; 56.131, subdivisions 2, 6; 60A.62, subdivision 1; 72B.10; 82.62, subdivision 7; 82.63, subdivision 8; 82A.06, subdivision 2; 82A.13, subdivision 1; 82A.18, subdivision 2; 82B.08, by adding a subdivision; 82B.094; 82B.095, subdivision 2; 82B.10, subdivision 1; 82B.13, subdivisions 1, 4, 5, 8, by adding a subdivision; 82C.16, subdivision 1; 216.17, subdivisions 2, 4; 216B.18; 299C.40, subdivision 1; 325G.22, subdivision 1; 510.02, subdivision 1; 550.37, subdivisions 4, 4a, 6, 10, 12a, 23, 24; Laws 2007, chapter 147, article 12, section 14, as amended; proposing coding for new law in Minnesota Statutes, chapters 60A; 60K; repealing Minnesota Statutes 2012, sections 82A.16; 82A.17; 82B.095, subdivision 1; 115C.09, subdivision 3k; Laws 2000, chapter 488, article 3, section 37; Minnesota Rules, part 2870.1500.",
+      "reason": null
+    }
+  ]
+}

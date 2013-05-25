@@ -1,15 +1,7 @@
 # Minnesota Statutes chapter 510 (Homestead Exemption)
 
-Minn. Stat. ch. 510 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/510/full>
+Current-source text is recorded from 2013-05-25, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 510.01 | [510-010000.md](510-010000.md) | 0 |  |
-| 510.02 | [510-020000.md](510-020000.md) | 0 |  |
-| 510.03 | [510-030000.md](510-030000.md) | 0 |  |
-| 510.04 | [510-040000.md](510-040000.md) | 0 |  |
-| 510.05 | [510-050000.md](510-050000.md) | 0 |  |
-| 510.06 | [510-060000.md](510-060000.md) | 0 |  |
-| 510.07 | [510-070000.md](510-070000.md) | 0 |  |
-| 510.08 | [510-080000.md](510-080000.md) | 0 |  |
-| 510.09 | [510-090000.md](510-090000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/510/full
+
+Operative clauses and source references: ../data/commencement/ch-510.json
