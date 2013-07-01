@@ -1,22 +1,7 @@
 # Minnesota Statutes chapter 555 (Uniform Declaratory Judgments Act)
 
-Minn. Stat. ch. 555 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/555/full>
+Current-source text is recorded from 2013-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 555.01 | [555-010000.md](555-010000.md) | 0 |  |
-| 555.02 | [555-020000.md](555-020000.md) | 0 |  |
-| 555.03 | [555-030000.md](555-030000.md) | 0 |  |
-| 555.04 | [555-040000.md](555-040000.md) | 0 |  |
-| 555.05 | [555-050000.md](555-050000.md) | 0 |  |
-| 555.06 | [555-060000.md](555-060000.md) | 0 |  |
-| 555.07 | [555-070000.md](555-070000.md) | 0 |  |
-| 555.08 | [555-080000.md](555-080000.md) | 0 |  |
-| 555.09 | [555-090000.md](555-090000.md) | 0 |  |
-| 555.10 | [555-100000.md](555-100000.md) | 0 |  |
-| 555.11 | [555-110000.md](555-110000.md) | 0 |  |
-| 555.12 | [555-120000.md](555-120000.md) | 0 |  |
-| 555.13 | [555-130000.md](555-130000.md) | 0 |  |
-| 555.14 | [555-140000.md](555-140000.md) | 0 |  |
-| 555.15 | [555-150000.md](555-150000.md) | 0 |  |
-| 555.16 | [555-160000.md](555-160000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/555/full
+
+Operative clauses and source references: ../data/commencement/ch-555.json
