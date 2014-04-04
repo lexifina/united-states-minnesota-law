@@ -1,0 +1,25 @@
+{
+  "act": "ch-544",
+  "day": "2014-04-04",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/544/full",
+  "statute_source_sha256": "c34cbfac530ee37850108fe5cbb90d9d0db405636243f8142427c10dd36d95b6",
+  "latest_year": 2014,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2014/0/153/",
+      "source_sha256": "30b24cfbc61d47ff8f6959ea40e39000f6ead08e48bfa0454bbb1a5e77a322fd",
+      "source_ref": "/laws/2014/0/153/#laws.0.3.0",
+      "citation": "2014 c 153 s 3",
+      "day": "2014-04-04",
+      "operative_clauses": [
+        "Sec. 5. EFFECTIVE DATE; APPLICATION. Sections 1 to 4 are effective the day following final enactment and apply to causes of action commenced on or after that date."
+      ],
+      "signed_quote": [
+        "Signed by the governor April 3, 2014, 1:33 p.m."
+      ],
+      "act_title": "An act relating to civil actions; adjusting certain time limits relating to the certification of expert review because of recent amendments to the Minnesota Rules of Civil Procedure; amending Minnesota Statutes 2012, sections 145.682, subdivisions 2, 4; 544.42, subdivisions 2, 4.",
+      "reason": null
+    }
+  ]
+}
