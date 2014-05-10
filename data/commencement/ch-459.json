@@ -1,0 +1,25 @@
+{
+  "act": "ch-459",
+  "day": "2014-05-10",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/459/full",
+  "statute_source_sha256": "5fa97d3c0bd704d37d3b03d17e92cfd62a183f534dbd1c3784c9b4e6e19642d6",
+  "latest_year": 2014,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2014/0/217/",
+      "source_sha256": "c2f6bb24e2858ab25445faf8fc61847fa8cdeaf46b2021344da7d5d5d137116a",
+      "source_ref": "/laws/2014/0/217/#laws.0.3.0",
+      "citation": "2014 c 217 s 3",
+      "day": "2014-05-10",
+      "operative_clauses": [
+        "Sec. 39. EFFECTIVE DATE. Sections 1 to 38 are effective the day following final enactment."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 9, 2014, 10:28 a.m."
+      ],
+      "act_title": "An act relating to natural resources; modifying disposition of certain land and revenue; adding to and deleting from state forests and recreation areas; authorizing public and private sales and exchanges of certain state lands; merging certain state parks; authorizing the purchase of a dam; amending Minnesota Statutes 2012, sections 89.022; 459.06, subdivision 1; 477A.17; Minnesota Statutes 2013 Supplement, section 85.012, subdivision 38a; repealing Minnesota Statutes 2012, section 85.012, subdivision 53a.",
+      "reason": null
+    }
+  ]
+}
