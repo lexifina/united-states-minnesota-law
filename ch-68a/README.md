@@ -1,10 +1,7 @@
 # Minnesota Statutes chapter 68A (Title Insurers)
 
-Minn. Stat. ch. 68A · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/68A/full>
+Current-source text is recorded from 2014-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 68A.01 | [68a-010000.md](68a-010000.md) | 0 |  |
-| 68A.02 | [68a-020000.md](68a-020000.md) | 0 |  |
-| 68A.03 | [68a-030000.md](68a-030000.md) | 0 |  |
-| 68A.04 | [68a-040000.md](68a-040000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/68A/full
+
+Operative clauses and source references: ../data/commencement/ch-68a.json
