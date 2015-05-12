@@ -1,20 +1,7 @@
 # Minnesota Statutes chapter 642 (Lockups)
 
-Minn. Stat. ch. 642 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/642/full>
+Current-source text is recorded from 2015-05-12, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 642.01 | [642-010000.md](642-010000.md) | 0 |  |
-| 642.02 | [642-020000.md](642-020000.md) | 0 |  |
-| 642.03 | [642-030000.md](642-030000.md) | 0 |  |
-| 642.04 | [642-040000.md](642-040000.md) | 0 |  |
-| 642.05 | [642-050000.md](642-050000.md) | 0 |  |
-| 642.06 | [642-060000.md](642-060000.md) | 0 |  |
-| 642.07 | [642-070000.md](642-070000.md) | 0 |  |
-| 642.08 | [642-080000.md](642-080000.md) | 0 |  |
-| 642.09 | [642-090000.md](642-090000.md) | 0 |  |
-| 642.10 | [642-100000.md](642-100000.md) | 0 |  |
-| 642.11 | [642-110000.md](642-110000.md) | 0 |  |
-| 642.12 | [642-120000.md](642-120000.md) | 0 |  |
-| 642.13 | [642-130000.md](642-130000.md) | 0 |  |
-| 642.14 | [642-140000.md](642-140000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/642/full
+
+Operative clauses and source references: ../data/commencement/ch-642.json

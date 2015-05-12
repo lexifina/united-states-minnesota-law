@@ -1,0 +1,25 @@
+{
+  "act": "ch-642",
+  "day": "2015-05-12",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/642/full",
+  "statute_source_sha256": "62b7c493afffaf5a35ba8c7b8d29cee9f0824b67558be6e58a3eae44438509f8",
+  "latest_year": 2015,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2015/0/21/",
+      "source_sha256": "24c856028806ac45364a2797bba52d29d05c494f7155e9cef48ec339b6222ea8",
+      "source_ref": "/laws/2015/0/21/#laws.1.109.0",
+      "citation": "2015 c 21 art 1 s 109",
+      "day": "2015-05-12",
+      "operative_clauses": [
+        "EFFECTIVE DATE. This section is effective the day following final enactment."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 11, 2015, 11:34 a.m."
+      ],
+      "act_title": "An act relating to legislative enactments; correcting erroneous, ambiguous, and omitted text and obsolete references; removing redundant, conflicting, and superseded provisions; making miscellaneous corrections to laws, statutes, and rules; amending Minnesota Statutes 2014, sections 5.25, subdivision 5; 13.321, subdivision 2a, by adding a subdivision; 13.3806, subdivision 1b; 13.381, subdivision 14a; 13.461, subdivisions 3, 7a; 13.602, subdivision 2; 13.681, by adding a subdivision; 13.72, subdivision 12; 13.871, subdivision 6, by adding a subdivision; 16A.126, subdivision 1; 16C.137, subdivision 2; 16D.04, subdivision 1; 81A.04, subdivision 1; 82.67, subdivision 3; 82.72, subdivision 3; 116D.04, subdivision 2a; 116L.146; 119A.50, subdivision 3; 120A.41; 122A.23, subdivision 2; 122A.414, subdivision 2; 122A.61, subdivision 1; 124D.10, subdivision 4; 124D.20, subdivision 8; 124D.861, subdivision 3; 125A.79, subdivisions 4, 8; 127A.441; 127A.49, subdivisions 2, 3; 144.0724, subdivision 4; 144.227, subdivision 1; 144A.10, subdivision 16; 161.3209, subdivision 3; 168A.03, subdivision 1; 169.781, subdivisions 1, 2; 174.12, subdivision 8; 241.332, subdivision 2; 241.335, subdivision 2; 241.336, subdivision 3; 244.05, subdivision 5; 245.466, subdivision 3a; 245.4871, subdivision 13; 245.4874, subdivision 1; 245.4877; 245.493, subdivisions 1, 1a, 2; 245A.191; 245A.192, subdivision 11; 245A.50, subdivision 4; 245C.03, subdivision 2; 245C.22, subdivision 5; 245D.061, subdivision 1; 253B.07, subdivision 7; 254B.05, subdivision 5; 256.01, subdivision 14b; 256.969, subdivisions 8, 23; 256B.0654, subdivision 2b; 256B.199; 256B.76, subdivision 4; 256J.14; 256J.21, subdivision 2; 256J.61; 260B.185, subdivision 1; 268.046, subdivision 1; 297A.68, subdivision 2; 297E.02, subdivision 6; 299C.61, subdivision 4; 299F.01, subdivision 2; 299L.02, subdivision 5; 299L.07, subdivision 5; 322C.0102, subdivision 6; 325D.40, subdivision 2; 325E.028, subdivision 4; 326B.04, subdivision 2; 403.09, subdivision 3; 412.014; 466A.01, subdivision 6; 471.87; 473.604, subdivision 3; 477A.011, subdivisions 30, 30a, 42; 477A.013, subdivisions 8, 9; 477A.015; 477A.03, subdivisions 2a, 2c; 477A.12, subdivisions 1, 2; 477A.16, subdivisions 1, 2; 477A.19, subdivisions 4, 5; 480A.09, subdivision 2; 500.215, subdivision 1; 518B.01, subdivision 4; 572A.02, subdivisions 2, 3; 609.106, subdivision 2; 609.19, subdivision 1; 609.223, subdivision 2; 609.266; 609.531, subdivision 1; 626.556, subdivision 3c; 626.8463, subdivision 1; 626.8555; 629.725; Laws 2013, chapter 143, article 8, section 40; proposing coding for new law in Minnesota Statutes, chapter 609B; repealing Minnesota Statutes 2014, sections 13.381, subdivision 17; 13.46, subdivision 13; 13.681, subdivision 7; 126C.01, subdivision 9; 239.001; 256B.0625, subdivision 50; 273.111, subdivision 9a; 469.1816; Laws 2014, chapter 228, article 1, section 2; Laws 2014, chapter 291, article 10, section 4; article 11, sections 15; 16; 21; Laws 2014, chapter 312, article 25, section 11; article 28, section 1; Minnesota Rules, parts 4900.3401; 8710.3000, subpart 5; 8710.3200, subpart 6; 8710.3310, subpart 5; 8710.3320, subpart 5; 8710.3330, subpart 5; 8710.3340, subpart 5; 8710.4000, subpart 5; 8710.4050, subpart 5; 8710.4200, subpart 5; 8710.4250, subpart 5; 8710.4300, subpart 5; 8710.4310, subpart 5; 8710.4320, subpart 5; 8710.4400, subpart 5; 8710.4450, subpart 5; 8710.4500, subpart 5; 8710.4550, subpart 5; 8710.4600, subpart 5; 8710.4650, subpart 5; 8710.4700, subpart 5; 8710.4750, subpart 9; 8710.4800, subpart 5; 8710.4850, subpart 5; 8710.4900, subpart 5; 8710.4950, subpart 9.",
+      "reason": null
+    }
+  ]
+}
