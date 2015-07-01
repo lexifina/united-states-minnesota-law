@@ -1,27 +1,7 @@
 # Minnesota Statutes chapter 114C (Environmental Regulatory Innovations)
 
-Minn. Stat. ch. 114C · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/114C/full>
+Current-source text is recorded from 2015-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 114C.01 | [114c-010000.md](114c-010000.md) | 0 |  |
-| 114C.02 | [114c-020000.md](114c-020000.md) | 0 |  |
-| 114C.10 | [114c-100000.md](114c-100000.md) | 0 |  |
-| 114C.11 | [114c-110000.md](114c-110000.md) | 0 |  |
-| 114C.12 | [114c-120000.md](114c-120000.md) | 0 |  |
-| 114C.13 | [114c-130000.md](114c-130000.md) | 0 |  |
-| 114C.14 | [114c-140000.md](114c-140000.md) | 0 |  |
-| 114C.19 | [114c-190000.md](114c-190000.md) | 0 |  |
-| 114C.20 | [114c-200000.md](114c-200000.md) | 0 |  |
-| 114C.21 | [114c-210000.md](114c-210000.md) | 0 |  |
-| 114C.22 | [114c-220000.md](114c-220000.md) | 0 |  |
-| 114C.23 | [114c-230000.md](114c-230000.md) | 0 |  |
-| 114C.24 | [114c-240000.md](114c-240000.md) | 0 |  |
-| 114C.25 | [114c-250000.md](114c-250000.md) | 0 |  |
-| 114C.26 | [114c-260000.md](114c-260000.md) | 0 |  |
-| 114C.27 | [114c-270000.md](114c-270000.md) | 0 |  |
-| 114C.28 | [114c-280000.md](114c-280000.md) | 0 |  |
-| 114C.29 | [114c-290000.md](114c-290000.md) | 0 |  |
-| 114C.30 | [114c-300000.md](114c-300000.md) | 0 |  |
-| 114C.31 | [114c-310000.md](114c-310000.md) | 0 |  |
-| 114C.40 | [114c-400000.md](114c-400000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/114C/full
+
+Operative clauses and source references: ../data/commencement/ch-114c.json

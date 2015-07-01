@@ -1,23 +1,7 @@
 # Minnesota Statutes chapter 336A (Farm Product Liens and Financing Statements)
 
-Minn. Stat. ch. 336A · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/336A/full>
+Current-source text is recorded from 2015-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 336A.01 | [336a-010000.md](336a-010000.md) | 0 |  |
-| 336A.02 | [336a-020000.md](336a-020000.md) | 0 |  |
-| 336A.03 | [336a-030000.md](336a-030000.md) | 0 |  |
-| 336A.031 | [336a-031000.md](336a-031000.md) | 0 |  |
-| 336A.04 | [336a-040000.md](336a-040000.md) | 0 |  |
-| 336A.05 | [336a-050000.md](336a-050000.md) | 0 |  |
-| 336A.06 | [336a-060000.md](336a-060000.md) | 0 |  |
-| 336A.07 | [336a-070000.md](336a-070000.md) | 0 |  |
-| 336A.08 | [336a-080000.md](336a-080000.md) | 0 |  |
-| 336A.09 | [336a-090000.md](336a-090000.md) | 0 |  |
-| 336A.10 | [336a-100000.md](336a-100000.md) | 0 |  |
-| 336A.11 | [336a-110000.md](336a-110000.md) | 0 |  |
-| 336A.12 | [336a-120000.md](336a-120000.md) | 0 |  |
-| 336A.13 | [336a-130000.md](336a-130000.md) | 0 |  |
-| 336A.14 | [336a-140000.md](336a-140000.md) | 0 |  |
-| 336A.15 | [336a-150000.md](336a-150000.md) | 0 |  |
-| 336A.16 | [336a-160000.md](336a-160000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/336A/full
+
+Operative clauses and source references: ../data/commencement/ch-336a.json

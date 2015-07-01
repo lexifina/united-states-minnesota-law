@@ -1,13 +1,7 @@
 # Minnesota Statutes chapter 59D (Guaranteed Asset Protection Waivers)
 
-Minn. Stat. ch. 59D · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/59D/full>
+Current-source text is recorded from 2015-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 59D.01 | [59d-010000.md](59d-010000.md) | 0 |  |
-| 59D.02 | [59d-020000.md](59d-020000.md) | 0 |  |
-| 59D.03 | [59d-030000.md](59d-030000.md) | 0 |  |
-| 59D.04 | [59d-040000.md](59d-040000.md) | 0 |  |
-| 59D.05 | [59d-050000.md](59d-050000.md) | 0 |  |
-| 59D.06 | [59d-060000.md](59d-060000.md) | 0 |  |
-| 59D.07 | [59d-070000.md](59d-070000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/59D/full
+
+Operative clauses and source references: ../data/commencement/ch-59d.json
