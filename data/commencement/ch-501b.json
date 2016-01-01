@@ -1,0 +1,70 @@
+{
+  "act": "ch-501b",
+  "day": "2016-01-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/501B/full",
+  "statute_source_sha256": "3716661f1e35d3c0726ec880698c064c75c1c54f339dad66e049ac0d5ea1375d",
+  "latest_year": 2015,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2015/0/5/",
+      "source_sha256": "b2a784baeade1224b7dca49323f7fa0f084d016eea1b7904594b785362d8b940",
+      "source_ref": "/laws/2015/0/5/#laws.16.2.0",
+      "citation": "2015 c 5 art 16 s 2",
+      "day": "2016-01-01",
+      "operative_clauses": [
+        "Sec. 3. EFFECTIVE DATE. This act is effective January 1, 2016."
+      ],
+      "signed_quote": [
+        "Signed by the governor March 19, 2015, 2:10 p.m."
+      ],
+      "act_title": "An act relating to trusts; establishing the Minnesota Trust Code; recodifying certain provisions; modifying power of appointments; making conforming and technical changes; amending Minnesota Statutes 2014, sections 48.01, subdivision 2; 48A.07, subdivision 6; 317A.161, subdivision 24; 353.95, subdivision 4; 500.17, subdivision 2; 501B.31, subdivisions 2, 4, 5; 501B.41, subdivision 3; 501B.46; 508.62; 508A.62; 524.2-804, subdivision 1; 524.5-417; 529.06; 529.12; 529.14; 541.05, subdivision 1; proposing coding for new law in Minnesota Statutes, chapters 502; 507; proposing coding for new law as Minnesota Statutes, chapter 501C; repealing Minnesota Statutes 2014, sections 501B.01; 501B.012; 501B.02; 501B.03; 501B.04; 501B.05; 501B.06; 501B.07; 501B.08; 501B.09; 501B.12; 501B.13; 501B.14; 501B.15; 501B.151; 501B.152; 501B.154; 501B.155; 501B.16; 501B.17; 501B.18; 501B.19; 501B.20; 501B.21; 501B.22; 501B.23; 501B.24; 501B.25; 501B.56; 501B.561; 501B.57; 501B.571; 501B.59; 501B.60; 501B.61; 501B.62; 501B.63; 501B.64; 501B.65; 501B.665; 501B.67; 501B.68; 501B.69; 501B.705; 501B.71; 501B.72; 501B.73; 501B.74; 501B.75; 501B.76; 501B.79; 501B.80; 501B.81; 501B.82; 501B.87; 501B.88; 501B.89; 501B.895; 501B.90; 502.62; 502.63; 502.64; 502.65; 502.66; 502.67; 502.68; 502.69; 502.70; 502.71; 502.72; 502.73; 502.74; 502.75; 502.76; 502.77; 502.78; 502.79.",
+      "reason": null
+    },
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2015/0/5/",
+      "source_sha256": "b2a784baeade1224b7dca49323f7fa0f084d016eea1b7904594b785362d8b940",
+      "source_ref": "/laws/2015/0/5/#laws.15.6.0",
+      "citation": "2015 c 5 art 15 s 6",
+      "day": "2016-01-01",
+      "operative_clauses": [
+        "Sec. 3. EFFECTIVE DATE. This act is effective January 1, 2016."
+      ],
+      "signed_quote": [
+        "Signed by the governor March 19, 2015, 2:10 p.m."
+      ],
+      "act_title": "An act relating to trusts; establishing the Minnesota Trust Code; recodifying certain provisions; modifying power of appointments; making conforming and technical changes; amending Minnesota Statutes 2014, sections 48.01, subdivision 2; 48A.07, subdivision 6; 317A.161, subdivision 24; 353.95, subdivision 4; 500.17, subdivision 2; 501B.31, subdivisions 2, 4, 5; 501B.41, subdivision 3; 501B.46; 508.62; 508A.62; 524.2-804, subdivision 1; 524.5-417; 529.06; 529.12; 529.14; 541.05, subdivision 1; proposing coding for new law in Minnesota Statutes, chapters 502; 507; proposing coding for new law as Minnesota Statutes, chapter 501C; repealing Minnesota Statutes 2014, sections 501B.01; 501B.012; 501B.02; 501B.03; 501B.04; 501B.05; 501B.06; 501B.07; 501B.08; 501B.09; 501B.12; 501B.13; 501B.14; 501B.15; 501B.151; 501B.152; 501B.154; 501B.155; 501B.16; 501B.17; 501B.18; 501B.19; 501B.20; 501B.21; 501B.22; 501B.23; 501B.24; 501B.25; 501B.56; 501B.561; 501B.57; 501B.571; 501B.59; 501B.60; 501B.61; 501B.62; 501B.63; 501B.64; 501B.65; 501B.665; 501B.67; 501B.68; 501B.69; 501B.705; 501B.71; 501B.72; 501B.73; 501B.74; 501B.75; 501B.76; 501B.79; 501B.80; 501B.81; 501B.82; 501B.87; 501B.88; 501B.89; 501B.895; 501B.90; 502.62; 502.63; 502.64; 502.65; 502.66; 502.67; 502.68; 502.69; 502.70; 502.71; 502.72; 502.73; 502.74; 502.75; 502.76; 502.77; 502.78; 502.79.",
+      "reason": null
+    },
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2015/0/5/",
+      "source_sha256": "b2a784baeade1224b7dca49323f7fa0f084d016eea1b7904594b785362d8b940",
+      "source_ref": "/laws/2015/0/5/#laws.15.9.0",
+      "citation": "2015 c 5 art 15 s 9",
+      "day": "2016-01-01",
+      "operative_clauses": [
+        "Sec. 3. EFFECTIVE DATE. This act is effective January 1, 2016."
+      ],
+      "signed_quote": [
+        "Signed by the governor March 19, 2015, 2:10 p.m."
+      ],
+      "act_title": "An act relating to trusts; establishing the Minnesota Trust Code; recodifying certain provisions; modifying power of appointments; making conforming and technical changes; amending Minnesota Statutes 2014, sections 48.01, subdivision 2; 48A.07, subdivision 6; 317A.161, subdivision 24; 353.95, subdivision 4; 500.17, subdivision 2; 501B.31, subdivisions 2, 4, 5; 501B.41, subdivision 3; 501B.46; 508.62; 508A.62; 524.2-804, subdivision 1; 524.5-417; 529.06; 529.12; 529.14; 541.05, subdivision 1; proposing coding for new law in Minnesota Statutes, chapters 502; 507; proposing coding for new law as Minnesota Statutes, chapter 501C; repealing Minnesota Statutes 2014, sections 501B.01; 501B.012; 501B.02; 501B.03; 501B.04; 501B.05; 501B.06; 501B.07; 501B.08; 501B.09; 501B.12; 501B.13; 501B.14; 501B.15; 501B.151; 501B.152; 501B.154; 501B.155; 501B.16; 501B.17; 501B.18; 501B.19; 501B.20; 501B.21; 501B.22; 501B.23; 501B.24; 501B.25; 501B.56; 501B.561; 501B.57; 501B.571; 501B.59; 501B.60; 501B.61; 501B.62; 501B.63; 501B.64; 501B.65; 501B.665; 501B.67; 501B.68; 501B.69; 501B.705; 501B.71; 501B.72; 501B.73; 501B.74; 501B.75; 501B.76; 501B.79; 501B.80; 501B.81; 501B.82; 501B.87; 501B.88; 501B.89; 501B.895; 501B.90; 502.62; 502.63; 502.64; 502.65; 502.66; 502.67; 502.68; 502.69; 502.70; 502.71; 502.72; 502.73; 502.74; 502.75; 502.76; 502.77; 502.78; 502.79.",
+      "reason": null
+    },
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2015/0/5/",
+      "source_sha256": "b2a784baeade1224b7dca49323f7fa0f084d016eea1b7904594b785362d8b940",
+      "source_ref": "/laws/2015/0/5/#laws.15.10.0",
+      "citation": "2015 c 5 art 15 s 10",
+      "day": "2016-01-01",
+      "operative_clauses": [
+        "Sec. 3. EFFECTIVE DATE. This act is effective January 1, 2016."
+      ],
+      "signed_quote": [
+        "Signed by the governor March 19, 2015, 2:10 p.m."
+      ],
+      "act_title": "An act relating to trusts; establishing the Minnesota Trust Code; recodifying certain provisions; modifying power of appointments; making conforming and technical changes; amending Minnesota Statutes 2014, sections 48.01, subdivision 2; 48A.07, subdivision 6; 317A.161, subdivision 24; 353.95, subdivision 4; 500.17, subdivision 2; 501B.31, subdivisions 2, 4, 5; 501B.41, subdivision 3; 501B.46; 508.62; 508A.62; 524.2-804, subdivision 1; 524.5-417; 529.06; 529.12; 529.14; 541.05, subdivision 1; proposing coding for new law in Minnesota Statutes, chapters 502; 507; proposing coding for new law as Minnesota Statutes, chapter 501C; repealing Minnesota Statutes 2014, sections 501B.01; 501B.012; 501B.02; 501B.03; 501B.04; 501B.05; 501B.06; 501B.07; 501B.08; 501B.09; 501B.12; 501B.13; 501B.14; 501B.15; 501B.151; 501B.152; 501B.154; 501B.155; 501B.16; 501B.17; 501B.18; 501B.19; 501B.20; 501B.21; 501B.22; 501B.23; 501B.24; 501B.25; 501B.56; 501B.561; 501B.57; 501B.571; 501B.59; 501B.60; 501B.61; 501B.62; 501B.63; 501B.64; 501B.65; 501B.665; 501B.67; 501B.68; 501B.69; 501B.705; 501B.71; 501B.72; 501B.73; 501B.74; 501B.75; 501B.76; 501B.79; 501B.80; 501B.81; 501B.82; 501B.87; 501B.88; 501B.89; 501B.895; 501B.90; 502.62; 502.63; 502.64; 502.65; 502.66; 502.67; 502.68; 502.69; 502.70; 502.71; 502.72; 502.73; 502.74; 502.75; 502.76; 502.77; 502.78; 502.79.",
+      "reason": null
+    }
+  ]
+}
