@@ -1,16 +1,7 @@
 # Minnesota Statutes chapter 389 (County Surveyor)
 
-Minn. Stat. ch. 389 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/389/full>
+Current-source text is recorded from 2016-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 389.01 | [389-010000.md](389-010000.md) | 0 |  |
-| 389.011 | [389-011000.md](389-011000.md) | 0 |  |
-| 389.013 | [389-013000.md](389-013000.md) | 0 |  |
-| 389.02 | [389-020000.md](389-020000.md) | 0 |  |
-| 389.03 | [389-030000.md](389-030000.md) | 0 |  |
-| 389.04 | [389-040000.md](389-040000.md) | 0 |  |
-| 389.05 | [389-050000.md](389-050000.md) | 0 |  |
-| 389.06 | [389-060000.md](389-060000.md) | 0 |  |
-| 389.08 | [389-080000.md](389-080000.md) | 0 |  |
-| 389.09 | [389-090000.md](389-090000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/389/full
+
+Operative clauses and source references: ../data/commencement/ch-389.json

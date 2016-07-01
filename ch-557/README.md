@@ -1,21 +1,7 @@
 # Minnesota Statutes chapter 557 (Actions Relating to Real Property)
 
-Minn. Stat. ch. 557 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/557/full>
+Current-source text is recorded from 2016-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 557.01 | [557-010000.md](557-010000.md) | 0 |  |
-| 557.02 | [557-020000.md](557-020000.md) | 0 |  |
-| 557.021 | [557-021000.md](557-021000.md) | 0 |  |
-| 557.022 | [557-022000.md](557-022000.md) | 0 |  |
-| 557.023 | [557-023000.md](557-023000.md) | 0 |  |
-| 557.03 | [557-030000.md](557-030000.md) | 0 |  |
-| 557.04 | [557-040000.md](557-040000.md) | 0 |  |
-| 557.05 | [557-050000.md](557-050000.md) | 0 |  |
-| 557.06 | [557-060000.md](557-060000.md) | 0 |  |
-| 557.07 | [557-070000.md](557-070000.md) | 0 |  |
-| 557.08 | [557-080000.md](557-080000.md) | 0 |  |
-| 557.09 | [557-090000.md](557-090000.md) | 0 |  |
-| 557.10 | [557-100000.md](557-100000.md) | 0 |  |
-| 557.11 | [557-110000.md](557-110000.md) | 0 |  |
-| 557.12 | [557-120000.md](557-120000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/557/full
+
+Operative clauses and source references: ../data/commencement/ch-557.json
