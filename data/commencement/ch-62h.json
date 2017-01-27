@@ -1,0 +1,25 @@
+{
+  "act": "ch-62h",
+  "day": "2017-01-27",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/62H/full",
+  "statute_source_sha256": "19dc75c56fb92b80aaeaacc86eea9c9571e98de35d62bcb56b61ee9eff721d90",
+  "latest_year": 2017,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2017/0/2/",
+      "source_sha256": "6b3b1b2a9be139f62758422ba67ab49e4e26049bd9a3aeb74eacefde93f88b36",
+      "source_ref": "/laws/2017/0/2/#laws.2.10.0",
+      "citation": "2017 c 2 art 2 s 10",
+      "day": "2017-01-27",
+      "operative_clauses": [
+        "EFFECTIVE DATE. This section is effective the day following final enactment."
+      ],
+      "signed_quote": [
+        "Signed by the governor January 26, 2017, 7:21 p.m."
+      ],
+      "act_title": "An act relating to health care coverage; providing a temporary program to help pay for health insurance premiums; requiring audits by the legislative auditor; modifying requirements for health maintenance organizations; modifying provisions governing health insurance; authorizing agricultural cooperative health plans; modifying a tax provision; authorizing transition of care coverage for 2017; requiring reports; transferring funds; appropriating money; amending Minnesota Statutes 2016, sections 60A.08, subdivision 15; 60A.235, subdivision 3; 60A.236; 62D.02, subdivision 4; 62D.03, subdivision 1; 62D.05, subdivision 1; 62D.06, subdivision 1; 62D.19; 62E.02, subdivision 3; 62K.10, by adding a subdivision; 62L.12, subdivision 2; 297I.05, subdivision 12; proposing coding for new law in Minnesota Statutes, chapters 62H; 62Q; repealing Minnesota Statutes 2016, section 62D.12, subdivision 9; Laws 2007, chapter 147, article 12, section 14, as amended; Laws 2010, chapter 384, section 99; Laws 2013, chapter 135, article 1, section 9.",
+      "reason": null
+    }
+  ]
+}
