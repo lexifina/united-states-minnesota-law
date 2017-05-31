@@ -1,34 +1,7 @@
 # Minnesota Statutes chapter 62L (Small Employer Insurance Reform)
 
-Minn. Stat. ch. 62L · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/62L/full>
+Current-source text is recorded from 2017-05-31, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 62L.001 | [62l-001000.md](62l-001000.md) | 0 |  |
-| 62L.01 | [62l-010000.md](62l-010000.md) | 0 |  |
-| 62L.02 | [62l-020000.md](62l-020000.md) | 0 |  |
-| 62L.03 | [62l-030000.md](62l-030000.md) | 0 |  |
-| 62L.04 | [62l-040000.md](62l-040000.md) | 0 |  |
-| 62L.045 | [62l-045000.md](62l-045000.md) | 0 |  |
-| 62L.05 | [62l-050000.md](62l-050000.md) | 0 |  |
-| 62L.055 | [62l-055000.md](62l-055000.md) | 0 |  |
-| 62L.056 | [62l-056000.md](62l-056000.md) | 0 |  |
-| 62L.06 | [62l-060000.md](62l-060000.md) | 0 |  |
-| 62L.07 | [62l-070000.md](62l-070000.md) | 0 |  |
-| 62L.08 | [62l-080000.md](62l-080000.md) | 0 |  |
-| 62L.081 | [62l-081000.md](62l-081000.md) | 0 |  |
-| 62L.09 | [62l-090000.md](62l-090000.md) | 0 |  |
-| 62L.10 | [62l-100000.md](62l-100000.md) | 0 |  |
-| 62L.11 | [62l-110000.md](62l-110000.md) | 0 |  |
-| 62L.12 | [62l-120000.md](62l-120000.md) | 0 |  |
-| 62L.13 | [62l-130000.md](62l-130000.md) | 0 |  |
-| 62L.14 | [62l-140000.md](62l-140000.md) | 0 |  |
-| 62L.15 | [62l-150000.md](62l-150000.md) | 0 |  |
-| 62L.16 | [62l-160000.md](62l-160000.md) | 0 |  |
-| 62L.17 | [62l-170000.md](62l-170000.md) | 0 |  |
-| 62L.18 | [62l-180000.md](62l-180000.md) | 0 |  |
-| 62L.19 | [62l-190000.md](62l-190000.md) | 0 |  |
-| 62L.20 | [62l-200000.md](62l-200000.md) | 0 |  |
-| 62L.21 | [62l-210000.md](62l-210000.md) | 0 |  |
-| 62L.22 | [62l-220000.md](62l-220000.md) | 0 |  |
-| 62L.23 | [62l-230000.md](62l-230000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/62L/full
+
+Operative clauses and source references: ../data/commencement/ch-62l.json
