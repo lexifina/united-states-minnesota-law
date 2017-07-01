@@ -1,20 +1,7 @@
 # Minnesota Statutes chapter 325J (Pawnbrokers)
 
-Minn. Stat. ch. 325J · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/325J/full>
+Current-source text is recorded from 2017-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 325J.01 | [325j-010000.md](325j-010000.md) | 0 |  |
-| 325J.02 | [325j-020000.md](325j-020000.md) | 0 |  |
-| 325J.03 | [325j-030000.md](325j-030000.md) | 0 |  |
-| 325J.04 | [325j-040000.md](325j-040000.md) | 0 |  |
-| 325J.05 | [325j-050000.md](325j-050000.md) | 0 |  |
-| 325J.06 | [325j-060000.md](325j-060000.md) | 0 |  |
-| 325J.07 | [325j-070000.md](325j-070000.md) | 0 |  |
-| 325J.08 | [325j-080000.md](325j-080000.md) | 0 |  |
-| 325J.09 | [325j-090000.md](325j-090000.md) | 0 |  |
-| 325J.095 | [325j-095000.md](325j-095000.md) | 0 |  |
-| 325J.10 | [325j-100000.md](325j-100000.md) | 0 |  |
-| 325J.11 | [325j-110000.md](325j-110000.md) | 0 |  |
-| 325J.12 | [325j-120000.md](325j-120000.md) | 0 |  |
-| 325J.13 | [325j-130000.md](325j-130000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/325J/full
+
+Operative clauses and source references: ../data/commencement/ch-325j.json

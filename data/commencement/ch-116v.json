@@ -1,0 +1,25 @@
+{
+  "act": "ch-116v",
+  "day": "2017-07-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/116V/full",
+  "statute_source_sha256": "3a104c7cfde421c30000c357dd1099fcd2c6c8ad8077044d24cc934cca6e6c06",
+  "latest_year": 2017,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2017/0/88/",
+      "source_sha256": "0845bef3a9915ba01418b6e7d0e90e06744eef96c9e90d3fb3c20709b318251c",
+      "source_ref": "/laws/2017/0/88/#laws.2.65.0",
+      "citation": "2017 c 88 art 2 s 65",
+      "day": "2017-07-01",
+      "operative_clauses": [
+        "645.02 EFFECTIVE DATE AND TIME OF LAWS. Each act, except one making appropriations, enacted finally at any session of the legislature takes effect on August 1 next following its final enactment, unless a different date is specified in the act. A special law required to be approved by the local government unit affected before it goes into effect becomes effective as to the approving unit the day following the day on which the certificate of approval prescribed by section 645.021 is filed with the secretary of state, unless a later date is specified in the act. When approval of such a special law is required by two or more local government units before it may become effective, the day after the day when the last of the required certificates is filed is the effective date, unless a later date is specified in the act. An appropriation act or an act having appropriation items enacted finally at any session of the legislature takes effect at the beginning of the first day of July next following its final enactment, unless a different date is specified in the act. Each act takes effect at 12:01 a.m. on the day it becomes effective, unless a different time is specified in the act."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 30, 2017, 4:22 p.m."
+      ],
+      "act_title": "An act relating to agriculture; establishing a budget for the Department of Agriculture, the Board of Animal Health, and the Agricultural Utilization Research Institute; making policy, technical, and conforming changes to various agriculture-related provisions including provisions related to pesticides, noxious weeds, nursery law, inspections, commercial feed, grain, food, and agricultural development; reorganizing dairy law; establishing and modifying agriculture-related programs; modifying partition fence law; modifying certain fees; modifying the Farmer-Lender Mediation Act; requiring reports; appropriating money; amending Minnesota Statutes 2016, sections 3.7371; 13.6435, subdivision 8; 15.985; 17.119, subdivisions 1, 2; 17.53, subdivisions 2, 8, 13; 17.983, subdivision 1; 17.984, subdivision 1; 18.79, subdivision 18; 18B.01, by adding subdivisions; 18B.065, subdivision 8; 18B.26, subdivision 1; 18B.28, subdivisions 1, 3; 18B.305; 18B.33, subdivision 1; 18B.34, subdivision 1; 18B.36, subdivision 1; 18B.37, subdivision 3; 18C.70, subdivision 5; 18C.71, subdivision 4; 18H.06, subdivision 2; 18H.07, subdivisions 2, 3; 21.111, subdivisions 2, 3; 21.113; 21.117; 25.32; 25.33, subdivisions 5, 10, 21; 25.341, subdivisions 1, 2; 25.35; 25.371, subdivision 2; 25.38; 25.39, subdivisions 1, 1a, 2, 3; 25.40, subdivision 2; 25.41, subdivisions 1, 2, 3, 5, 7a; 25.42; 27.04; 28A.03, by adding a subdivision; 28A.05; 28A.081; 28A.085, subdivision 1; 28A.152, subdivision 2; 28A.21, subdivision 6; 31A.02, subdivision 4; 32C.02, subdivision 2; 32C.06; 34A.01, subdivision 1; 41A.12, subdivision 3; 41A.20, subdivision 2; 41B.03, subdivisions 2, 3; 41B.043, subdivision 5; 41B.045, subdivision 2; 41C.02, subdivision 12; 116V.01, subdivisions 1, 2, 3, 4, 7, 10, 11, 13, 14; 223.17, subdivision 8; 232.22, subdivision 7; 336.9-601; 344.03, subdivision 1; 550.365, subdivision 1; 559.209, subdivision 1; 582.039, subdivision 1; 583.215; 583.24, subdivision 4, by adding a subdivision; 583.26, subdivisions 2, 3, 3a, 4, 10; 583.27, subdivision 1; Laws 2015, First Special Session chapter 4, article 1, section 2, subdivision 4, as amended; proposing coding for new law in Minnesota Statutes, chapter 18B; proposing coding for new law as Minnesota Statutes, chapter 32D; repealing Minnesota Statutes 2016, sections 18B.01, subdivisions 10a, 10b, 22a; 18B.285; 25.371, subdivisions 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15; 32.01, subdivisions 1, 2, 6, 8, 9, 10, 11, 12; 32.021; 32.071; 32.072; 32.073; 32.074; 32.075; 32.076; 32.078; 32.10; 32.102; 32.103; 32.105; 32.106; 32.21; 32.212; 32.22; 32.25; 32.391, subdivisions 1, 1d, 1e, 1f, 1g, 2, 3; 32.392; 32.393; 32.394, subdivisions 1, 2, 3, 4, 5, 6, 7, 8, 8a, 8b, 8c, 8d, 8e, 9, 11, 12; 32.395; 32.397; 32.398, subdivision 1; 32.401, subdivisions 1, 2, 3, 5; 32.415; 32.416; 32.475; 32.481, subdivision 1; 32.482; 32.483; 32.484; 32.486; 32.55, subdivisions 1, 2, 3, 4, 5, 12, 13, 14; 32.555; 32.56; 32.61; 32.62; 32.63; 32.64; 32.645; 32.70; 32.71; 32.72; 32.74; 32.745; 32.75; 32.90; 41A.20, subdivision 6; 41D.01, subdivision 4; 383C.809; 583.22, subdivision 7b.",
+      "reason": null
+    }
+  ]
+}

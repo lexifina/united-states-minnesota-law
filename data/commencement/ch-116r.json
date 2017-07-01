@@ -1,0 +1,42 @@
+{
+  "act": "ch-116r",
+  "day": "2017-07-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/116R/full",
+  "statute_source_sha256": "8211d5b7a1838a02e0498e369a1681ef6a78222547a8af49847279cb95e3f912",
+  "latest_year": 2017,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2017/0/40/",
+      "source_sha256": "659ecf356e3bac2cff758d6a8bbd97d6cf6e6e7dbf5d9e15ca06a142eb4a387e",
+      "source_ref": "/laws/2017/0/40/#laws.1.12.0",
+      "citation": "2017 c 40 art 1 s 12",
+      "day": "2017-07-01",
+      "operative_clauses": [
+        {
+          "rule": "645.02",
+          "classification": "actual appropriation grant",
+          "items": [
+            {
+              "id": "laws.1.6.0",
+              "quote": "Sec. 6. Minnesota Statutes 2016, section 43A.316, subdivision 9, is amended to read: Subd. 9. Insurance trust fund. The insurance trust fund in the state treasury consists of deposits of the premiums received from employers participating in the program and transfers before July 1, 1994, from the excess contributions holding account established by Minnesota Statutes 1995 Supplement, section 353.65, subdivision 7 . All money in the fund is appropriated to the commissioner to pay insurance premiums, approved claims, refunds, administrative costs, and other related service costs. Premiums paid by employers to the fund are exempt from the taxes imposed by chapter 297I. The commissioner shall reserve an amount of money to cover the estimated costs of claims incurred but unpaid. The State Board of Investment shall invest the money according to section 11A.24 . Investment income and losses attributable to the fund must be credited to the fund."
+            },
+            {
+              "id": "laws.1.9.0",
+              "quote": "Sec. 9. Minnesota Statutes 2016, section 97A.075, subdivision 5, is amended to read: Subd. 5. Turkey account. (a) $4.50 from each turkey license sold, except youth licenses under section 97A.475, subdivision 2 , clause (4), and subdivision 3, paragraph (a), clause (7), must be credited to the wild-turkey management account and is appropriated to the commissioner only for: (1) the development, restoration, and maintenance of suitable habitat for wild turkeys on public and private land including forest stand improvement and establishment of nesting cover, winter roost area, and reliable food sources; (2) acquisitions of, or easements on, critical wild-turkey habitat; (3) reimbursement of expenditures to provide wild-turkey habitat on public and private land; (4) trapping and transplantation of wild turkeys; and (5) the promotion of turkey habitat development and maintenance, population surveys and monitoring, and research. (b) Money in the account may not be used for: (1) costs unless they are directly related to a specific parcel of land under paragraph (a), clauses (1) to (3), a specific trap and transplant project under paragraph (a), clause (4), or to specific promotional or evaluative activities under paragraph (a), clause (5); or (2) any permanent personnel costs."
+            },
+            {
+              "id": "laws.1.103.0",
+              "quote": "Sec. 103. Minnesota Statutes 2016, section 297F.10, subdivision 1, is amended to read: Subdivision 1. Tax and use tax on cigarettes. Revenue received from cigarette taxes, as well as related penalties, interest, license fees, and miscellaneous sources of revenue shall be deposited by the commissioner in the state treasury and credited as follows: (1) $22,250,000 each year must be credited to the Academic Health Center special revenue fund hereby created and is annually appropriated to the Board of Regents at the University of Minnesota for Academic Health Center funding at the University of Minnesota; and (2) $3,937,000 each year must be credited to the medical education and research costs account hereby created in the special revenue fund and is annually appropriated to the commissioner of health for distribution under section 62J.692, subdivision 4 ; and (3) the balance of the revenues derived from taxes, penalties, and interest (under this chapter) and from license fees and miscellaneous sources of revenue shall be credited to the general fund."
+            }
+          ]
+        }
+      ],
+      "signed_quote": [
+        "Signed by the governor May 11, 2017, 10:50 a.m."
+      ],
+      "act_title": "An act relating to legislative enactments; making miscellaneous technical corrections to laws and statutes; correcting erroneous, obsolete, and omitted text and references; removing redundant, conflicting, and superseded provisions; amending Minnesota Statutes 2016, sections 10A.01, subdivision 3; 10A.20, subdivision 1b; 13.321, by adding a subdivision; 13.381, by adding a subdivision; 13.383, by adding a subdivision; 13.461, by adding a subdivision; 13.598, by adding a subdivision; 13.7191, by adding a subdivision; 15A.0825, subdivision 8; 16A.152, subdivision 1b; 43A.23, subdivision 1; 43A.316, subdivision 9; 62A.46, subdivision 7; 69.021, subdivision 10; 97A.075, subdivision 5; 97A.133, subdivision 2; 103F.601, subdivision 2; 116R.02, subdivision 4; 119B.06, subdivision 1; 124D.19, subdivision 3; 126C.05, subdivision 14; 127A.41, subdivision 8; 144.0571; 144.0722, subdivision 1; 144.0724, subdivisions 1, 2, 9; 144A.071, subdivisions 3, 4a, 4c, 4d; 144A.073, subdivision 3c; 144A.10, subdivision 4; 144A.15, subdivision 2; 144A.154; 144A.161, subdivision 10; 144A.1888; 144A.611, subdivision 1; 144D.01, subdivision 6; 146B.03, subdivision 7; 148.512, subdivision 16; 148.725, subdivision 5; 148E.280; 150A.02; 151.06, subdivision 1; 151.32; 152.25, subdivision 4; 153B.30, subdivision 2; 179A.10, subdivision 1; 204B.13, subdivisions 1, 2; 237.59, subdivision 2; 237.761, subdivision 4; 245.4835, subdivision 2; 245.493, subdivision 1; 245.62, subdivision 4; 245A.11, subdivision 2a; 245F.09, subdivision 1; 252.292, subdivision 4; 256.045, subdivisions 3b, 4; 256.0451, subdivisions 1, 3, 11, 19; 256.481; 256.9741, subdivision 7; 256.9742, subdivision 6; 256.991; 256B.02, subdivision 9; 256B.059, subdivisions 5, 6; 256B.0622, subdivisions 7b, 7d; 256B.0911, subdivisions 4d, 6; 256B.25, subdivision 3; 256B.35, subdivision 4; 256B.421, subdivision 1; 256B.50, subdivisions 1, 1c; 256B.501, subdivisions 3i, 4b; 256B.692, subdivision 6; 256B.76, subdivision 1; 256B.78; 256D.03, subdivision 2a; 256D.04; 256D.05, subdivision 1; 256D.44, subdivision 5; 256J.01, subdivision 3; 256J.21, subdivision 2; 256J.515; 260.55; 260.56; 260.57; 260C.451, subdivision 8; 270.074, subdivision 3; 273.1392; 275.71, subdivision 4; 275.72, subdivision 2; 276.04, subdivision 3; 276A.06, subdivision 10; 289A.121, subdivisions 5, 6; 290.091, subdivision 2; 290A.03, subdivision 8; 295.53, subdivision 1; 297F.10, subdivision 1; 297I.06, subdivision 3; 297I.15, subdivision 4; 298.001, by adding a subdivision; 298.24, subdivision 1; 298.28, subdivision 6; 317A.061, subdivision 2; 340A.409, subdivision 1; 354A.37, subdivision 1; 354C.11, subdivision 2; 356.215, subdivision 8; 383B.32, subdivisions 3, 4; 462C.05, subdivision 7; 473.39, subdivision 1; 518A.53, subdivision 11; 617.85; Laws 2017, chapter 3, section 1; repealing Minnesota Statutes 2016, sections 120B.365; 122A.245, subdivision 10; 124D.095, subdivision 10; 128D.055, subdivision 4; 129C.30, subdivision 5; 144A.10, subdivision 8a; 216H.077; 290A.28; Laws 2014, chapter 207, section 1; Laws 2014, chapter 227, article 2, section 1; Laws 2015, chapter 68, article 3, section 12; Laws 2016, chapter 135, article 4, section 9; Laws 2016, chapter 189, article 26, section 4.",
+      "reason": null
+    }
+  ]
+}

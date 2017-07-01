@@ -1,17 +1,7 @@
 # Minnesota Statutes chapter 486 (Court Reporters)
 
-Minn. Stat. ch. 486 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/486/full>
+Current-source text is recorded from 2017-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 486.01 | [486-010000.md](486-010000.md) | 0 |  |
-| 486.02 | [486-020000.md](486-020000.md) | 0 |  |
-| 486.03 | [486-030000.md](486-030000.md) | 0 |  |
-| 486.04 | [486-040000.md](486-040000.md) | 0 |  |
-| 486.05 | [486-050000.md](486-050000.md) | 0 |  |
-| 486.055 | [486-055000.md](486-055000.md) | 0 |  |
-| 486.06 | [486-060000.md](486-060000.md) | 0 |  |
-| 486.07 | [486-070000.md](486-070000.md) | 0 |  |
-| 486.08 | [486-080000.md](486-080000.md) | 0 |  |
-| 486.09 | [486-090000.md](486-090000.md) | 0 |  |
-| 486.10 | [486-100000.md](486-100000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/486/full
+
+Operative clauses and source references: ../data/commencement/ch-486.json

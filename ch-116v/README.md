@@ -1,9 +1,7 @@
 # Minnesota Statutes chapter 116V (Agricultural Utilization Research Institute)
 
-Minn. Stat. ch. 116V · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/116V/full>
+Current-source text is recorded from 2017-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 116V.01 | [116v-010000.md](116v-010000.md) | 0 |  |
-| 116V.02 | [116v-020000.md](116v-020000.md) | 0 |  |
-| 116V.03 | [116v-030000.md](116v-030000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/116V/full
+
+Operative clauses and source references: ../data/commencement/ch-116v.json
