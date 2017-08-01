@@ -1,23 +1,7 @@
 # Minnesota Statutes chapter 420 (Firefighters&#X27; Civil Service Commissions)
 
-Minn. Stat. ch. 420 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/420/full>
+Current-source text is recorded from 2017-08-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 420.01 | [420-010000.md](420-010000.md) | 0 |  |
-| 420.02 | [420-020000.md](420-020000.md) | 0 |  |
-| 420.03 | [420-030000.md](420-030000.md) | 0 |  |
-| 420.04 | [420-040000.md](420-040000.md) | 0 |  |
-| 420.05 | [420-050000.md](420-050000.md) | 0 |  |
-| 420.06 | [420-060000.md](420-060000.md) | 0 |  |
-| 420.07 | [420-070000.md](420-070000.md) | 0 |  |
-| 420.08 | [420-080000.md](420-080000.md) | 0 |  |
-| 420.09 | [420-090000.md](420-090000.md) | 0 |  |
-| 420.10 | [420-100000.md](420-100000.md) | 0 |  |
-| 420.11 | [420-110000.md](420-110000.md) | 0 |  |
-| 420.12 | [420-120000.md](420-120000.md) | 0 |  |
-| 420.13 | [420-130000.md](420-130000.md) | 0 |  |
-| 420.14 | [420-140000.md](420-140000.md) | 0 |  |
-| 420.15 | [420-150000.md](420-150000.md) | 0 |  |
-| 420.16 | [420-160000.md](420-160000.md) | 0 |  |
-| 420.20 | [420-200000.md](420-200000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/420/full
+
+Operative clauses and source references: ../data/commencement/ch-420.json
