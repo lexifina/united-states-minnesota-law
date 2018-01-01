@@ -1,0 +1,25 @@
+{
+  "act": "ch-365a",
+  "day": "2018-01-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/365A/full",
+  "statute_source_sha256": "cc0aa2a15e5f185cf905e43a68f85c58c651585af845474e74f85044e988e0c7",
+  "latest_year": 2017,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2017/0/92/",
+      "source_sha256": "d7dcb237586437d8cde85fd3b4de87a433964ec3e54d46f514708850cbbc5cea",
+      "source_ref": "/laws/2017/0/92/#laws.2.16.0",
+      "citation": "2017 c 92 art 2 s 16",
+      "day": "2018-01-01",
+      "operative_clauses": [
+        "Sec. 27. EFFECTIVE DATE. This article is effective January 1, 2018, and applies to any special election held on or after that date."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 30, 2017, 6:13 p.m."
+      ],
+      "act_title": "An act relating to elections; making policy, technical, and conforming changes to various provisions related to elections and elections administration including provisions related to special elections, registration, voting, voters, election judges, voting systems, data, and elected officials; providing uniform election dates; authorizing the appointment of certain county offices; requiring reports; amending Minnesota Statutes 2016, sections 3.088, subdivisions 1, 2, 3; 13.15, subdivision 4; 13.6905, subdivision 33; 13.841, subdivision 3; 13.851, subdivision 10; 103B.545, subdivision 2; 123A.46, subdivision 12; 123A.48, subdivision 14; 123B.09, subdivision 5b; 123B.63, subdivision 3; 126C.17, subdivision 11; 128D.05, subdivision 2; 200.02, subdivision 4, by adding a subdivision; 201.121, subdivisions 1, 3; 204B.09, subdivision 3; 204B.16, subdivisions 1, 1a; 204B.21; 204B.31, subdivision 2; 204C.10; 204C.12, subdivision 1; 204C.32, subdivision 2; 204C.33, subdivision 3; 205.065, subdivision 5; 205.07, subdivisions 1, 3; 205.10, subdivision 4, by adding a subdivision; 205A.05, subdivisions 1, 2, by adding a subdivision; 205A.11, subdivision 2; 206.805, subdivision 1; 208.04, subdivision 1; 211B.11, subdivision 1; 216B.46; 241.065, subdivision 2; 365A.06, subdivision 2; 367.33, subdivision 1; 375.101, subdivision 1; 375B.07, subdivision 2; 375B.10; 383B.031, subdivision 1; 383E.24, subdivision 7; 410.10, subdivision 1; 447.32, subdivision 2; 475.59; proposing coding for new law in Minnesota Statutes, chapters 201; 204B; repealing Minnesota Statutes 2016, sections 201.15; 201.155; 201.157; 201.158; 205.10, subdivision 3.",
+      "reason": null
+    }
+  ]
+}
