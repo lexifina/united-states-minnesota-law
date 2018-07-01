@@ -1,33 +1,7 @@
 # Minnesota Statutes chapter 82A (Membership Camping Practices)
 
-Minn. Stat. ch. 82A · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/82A/full>
+Current-source text is recorded from 2018-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 82A.01 | [82a-010000.md](82a-010000.md) | 0 |  |
-| 82A.02 | [82a-020000.md](82a-020000.md) | 0 |  |
-| 82A.03 | [82a-030000.md](82a-030000.md) | 0 |  |
-| 82A.04 | [82a-040000.md](82a-040000.md) | 0 |  |
-| 82A.05 | [82a-050000.md](82a-050000.md) | 0 |  |
-| 82A.06 | [82a-060000.md](82a-060000.md) | 0 |  |
-| 82A.07 | [82a-070000.md](82a-070000.md) | 0 |  |
-| 82A.08 | [82a-080000.md](82a-080000.md) | 0 |  |
-| 82A.09 | [82a-090000.md](82a-090000.md) | 0 |  |
-| 82A.10 | [82a-100000.md](82a-100000.md) | 0 |  |
-| 82A.11 | [82a-110000.md](82a-110000.md) | 0 |  |
-| 82A.111 | [82a-111000.md](82a-111000.md) | 0 |  |
-| 82A.12 | [82a-120000.md](82a-120000.md) | 0 |  |
-| 82A.13 | [82a-130000.md](82a-130000.md) | 0 |  |
-| 82A.14 | [82a-140000.md](82a-140000.md) | 0 |  |
-| 82A.15 | [82a-150000.md](82a-150000.md) | 0 |  |
-| 82A.16 | [82a-160000.md](82a-160000.md) | 0 |  |
-| 82A.17 | [82a-170000.md](82a-170000.md) | 0 |  |
-| 82A.18 | [82a-180000.md](82a-180000.md) | 0 |  |
-| 82A.19 | [82a-190000.md](82a-190000.md) | 0 |  |
-| 82A.20 | [82a-200000.md](82a-200000.md) | 0 |  |
-| 82A.21 | [82a-210000.md](82a-210000.md) | 0 |  |
-| 82A.22 | [82a-220000.md](82a-220000.md) | 0 |  |
-| 82A.23 | [82a-230000.md](82a-230000.md) | 0 |  |
-| 82A.24 | [82a-240000.md](82a-240000.md) | 0 |  |
-| 82A.25 | [82a-250000.md](82a-250000.md) | 0 |  |
-| 82A.26 | [82a-260000.md](82a-260000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/82A/full
+
+Operative clauses and source references: ../data/commencement/ch-82a.json
