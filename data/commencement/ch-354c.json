@@ -1,0 +1,25 @@
+{
+  "act": "ch-354c",
+  "day": "2019-05-31",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/354C/full",
+  "statute_source_sha256": "448a8d9a3050e9ea783aa4b71f47819499f6261ec0bca03df8b253e91f8abe36",
+  "latest_year": 2019,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2019/1/8/",
+      "source_sha256": "b35ac3c45fa5d6aba7e114571f5afebac7fabe409585781d3688d8fba7548b83",
+      "source_ref": "/laws/2019/1/8/#laws.8.17.0",
+      "citation": "1Sp2019 c 8 art 8 s 17",
+      "day": "2019-05-31",
+      "operative_clauses": [
+        "Sec. 24. EFFECTIVE DATE. Sections 1 to 23 are effective the day following final enactment."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 30, 2019, 3:22 p.m."
+      ],
+      "act_title": "An act relating to retirement; making administrative changes to the Minnesota State Retirement System; revising the requirements and eliminating the expiration date for the Public Employees Retirement Association phased retirement program; modifying provisions allowing for the purchase of service credit for periods of military service for the Public Employees Retirement Association; revising the municipal contribution to the public employees police and fire retirement plan related to the former Minneapolis firefighters and police relief associations; increasing member contributions for the higher education individual retirement account plan; eliminating the expiration of a Minnesota state colleges and universities early retirement incentive and making nonsubstantive style and form changes; authorizing the termination of plan participation in the statewide volunteer firefighter retirement plan and providing for the distribution of benefits and allocation of any surplus assets; adopting the recommendations of the volunteer firefighter relief association working group; extending the alternative allocation of fire state aid for the city of Austin; authorizing a temporary supplemental pension plan contribution restriction exemption; authorizing a coverage election for a certain Minnesota State employee; making miscellaneous technical corrections to laws and statutes; correcting erroneous, obsolete, and omitted text and references; amending Minnesota Statutes 2018, sections 3.85, subdivision 2; 3A.02, by adding a subdivision; 69.031, subdivision 5; 69.051, subdivisions 1, 3; 136F.47; 136F.481; 352.03, subdivisions 1, 1b; 352.113, subdivision 2; 352.115, subdivision 7, by adding a subdivision; 352.22, by adding subdivisions; 352.23; 352.85, subdivision 4; 352.87, subdivision 8; 352B.08, by adding a subdivision; 352D.04, subdivision 2; 352D.05, subdivision 3; 352F.04, subdivision 1; 353.01, subdivisions 2b, 16; 353.34, subdivision 2; 353.371, subdivisions 1, 2, 3, 4, 5, 6, 7; 353.665, subdivision 8, by adding a subdivision; 353E.05; 354.05, subdivision 2a; 354.105; 354.42, subdivisions 2, 3, 7; 354.49, subdivisions 3, 4; 354.51, subdivision 5; 354A.011, subdivision 27; 354B.20, subdivisions 4, 7, 12, by adding a subdivision; 354B.22, subdivision 2; 354B.23, subdivisions 1, 5; 354C.12, subdivision 2; 355.01, subdivision 3c; 355.091; 356.215, subdivision 11; 356.219, subdivision 3; 356.551, subdivision 2; 423A.02, subdivisions 1, 1b, 2, 4; 424A.001, by adding a subdivision; 424A.01, subdivision 6; 424A.015, subdivision 6; 424A.016, subdivisions 3, 6; 424A.02, subdivisions 2, 7, 9, 10; 424A.10, subdivision 1; 490.126, subdivision 3; Laws 2018, chapter 211, article 14, section 26; proposing coding for new law in Minnesota Statutes, chapters 353; 353G; 354B; 356; repealing Minnesota Statutes 2018, sections 352F.06; 353.371, subdivision 8; 353G.15; 354B.20, subdivision 8; 354B.21, subdivisions 1, 1a, 2, 3, 3a, 3b, 4, 5, 6, 7.",
+      "reason": null
+    }
+  ]
+}

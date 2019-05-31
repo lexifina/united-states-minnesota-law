@@ -1,25 +1,7 @@
 # Minnesota Statutes chapter 3A (Legislators Retirement Plan)
 
-Minn. Stat. ch. 3A · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/3A/full>
+Current-source text is recorded from 2019-05-31, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 3A.01 | [3a-010000.md](3a-010000.md) | 0 |  |
-| 3A.011 | [3a-011000.md](3a-011000.md) | 0 |  |
-| 3A.02 | [3a-020000.md](3a-020000.md) | 0 |  |
-| 3A.021 | [3a-021000.md](3a-021000.md) | 0 |  |
-| 3A.03 | [3a-030000.md](3a-030000.md) | 0 |  |
-| 3A.031 | [3a-031000.md](3a-031000.md) | 0 |  |
-| 3A.04 | [3a-040000.md](3a-040000.md) | 0 |  |
-| 3A.05 | [3a-050000.md](3a-050000.md) | 0 |  |
-| 3A.06 | [3a-060000.md](3a-060000.md) | 0 |  |
-| 3A.07 | [3a-070000.md](3a-070000.md) | 0 |  |
-| 3A.08 | [3a-080000.md](3a-080000.md) | 0 |  |
-| 3A.09 | [3a-090000.md](3a-090000.md) | 0 |  |
-| 3A.10 | [3a-100000.md](3a-100000.md) | 0 |  |
-| 3A.11 | [3a-110000.md](3a-110000.md) | 0 |  |
-| 3A.115 | [3a-115000.md](3a-115000.md) | 0 |  |
-| 3A.12 | [3a-120000.md](3a-120000.md) | 0 |  |
-| 3A.13 | [3a-130000.md](3a-130000.md) | 0 |  |
-| 3A.15 | [3a-150000.md](3a-150000.md) | 0 |  |
-| 3A.17 | [3a-170000.md](3a-170000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/3A/full
+
+Operative clauses and source references: ../data/commencement/ch-3a.json

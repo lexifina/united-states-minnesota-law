@@ -1,24 +1,7 @@
 # Minnesota Statutes chapter 354C (Higher Education Supplemental Retirement)
 
-Minn. Stat. ch. 354C · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/354C/full>
+Current-source text is recorded from 2019-05-31, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 354C.01 | [354c-010000.md](354c-010000.md) | 0 |  |
-| 354C.02 | [354c-020000.md](354c-020000.md) | 0 |  |
-| 354C.03 | [354c-030000.md](354c-030000.md) | 0 |  |
-| 354C.04 | [354c-040000.md](354c-040000.md) | 0 |  |
-| 354C.05 | [354c-050000.md](354c-050000.md) | 0 |  |
-| 354C.06 | [354c-060000.md](354c-060000.md) | 0 |  |
-| 354C.07 | [354c-070000.md](354c-070000.md) | 0 |  |
-| 354C.10 | [354c-100000.md](354c-100000.md) | 0 |  |
-| 354C.11 | [354c-110000.md](354c-110000.md) | 0 |  |
-| 354C.12 | [354c-120000.md](354c-120000.md) | 0 |  |
-| 354C.13 | [354c-130000.md](354c-130000.md) | 0 |  |
-| 354C.14 | [354c-140000.md](354c-140000.md) | 0 |  |
-| 354C.15 | [354c-150000.md](354c-150000.md) | 0 |  |
-| 354C.155 | [354c-155000.md](354c-155000.md) | 0 |  |
-| 354C.16 | [354c-160000.md](354c-160000.md) | 0 |  |
-| 354C.165 | [354c-165000.md](354c-165000.md) | 0 |  |
-| 354C.17 | [354c-170000.md](354c-170000.md) | 0 |  |
-| 354C.18 | [354c-180000.md](354c-180000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/354C/full
+
+Operative clauses and source references: ../data/commencement/ch-354c.json
