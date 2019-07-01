@@ -1,27 +1,7 @@
 # Minnesota Statutes chapter 348 (Bounties, Rewards)
 
-Minn. Stat. ch. 348 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/348/full>
+Current-source text is recorded from 2019-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 348.01 | [348-010000.md](348-010000.md) | 0 |  |
-| 348.02 | [348-020000.md](348-020000.md) | 0 |  |
-| 348.03 | [348-030000.md](348-030000.md) | 0 |  |
-| 348.04 | [348-040000.md](348-040000.md) | 0 |  |
-| 348.05 | [348-050000.md](348-050000.md) | 0 |  |
-| 348.06 | [348-060000.md](348-060000.md) | 0 |  |
-| 348.07 | [348-070000.md](348-070000.md) | 0 |  |
-| 348.071 | [348-071000.md](348-071000.md) | 0 |  |
-| 348.073 | [348-073000.md](348-073000.md) | 0 |  |
-| 348.08 | [348-080000.md](348-080000.md) | 0 |  |
-| 348.09 | [348-090000.md](348-090000.md) | 0 |  |
-| 348.10 | [348-100000.md](348-100000.md) | 0 |  |
-| 348.11 | [348-110000.md](348-110000.md) | 0 |  |
-| 348.12 | [348-120000.md](348-120000.md) | 0 |  |
-| 348.125 | [348-125000.md](348-125000.md) | 0 |  |
-| 348.13 | [348-130000.md](348-130000.md) | 0 |  |
-| 348.14 | [348-140000.md](348-140000.md) | 0 |  |
-| 348.15 | [348-150000.md](348-150000.md) | 0 |  |
-| 348.16 | [348-160000.md](348-160000.md) | 0 |  |
-| 348.17 | [348-170000.md](348-170000.md) | 0 |  |
-| 348.18 | [348-180000.md](348-180000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/348/full
+
+Operative clauses and source references: ../data/commencement/ch-348.json
