@@ -1,27 +1,7 @@
 # Minnesota Statutes chapter 58A (Individual Mortgage Originator Licensing)
 
-Minn. Stat. ch. 58A · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/58A/full>
+Current-source text is recorded from 2020-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 58A.01 | [58a-010000.md](58a-010000.md) | 0 |  |
-| 58A.02 | [58a-020000.md](58a-020000.md) | 0 |  |
-| 58A.03 | [58a-030000.md](58a-030000.md) | 0 |  |
-| 58A.04 | [58a-040000.md](58a-040000.md) | 0 |  |
-| 58A.045 | [58a-045000.md](58a-045000.md) | 0 |  |
-| 58A.05 | [58a-050000.md](58a-050000.md) | 0 |  |
-| 58A.06 | [58a-060000.md](58a-060000.md) | 0 |  |
-| 58A.07 | [58a-070000.md](58a-070000.md) | 0 |  |
-| 58A.08 | [58a-080000.md](58a-080000.md) | 0 |  |
-| 58A.09 | [58a-090000.md](58a-090000.md) | 0 |  |
-| 58A.10 | [58a-100000.md](58a-100000.md) | 0 |  |
-| 58A.11 | [58a-110000.md](58a-110000.md) | 0 |  |
-| 58A.12 | [58a-120000.md](58a-120000.md) | 0 |  |
-| 58A.13 | [58a-130000.md](58a-130000.md) | 0 |  |
-| 58A.14 | [58a-140000.md](58a-140000.md) | 0 |  |
-| 58A.15 | [58a-150000.md](58a-150000.md) | 0 |  |
-| 58A.16 | [58a-160000.md](58a-160000.md) | 0 |  |
-| 58A.17 | [58a-170000.md](58a-170000.md) | 0 |  |
-| 58A.18 | [58a-180000.md](58a-180000.md) | 0 |  |
-| 58A.20 | [58a-200000.md](58a-200000.md) | 0 |  |
-| 58A.22 | [58a-220000.md](58a-220000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/58A/full
+
+Operative clauses and source references: ../data/commencement/ch-58a.json

@@ -1,0 +1,58 @@
+{
+  "act": "ch-58a",
+  "day": "2020-07-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/58A/full",
+  "statute_source_sha256": "71e9c28733569f5480c37c7f82e7820c0afc61d2bd0d99568db375cb736a5655",
+  "latest_year": 2020,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2020/0/80/",
+      "source_sha256": "16c3aaa1c9dc83aa0474022e5b1cd4e2ecf462f2f2c7538d686a924a039d15eb",
+      "source_ref": "/laws/2020/0/80/#laws.1.11.0",
+      "citation": "2020 c 80 art 1 s 11",
+      "day": "2020-07-01",
+      "operative_clauses": [
+        {
+          "rule": "645.02",
+          "classification": "actual appropriation grant",
+          "items": [
+            {
+              "id": "laws.1.7.0",
+              "quote": "Sec. 7. Minnesota Statutes 2018, section 53C.02, is amended to read: 53C.02 SALES FINANCE COMPANY; LICENSE, FEES, REFUND. (a) No person shall engage in the business of a sales finance company in this state without a license therefor as provided in sections 53C.01 to 53C.14 provided, however, that no bank, trust company, savings bank, savings association, or credit union, whether state or federally chartered, industrial loan and thrift company, or licensee under the Minnesota Regulated Loan Act authorized to do business in this state shall be required to obtain a license under sections 53C.01 to 53C.14 . (b) The application for a license shall be in writing, under oath and in the form prescribed by the commissioner. The application shall contain the name of the applicant; date of incorporation, if incorporated; the address where the business is or is to be conducted and similar information as to any branch office of the applicant; the name and resident address of the owner or partners, or, if a corporation or association, of the directors, trustees and principal officers, and other pertinent information the commissioner requires. (c) The licensee fee for the fiscal year beginning July 1 and ending June 30 of the following year, or any part thereof shall be the sum of $250 for the principal place of business of the licensee, and the sum of $125 for each branch of the licensee . Any licensee who proves to the satisfaction of the commissioner, by affidavit or other proof satisfactory to the commissioner, that during the 12 calendar months of the immediately preceding fiscal year, for which the license has been paid that the licensee has not held retail installment contracts exceeding $15,000 in amount, shall be entitled to a refund of that portion of each license fee paid in excess of $25. The commissioner shall certify to the commissioner of management and budget that the licensee is entitled to a refund, and payment thereof shall be made by the commissioner of management and budget. The amount necessary to pay for the refundment of the license fee is appropriated out of the general fund. All license fees received by the commissioner under sections 53C.01 to 53C.14 shall be deposited with the commissioner of management and budget. (d) Each license shall specify the location of the office or branch and must be conspicuously displayed there. In case the location be changed, the commissioner shall endorse the change of location on the license. (e) Upon the filing of such application, and the payment of the fee, the commissioner shall issue a license to the applicant to engage in the business of a sales finance company under and in accordance with the provisions of sections 53C.01 to 53C.14 for a period which shall expire the last day of June next following the date of its issuance. The license shall not be transferable or assignable. No licensee shall transact any business provided for by sections 53C.01 to 53C.14 under any other name. (f) Section 58A.04, subdivisions 2 and 3, apply to this section."
+            }
+          ]
+        }
+      ],
+      "signed_quote": [
+        "Signed by the governor May 12, 2020, 7:18 p.m."
+      ],
+      "act_title": "An act relating to commerce; making technical changes to various provisions governing or administered by the Department of Commerce; modifying the Minnesota Life and Health Insurance Guaranty Association Act; amending Minnesota Statutes 2018, sections 47.60, by adding a subdivision; 48A.11; 53.03, by adding a subdivision; 53A.03; 53B.07, by adding a subdivision; 53C.01, subdivision 12; 53C.02; 56.02; 58.02, subdivision 21; 58.06, by adding a subdivision; 58A.02, subdivision 13; 58A.13; 59A.03, by adding a subdivision; 60A.031, subdivision 4; 60A.07, subdivision 1d; 60A.16, subdivisions 1, 2; 60B.02; 61B.19, subdivisions 1, 2, 3, 4; 61B.20, subdivisions 10, 13, 16; 61B.21, subdivision 1; 61B.22, subdivision 1; 61B.23, subdivisions 1, 3, 4, 8a, 12, 13, 14; 61B.24, subdivisions 3, 5, 6, 7, 8, 10; 61B.26; 61B.27; 61B.28, subdivisions 3, 3a, 4, 6, 7, 8; 62D.18, subdivision 1; 82.68, subdivision 2; 82C.03, subdivision 2; 82C.06; 82C.15; 216C.437, subdivision 11; 297I.20, subdivision 1; 332.30; 332.54, subdivision 4, by adding a subdivision; 332.57, subdivision 2; 332A.03; 332B.04, by adding a subdivision; proposing coding for new law in Minnesota Statutes, chapter 61B; repealing Minnesota Statutes 2018, sections 53B.27, subdivisions 3, 4; 60A.07, subdivision 1a; 72B.14.",
+      "reason": null
+    },
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2020/0/80/",
+      "source_sha256": "16c3aaa1c9dc83aa0474022e5b1cd4e2ecf462f2f2c7538d686a924a039d15eb",
+      "source_ref": "/laws/2020/0/80/#laws.1.12.0",
+      "citation": "2020 c 80 art 1 s 12",
+      "day": "2020-07-01",
+      "operative_clauses": [
+        {
+          "rule": "645.02",
+          "classification": "actual appropriation grant",
+          "items": [
+            {
+              "id": "laws.1.7.0",
+              "quote": "Sec. 7. Minnesota Statutes 2018, section 53C.02, is amended to read: 53C.02 SALES FINANCE COMPANY; LICENSE, FEES, REFUND. (a) No person shall engage in the business of a sales finance company in this state without a license therefor as provided in sections 53C.01 to 53C.14 provided, however, that no bank, trust company, savings bank, savings association, or credit union, whether state or federally chartered, industrial loan and thrift company, or licensee under the Minnesota Regulated Loan Act authorized to do business in this state shall be required to obtain a license under sections 53C.01 to 53C.14 . (b) The application for a license shall be in writing, under oath and in the form prescribed by the commissioner. The application shall contain the name of the applicant; date of incorporation, if incorporated; the address where the business is or is to be conducted and similar information as to any branch office of the applicant; the name and resident address of the owner or partners, or, if a corporation or association, of the directors, trustees and principal officers, and other pertinent information the commissioner requires. (c) The licensee fee for the fiscal year beginning July 1 and ending June 30 of the following year, or any part thereof shall be the sum of $250 for the principal place of business of the licensee, and the sum of $125 for each branch of the licensee . Any licensee who proves to the satisfaction of the commissioner, by affidavit or other proof satisfactory to the commissioner, that during the 12 calendar months of the immediately preceding fiscal year, for which the license has been paid that the licensee has not held retail installment contracts exceeding $15,000 in amount, shall be entitled to a refund of that portion of each license fee paid in excess of $25. The commissioner shall certify to the commissioner of management and budget that the licensee is entitled to a refund, and payment thereof shall be made by the commissioner of management and budget. The amount necessary to pay for the refundment of the license fee is appropriated out of the general fund. All license fees received by the commissioner under sections 53C.01 to 53C.14 shall be deposited with the commissioner of management and budget. (d) Each license shall specify the location of the office or branch and must be conspicuously displayed there. In case the location be changed, the commissioner shall endorse the change of location on the license. (e) Upon the filing of such application, and the payment of the fee, the commissioner shall issue a license to the applicant to engage in the business of a sales finance company under and in accordance with the provisions of sections 53C.01 to 53C.14 for a period which shall expire the last day of June next following the date of its issuance. The license shall not be transferable or assignable. No licensee shall transact any business provided for by sections 53C.01 to 53C.14 under any other name. (f) Section 58A.04, subdivisions 2 and 3, apply to this section."
+            }
+          ]
+        }
+      ],
+      "signed_quote": [
+        "Signed by the governor May 12, 2020, 7:18 p.m."
+      ],
+      "act_title": "An act relating to commerce; making technical changes to various provisions governing or administered by the Department of Commerce; modifying the Minnesota Life and Health Insurance Guaranty Association Act; amending Minnesota Statutes 2018, sections 47.60, by adding a subdivision; 48A.11; 53.03, by adding a subdivision; 53A.03; 53B.07, by adding a subdivision; 53C.01, subdivision 12; 53C.02; 56.02; 58.02, subdivision 21; 58.06, by adding a subdivision; 58A.02, subdivision 13; 58A.13; 59A.03, by adding a subdivision; 60A.031, subdivision 4; 60A.07, subdivision 1d; 60A.16, subdivisions 1, 2; 60B.02; 61B.19, subdivisions 1, 2, 3, 4; 61B.20, subdivisions 10, 13, 16; 61B.21, subdivision 1; 61B.22, subdivision 1; 61B.23, subdivisions 1, 3, 4, 8a, 12, 13, 14; 61B.24, subdivisions 3, 5, 6, 7, 8, 10; 61B.26; 61B.27; 61B.28, subdivisions 3, 3a, 4, 6, 7, 8; 62D.18, subdivision 1; 82.68, subdivision 2; 82C.03, subdivision 2; 82C.06; 82C.15; 216C.437, subdivision 11; 297I.20, subdivision 1; 332.30; 332.54, subdivision 4, by adding a subdivision; 332.57, subdivision 2; 332A.03; 332B.04, by adding a subdivision; proposing coding for new law in Minnesota Statutes, chapter 61B; repealing Minnesota Statutes 2018, sections 53B.27, subdivisions 3, 4; 60A.07, subdivision 1a; 72B.14.",
+      "reason": null
+    }
+  ]
+}

@@ -1,37 +1,7 @@
 # Minnesota Statutes chapter 31A (Meat and Poultry Inspection)
 
-Minn. Stat. ch. 31A · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/31A/full>
+Current-source text is recorded from 2020-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 31A.01 | [31a-010000.md](31a-010000.md) | 0 |  |
-| 31A.02 | [31a-020000.md](31a-020000.md) | 0 |  |
-| 31A.03 | [31a-030000.md](31a-030000.md) | 0 |  |
-| 31A.04 | [31a-040000.md](31a-040000.md) | 0 |  |
-| 31A.05 | [31a-050000.md](31a-050000.md) | 0 |  |
-| 31A.06 | [31a-060000.md](31a-060000.md) | 0 |  |
-| 31A.07 | [31a-070000.md](31a-070000.md) | 0 |  |
-| 31A.08 | [31a-080000.md](31a-080000.md) | 0 |  |
-| 31A.09 | [31a-090000.md](31a-090000.md) | 0 |  |
-| 31A.10 | [31a-100000.md](31a-100000.md) | 0 |  |
-| 31A.11 | [31a-110000.md](31a-110000.md) | 0 |  |
-| 31A.12 | [31a-120000.md](31a-120000.md) | 0 |  |
-| 31A.13 | [31a-130000.md](31a-130000.md) | 0 |  |
-| 31A.14 | [31a-140000.md](31a-140000.md) | 0 |  |
-| 31A.15 | [31a-150000.md](31a-150000.md) | 0 |  |
-| 31A.16 | [31a-160000.md](31a-160000.md) | 0 |  |
-| 31A.17 | [31a-170000.md](31a-170000.md) | 0 |  |
-| 31A.18 | [31a-180000.md](31a-180000.md) | 0 |  |
-| 31A.19 | [31a-190000.md](31a-190000.md) | 0 |  |
-| 31A.20 | [31a-200000.md](31a-200000.md) | 0 |  |
-| 31A.21 | [31a-210000.md](31a-210000.md) | 0 |  |
-| 31A.22 | [31a-220000.md](31a-220000.md) | 0 |  |
-| 31A.23 | [31a-230000.md](31a-230000.md) | 0 |  |
-| 31A.24 | [31a-240000.md](31a-240000.md) | 0 |  |
-| 31A.25 | [31a-250000.md](31a-250000.md) | 0 |  |
-| 31A.26 | [31a-260000.md](31a-260000.md) | 0 |  |
-| 31A.27 | [31a-270000.md](31a-270000.md) | 0 |  |
-| 31A.28 | [31a-280000.md](31a-280000.md) | 0 |  |
-| 31A.29 | [31a-290000.md](31a-290000.md) | 0 |  |
-| 31A.30 | [31a-300000.md](31a-300000.md) | 0 |  |
-| 31A.31 | [31a-310000.md](31a-310000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/31A/full
+
+Operative clauses and source references: ../data/commencement/ch-31a.json
