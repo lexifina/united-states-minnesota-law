@@ -1,0 +1,25 @@
+{
+  "act": "ch-415",
+  "day": "2020-08-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/415/full",
+  "statute_source_sha256": "25c1c51739432a45e87372beeabf348286649fb5d8219415ffbce9521040d361",
+  "latest_year": 2020,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2020/2/1/",
+      "source_sha256": "6baeb74e8291f77a13f63e91930978ffa94210aca9fd150afd1133323c7f4743",
+      "source_ref": "/laws/2020/2/1/#laws.0.6.0",
+      "citation": "2Sp2020 c 1 s 6",
+      "day": "2020-08-01",
+      "operative_clauses": [
+        "EFFECTIVE DATE. This section is effective August 1, 2020."
+      ],
+      "signed_quote": [
+        "Signed by the governor July 23, 2020, 11:11 a.m."
+      ],
+      "act_title": "An act relating to public safety; providing for law enforcement; providing peer counseling, critical incident stress management, residency incentives, crisis intervention and mental illness crisis training, autism training, and duty to intercede and report for peace officers; regulating use of force; expanding membership of the Board of Peace Officer Standards and Training; prohibiting warrior-style training; providing for a community relations advisory council; providing for certain peace officer data; providing for peace officer grievance arbitration selection procedure; providing for reports; appropriating money; amending Minnesota Statutes 2018, sections 13.43, subdivision 9, by adding a subdivision; 415.16, by adding a subdivision; 609.06, subdivision 1, by adding a subdivision; 609.066, subdivision 2, by adding a subdivision; 626.841; 626.843, by adding a subdivision; 626.845, by adding a subdivision; 626.8452, subdivisions 4, 5, by adding a subdivision; 626.8457, subdivision 3; 626.8469; Laws 2019, First Special Session chapter 5, article 1, sections 12, subdivision 7; 13, subdivision 4; article 2, section 28, subdivisions 4, 5; proposing coding for new law in Minnesota Statutes, chapters 181; 299C; 626; repealing Minnesota Statutes 2018, section 181.973.",
+      "reason": null
+    }
+  ]
+}

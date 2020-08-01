@@ -1,27 +1,7 @@
 # Minnesota Statutes chapter 415 (Various Municipal Powers)
 
-Minn. Stat. ch. 415 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/415/full>
+Current-source text is recorded from 2020-08-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 415.01 | [415-010000.md](415-010000.md) | 0 |  |
-| 415.02 | [415-020000.md](415-020000.md) | 0 |  |
-| 415.021 | [415-021000.md](415-021000.md) | 0 |  |
-| 415.03 | [415-030000.md](415-030000.md) | 0 |  |
-| 415.031 | [415-031000.md](415-031000.md) | 0 |  |
-| 415.032 | [415-032000.md](415-032000.md) | 0 |  |
-| 415.033 | [415-033000.md](415-033000.md) | 0 |  |
-| 415.035 | [415-035000.md](415-035000.md) | 0 |  |
-| 415.04 | [415-040000.md](415-040000.md) | 0 |  |
-| 415.045 | [415-045000.md](415-045000.md) | 0 |  |
-| 415.05 | [415-050000.md](415-050000.md) | 0 |  |
-| 415.06 | [415-060000.md](415-060000.md) | 0 |  |
-| 415.07 | [415-070000.md](415-070000.md) | 0 |  |
-| 415.08 | [415-080000.md](415-080000.md) | 0 |  |
-| 415.10 | [415-100000.md](415-100000.md) | 0 |  |
-| 415.11 | [415-110000.md](415-110000.md) | 0 |  |
-| 415.15 | [415-150000.md](415-150000.md) | 0 |  |
-| 415.16 | [415-160000.md](415-160000.md) | 0 |  |
-| 415.17 | [415-170000.md](415-170000.md) | 0 |  |
-| 415.18 | [415-180000.md](415-180000.md) | 0 |  |
-| 415.19 | [415-190000.md](415-190000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/415/full
+
+Operative clauses and source references: ../data/commencement/ch-415.json

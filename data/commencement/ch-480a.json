@@ -1,0 +1,25 @@
+{
+  "act": "ch-480a",
+  "day": "2020-08-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/480A/full",
+  "statute_source_sha256": "8982988e3462bad4e74476b0a0ed7442a7f8ec52b5cd178310564dbe864b1f67",
+  "latest_year": 2020,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2020/0/82/",
+      "source_sha256": "e81d00ebfe4eba14f6f1d08cb2757531d87ad5d967461a60f49a17841778d0e4",
+      "source_ref": "/laws/2020/0/82/#laws.0.3.0",
+      "citation": "2020 c 82 s 3",
+      "day": "2020-08-01",
+      "operative_clauses": [
+        "EFFECTIVE DATE. This section is effective August 1, 2020, and applies to cases filed at the Minnesota Court of Appeals on or after that date."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 16, 2020, 11:06 a.m."
+      ],
+      "act_title": "An act relating to public safety; modifying criteria for publishing court of appeals opinions; requiring a government entity to obtain a search warrant before accessing electronic communication information; regulating use of unmanned aerial vehicles; classifying data; making clarifying, conforming, and technical changes; expanding the scope of location tracking warrants; amending Minnesota Statutes 2018, sections 13.82, subdivision 15, by adding a subdivision; 480A.08, subdivision 3; 626A.08, subdivision 2; 626A.26, subdivision 3; 626A.27, subdivision 2; 626A.28, subdivisions 3, 4, 5; 626A.31, subdivision 1; 626A.37, subdivision 4; 626A.42, subdivisions 1, 2, 3, 5; proposing coding for new law in Minnesota Statutes, chapter 626; repealing Minnesota Statutes 2018, sections 626A.28, subdivisions 1, 2; 626A.29; 626A.30.",
+      "reason": null
+    }
+  ]
+}

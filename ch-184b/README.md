@@ -1,18 +1,7 @@
 # Minnesota Statutes chapter 184B (Amusement Rides)
 
-Minn. Stat. ch. 184B · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/184B/full>
+Current-source text is recorded from 2020-08-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 184B.01 | [184b-010000.md](184b-010000.md) | 0 |  |
-| 184B.02 | [184b-020000.md](184b-020000.md) | 0 |  |
-| 184B.021 | [184b-021000.md](184b-021000.md) | 0 |  |
-| 184B.03 | [184b-030000.md](184b-030000.md) | 0 |  |
-| 184B.04 | [184b-040000.md](184b-040000.md) | 0 |  |
-| 184B.045 | [184b-045000.md](184b-045000.md) | 0 |  |
-| 184B.05 | [184b-050000.md](184b-050000.md) | 0 |  |
-| 184B.06 | [184b-060000.md](184b-060000.md) | 0 |  |
-| 184B.07 | [184b-070000.md](184b-070000.md) | 0 |  |
-| 184B.08 | [184b-080000.md](184b-080000.md) | 0 |  |
-| 184B.09 | [184b-090000.md](184b-090000.md) | 0 |  |
-| 184B.20 | [184b-200000.md](184b-200000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/184B/full
+
+Operative clauses and source references: ../data/commencement/ch-184b.json
