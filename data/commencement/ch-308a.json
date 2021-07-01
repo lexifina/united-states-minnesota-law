@@ -1,0 +1,25 @@
+{
+  "act": "ch-308a",
+  "day": "2021-07-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/308A/full",
+  "statute_source_sha256": "389d4476c5a40c2ac6d5f8d79bbc412fcf8f93fa39ff33ec1f32d934f993d9fa",
+  "latest_year": 2021,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2021/1/4/",
+      "source_sha256": "6fbd1e96275e47d9583656858181969684f730b887562b664273495730f856c3",
+      "source_ref": "/laws/2021/1/4/#laws.7.2.0",
+      "citation": "1Sp2021 c 4 art 7 s 2",
+      "day": "2021-07-01",
+      "operative_clauses": [
+        "645.02 EFFECTIVE DATE AND TIME OF LAWS. Each act, except one making appropriations, enacted finally at any session of the legislature takes effect on August 1 next following its final enactment, unless a different date is specified in the act. A special law required to be approved by the local government unit affected before it goes into effect becomes effective as to the approving unit the day following the day on which the certificate of approval prescribed by section 645.021 is filed with the secretary of state, unless a later date is specified in the act. When approval of such a special law is required by two or more local government units before it may become effective, the day after the day when the last of the required certificates is filed is the effective date, unless a later date is specified in the act. An appropriation act or an act having appropriation items enacted finally at any session of the legislature takes effect at the beginning of the first day of July next following its final enactment, unless a different date is specified in the act. Each act takes effect at 12:01 a.m. on the day it becomes effective, unless a different time is specified in the act."
+      ],
+      "signed_quote": [
+        "Signed by the governor June 26, 2021, 10:53 a.m."
+      ],
+      "act_title": "An act relating to commerce; establishing a biennial budget for Department of Commerce, Public Utilities Commission, and energy activities; modifying various provisions governing insurance; modifying provisions governing collections agencies and debt buyers; modifying and adding consumer protections; establishing and modifying provisions governing energy, renewable energy, and utility regulation; providing for certain salary increases; making technical changes; establishing penalties; requiring reports; appropriating money; amending Minnesota Statutes 2020, sections 13.712, by adding a subdivision; 16B.86; 16B.87; 60A.092, subdivision 10a, by adding a subdivision; 60A.0921, subdivision 2; 60A.71, subdivision 7; 61A.245, subdivision 4; 62J.03, subdivision 4; 62J.23, subdivision 2; 62J.26, subdivisions 1, 2, 3, 4, 5; 65B.15, subdivision 1; 65B.43, subdivision 12; 65B.472, subdivision 1; 79.55, subdivision 10; 79.61, subdivision 1; 80G.06, subdivision 1; 82.57, subdivisions 1, 5; 82.62, subdivision 3; 82.81, subdivision 12; 82B.021, subdivision 18; 82B.11, subdivision 3; 115C.094; 116.155, by adding a subdivision; 116C.7792; 174.29, subdivision 1; 174.30, subdivisions 1, 10; 216B.096, subdivisions 2, 3; 216B.097, subdivisions 1, 2, 3, by adding a subdivision; 216B.0976; 216B.1691, subdivision 2f; 216B.241, by adding a subdivision; 216B.2412, subdivision 3; 216B.2422, by adding a subdivision; 216B.62, subdivision 3b; 216F.012; 221.031, subdivision 3b; 256B.0625, subdivisions 10, 17; 308A.201, subdivision 12; 325E.21, subdivisions 1, 1b, by adding a subdivision; 325F.171, by adding a subdivision; 325F.172, by adding a subdivision; 332.31, subdivisions 3, 6, by adding subdivisions; 332.311; 332.32; 332.33, subdivisions 1, 2, 5, 5a, 7, 8, by adding a subdivision; 332.34; 332.345; 332.355; 332.37; 332.385; 332.40, subdivision 3; 332.42, subdivisions 1, 2; 514.972, subdivisions 4, 5; 514.973, subdivisions 3, 4; 514.974; 514.977; proposing coding for new law in Minnesota Statutes, chapters 60A; 62Q; 80G; 115B; 116J; 216B; 216C; 216F; 325F; proposing coding for new law as Minnesota Statutes, chapter 58B; repealing Minnesota Statutes 2020, sections 45.017; 60A.98; 60A.981; 60A.982; 115C.13.",
+      "reason": null
+    }
+  ]
+}
