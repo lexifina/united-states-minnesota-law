@@ -1,19 +1,7 @@
 # Minnesota Statutes chapter 116B (Environmental Rights)
 
-Minn. Stat. ch. 116B · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/116B/full>
+Current-source text is recorded from 2022-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 116B.01 | [116b-010000.md](116b-010000.md) | 0 |  |
-| 116B.02 | [116b-020000.md](116b-020000.md) | 0 |  |
-| 116B.03 | [116b-030000.md](116b-030000.md) | 0 |  |
-| 116B.04 | [116b-040000.md](116b-040000.md) | 0 |  |
-| 116B.05 | [116b-050000.md](116b-050000.md) | 0 |  |
-| 116B.06 | [116b-060000.md](116b-060000.md) | 0 |  |
-| 116B.07 | [116b-070000.md](116b-070000.md) | 0 |  |
-| 116B.08 | [116b-080000.md](116b-080000.md) | 0 |  |
-| 116B.09 | [116b-090000.md](116b-090000.md) | 0 |  |
-| 116B.10 | [116b-100000.md](116b-100000.md) | 0 |  |
-| 116B.11 | [116b-110000.md](116b-110000.md) | 0 |  |
-| 116B.12 | [116b-120000.md](116b-120000.md) | 0 |  |
-| 116B.13 | [116b-130000.md](116b-130000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/116B/full
+
+Operative clauses and source references: ../data/commencement/ch-116b.json

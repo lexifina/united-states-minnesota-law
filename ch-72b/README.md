@@ -1,30 +1,7 @@
 # Minnesota Statutes chapter 72B (Insurance Adjusters)
 
-Minn. Stat. ch. 72B · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/72B/full>
+Current-source text is recorded from 2022-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 72B.01 | [72b-010000.md](72b-010000.md) | 0 |  |
-| 72B.02 | [72b-020000.md](72b-020000.md) | 0 |  |
-| 72B.03 | [72b-030000.md](72b-030000.md) | 0 |  |
-| 72B.04 | [72b-040000.md](72b-040000.md) | 0 |  |
-| 72B.041 | [72b-041000.md](72b-041000.md) | 0 |  |
-| 72B.045 | [72b-045000.md](72b-045000.md) | 0 |  |
-| 72B.05 | [72b-050000.md](72b-050000.md) | 0 |  |
-| 72B.055 | [72b-055000.md](72b-055000.md) | 0 |  |
-| 72B.06 | [72b-060000.md](72b-060000.md) | 0 |  |
-| 72B.07 | [72b-070000.md](72b-070000.md) | 0 |  |
-| 72B.08 | [72b-080000.md](72b-080000.md) | 0 |  |
-| 72B.09 | [72b-090000.md](72b-090000.md) | 0 |  |
-| 72B.091 | [72b-091000.md](72b-091000.md) | 0 |  |
-| 72B.092 | [72b-092000.md](72b-092000.md) | 0 |  |
-| 72B.10 | [72b-100000.md](72b-100000.md) | 0 |  |
-| 72B.105 | [72b-105000.md](72b-105000.md) | 0 |  |
-| 72B.106 | [72b-106000.md](72b-106000.md) | 0 |  |
-| 72B.107 | [72b-107000.md](72b-107000.md) | 0 |  |
-| 72B.11 | [72b-110000.md](72b-110000.md) | 0 |  |
-| 72B.12 | [72b-120000.md](72b-120000.md) | 0 |  |
-| 72B.13 | [72b-130000.md](72b-130000.md) | 0 |  |
-| 72B.135 | [72b-135000.md](72b-135000.md) | 0 |  |
-| 72B.136 | [72b-136000.md](72b-136000.md) | 0 |  |
-| 72B.14 | [72b-140000.md](72b-140000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/72B/full
+
+Operative clauses and source references: ../data/commencement/ch-72b.json

@@ -1,31 +1,7 @@
 # Minnesota Statutes chapter 444 (Waterworks; Storm, Sanitary Sewer Systems)
 
-Minn. Stat. ch. 444 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/444/full>
+Current-source text is recorded from 2022-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 444.01 | [444-010000.md](444-010000.md) | 0 |  |
-| 444.02 | [444-020000.md](444-020000.md) | 0 |  |
-| 444.03 | [444-030000.md](444-030000.md) | 0 |  |
-| 444.04 | [444-040000.md](444-040000.md) | 0 |  |
-| 444.05 | [444-050000.md](444-050000.md) | 0 |  |
-| 444.06 | [444-060000.md](444-060000.md) | 0 |  |
-| 444.07 | [444-070000.md](444-070000.md) | 0 |  |
-| 444.075 | [444-075000.md](444-075000.md) | 0 |  |
-| 444.076 | [444-076000.md](444-076000.md) | 0 |  |
-| 444.08 | [444-080000.md](444-080000.md) | 0 |  |
-| 444.09 | [444-090000.md](444-090000.md) | 0 |  |
-| 444.10 | [444-100000.md](444-100000.md) | 0 |  |
-| 444.11 | [444-110000.md](444-110000.md) | 0 |  |
-| 444.12 | [444-120000.md](444-120000.md) | 0 |  |
-| 444.13 | [444-130000.md](444-130000.md) | 0 |  |
-| 444.14 | [444-140000.md](444-140000.md) | 0 |  |
-| 444.15 | [444-150000.md](444-150000.md) | 0 |  |
-| 444.16 | [444-160000.md](444-160000.md) | 0 |  |
-| 444.17 | [444-170000.md](444-170000.md) | 0 |  |
-| 444.18 | [444-180000.md](444-180000.md) | 0 |  |
-| 444.19 | [444-190000.md](444-190000.md) | 0 |  |
-| 444.20 | [444-200000.md](444-200000.md) | 0 |  |
-| 444.21 | [444-210000.md](444-210000.md) | 0 |  |
-| 444.25 | [444-250000.md](444-250000.md) | 0 |  |
-| 444.26 | [444-260000.md](444-260000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/444/full
+
+Operative clauses and source references: ../data/commencement/ch-444.json
