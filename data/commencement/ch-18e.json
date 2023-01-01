@@ -1,0 +1,40 @@
+{
+  "act": "ch-18e",
+  "day": "2023-01-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/18E/full",
+  "statute_source_sha256": "646424a134d9bf50c3f494c690bcecb88e88ec2ad103fb0aa0813f9be4d68e90",
+  "latest_year": 2022,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2022/0/95/",
+      "source_sha256": "8489a2227912abcbbfaaf1cb3f539ef72310d90eba18c6159a13600f88f8e3f8",
+      "source_ref": "/laws/2022/0/95/#laws.2.12.0",
+      "citation": "2022 c 95 art 2 s 12",
+      "day": "2023-01-01",
+      "operative_clauses": [
+        "EFFECTIVE DATE. This section is effective January 1, 2023."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 26, 2022, 10:34 a.m."
+      ],
+      "act_title": "An act relating to state government; appropriating money for drought relief; establishing cooperative grants for farmers; establishing farm down payment assistance grants; establishing a soil health financial assistance pilot program; making policy and technical changes to agricultural provisions; modifying previous appropriations; establishing the broadband line extension program; establishing the lower population density pilot program; requiring reports; appropriating money; amending Minnesota Statutes 2020, sections 17.041, subdivision 1; 17.117, subdivisions 9, 9a, 10, 11, 11a; 17.118, subdivisions 1, 3; 18B.051; 18E.03, subdivision 3; 18E.04, subdivisions 3, 4; 28A.21, subdivision 2; 35.05; 40A.18, subdivision 2; 41A.16, subdivision 1, by adding a subdivision; 41A.17, subdivision 1, by adding a subdivision; 41A.18, subdivision 1, by adding a subdivision; 41B.025, by adding a subdivision; 41B.047, subdivision 3; 116J.396, subdivision 2; 223.17, subdivisions 4, 6; 346.155, subdivision 7; Minnesota Statutes 2021 Supplement, section 41A.21, subdivision 2; Laws 2021, First Special Session chapter 3, article 1, sections 2; 4; Laws 2021, First Special Session chapter 10, article 1, section 7; proposing coding for new law in Minnesota Statutes, chapters 17; 116J.",
+      "reason": null
+    },
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2022/0/95/",
+      "source_sha256": "8489a2227912abcbbfaaf1cb3f539ef72310d90eba18c6159a13600f88f8e3f8",
+      "source_ref": "/laws/2022/0/95/#laws.2.13.0",
+      "citation": "2022 c 95 art 2 s 13",
+      "day": "2023-01-01",
+      "operative_clauses": [
+        "EFFECTIVE DATE. This section is effective January 1, 2023."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 26, 2022, 10:34 a.m."
+      ],
+      "act_title": "An act relating to state government; appropriating money for drought relief; establishing cooperative grants for farmers; establishing farm down payment assistance grants; establishing a soil health financial assistance pilot program; making policy and technical changes to agricultural provisions; modifying previous appropriations; establishing the broadband line extension program; establishing the lower population density pilot program; requiring reports; appropriating money; amending Minnesota Statutes 2020, sections 17.041, subdivision 1; 17.117, subdivisions 9, 9a, 10, 11, 11a; 17.118, subdivisions 1, 3; 18B.051; 18E.03, subdivision 3; 18E.04, subdivisions 3, 4; 28A.21, subdivision 2; 35.05; 40A.18, subdivision 2; 41A.16, subdivision 1, by adding a subdivision; 41A.17, subdivision 1, by adding a subdivision; 41A.18, subdivision 1, by adding a subdivision; 41B.025, by adding a subdivision; 41B.047, subdivision 3; 116J.396, subdivision 2; 223.17, subdivisions 4, 6; 346.155, subdivision 7; Minnesota Statutes 2021 Supplement, section 41A.21, subdivision 2; Laws 2021, First Special Session chapter 3, article 1, sections 2; 4; Laws 2021, First Special Session chapter 10, article 1, section 7; proposing coding for new law in Minnesota Statutes, chapters 17; 116J.",
+      "reason": null
+    }
+  ]
+}
