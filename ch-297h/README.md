@@ -1,20 +1,7 @@
 # Minnesota Statutes chapter 297H (Solid Waste Management Taxes)
 
-Minn. Stat. ch. 297H · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/297H/full>
+Current-source text is recorded from 2023-05-25, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 297H.01 | [297h-010000.md](297h-010000.md) | 0 |  |
-| 297H.02 | [297h-020000.md](297h-020000.md) | 0 |  |
-| 297H.03 | [297h-030000.md](297h-030000.md) | 0 |  |
-| 297H.04 | [297h-040000.md](297h-040000.md) | 0 |  |
-| 297H.05 | [297h-050000.md](297h-050000.md) | 0 |  |
-| 297H.06 | [297h-060000.md](297h-060000.md) | 0 |  |
-| 297H.07 | [297h-070000.md](297h-070000.md) | 0 |  |
-| 297H.08 | [297h-080000.md](297h-080000.md) | 0 |  |
-| 297H.09 | [297h-090000.md](297h-090000.md) | 0 |  |
-| 297H.10 | [297h-100000.md](297h-100000.md) | 0 |  |
-| 297H.11 | [297h-110000.md](297h-110000.md) | 0 |  |
-| 297H.115 | [297h-115000.md](297h-115000.md) | 0 |  |
-| 297H.12 | [297h-120000.md](297h-120000.md) | 0 |  |
-| 297H.13 | [297h-130000.md](297h-130000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/297H/full
+
+Operative clauses and source references: ../data/commencement/ch-297h.json

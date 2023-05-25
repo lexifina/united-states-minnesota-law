@@ -1,20 +1,7 @@
 # Minnesota Statutes chapter 278 (Real or Personal Property Tax; Objection, Defense)
 
-Minn. Stat. ch. 278 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/278/full>
+Current-source text is recorded from 2023-05-25, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 278.01 | [278-010000.md](278-010000.md) | 0 |  |
-| 278.02 | [278-020000.md](278-020000.md) | 0 |  |
-| 278.03 | [278-030000.md](278-030000.md) | 0 |  |
-| 278.04 | [278-040000.md](278-040000.md) | 0 |  |
-| 278.05 | [278-050000.md](278-050000.md) | 0 |  |
-| 278.06 | [278-060000.md](278-060000.md) | 0 |  |
-| 278.07 | [278-070000.md](278-070000.md) | 0 |  |
-| 278.08 | [278-080000.md](278-080000.md) | 0 |  |
-| 278.09 | [278-090000.md](278-090000.md) | 0 |  |
-| 278.10 | [278-100000.md](278-100000.md) | 0 |  |
-| 278.11 | [278-110000.md](278-110000.md) | 0 |  |
-| 278.12 | [278-120000.md](278-120000.md) | 0 |  |
-| 278.13 | [278-130000.md](278-130000.md) | 0 |  |
-| 278.14 | [278-140000.md](278-140000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/278/full
+
+Operative clauses and source references: ../data/commencement/ch-278.json
