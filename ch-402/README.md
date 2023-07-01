@@ -1,22 +1,7 @@
 # Minnesota Statutes chapter 402 (County Human Services Boards)
 
-Minn. Stat. ch. 402 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/402/full>
+Current-source text is recorded from 2023-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 402.001 | [402-001000.md](402-001000.md) | 0 |  |
-| 402.01 | [402-010000.md](402-010000.md) | 0 |  |
-| 402.02 | [402-020000.md](402-020000.md) | 0 |  |
-| 402.03 | [402-030000.md](402-030000.md) | 0 |  |
-| 402.04 | [402-040000.md](402-040000.md) | 0 |  |
-| 402.045 | [402-045000.md](402-045000.md) | 0 |  |
-| 402.046 | [402-046000.md](402-046000.md) | 0 |  |
-| 402.05 | [402-050000.md](402-050000.md) | 0 |  |
-| 402.06 | [402-060000.md](402-060000.md) | 0 |  |
-| 402.062 | [402-062000.md](402-062000.md) | 0 |  |
-| 402.065 | [402-065000.md](402-065000.md) | 0 |  |
-| 402.07 | [402-070000.md](402-070000.md) | 0 |  |
-| 402.08 | [402-080000.md](402-080000.md) | 0 |  |
-| 402.09 | [402-090000.md](402-090000.md) | 0 |  |
-| 402.095 | [402-095000.md](402-095000.md) | 0 |  |
-| 402.10 | [402-100000.md](402-100000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/402/full
+
+Operative clauses and source references: ../data/commencement/ch-402.json

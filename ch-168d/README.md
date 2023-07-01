@@ -1,24 +1,7 @@
 # Minnesota Statutes chapter 168D (Motor Carrier Fuel Tax)
 
-Minn. Stat. ch. 168D · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/168D/full>
+Current-source text is recorded from 2023-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 168D.01 | [168d-010000.md](168d-010000.md) | 0 |  |
-| 168D.02 | [168d-020000.md](168d-020000.md) | 0 |  |
-| 168D.03 | [168d-030000.md](168d-030000.md) | 0 |  |
-| 168D.04 | [168d-040000.md](168d-040000.md) | 0 |  |
-| 168D.05 | [168d-050000.md](168d-050000.md) | 0 |  |
-| 168D.06 | [168d-060000.md](168d-060000.md) | 0 |  |
-| 168D.07 | [168d-070000.md](168d-070000.md) | 0 |  |
-| 168D.08 | [168d-080000.md](168d-080000.md) | 0 |  |
-| 168D.09 | [168d-090000.md](168d-090000.md) | 0 |  |
-| 168D.10 | [168d-100000.md](168d-100000.md) | 0 |  |
-| 168D.11 | [168d-110000.md](168d-110000.md) | 0 |  |
-| 168D.12 | [168d-120000.md](168d-120000.md) | 0 |  |
-| 168D.13 | [168d-130000.md](168d-130000.md) | 0 |  |
-| 168D.14 | [168d-140000.md](168d-140000.md) | 0 |  |
-| 168D.15 | [168d-150000.md](168d-150000.md) | 0 |  |
-| 168D.16 | [168d-160000.md](168d-160000.md) | 0 |  |
-| 168D.17 | [168d-170000.md](168d-170000.md) | 0 |  |
-| 168D.18 | [168d-180000.md](168d-180000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/168D/full
+
+Operative clauses and source references: ../data/commencement/ch-168d.json

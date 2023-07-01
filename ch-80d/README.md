@@ -1,26 +1,7 @@
 # Minnesota Statutes chapter 80D (Continuing Care Facilities)
 
-Minn. Stat. ch. 80D · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/80D/full>
+Current-source text is recorded from 2023-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 80D.01 | [80d-010000.md](80d-010000.md) | 0 |  |
-| 80D.02 | [80d-020000.md](80d-020000.md) | 0 |  |
-| 80D.03 | [80d-030000.md](80d-030000.md) | 0 |  |
-| 80D.04 | [80d-040000.md](80d-040000.md) | 0 |  |
-| 80D.05 | [80d-050000.md](80d-050000.md) | 0 |  |
-| 80D.06 | [80d-060000.md](80d-060000.md) | 0 |  |
-| 80D.07 | [80d-070000.md](80d-070000.md) | 0 |  |
-| 80D.08 | [80d-080000.md](80d-080000.md) | 0 |  |
-| 80D.09 | [80d-090000.md](80d-090000.md) | 0 |  |
-| 80D.10 | [80d-100000.md](80d-100000.md) | 0 |  |
-| 80D.11 | [80d-110000.md](80d-110000.md) | 0 |  |
-| 80D.12 | [80d-120000.md](80d-120000.md) | 0 |  |
-| 80D.13 | [80d-130000.md](80d-130000.md) | 0 |  |
-| 80D.14 | [80d-140000.md](80d-140000.md) | 0 |  |
-| 80D.15 | [80d-150000.md](80d-150000.md) | 0 |  |
-| 80D.16 | [80d-160000.md](80d-160000.md) | 0 |  |
-| 80D.17 | [80d-170000.md](80d-170000.md) | 0 |  |
-| 80D.18 | [80d-180000.md](80d-180000.md) | 0 |  |
-| 80D.19 | [80d-190000.md](80d-190000.md) | 0 |  |
-| 80D.20 | [80d-200000.md](80d-200000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/80D/full
+
+Operative clauses and source references: ../data/commencement/ch-80d.json

@@ -1,26 +1,7 @@
 # Minnesota Statutes chapter 381 (Surveys, Section Corners, Township Landmarks)
 
-Minn. Stat. ch. 381 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/381/full>
+Current-source text is recorded from 2023-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 381.01 | [381-010000.md](381-010000.md) | 0 |  |
-| 381.02 | [381-020000.md](381-020000.md) | 0 |  |
-| 381.03 | [381-030000.md](381-030000.md) | 0 |  |
-| 381.04 | [381-040000.md](381-040000.md) | 0 |  |
-| 381.05 | [381-050000.md](381-050000.md) | 0 |  |
-| 381.06 | [381-060000.md](381-060000.md) | 0 |  |
-| 381.07 | [381-070000.md](381-070000.md) | 0 |  |
-| 381.08 | [381-080000.md](381-080000.md) | 0 |  |
-| 381.09 | [381-090000.md](381-090000.md) | 0 |  |
-| 381.10 | [381-100000.md](381-100000.md) | 0 |  |
-| 381.11 | [381-110000.md](381-110000.md) | 0 |  |
-| 381.12 | [381-120000.md](381-120000.md) | 0 |  |
-| 381.125 | [381-125000.md](381-125000.md) | 0 |  |
-| 381.13 | [381-130000.md](381-130000.md) | 0 |  |
-| 381.14 | [381-140000.md](381-140000.md) | 0 |  |
-| 381.15 | [381-150000.md](381-150000.md) | 0 |  |
-| 381.16 | [381-160000.md](381-160000.md) | 0 |  |
-| 381.17 | [381-170000.md](381-170000.md) | 0 |  |
-| 381.18 | [381-180000.md](381-180000.md) | 0 |  |
-| 381.19 | [381-190000.md](381-190000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/381/full
+
+Operative clauses and source references: ../data/commencement/ch-381.json
