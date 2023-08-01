@@ -1,0 +1,40 @@
+{
+  "act": "ch-604",
+  "day": "2023-08-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/604/full",
+  "statute_source_sha256": "a913f57a73a0dcaff6ab1ad88c1c65d42cd50d124aa7d9670b7d420fcc63f92a",
+  "latest_year": 2023,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2023/0/58/",
+      "source_sha256": "80a94c73485f504a0b5d058bfcbecc1d3812b910cf1c1a9a2ea4383319325dc0",
+      "source_ref": "/laws/2023/0/58/#laws.0.1.0",
+      "citation": "2023 c 58 s 1",
+      "day": "2023-08-01",
+      "operative_clauses": [
+        "EFFECTIVE DATE. This section is effective August 1, 2023, and applies to dissemination of a deep fake that takes place on or after that date."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 26, 2023, 10:16 a.m."
+      ],
+      "act_title": "An act relating to public safety; establishing a cause of action for nonconsensual dissemination of deep fake sexual images; establishing the crime of using deep fake technology to influence an election; establishing a crime for nonconsensual dissemination of deep fake sexual images; proposing coding for new law in Minnesota Statutes, chapters 604; 609; 617.",
+      "reason": null
+    },
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2023/0/31/",
+      "source_sha256": "8280d6c4dad14c32b33e5025a1225f89b34aa9b8b00b7d5fd96dd620b6733815",
+      "source_ref": "/laws/2023/0/31/#laws.0.8.0",
+      "citation": "2023 c 31 s 8",
+      "day": "2023-04-28",
+      "operative_clauses": [
+        "EFFECTIVE DATE. This section is effective the day following final enactment."
+      ],
+      "signed_quote": [
+        "Signed by the governor April 27, 2023, 10:14 a.m."
+      ],
+      "act_title": "An act relating to health care; limiting the release of health records in cases related to reproductive health; prohibiting certain acts by certain health-related licensing boards; prohibiting disqualification on background study for accessing or providing reproductive health care; preventing the enforcement of certain judgments related to reproductive health; restricting the enforcement of subpoenas issued in cases related to reproductive health; creating a cause of action for penalties and court costs for lawsuits related to reproductive health; prohibiting extradition of persons charged in another state for acts committed or services received in Minnesota related to reproductive health; amending Minnesota Statutes 2022, sections 147.091, by adding a subdivision; 147A.13, by adding a subdivision; 148.261, by adding a subdivision; 151.071, by adding a subdivision; 245C.15, by adding a subdivision; 629.01; 629.02; 629.05; 629.06; 629.13; 629.14; proposing coding for new law in Minnesota Statutes, chapters 144; 548; 604.",
+      "reason": null
+    }
+  ]
+}
