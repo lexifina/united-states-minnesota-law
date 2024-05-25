@@ -1,27 +1,7 @@
 # Minnesota Statutes chapter 554 (Free Speech; Participation in Government)
 
-Minn. Stat. ch. 554 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/554/full>
+Current-source text is recorded from 2024-05-25, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 554.01 | [554-010000.md](554-010000.md) | 0 |  |
-| 554.02 | [554-020000.md](554-020000.md) | 0 |  |
-| 554.03 | [554-030000.md](554-030000.md) | 0 |  |
-| 554.04 | [554-040000.md](554-040000.md) | 0 |  |
-| 554.045 | [554-045000.md](554-045000.md) | 0 |  |
-| 554.05 | [554-050000.md](554-050000.md) | 0 |  |
-| 554.06 | [554-060000.md](554-060000.md) | 0 |  |
-| 554.07 | [554-070000.md](554-070000.md) | 0 |  |
-| 554.08 | [554-080000.md](554-080000.md) | 0 |  |
-| 554.09 | [554-090000.md](554-090000.md) | 0 |  |
-| 554.10 | [554-100000.md](554-100000.md) | 0 |  |
-| 554.11 | [554-110000.md](554-110000.md) | 0 |  |
-| 554.12 | [554-120000.md](554-120000.md) | 0 |  |
-| 554.13 | [554-130000.md](554-130000.md) | 0 |  |
-| 554.14 | [554-140000.md](554-140000.md) | 0 |  |
-| 554.15 | [554-150000.md](554-150000.md) | 0 |  |
-| 554.16 | [554-160000.md](554-160000.md) | 0 |  |
-| 554.17 | [554-170000.md](554-170000.md) | 0 |  |
-| 554.18 | [554-180000.md](554-180000.md) | 0 |  |
-| 554.19 | [554-190000.md](554-190000.md) | 0 |  |
-| 554.20 | [554-200000.md](554-200000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/554/full
+
+Operative clauses and source references: ../data/commencement/ch-554.json
