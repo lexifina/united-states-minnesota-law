@@ -1,19 +1,7 @@
 # Minnesota Statutes chapter 216G (Pipelines)
 
-Minn. Stat. ch. 216G · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/216G/full>
+Current-source text is recorded from 2024-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 216G.01 | [216g-010000.md](216g-010000.md) | 0 |  |
-| 216G.02 | [216g-020000.md](216g-020000.md) | 0 |  |
-| 216G.025 | [216g-025000.md](216g-025000.md) | 0 |  |
-| 216G.03 | [216g-030000.md](216g-030000.md) | 0 |  |
-| 216G.04 | [216g-040000.md](216g-040000.md) | 0 |  |
-| 216G.05 | [216g-050000.md](216g-050000.md) | 0 |  |
-| 216G.06 | [216g-060000.md](216g-060000.md) | 0 |  |
-| 216G.07 | [216g-070000.md](216g-070000.md) | 0 |  |
-| 216G.08 | [216g-080000.md](216g-080000.md) | 0 |  |
-| 216G.09 | [216g-090000.md](216g-090000.md) | 0 |  |
-| 216G.10 | [216g-100000.md](216g-100000.md) | 0 |  |
-| 216G.11 | [216g-110000.md](216g-110000.md) | 0 |  |
-| 216G.12 | [216g-120000.md](216g-120000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/216G/full
+
+Operative clauses and source references: ../data/commencement/ch-216g.json

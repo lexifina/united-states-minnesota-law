@@ -1,27 +1,7 @@
 # Minnesota Statutes chapter 430 (Land for Streets and Parks)
 
-Minn. Stat. ch. 430 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/430/full>
+Current-source text is recorded from 2024-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 430.001 | [430-001000.md](430-001000.md) | 0 |  |
-| 430.01 | [430-010000.md](430-010000.md) | 0 |  |
-| 430.011 | [430-011000.md](430-011000.md) | 0 |  |
-| 430.02 | [430-020000.md](430-020000.md) | 0 |  |
-| 430.023 | [430-023000.md](430-023000.md) | 0 |  |
-| 430.03 | [430-030000.md](430-030000.md) | 0 |  |
-| 430.031 | [430-031000.md](430-031000.md) | 0 |  |
-| 430.04 | [430-040000.md](430-040000.md) | 0 |  |
-| 430.05 | [430-050000.md](430-050000.md) | 0 |  |
-| 430.06 | [430-060000.md](430-060000.md) | 0 |  |
-| 430.07 | [430-070000.md](430-070000.md) | 0 |  |
-| 430.08 | [430-080000.md](430-080000.md) | 0 |  |
-| 430.09 | [430-090000.md](430-090000.md) | 0 |  |
-| 430.10 | [430-100000.md](430-100000.md) | 0 |  |
-| 430.101 | [430-101000.md](430-101000.md) | 0 |  |
-| 430.102 | [430-102000.md](430-102000.md) | 0 |  |
-| 430.11 | [430-110000.md](430-110000.md) | 0 |  |
-| 430.12 | [430-120000.md](430-120000.md) | 0 |  |
-| 430.13 | [430-130000.md](430-130000.md) | 0 |  |
-| 430.14 | [430-140000.md](430-140000.md) | 0 |  |
-| 430.15 | [430-150000.md](430-150000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/430/full
+
+Operative clauses and source references: ../data/commencement/ch-430.json

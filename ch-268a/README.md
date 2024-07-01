@@ -1,23 +1,7 @@
 # Minnesota Statutes chapter 268A (Vocational Rehabilitation)
 
-Minn. Stat. ch. 268A · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/268A/full>
+Current-source text is recorded from 2024-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 268A.01 | [268a-010000.md](268a-010000.md) | 0 |  |
-| 268A.02 | [268a-020000.md](268a-020000.md) | 0 |  |
-| 268A.03 | [268a-030000.md](268a-030000.md) | 0 |  |
-| 268A.04 | [268a-040000.md](268a-040000.md) | 0 |  |
-| 268A.05 | [268a-050000.md](268a-050000.md) | 0 |  |
-| 268A.06 | [268a-060000.md](268a-060000.md) | 0 |  |
-| 268A.07 | [268a-070000.md](268a-070000.md) | 0 |  |
-| 268A.08 | [268a-080000.md](268a-080000.md) | 0 |  |
-| 268A.085 | [268a-085000.md](268a-085000.md) | 0 |  |
-| 268A.09 | [268a-090000.md](268a-090000.md) | 0 |  |
-| 268A.10 | [268a-100000.md](268a-100000.md) | 0 |  |
-| 268A.11 | [268a-110000.md](268a-110000.md) | 0 |  |
-| 268A.12 | [268a-120000.md](268a-120000.md) | 0 |  |
-| 268A.13 | [268a-130000.md](268a-130000.md) | 0 |  |
-| 268A.14 | [268a-140000.md](268a-140000.md) | 0 |  |
-| 268A.15 | [268a-150000.md](268a-150000.md) | 0 |  |
-| 268A.16 | [268a-160000.md](268a-160000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/268A/full
+
+Operative clauses and source references: ../data/commencement/ch-268a.json

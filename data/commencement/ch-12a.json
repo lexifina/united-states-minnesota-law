@@ -1,0 +1,34 @@
+{
+  "act": "ch-12a",
+  "day": "2024-07-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/12A/full",
+  "statute_source_sha256": "660fc1f00cba89f019d5109dfc9eed1a4d67d22a8035d71cd6a6b5c7209ff64c",
+  "latest_year": 2024,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2024/0/85/",
+      "source_sha256": "f251ba55d254a0fdfbae2a596b90ebfe86a748ba0f4570109a57b45da92097bf",
+      "source_ref": "/laws/2024/0/85/#laws.0.1.0",
+      "citation": "2024 c 85 s 1",
+      "day": "2024-07-01",
+      "operative_clauses": [
+        {
+          "rule": "645.02",
+          "classification": "actual appropriation grant",
+          "items": [
+            {
+              "id": "laws.0.86.0",
+              "quote": "Sec. 86. Minnesota Statutes 2022, section 273.121, subdivision 1, is amended to read: Subdivision 1. Notice. Any county assessor or city assessor having the powers of a county assessor, valuing or classifying taxable real property shall in each year notify those persons whose property is to be included on the assessment roll that year if the person's address is known to the assessor, otherwise the occupant of the property. The notice shall be in writing and shall be sent by ordinary mail at least ten days before the meeting of the local board of appeal and equalization under section 274.01 or the review process established under section 274.13, subdivision 1c . Upon written request by the owner of the property, the assessor may send the notice in electronic form or by electronic mail instead of on paper or by ordinary mail. It shall contain: (1) the market value for the current and prior assessment ; (2) the market value subject to taxation after subtracting the amount of any qualifying improvements for the current assessment ; (3) the classification of the property for the current and prior assessment ; (4) the assessor's office address and ; (5) the dates, places, and times set for the meetings of the local board of appeal and equalization, the review process established under section 274.13, subdivision 1c , and the county board of appeal and equalization. If the classification of the property has changed between the current and prior assessments, a specific note to that effect shall be prominently listed on the statement. The commissioner of revenue shall specify the form of the notice. The assessor shall attach to the assessment roll a statement that the notices required by this section have been mailed. Any assessor who is not provided sufficient funds from the assessor's governing body to provide such notices, may make application to the commissioner of revenue to finance such notices. The commissioner of revenue shall conduct an investigation and, if satisfied that the assessor does not have the necessary funds, issue a certification to the commissioner of management and budget of the amount necessary to provide such notices. The commissioner of management and budget shall issue a payment for such amount and shall deduct such amount from any state payment to such county or municipality. The necessary funds to make such payments are hereby appropriated. Failure to receive the notice shall in no way affect the validity of the assessment, the resulting tax, the procedures of any board of review or equalization, or the enforcement of delinquent taxes by statutory means."
+            }
+          ]
+        }
+      ],
+      "signed_quote": [
+        "Signed by the governor April 15, 2024, 9:54 a.m."
+      ],
+      "act_title": "An act relating to legislative enactments; making miscellaneous technical corrections to laws and statutes; correcting erroneous, obsolete, and omitted text and references; removing redundant, conflicting, and superseded provisions; amending Minnesota Statutes 2022, sections 12A.02, subdivision 6; 12B.15, subdivision 8; 13.3805, subdivision 1; 13.6401, subdivision 2; 14.37, subdivision 2; 16A.99, subdivision 4; 62V.04, subdivision 12; 62V.05, subdivision 5; 115A.952, subdivision 1; 116.07, subdivision 4k; 120A.22, subdivision 11; 122A.182, subdivision 5; 123B.72, subdivision 3; 124E.03, subdivision 7; 124E.14; 126C.05, subdivision 8; 126C.126; 126C.13, subdivision 4; 126C.17, subdivision 5; 150A.091, subdivisions 2, 5, 11a; 152.25, subdivision 1b; 155A.29, subdivision 2; 161.088, subdivision 7; 171.17, subdivision 1; 171.22, subdivision 1; 176.011, subdivision 15; 180.03, subdivision 4; 216B.161, subdivision 1; 241.67, subdivision 2; 245A.11, subdivision 2; 253B.02, subdivisions 7, 9; 256.042, subdivision 4; 256.9742, subdivision 3; 256B.056, subdivision 11; 256B.058, subdivision 2; 256B.0595, subdivisions 1, 4; 256B.0625, subdivision 56; 256B.0941, subdivision 1; 256B.196, subdivision 2; 256B.197, subdivision 3; 256B.4911, subdivision 1; 256D.64, subdivision 2; 256I.04, subdivision 2a; 256L.11, subdivisions 2, 6a; 259.12; 260B.188, subdivision 1; 270C.445, subdivisions 6b, 6c, 6d; 270C.446, subdivision 5; 272.02, subdivision 97; 273.032; 273.121, subdivision 1; 276.04, subdivision 2; 290.0132, subdivision 15; 297A.71, subdivision 14; 297A.75, subdivisions 1, 2, 3; 299K.09, subdivision 1; 326B.164, subdivision 5; 353.6511, subdivision 5; 353.6512, subdivision 5; 462.357, subdivision 7; 504B.178, subdivision 2; 609.2231, subdivision 3; 609.596, subdivision 3; 609.748, subdivision 1; Minnesota Statutes 2023 Supplement, sections 15.06, subdivision 1; 17.457, subdivision 5; 47.60, subdivision 1; 115E.042, subdivision 1a; 116J.871, subdivision 1; 116P.21, subdivision 5; 122A.092, subdivision 5; 124D.65, subdivision 5; 124E.02; 125A.15; 125A.51; 125A.515, subdivision 3; 144E.101, subdivisions 7, 12; 145D.01, subdivision 5; 145D.02; 147.02, subdivision 1; 147.03, subdivision 1; 174.07, subdivision 3; 181.217, subdivision 1; 245A.03, subdivisions 2, 7; 245A.10, subdivision 3; 245G.06, subdivision 3a; 254B.05, subdivision 5; 256B.0625, subdivision 13e; 256B.0913, subdivision 5; 256B.0943, subdivision 1; 289A.08, subdivision 7a; 290.0132, subdivision 32; 290.067, subdivision 1; 290A.04, subdivision 2h; 297A.71, subdivision 44; 299C.10, subdivision 1; 326B.164, subdivision 13; 609.185; 624.7178, subdivision 4; Laws 2023, chapter 41, article 1, section 2, subdivision 49; Laws 2023, chapter 57, article 1, section 4, subdivision 2; Laws 2023, chapter 70, article 15, sections 10, subdivision 4; 12; repealing Minnesota Statutes 2022, sections 13.6435, subdivision 8; 16A.727; 256.021, subdivision 3; 273.11, subdivision 16; 297A.71, subdivision 45; Laws 2023, chapter 16, section 36; Laws 2023, chapter 53, article 11, section 31; Laws 2023, chapter 55, article 1, section 2; article 7, section 6; Laws 2023, chapter 57, article 2, section 39; Laws 2023, chapter 60, article 7, section 8; Laws 2023, chapter 63, article 7, sections 1; 3.",
+      "reason": null
+    }
+  ]
+}

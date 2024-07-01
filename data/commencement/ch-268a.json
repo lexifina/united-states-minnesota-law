@@ -1,0 +1,25 @@
+{
+  "act": "ch-268a",
+  "day": "2024-07-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/268A/full",
+  "statute_source_sha256": "bf5f0f8700c52b34419a30d574fc1f756edfb51b32d812de1bcb5082f7e7bd41",
+  "latest_year": 2024,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2024/0/120/",
+      "source_sha256": "a3a86ee14fadb8b0426b083a2783409ab186309b57be74d5af948fcc333b4dc6",
+      "source_ref": "/laws/2024/0/120/#laws.10.1.0",
+      "citation": "2024 c 120 art 10 s 1",
+      "day": "2024-07-01",
+      "operative_clauses": [
+        "645.02 EFFECTIVE DATE AND TIME OF LAWS. Each act, except one making appropriations, enacted finally at any session of the legislature takes effect on August 1 next following its final enactment, unless a different date is specified in the act. A special law required to be approved by the local government unit affected before it goes into effect becomes effective as to the approving unit the day following the day on which the certificate of approval prescribed by section 645.021 is filed with the secretary of state, unless a later date is specified in the act. When approval of such a special law is required by two or more local government units before it may become effective, the day after the day when the last of the required certificates is filed is the effective date, unless a later date is specified in the act. An appropriation act or an act having appropriation items enacted finally at any session of the legislature takes effect at the beginning of the first day of July next following its final enactment, unless a different date is specified in the act. Each act takes effect at 12:01 a.m. on the day it becomes effective, unless a different time is specified in the act."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 24, 2024, 9:13 a.m."
+      ],
+      "act_title": "An act relating to state government; making supplemental appropriations for jobs and economic development; making various policy and technical changes; modifying occupational licensing requirements; modifying programs managed by the Department of Employment and Economic Development; modifying vocational rehabilitation programs; requiring reports; transferring money; appropriating money; amending Minnesota Statutes 2022, sections 116J.435, subdivisions 3, 4; 116J.5492, subdivision 2; 116J.8731, subdivision 10; 116J.8748, subdivision 1; 116M.18; 116U.26; 116U.27, subdivisions 5, 6; 155A.27, subdivision 2; 268.035, subdivision 20; 268A.11; 326.10, subdivision 8; Minnesota Statutes 2023 Supplement, sections 116J.682, subdivisions 1, 3; 116J.8733; 116J.8748, subdivisions 3, 4, 6; 116L.17, subdivision 1; 116L.43, subdivision 1; 116U.27, subdivisions 1, 4; 155A.2705, subdivision 3; Laws 2023, chapter 53, article 15, sections 32, subdivision 6; 33, subdivisions 4, 5; article 20, sections 2, subdivisions 1, 2, 3, 4, 6; 3; article 21, sections 6; 7; proposing coding for new law in Minnesota Statutes, chapter 116U; repealing Minnesota Statutes 2022, sections 116J.435, subdivision 5; 116J.439; 116L.17, subdivision 5.",
+      "reason": null
+    }
+  ]
+}

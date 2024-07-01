@@ -1,20 +1,7 @@
 # Minnesota Statutes chapter 627 (Venue)
 
-Minn. Stat. ch. 627 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/627/full>
+Current-source text is recorded from 2024-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 627.01 | [627-010000.md](627-010000.md) | 0 |  |
-| 627.02 | [627-020000.md](627-020000.md) | 0 |  |
-| 627.03 | [627-030000.md](627-030000.md) | 0 |  |
-| 627.04 | [627-040000.md](627-040000.md) | 0 |  |
-| 627.05 | [627-050000.md](627-050000.md) | 0 |  |
-| 627.06 | [627-060000.md](627-060000.md) | 0 |  |
-| 627.07 | [627-070000.md](627-070000.md) | 0 |  |
-| 627.08 | [627-080000.md](627-080000.md) | 0 |  |
-| 627.09 | [627-090000.md](627-090000.md) | 0 |  |
-| 627.10 | [627-100000.md](627-100000.md) | 0 |  |
-| 627.13 | [627-130000.md](627-130000.md) | 0 |  |
-| 627.14 | [627-140000.md](627-140000.md) | 0 |  |
-| 627.15 | [627-150000.md](627-150000.md) | 0 |  |
-| 627.16 | [627-160000.md](627-160000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/627/full
+
+Operative clauses and source references: ../data/commencement/ch-627.json
