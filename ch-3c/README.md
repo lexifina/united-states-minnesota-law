@@ -1,24 +1,7 @@
 # Minnesota Statutes chapter 3C (Revisor of Statutes)
 
-Minn. Stat. ch. 3C · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/3C/full>
+Current-source text is recorded from 2025-01-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 3C.01 | [3c-010000.md](3c-010000.md) | 0 |  |
-| 3C.02 | [3c-020000.md](3c-020000.md) | 0 |  |
-| 3C.03 | [3c-030000.md](3c-030000.md) | 0 |  |
-| 3C.035 | [3c-035000.md](3c-035000.md) | 0 |  |
-| 3C.04 | [3c-040000.md](3c-040000.md) | 0 |  |
-| 3C.05 | [3c-050000.md](3c-050000.md) | 0 |  |
-| 3C.055 | [3c-055000.md](3c-055000.md) | 0 |  |
-| 3C.056 | [3c-056000.md](3c-056000.md) | 0 |  |
-| 3C.057 | [3c-057000.md](3c-057000.md) | 0 |  |
-| 3C.06 | [3c-060000.md](3c-060000.md) | 0 |  |
-| 3C.07 | [3c-070000.md](3c-070000.md) | 0 |  |
-| 3C.08 | [3c-080000.md](3c-080000.md) | 0 |  |
-| 3C.09 | [3c-090000.md](3c-090000.md) | 0 |  |
-| 3C.10 | [3c-100000.md](3c-100000.md) | 0 |  |
-| 3C.11 | [3c-110000.md](3c-110000.md) | 0 |  |
-| 3C.12 | [3c-120000.md](3c-120000.md) | 0 |  |
-| 3C.13 | [3c-130000.md](3c-130000.md) | 0 |  |
-| 3C.20 | [3c-200000.md](3c-200000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/3C/full
+
+Operative clauses and source references: ../data/commencement/ch-3c.json
