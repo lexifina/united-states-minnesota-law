@@ -1,0 +1,3 @@
+# Article 14, Section 11. Highway bonds.
+The legislature may provide by law for the sale of bonds to carry out the provisions of section 2. The proceeds shall be paid into the trunk highway fund. Any bonds shall mature serially over a term not exceeding 20 years and shall not be sold for less than par and accrued interest. If the trunk highway fund is not adequate to pay principal and interest of these bonds when due, the legislature may levy on all taxable property of the state in an amount sufficient to meet the deficiency or it may appropriate to the fund money in the state treasury not otherwise appropriated.
+Note: [Amended, November 2, 1982]

@@ -1,0 +1,2 @@
+# Article 14, Section 3. County state-aid highway system.
+A county state-aid highway system shall be constructed, improved and maintained by the counties as public highways in the manner provided by law. The system shall include streets in municipalities of less than 5,000 population where necessary to provide an integrated and coordinated highway system and may include similar streets in larger municipalities.

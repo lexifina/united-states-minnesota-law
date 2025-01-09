@@ -1,0 +1,3 @@
+# Article 8, Section 2. Officers subject to impeachment; grounds; judgment.
+The governor, secretary of state, auditor, attorney general and the judges of the supreme court, court of appeals and district courts may be impeached for corrupt conduct in office or for crimes and misdemeanors; but judgment shall not extend further than to removal from office and disqualification to hold and enjoy any office of honor, trust or profit in this state. The party convicted shall also be subject to indictment, trial, judgment and punishment according to law.
+Note: [Amended, November 2, 1982; November 3, 1998]

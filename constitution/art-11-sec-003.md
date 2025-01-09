@@ -1,0 +1,2 @@
+# Article 11, Section 3. Internal improvements prohibited; exceptions.
+The state shall not be a party in carrying on works of internal improvements except as authorized by this constitution. If grants have been made to the state especially dedicated to specific purposes, the state shall devote the proceeds of the grants to those purposes and may pledge or appropriate the revenues derived from the works in aid of their completion.

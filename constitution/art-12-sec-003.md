@@ -1,0 +1,2 @@
+# Article 12, Section 3. Local government; legislation affecting.
+The legislature may provide by law for the creation, organization, administration, consolidation, division and dissolution of local government units and their functions, for the change of boundaries thereof, for their elective and appointive officers including qualifications for office and for the transfer of county seats. A county boundary may not be changed or county seat transferred until approved in each county affected by a majority of the voters voting on the question.

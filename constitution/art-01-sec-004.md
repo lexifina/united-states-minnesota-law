@@ -1,0 +1,3 @@
+# Article 1, Section 4. Trial by jury.
+The right of trial by jury shall remain inviolate, and shall extend to all cases at law without regard to the amount in controversy. A jury trial may be waived by the parties in all cases in the manner prescribed by law. The legislature may provide that the agreement of five-sixths of a jury in a civil action or proceeding, after not less than six hours' deliberation, is a sufficient verdict. The legislature may provide for the number of jurors in a civil action or proceeding, provided that a jury have at least six members.
+Note: [Amended, November 8, 1988]

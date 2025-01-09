@@ -1,0 +1,2 @@
+# Article 13, Section 4. Lands taken for public way or use; compensation; common carriers.
+Land may be taken for public way and for the purpose of granting to any corporation the franchise of way for public use. In all cases, however, a fair and equitable compensation shall be paid for land and for the damages arising from taking it. All corporations which are common carriers enjoying the right of way in pursuance of the provisions of this section shall be bound to carry the mineral, agricultural and other productions of manufacturers on equal and reasonable terms.

@@ -1,0 +1,2 @@
+# Article 7, Section 2. Residence.
+For the purpose of voting no person loses residence solely by reason of his absence while employed in the service of the United States; nor while engaged upon the waters of this state or of the United States; nor while a student in any institution of learning; nor while kept at any almshouse or asylum; nor while confined in any public prison. No soldier, seaman or marine in the army or navy of the United States is a resident of this state solely in consequence of being stationed within the state.

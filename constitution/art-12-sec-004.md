@@ -1,0 +1,2 @@
+# Article 12, Section 4. Home rule charter.
+Any local government unit when authorized by law may adopt a home rule charter for its government. A charter shall become effective if approved by such majority of the voters of the local government unit as the legislature prescribes by general law. If a charter provides for the consolidation or separation of a city and a county, in whole or in part, it shall not be effective without approval of the voters both in the city and in the remainder of the county by the majority required by law.

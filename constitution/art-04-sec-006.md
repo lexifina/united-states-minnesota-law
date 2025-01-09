@@ -1,0 +1,2 @@
+# Article 4, Section 6. Qualification of legislators; judging election returns and eligibility.
+Senators and representatives shall be qualified voters of the state, and shall have resided one year in the state and six months immediately preceding the election in the district from which elected. Each house shall be the judge of the election returns and eligibility of its own members. The legislature shall prescribe by law the manner for taking evidence in cases of contested seats in either house.

@@ -1,0 +1,2 @@
+# Article 7, Section 8. Election returns to secretary of state; board of canvassers.
+The returns of every election for officeholders elected statewide shall be made to the secretary of state who shall call to his assistance two or more of the judges of the supreme court and two disinterested judges of the district courts. They shall constitute a board of canvassers to canvass the returns and declare the result within three days after the canvass.

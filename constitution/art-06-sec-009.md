@@ -1,0 +1,2 @@
+# Article 6, Section 9. Retirement, removal and discipline.
+The legislature may provide by law for retirement of all judges and for the extension of the term of any judge who becomes eligible for retirement within three years after expiration of the term for which he is selected. The legislature may also provide for the retirement, removal or other discipline of any judge who is disabled, incompetent or guilty of conduct prejudicial to the administration of justice.

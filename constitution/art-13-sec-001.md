@@ -1,0 +1,2 @@
+# Article 13, Section 1. Uniform system of public schools.
+The stability of a republican form of government depending mainly upon the intelligence of the people, it is the duty of the legislature to establish a general and uniform system of public schools. The legislature shall make such provisions by taxation or otherwise as will secure a thorough and efficient system of public schools throughout the state.

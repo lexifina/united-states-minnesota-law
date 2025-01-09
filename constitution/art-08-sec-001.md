@@ -1,0 +1,2 @@
+# Article 8, Section 1. Impeachment powers.
+The house of representatives has the sole power of impeachment through a concurrence of a majority of all its members. All impeachments shall be tried by the senate. When sitting for that purpose, senators shall be upon oath or affirmation to do justice according to law and evidence. No person shall be convicted without the concurrence of two-thirds of the senators present.

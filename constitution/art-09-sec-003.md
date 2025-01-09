@@ -1,0 +1,2 @@
+# Article 9, Section 3. Submission to people of constitution drafted at convention.
+A convention called to revise this constitution shall submit any revision to the people for approval or rejection at the next general election held not less than 90 days after submission of the revision. If three-fifths of all the electors voting on the question vote to ratify the revision, it becomes a new constitution of the state of Minnesota.

@@ -1,0 +1,2 @@
+# Article 14, Section 6. Trunk highway fund.
+There is hereby created a trunk highway fund which shall be used solely for the purposes specified in section 2 of this article and the payment of principal and interest of any bonds issued under the authority of section 11 of this article and any bonds issued for trunk highway purposes prior to July 1, 1957. All payments of principal and interest on bonds issued shall be a first charge on money coming into this fund during the year in which the principal or interest is payable.

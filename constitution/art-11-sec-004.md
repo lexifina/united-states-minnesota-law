@@ -1,0 +1,2 @@
+# Article 11, Section 4. Power to contract public debt; public debt defined.
+The state may contract public debts for which its full faith, credit and taxing powers may be pledged at the times and in the manner authorized by law, but only for the purposes and subject to the conditions stated in section 5. Public debt includes any obligation payable directly in whole or in part from a tax of state wide application on any class of property, income, transaction or privilege, but does not include any obligation which is payable from revenues other than taxes.

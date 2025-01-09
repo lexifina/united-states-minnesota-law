@@ -1,0 +1,2 @@
+# Article 4, Section 20. Enrollment of bills.
+Every bill passed by both houses shall be enrolled and signed by the presiding officer of each house. Any presiding officer refusing to sign a bill passed by both houses shall thereafter be disqualified from any office of honor or profit in the state. Each house by rule shall provide the manner in which a bill shall be certified for presentation to the governor in case of such refusal.

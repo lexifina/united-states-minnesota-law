@@ -1,0 +1,2 @@
+# Article 1, Section 17. Religious tests and property qualifications prohibited.
+No religious test or amount of property shall be required as a qualification for any office of public trust in the state. No religious test or amount of property shall be required as a qualification of any voter at any election in this state; nor shall any person be rendered incompetent to give evidence in any court of law or equity in consequence of his opinion upon the subject of religion.

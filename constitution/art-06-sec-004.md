@@ -1,0 +1,2 @@
+# Article 6, Section 4. Judicial districts; district judges.
+The number and boundaries of judicial districts shall be established in the manner provided by law but the office of a district judge shall not be abolished during his term. There shall be two or more district judges in each district. Each judge of the district court in any district shall be a resident of that district at the time of his selection and during his continuance in office.

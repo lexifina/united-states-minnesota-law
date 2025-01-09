@@ -1,0 +1,2 @@
+# Article 11, Section 12. County, township or municipal aid to railroads limited.
+The legislature shall not authorize any county, township or municipal corporation to become indebted to aid in the construction or equipment of railroads to any amount that exceeds five percent of the value of the taxable property within that county, township or municipal corporation. The amount of taxable property shall be determined by the last assessment previous to the incurring of the indebtedness.

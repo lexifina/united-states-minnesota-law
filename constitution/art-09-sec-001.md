@@ -1,0 +1,2 @@
+# Article 9, Section 1. Amendments; ratification.
+A majority of the members elected to each house of the legislature may propose amendments to this constitution. Proposed amendments shall be published with the laws passed at the same session and submitted to the people for their approval or rejection at a general election. If a majority of all the electors voting at the election vote to ratify an amendment, it becomes a part of this constitution. If two or more amendments are submitted at the same time, voters shall vote for or against each separately.

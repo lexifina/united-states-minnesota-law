@@ -1,0 +1,2 @@
+# Article 4, Section 3. Census enumeration apportionment; congressional and legislative district boundaries; senate districts.
+At its first session after each enumeration of the inhabitants of this state made by the authority of the United States, the legislature shall have the power to prescribe the bounds of congressional and legislative districts. Senators shall be chosen by single districts of convenient contiguous territory. No representative district shall be divided in the formation of a senate district. The senate districts shall be numbered in a regular series.

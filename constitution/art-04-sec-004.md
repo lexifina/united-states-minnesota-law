@@ -1,0 +1,2 @@
+# Article 4, Section 4. Terms of office of senators and representatives; vacancies.
+Representatives shall be chosen for a term of two years, except to fill a vacancy. Senators shall be chosen for a term of four years, except to fill a vacancy and except there shall be an entire new election of all the senators at the first election of representatives after each new legislative apportionment provided for in this article. The governor shall call elections to fill vacancies in either house of the legislature.

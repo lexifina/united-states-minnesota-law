@@ -1,0 +1,2 @@
+# Article 11, Section 11. Timber lands set apart as state forests; disposition of revenue.
+School and other public lands of the state better adapted for the production of timber than for agriculture may be set apart as state school forests, or other state forests as the legislature may provide. The legislature may also provide for their management on forestry principles. The net revenue therefrom shall be used for the purposes for which the lands were granted to the state.

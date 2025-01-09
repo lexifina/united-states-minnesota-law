@@ -1,0 +1,2 @@
+# Article 2, Section 1. Name and boundaries; acceptance of organic act.
+This state shall be called the state of Minnesota and shall consist of and have jurisdiction over the territory embraced in the act of Congress entitled, "An act to authorize the people of the Territory of Minnesota to form a constitution and state government, preparatory to their admission into the Union on equal footing with the original states," and the propositions contained in that act are hereby accepted, ratified and confirmed, and remain irrevocable without the consent of the United States.
