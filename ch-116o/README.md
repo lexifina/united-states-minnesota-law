@@ -1,29 +1,7 @@
 # Minnesota Statutes chapter 116O (Enterprise Minnesota, Inc.)
 
-Minn. Stat. ch. 116O · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/116O/full>
+Current-source text is recorded from 2025-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 116O.01 | [116o-010000.md](116o-010000.md) | 0 |  |
-| 116O.011 | [116o-011000.md](116o-011000.md) | 0 |  |
-| 116O.02 | [116o-020000.md](116o-020000.md) | 0 |  |
-| 116O.03 | [116o-030000.md](116o-030000.md) | 0 |  |
-| 116O.04 | [116o-040000.md](116o-040000.md) | 0 |  |
-| 116O.05 | [116o-050000.md](116o-050000.md) | 0 |  |
-| 116O.06 | [116o-060000.md](116o-060000.md) | 0 |  |
-| 116O.061 | [116o-061000.md](116o-061000.md) | 0 |  |
-| 116O.07 | [116o-070000.md](116o-070000.md) | 0 |  |
-| 116O.071 | [116o-071000.md](116o-071000.md) | 0 |  |
-| 116O.072 | [116o-072000.md](116o-072000.md) | 0 |  |
-| 116O.08 | [116o-080000.md](116o-080000.md) | 0 |  |
-| 116O.09 | [116o-090000.md](116o-090000.md) | 0 |  |
-| 116O.092 | [116o-092000.md](116o-092000.md) | 0 |  |
-| 116O.10 | [116o-100000.md](116o-100000.md) | 0 |  |
-| 116O.11 | [116o-110000.md](116o-110000.md) | 0 |  |
-| 116O.115 | [116o-115000.md](116o-115000.md) | 0 |  |
-| 116O.12 | [116o-120000.md](116o-120000.md) | 0 |  |
-| 116O.122 | [116o-122000.md](116o-122000.md) | 0 |  |
-| 116O.13 | [116o-130000.md](116o-130000.md) | 0 |  |
-| 116O.14 | [116o-140000.md](116o-140000.md) | 0 |  |
-| 116O.15 | [116o-150000.md](116o-150000.md) | 0 |  |
-| 116O.20 | [116o-200000.md](116o-200000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/116O/full
+
+Operative clauses and source references: ../data/commencement/ch-116o.json

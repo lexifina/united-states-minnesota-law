@@ -1,21 +1,7 @@
 # Minnesota Statutes chapter 147D (Traditional Midwives)
 
-Minn. Stat. ch. 147D · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/147D/full>
+Current-source text is recorded from 2025-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 147D.01 | [147d-010000.md](147d-010000.md) | 0 |  |
-| 147D.03 | [147d-030000.md](147d-030000.md) | 0 |  |
-| 147D.05 | [147d-050000.md](147d-050000.md) | 0 |  |
-| 147D.07 | [147d-070000.md](147d-070000.md) | 0 |  |
-| 147D.09 | [147d-090000.md](147d-090000.md) | 0 |  |
-| 147D.11 | [147d-110000.md](147d-110000.md) | 0 |  |
-| 147D.13 | [147d-130000.md](147d-130000.md) | 0 |  |
-| 147D.15 | [147d-150000.md](147d-150000.md) | 0 |  |
-| 147D.17 | [147d-170000.md](147d-170000.md) | 0 |  |
-| 147D.19 | [147d-190000.md](147d-190000.md) | 0 |  |
-| 147D.21 | [147d-210000.md](147d-210000.md) | 0 |  |
-| 147D.23 | [147d-230000.md](147d-230000.md) | 0 |  |
-| 147D.25 | [147d-250000.md](147d-250000.md) | 0 |  |
-| 147D.27 | [147d-270000.md](147d-270000.md) | 0 |  |
-| 147D.29 | [147d-290000.md](147d-290000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/147D/full
+
+Operative clauses and source references: ../data/commencement/ch-147d.json

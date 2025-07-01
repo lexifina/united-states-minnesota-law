@@ -1,25 +1,7 @@
 # Minnesota Statutes chapter 299J (Pipeline Safety)
 
-Minn. Stat. ch. 299J · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/299J/full>
+Current-source text is recorded from 2025-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 299J.01 | [299j-010000.md](299j-010000.md) | 0 |  |
-| 299J.02 | [299j-020000.md](299j-020000.md) | 0 |  |
-| 299J.03 | [299j-030000.md](299j-030000.md) | 0 |  |
-| 299J.04 | [299j-040000.md](299j-040000.md) | 0 |  |
-| 299J.05 | [299j-050000.md](299j-050000.md) | 0 |  |
-| 299J.06 | [299j-060000.md](299j-060000.md) | 0 |  |
-| 299J.061 | [299j-061000.md](299j-061000.md) | 0 |  |
-| 299J.07 | [299j-070000.md](299j-070000.md) | 0 |  |
-| 299J.08 | [299j-080000.md](299j-080000.md) | 0 |  |
-| 299J.09 | [299j-090000.md](299j-090000.md) | 0 |  |
-| 299J.10 | [299j-100000.md](299j-100000.md) | 0 |  |
-| 299J.11 | [299j-110000.md](299j-110000.md) | 0 |  |
-| 299J.12 | [299j-120000.md](299j-120000.md) | 0 |  |
-| 299J.13 | [299j-130000.md](299j-130000.md) | 0 |  |
-| 299J.14 | [299j-140000.md](299j-140000.md) | 0 |  |
-| 299J.15 | [299j-150000.md](299j-150000.md) | 0 |  |
-| 299J.16 | [299j-160000.md](299j-160000.md) | 0 |  |
-| 299J.17 | [299j-170000.md](299j-170000.md) | 0 |  |
-| 299J.18 | [299j-180000.md](299j-180000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/299J/full
+
+Operative clauses and source references: ../data/commencement/ch-299j.json

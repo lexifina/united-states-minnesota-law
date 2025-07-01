@@ -1,31 +1,7 @@
 # Minnesota Statutes chapter 40A (Agricultural Land Preservation Program)
 
-Minn. Stat. ch. 40A · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/40A/full>
+Current-source text is recorded from 2025-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 40A.01 | [40a-010000.md](40a-010000.md) | 0 |  |
-| 40A.02 | [40a-020000.md](40a-020000.md) | 0 |  |
-| 40A.03 | [40a-030000.md](40a-030000.md) | 0 |  |
-| 40A.04 | [40a-040000.md](40a-040000.md) | 0 |  |
-| 40A.05 | [40a-050000.md](40a-050000.md) | 0 |  |
-| 40A.06 | [40a-060000.md](40a-060000.md) | 0 |  |
-| 40A.07 | [40a-070000.md](40a-070000.md) | 0 |  |
-| 40A.071 | [40a-071000.md](40a-071000.md) | 0 |  |
-| 40A.08 | [40a-080000.md](40a-080000.md) | 0 |  |
-| 40A.09 | [40a-090000.md](40a-090000.md) | 0 |  |
-| 40A.10 | [40a-100000.md](40a-100000.md) | 0 |  |
-| 40A.11 | [40a-110000.md](40a-110000.md) | 0 |  |
-| 40A.12 | [40a-120000.md](40a-120000.md) | 0 |  |
-| 40A.121 | [40a-121000.md](40a-121000.md) | 0 |  |
-| 40A.122 | [40a-122000.md](40a-122000.md) | 0 |  |
-| 40A.123 | [40a-123000.md](40a-123000.md) | 0 |  |
-| 40A.13 | [40a-130000.md](40a-130000.md) | 0 |  |
-| 40A.14 | [40a-140000.md](40a-140000.md) | 0 |  |
-| 40A.15 | [40a-150000.md](40a-150000.md) | 0 |  |
-| 40A.151 | [40a-151000.md](40a-151000.md) | 0 |  |
-| 40A.152 | [40a-152000.md](40a-152000.md) | 0 |  |
-| 40A.16 | [40a-160000.md](40a-160000.md) | 0 |  |
-| 40A.17 | [40a-170000.md](40a-170000.md) | 0 |  |
-| 40A.18 | [40a-180000.md](40a-180000.md) | 0 |  |
-| 40A.19 | [40a-190000.md](40a-190000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/40A/full
+
+Operative clauses and source references: ../data/commencement/ch-40a.json

@@ -1,33 +1,7 @@
 # Minnesota Statutes chapter 297F (Cigarettes and Tobacco Taxes)
 
-Minn. Stat. ch. 297F · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/297F/full>
+Current-source text is recorded from 2025-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 297F.01 | [297f-010000.md](297f-010000.md) | 0 |  |
-| 297F.02 | [297f-020000.md](297f-020000.md) | 0 |  |
-| 297F.03 | [297f-030000.md](297f-030000.md) | 0 |  |
-| 297F.031 | [297f-031000.md](297f-031000.md) | 0 |  |
-| 297F.04 | [297f-040000.md](297f-040000.md) | 0 |  |
-| 297F.05 | [297f-050000.md](297f-050000.md) | 0 |  |
-| 297F.06 | [297f-060000.md](297f-060000.md) | 0 |  |
-| 297F.07 | [297f-070000.md](297f-070000.md) | 0 |  |
-| 297F.08 | [297f-080000.md](297f-080000.md) | 0 |  |
-| 297F.09 | [297f-090000.md](297f-090000.md) | 0 |  |
-| 297F.10 | [297f-100000.md](297f-100000.md) | 0 |  |
-| 297F.11 | [297f-110000.md](297f-110000.md) | 0 |  |
-| 297F.12 | [297f-120000.md](297f-120000.md) | 0 |  |
-| 297F.13 | [297f-130000.md](297f-130000.md) | 0 |  |
-| 297F.14 | [297f-140000.md](297f-140000.md) | 0 |  |
-| 297F.15 | [297f-150000.md](297f-150000.md) | 0 |  |
-| 297F.16 | [297f-160000.md](297f-160000.md) | 0 |  |
-| 297F.17 | [297f-170000.md](297f-170000.md) | 0 |  |
-| 297F.18 | [297f-180000.md](297f-180000.md) | 0 |  |
-| 297F.185 | [297f-185000.md](297f-185000.md) | 0 |  |
-| 297F.19 | [297f-190000.md](297f-190000.md) | 0 |  |
-| 297F.20 | [297f-200000.md](297f-200000.md) | 0 |  |
-| 297F.21 | [297f-210000.md](297f-210000.md) | 0 |  |
-| 297F.22 | [297f-220000.md](297f-220000.md) | 0 |  |
-| 297F.23 | [297f-230000.md](297f-230000.md) | 0 |  |
-| 297F.24 | [297f-240000.md](297f-240000.md) | 0 |  |
-| 297F.25 | [297f-250000.md](297f-250000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/297F/full
+
+Operative clauses and source references: ../data/commencement/ch-297f.json

@@ -1,32 +1,7 @@
 # Minnesota Statutes chapter 103A (Water Policy and Information)
 
-Minn. Stat. ch. 103A · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/103A/full>
+Current-source text is recorded from 2025-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 103A.001 | [103a-001000.md](103a-001000.md) | 0 |  |
-| 103A.201 | [103a-201000.md](103a-201000.md) | 0 |  |
-| 103A.202 | [103a-202000.md](103a-202000.md) | 0 |  |
-| 103A.203 | [103a-203000.md](103a-203000.md) | 0 |  |
-| 103A.204 | [103a-204000.md](103a-204000.md) | 0 |  |
-| 103A.205 | [103a-205000.md](103a-205000.md) | 0 |  |
-| 103A.206 | [103a-206000.md](103a-206000.md) | 0 |  |
-| 103A.207 | [103a-207000.md](103a-207000.md) | 0 |  |
-| 103A.208 | [103a-208000.md](103a-208000.md) | 0 |  |
-| 103A.209 | [103a-209000.md](103a-209000.md) | 0 |  |
-| 103A.211 | [103a-211000.md](103a-211000.md) | 0 |  |
-| 103A.212 | [103a-212000.md](103a-212000.md) | 0 |  |
-| 103A.301 | [103a-301000.md](103a-301000.md) | 0 |  |
-| 103A.305 | [103a-305000.md](103a-305000.md) | 0 |  |
-| 103A.311 | [103a-311000.md](103a-311000.md) | 0 |  |
-| 103A.315 | [103a-315000.md](103a-315000.md) | 0 |  |
-| 103A.321 | [103a-321000.md](103a-321000.md) | 0 |  |
-| 103A.325 | [103a-325000.md](103a-325000.md) | 0 |  |
-| 103A.331 | [103a-331000.md](103a-331000.md) | 0 |  |
-| 103A.335 | [103a-335000.md](103a-335000.md) | 0 |  |
-| 103A.341 | [103a-341000.md](103a-341000.md) | 0 |  |
-| 103A.401 | [103a-401000.md](103a-401000.md) | 0 |  |
-| 103A.403 | [103a-403000.md](103a-403000.md) | 0 |  |
-| 103A.405 | [103a-405000.md](103a-405000.md) | 0 |  |
-| 103A.411 | [103a-411000.md](103a-411000.md) | 0 |  |
-| 103A.43 | [103a-430000.md](103a-430000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/103A/full
+
+Operative clauses and source references: ../data/commencement/ch-103a.json

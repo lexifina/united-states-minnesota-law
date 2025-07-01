@@ -1,0 +1,25 @@
+{
+  "act": "ch-116d",
+  "day": "2025-07-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/116D/full",
+  "statute_source_sha256": "c4545e141d9180fafda64fbf2e2498e9560f5cd906a740ab78092d2666acedc7",
+  "latest_year": 2025,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2025/1/1/",
+      "source_sha256": "db54fecf1c7ee47642b5590907c656ae5ffd72cd4f700c2c933438f0414e14bb",
+      "source_ref": "/laws/2025/1/1/#laws.6.3.0",
+      "citation": "1Sp2025 c 1 art 6 s 3",
+      "day": "2025-07-01",
+      "operative_clauses": [
+        "645.02 EFFECTIVE DATE AND TIME OF LAWS. Each act, except one making appropriations, enacted finally at any session of the legislature takes effect on August 1 next following its final enactment, unless a different date is specified in the act. A special law required to be approved by the local government unit affected before it goes into effect becomes effective as to the approving unit the day following the day on which the certificate of approval prescribed by section 645.021 is filed with the secretary of state, unless a later date is specified in the act. When approval of such a special law is required by two or more local government units before it may become effective, the day after the day when the last of the required certificates is filed is the effective date, unless a later date is specified in the act. An appropriation act or an act having appropriation items enacted finally at any session of the legislature takes effect at the beginning of the first day of July next following its final enactment, unless a different date is specified in the act. Each act takes effect at 12:01 a.m. on the day it becomes effective, unless a different time is specified in the act."
+      ],
+      "signed_quote": [
+        "Signed by the governor June 14, 2025, 10:27 a.m."
+      ],
+      "act_title": "An act relating to state government; appropriating money for environment and natural resources; appropriating money from environment and natural resources trust fund; modifying prior appropriations; modifying fees and surcharges; establishing duties regarding environment and natural resources; modifying grant programs; providing for abandoned watercraft; modifying game and fish provisions; modifying reporting requirements; modifying PFAS prohibitions; creating foraging task force; adding to state park; authorizing private sales of certain state lands; providing for environmental permitting reform; making technical changes; providing civil and criminal penalties; providing appointments; requiring reports; amending Minnesota Statutes 2024, sections 84.027, by adding a subdivision; 84.705, subdivisions 1, 3; 86B.415, subdivision 7; 88.82; 97A.223, subdivision 1; 97A.421, by adding a subdivision; 97A.465, by adding a subdivision; 97A.475, subdivisions 2, 6; 97B.031, by adding a subdivision; 97B.037; 97C.395; 103G.271, subdivision 6; 103G.301, subdivision 2; 115B.421, subdivision 1; 116.03, subdivision 2b; 116.07, subdivision 4d, by adding a subdivision; 116.943, subdivisions 1, 5; 116D.04, subdivisions 2a, 2b; 116X.03, subdivision 1, by adding a subdivision; 325F.072, subdivision 3; 473.355, subdivisions 1, 3; Laws 2022, chapter 95, article 3, section 6; Laws 2023, chapter 60, article 1, sections 2, subdivisions 1, 2, 7, 10; 3, subdivisions 1, 6; 4; Laws 2024, chapter 83, section 2, subdivisions 3, 8; proposing coding for new law in Minnesota Statutes, chapter 86B; repealing Minnesota Statutes 2024, sections 97B.318; 103E.067.",
+      "reason": null
+    }
+  ]
+}

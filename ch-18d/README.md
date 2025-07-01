@@ -1,25 +1,7 @@
 # Minnesota Statutes chapter 18D (Agricultural Chemical Liability)
 
-Minn. Stat. ch. 18D · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/18D/full>
+Current-source text is recorded from 2025-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 18D.01 | [18d-010000.md](18d-010000.md) | 0 |  |
-| 18D.101 | [18d-101000.md](18d-101000.md) | 0 |  |
-| 18D.103 | [18d-103000.md](18d-103000.md) | 0 |  |
-| 18D.105 | [18d-105000.md](18d-105000.md) | 0 |  |
-| 18D.1051 | [18d-105100.md](18d-105100.md) | 0 |  |
-| 18D.1052 | [18d-105200.md](18d-105200.md) | 0 |  |
-| 18D.111 | [18d-111000.md](18d-111000.md) | 0 |  |
-| 18D.115 | [18d-115000.md](18d-115000.md) | 0 |  |
-| 18D.201 | [18d-201000.md](18d-201000.md) | 0 |  |
-| 18D.301 | [18d-301000.md](18d-301000.md) | 0 |  |
-| 18D.302 | [18d-302000.md](18d-302000.md) | 0 |  |
-| 18D.305 | [18d-305000.md](18d-305000.md) | 0 |  |
-| 18D.311 | [18d-311000.md](18d-311000.md) | 0 |  |
-| 18D.315 | [18d-315000.md](18d-315000.md) | 0 |  |
-| 18D.321 | [18d-321000.md](18d-321000.md) | 0 |  |
-| 18D.323 | [18d-323000.md](18d-323000.md) | 0 |  |
-| 18D.325 | [18d-325000.md](18d-325000.md) | 0 |  |
-| 18D.331 | [18d-331000.md](18d-331000.md) | 0 |  |
-| 18D.40 | [18d-400000.md](18d-400000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/18D/full
+
+Operative clauses and source references: ../data/commencement/ch-18d.json

@@ -1,0 +1,25 @@
+{
+  "act": "ch-116m",
+  "day": "2025-07-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/116M/full",
+  "statute_source_sha256": "65cdfb96940661e5a3213321a01fe7554c2afda57476a9d62061074b9a6443b9",
+  "latest_year": 2025,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2025/1/6/",
+      "source_sha256": "5b376383cfc8efb371b3f6ac142ee6f2671bc62a29b9c04299032ff675e84056",
+      "source_ref": "/laws/2025/1/6/#laws.4.18.0",
+      "citation": "1Sp2025 c 6 art 4 s 18",
+      "day": "2025-07-01",
+      "operative_clauses": [
+        "645.02 EFFECTIVE DATE AND TIME OF LAWS. Each act, except one making appropriations, enacted finally at any session of the legislature takes effect on August 1 next following its final enactment, unless a different date is specified in the act. A special law required to be approved by the local government unit affected before it goes into effect becomes effective as to the approving unit the day following the day on which the certificate of approval prescribed by section 645.021 is filed with the secretary of state, unless a later date is specified in the act. When approval of such a special law is required by two or more local government units before it may become effective, the day after the day when the last of the required certificates is filed is the effective date, unless a later date is specified in the act. An appropriation act or an act having appropriation items enacted finally at any session of the legislature takes effect at the beginning of the first day of July next following its final enactment, unless a different date is specified in the act. Each act takes effect at 12:01 a.m. on the day it becomes effective, unless a different time is specified in the act."
+      ],
+      "signed_quote": [
+        "Signed by the governor June 14, 2025, 10:28 a.m."
+      ],
+      "act_title": "An act relating to state government; establishing a biennial budget for jobs, labor, and economic development; appropriating money for the Department of Employment and Economic Development, Department of Labor and Industry, Bureau of Mediation Services, Explore Minnesota, and Workers' Compensation Court of Appeals; modifying economic development policy; making labor and industry policy changes; transferring money; canceling and modifying prior appropriations; modifying fees; requiring reports; amending Minnesota Statutes 2024, sections 116J.431, subdivision 2; 116J.659, subdivisions 4, 5; 116J.8733, subdivision 4; 116J.8752, subdivision 2; 116L.03, subdivision 2; 116L.04, subdivisions 1, 1a; 116L.05, subdivision 5; 116L.562, subdivisions 1, 3; 116L.665, subdivision 2; 116L.90; 116L.98, subdivisions 2, 3, 6; 116M.18, subdivision 3; 116U.05; 116U.06; 116U.15; 116U.30; 116U.35; 177.253, subdivision 1, by adding a subdivision; 177.254, subdivisions 1, 2, by adding a subdivision; 177.27, subdivision 5; 181.211, subdivisions 7, 8; 181.725, by adding a subdivision; 181.9447, subdivisions 2, 3, 4; 181.9448, subdivision 1; 248.07, subdivisions 7, 8; 268.184, subdivision 1; 268B.14, subdivision 7; 326B.0981, subdivision 4; 326B.103, by adding subdivisions; 326B.184, subdivisions 1a, 2; 326B.31, subdivision 29; 326B.33, subdivision 21; 326B.37, subdivisions 1, 2, 4, 5, 6, 8, 9, by adding a subdivision; 326B.43, by adding a subdivision; 326B.49, subdivisions 2, 3; 326B.986, subdivision 9; 327.31, subdivision 6; 327.32, subdivisions 1a, 1e, 7; 327.33, subdivisions 1, 2a, 2b, 2c, by adding subdivisions; 327B.04, subdivision 7a; 327B.041; 327B.05, subdivision 1; 469.54, subdivision 4; Laws 2023, chapter 53, article 15, section 33, subdivision 4, as amended; article 18, sections 2, subdivisions 1, 4; 3, subdivisions 1, 4, 5; article 20, section 2, subdivisions 2, as amended, 3, as amended; article 21, section 7, as amended; Laws 2023, chapter 64, article 15, section 30; Laws 2024, chapter 120, article 1, sections 2, subdivision 3; 4; Laws 2024, chapter 127, article 14, section 3; proposing coding for new law in Minnesota Statutes, chapters 116J; 326B; repealing Minnesota Statutes 2024, sections 116L.35; 116L.98, subdivision 7.",
+      "reason": null
+    }
+  ]
+}

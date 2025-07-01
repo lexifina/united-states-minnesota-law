@@ -1,0 +1,25 @@
+{
+  "act": "ch-193",
+  "day": "2025-07-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/193/full",
+  "statute_source_sha256": "8afe551e53daecf97a3eb0cce0d6cac1c99d0dd6cf139b849e608e240e8f9ada",
+  "latest_year": 2025,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2025/0/30/",
+      "source_sha256": "7212b5a3573ba8b6f9021cb9cdf1e3f197ad151c6ed57aca37e169b938c4dbb4",
+      "source_ref": "/laws/2025/0/30/#laws.2.5.0",
+      "citation": "2025 c 30 art 2 s 5",
+      "day": "2025-07-01",
+      "operative_clauses": [
+        "645.02 EFFECTIVE DATE AND TIME OF LAWS. Each act, except one making appropriations, enacted finally at any session of the legislature takes effect on August 1 next following its final enactment, unless a different date is specified in the act. A special law required to be approved by the local government unit affected before it goes into effect becomes effective as to the approving unit the day following the day on which the certificate of approval prescribed by section 645.021 is filed with the secretary of state, unless a later date is specified in the act. When approval of such a special law is required by two or more local government units before it may become effective, the day after the day when the last of the required certificates is filed is the effective date, unless a later date is specified in the act. An appropriation act or an act having appropriation items enacted finally at any session of the legislature takes effect at the beginning of the first day of July next following its final enactment, unless a different date is specified in the act. Each act takes effect at 12:01 a.m. on the day it becomes effective, unless a different time is specified in the act."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 23, 2025, 10:52 a.m."
+      ],
+      "act_title": "An act relating to state government; establishing a budget for the Department of Military Affairs and the Department of Veterans Affairs; modifying various veterans services and benefits provisions; modifying certain state active service provisions; providing for the state armory building commission; providing benefits to veterans of the Secret War in Laos; establishing a task force; requiring the commissioner of administration to place a memorial plaque honoring Gold Star and Blue Star families on State Capitol grounds; requiring reports; appropriating money; amending Minnesota Statutes 2024, sections 13.461, subdivision 27; 192.49, subdivisions 1, 2, by adding a subdivision; 193.143; 197.065; 197.236, subdivisions 8, 9; 197.608, subdivision 6; 197.75, subdivision 1; 197.791, subdivision 4; Laws 2023, chapter 38, article 1, section 3, subdivision 2, as amended; proposing coding for new law in Minnesota Statutes, chapter 197.",
+      "reason": null
+    }
+  ]
+}

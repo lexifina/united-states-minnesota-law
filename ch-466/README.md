@@ -1,24 +1,7 @@
 # Minnesota Statutes chapter 466 (Tort Liability, Political Subdivisions)
 
-Minn. Stat. ch. 466 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/466/full>
+Current-source text is recorded from 2025-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 466.01 | [466-010000.md](466-010000.md) | 0 |  |
-| 466.02 | [466-020000.md](466-020000.md) | 0 |  |
-| 466.03 | [466-030000.md](466-030000.md) | 0 |  |
-| 466.04 | [466-040000.md](466-040000.md) | 0 |  |
-| 466.05 | [466-050000.md](466-050000.md) | 0 |  |
-| 466.06 | [466-060000.md](466-060000.md) | 0 |  |
-| 466.07 | [466-070000.md](466-070000.md) | 0 |  |
-| 466.08 | [466-080000.md](466-080000.md) | 0 |  |
-| 466.09 | [466-090000.md](466-090000.md) | 0 |  |
-| 466.10 | [466-100000.md](466-100000.md) | 0 |  |
-| 466.101 | [466-101000.md](466-101000.md) | 0 |  |
-| 466.11 | [466-110000.md](466-110000.md) | 0 |  |
-| 466.12 | [466-120000.md](466-120000.md) | 0 |  |
-| 466.13 | [466-130000.md](466-130000.md) | 0 |  |
-| 466.131 | [466-131000.md](466-131000.md) | 0 |  |
-| 466.132 | [466-132000.md](466-132000.md) | 0 |  |
-| 466.14 | [466-140000.md](466-140000.md) | 0 |  |
-| 466.15 | [466-150000.md](466-150000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/466/full
+
+Operative clauses and source references: ../data/commencement/ch-466.json

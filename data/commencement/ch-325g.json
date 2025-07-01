@@ -1,0 +1,25 @@
+{
+  "act": "ch-325g",
+  "day": "2025-07-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/325G/full",
+  "statute_source_sha256": "f709bd083543221f738d6154560a4709613224f5cb859198c7e6eb7601f1a5c0",
+  "latest_year": 2025,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2025/1/4/",
+      "source_sha256": "352ceb577020b6c0ad0886fe17e80f8c12a504b813ec8ef28238df9104ed478f",
+      "source_ref": "/laws/2025/1/4/#laws.7.31.0",
+      "citation": "1Sp2025 c 4 art 7 s 31",
+      "day": "2025-07-01",
+      "operative_clauses": [
+        "EFFECTIVE DATE. This section is effective July 1, 2025, and applies to contracts entered into, modified, or renewed on or after that date."
+      ],
+      "signed_quote": [
+        "Signed by the governor June 14, 2025, 10:28 a.m."
+      ],
+      "act_title": "An act relating to commerce; establishing a budget for the Department of Commerce; appropriating and transferring money for other commerce and Office of Cannabis Management activities; adding, modifying, and eliminating various provisions governing financial institutions, insurance, insurance holding companies, Medicare supplement insurance, reinsurance, and commerce and consumer protection policy; modifying certain fees; authorizing administrative rulemaking; classifying certain data; requiring reports; making technical and conforming changes; amending Minnesota Statutes 2024, sections 41A.09, subdivision 2a; 45.027, subdivisions 1, 2, by adding a subdivision; 45.24; 46A.04; 47.20, subdivisions 2, 4a, 8; 47.77; 53B.61; 55.07, by adding a subdivision; 58B.02, subdivision 8a; 60A.052, subdivision 1; 60A.201, subdivision 2, by adding a subdivision; 60D.09, by adding a subdivision; 60D.15, subdivisions 4, 7, by adding subdivisions; 60D.16, subdivision 2; 60D.17, subdivision 1; 60D.18, subdivision 3; 60D.19, subdivision 4, by adding subdivisions; 60D.20, subdivision 1; 60D.217; 60D.22, subdivisions 1, 3, 6, by adding a subdivision; 60D.24, subdivision 2; 60D.25; 62A.31, subdivisions 1b, 1f, 1h, 1p, 1r, 1u, 4; 62A.44, subdivision 2; 62A.65, subdivisions 1, 2, by adding a subdivision; 62D.12, subdivisions 2, 2a; 62D.121, subdivision 1; 62D.221, by adding a subdivision; 62E.21, by adding subdivisions; 62E.23, subdivisions 2, 3, by adding subdivisions; 62E.24, subdivisions 1, 2; 62E.25, subdivision 1; 62J.26, subdivision 3, by adding a subdivision; 62Q.73, subdivision 4; 62V.06, subdivision 5; 65B.02, subdivision 7; 65B.05; 65B.06, subdivisions 1, 2, 3; 65B.10, subdivision 2; 72A.20, by adding a subdivision; 80A.58; 80A.65, subdivision 2, by adding a subdivision; 80A.66; 80E.12; 82.63, subdivision 2; 82B.19, subdivision 5; 168.27, by adding a subdivision; 216B.40; 216B.62, by adding a subdivision; 239.761, subdivisions 3, 4, 5, 6; 239.791, subdivision 11; 296A.01, subdivisions 20, 23, 24; 297I.20, by adding a subdivision; 297I.40, by adding a subdivision; 325E.3892, subdivisions 1, 2; 325F.072, subdivision 3; 325G.24, subdivision 2; 334.01, subdivision 2; 550.136, subdivision 3; 551.06, subdivision 3; 571.922; Laws 2023, chapter 63, article 9, section 5; proposing coding for new law in Minnesota Statutes, chapters 45; 60D; 216B; 237; 239; 325F; repealing Laws 2023, chapter 57, article 2, sections 13, as amended; 66, as amended.",
+      "reason": null
+    }
+  ]
+}

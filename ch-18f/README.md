@@ -1,12 +1,7 @@
 # Minnesota Statutes chapter 18F (Genetically Engineered Organisms)
 
-Minn. Stat. ch. 18F · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/18F/full>
+Current-source text is recorded from 2025-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 18F.01 | [18f-010000.md](18f-010000.md) | 0 |  |
-| 18F.02 | [18f-020000.md](18f-020000.md) | 0 |  |
-| 18F.04 | [18f-040000.md](18f-040000.md) | 0 |  |
-| 18F.07 | [18f-070000.md](18f-070000.md) | 0 |  |
-| 18F.12 | [18f-120000.md](18f-120000.md) | 0 |  |
-| 18F.13 | [18f-130000.md](18f-130000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/18F/full
+
+Operative clauses and source references: ../data/commencement/ch-18f.json

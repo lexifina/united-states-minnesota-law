@@ -1,0 +1,25 @@
+{
+  "act": "ch-398a",
+  "day": "2025-07-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/398A/full",
+  "statute_source_sha256": "3a413f8e0a2cddff439bc923259c154cd7618f3836c5751a5efc7c51c52d21fc",
+  "latest_year": 2025,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2025/1/8/",
+      "source_sha256": "22aa4213ddf783fc6a5b744b638744a1a5d48ba614d6dd822cd610d889833c3f",
+      "source_ref": "/laws/2025/1/8/#laws.2.91.0",
+      "citation": "1Sp2025 c 8 art 2 s 91",
+      "day": "2025-07-01",
+      "operative_clauses": [
+        "645.02 EFFECTIVE DATE AND TIME OF LAWS. Each act, except one making appropriations, enacted finally at any session of the legislature takes effect on August 1 next following its final enactment, unless a different date is specified in the act. A special law required to be approved by the local government unit affected before it goes into effect becomes effective as to the approving unit the day following the day on which the certificate of approval prescribed by section 645.021 is filed with the secretary of state, unless a later date is specified in the act. When approval of such a special law is required by two or more local government units before it may become effective, the day after the day when the last of the required certificates is filed is the effective date, unless a later date is specified in the act. An appropriation act or an act having appropriation items enacted finally at any session of the legislature takes effect at the beginning of the first day of July next following its final enactment, unless a different date is specified in the act. Each act takes effect at 12:01 a.m. on the day it becomes effective, unless a different time is specified in the act."
+      ],
+      "signed_quote": [
+        "Signed by the governor June 14, 2025, 10:29 a.m."
+      ],
+      "act_title": "An act relating to transportation; establishing a budget for transportation; appropriating money for transportation purposes, including Department of Transportation, Department of Public Safety, and Metropolitan Council activities; modifying various transportation finance and policy provisions; imposing and modifying certain taxes, including to establish a per-kilowatt hour tax on public electric vehicle charging, modify calculation of electric vehicle surcharge, and establish surcharge on plug-in hybrid electric vehicles; establishing electricity as vehicle fuel working group; requiring rulemaking; requiring various transportation and transit-related studies; requiring reports; transferring money; making technical and conforming changes; amending Minnesota Statutes 2024, sections 4.076, subdivisions 4, 5, by adding a subdivision; 13.6905, subdivision 8; 16A.88, subdivision 1a; 161.088, subdivision 4a; 161.115, subdivision 177; 161.14, by adding subdivisions; 161.178, subdivision 4; 168.002, subdivision 6; 168.013, subdivisions 1a, 1m, by adding a subdivision; 168.091; 168.27, subdivisions 8, 11, 16, 22; 168.33, by adding a subdivision; 168A.11, subdivision 1; 168E.01, by adding subdivisions; 168E.05, subdivision 1; 169.011, subdivision 36; 169.06, subdivision 5; 169.686, subdivision 1; 169.865, subdivisions 1a, 3; 169.974, subdivision 5; 171.01, by adding subdivisions; 171.05, subdivision 1; 171.0605, subdivision 2, by adding a subdivision; 171.061, by adding a subdivision; 171.0701, by adding a subdivision; 171.0705, by adding a subdivision; 171.071, subdivision 2; 171.13, subdivisions 1, 7, 8; 171.17, subdivision 1; 171.2405, subdivision 1; 171.301, subdivisions 1, as amended, 5, 6; 171.306, subdivisions 1, as amended, 4, as amended, 8; 174.07, subdivision 3; 174.38, subdivision 4; 174.49, subdivision 6, by adding a subdivision; 174.634, subdivision 2; 289A.51, subdivisions 1, 3, 4; 296A.01, by adding subdivisions; 296A.02, subdivision 3; 296A.06, subdivision 2; 296A.061; 296A.19; 296A.22, subdivision 3; 297A.94; 297A.9915, subdivisions 1, 4; 297A.993, subdivision 2a; 299A.55, subdivisions 2, 4; 360.511, by adding subdivisions; 360.55, subdivisions 4, 4a, 8, by adding a subdivision; 398A.04, by adding a subdivision; 473.129, by adding a subdivision; 473.13, subdivisions 1, 6; 473.142; 473.1425; 473.386, subdivision 10; 473.39, subdivision 6, by adding subdivisions; 473.408, by adding a subdivision; 473.412, subdivision 3; 473.4465, subdivisions 1, 2, 4, by adding subdivisions; Laws 2021, First Special Session chapter 5, article 1, section 2, subdivision 2, as amended; Laws 2021, First Special Session chapter 14, article 11, section 45; Laws 2023, chapter 60, article 10, section 9; Laws 2023, chapter 68, article 1, sections 2, subdivisions 2, 3; 17, subdivision 13; article 2, section 2, subdivision 9, as amended; article 4, section 109; Laws 2024, chapter 127, article 1, section 2, subdivision 3; Laws 2025, chapter 29, section 13, subdivisions 5, 6; proposing coding for new law in Minnesota Statutes, chapters 137; 162; 168; 168A; 171; 174; 296A; repealing Minnesota Statutes 2024, section 473.452.",
+      "reason": null
+    }
+  ]
+}

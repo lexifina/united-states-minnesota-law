@@ -1,20 +1,7 @@
 # Minnesota Statutes chapter 473F (Metropolitan Revenue Distribution)
 
-Minn. Stat. ch. 473F · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/473F/full>
+Current-source text is recorded from 2025-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 473F.001 | [473f-001000.md](473f-001000.md) | 0 |  |
-| 473F.01 | [473f-010000.md](473f-010000.md) | 0 |  |
-| 473F.02 | [473f-020000.md](473f-020000.md) | 0 |  |
-| 473F.03 | [473f-030000.md](473f-030000.md) | 0 |  |
-| 473F.04 | [473f-040000.md](473f-040000.md) | 0 |  |
-| 473F.05 | [473f-050000.md](473f-050000.md) | 0 |  |
-| 473F.06 | [473f-060000.md](473f-060000.md) | 0 |  |
-| 473F.07 | [473f-070000.md](473f-070000.md) | 0 |  |
-| 473F.08 | [473f-080000.md](473f-080000.md) | 0 |  |
-| 473F.09 | [473f-090000.md](473f-090000.md) | 0 |  |
-| 473F.10 | [473f-100000.md](473f-100000.md) | 0 |  |
-| 473F.11 | [473f-110000.md](473f-110000.md) | 0 |  |
-| 473F.12 | [473f-120000.md](473f-120000.md) | 0 |  |
-| 473F.13 | [473f-130000.md](473f-130000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/473F/full
+
+Operative clauses and source references: ../data/commencement/ch-473f.json

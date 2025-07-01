@@ -1,28 +1,7 @@
 # Minnesota Statutes chapter 232 (Grain Storage)
 
-Minn. Stat. ch. 232 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/232/full>
+Current-source text is recorded from 2025-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 232.03 | [232-030000.md](232-030000.md) | 0 |  |
-| 232.04 | [232-040000.md](232-040000.md) | 0 |  |
-| 232.05 | [232-050000.md](232-050000.md) | 0 |  |
-| 232.07 | [232-070000.md](232-070000.md) | 0 |  |
-| 232.08 | [232-080000.md](232-080000.md) | 0 |  |
-| 232.09 | [232-090000.md](232-090000.md) | 0 |  |
-| 232.10 | [232-100000.md](232-100000.md) | 0 |  |
-| 232.11 | [232-110000.md](232-110000.md) | 0 |  |
-| 232.12 | [232-120000.md](232-120000.md) | 0 |  |
-| 232.13 | [232-130000.md](232-130000.md) | 0 |  |
-| 232.14 | [232-140000.md](232-140000.md) | 0 |  |
-| 232.15 | [232-150000.md](232-150000.md) | 0 |  |
-| 232.16 | [232-160000.md](232-160000.md) | 0 |  |
-| 232.17 | [232-170000.md](232-170000.md) | 0 |  |
-| 232.18 | [232-180000.md](232-180000.md) | 0 |  |
-| 232.19 | [232-190000.md](232-190000.md) | 0 |  |
-| 232.20 | [232-200000.md](232-200000.md) | 0 |  |
-| 232.21 | [232-210000.md](232-210000.md) | 0 |  |
-| 232.22 | [232-220000.md](232-220000.md) | 0 |  |
-| 232.23 | [232-230000.md](232-230000.md) | 0 |  |
-| 232.24 | [232-240000.md](232-240000.md) | 0 |  |
-| 232.25 | [232-250000.md](232-250000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/232/full
+
+Operative clauses and source references: ../data/commencement/ch-232.json

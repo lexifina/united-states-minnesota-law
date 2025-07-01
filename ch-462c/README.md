@@ -1,23 +1,7 @@
 # Minnesota Statutes chapter 462C (Municipal Housing)
 
-Minn. Stat. ch. 462C · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/462C/full>
+Current-source text is recorded from 2025-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 462C.001 | [462c-001000.md](462c-001000.md) | 0 |  |
-| 462C.01 | [462c-010000.md](462c-010000.md) | 0 |  |
-| 462C.02 | [462c-020000.md](462c-020000.md) | 0 |  |
-| 462C.03 | [462c-030000.md](462c-030000.md) | 0 |  |
-| 462C.04 | [462c-040000.md](462c-040000.md) | 0 |  |
-| 462C.05 | [462c-050000.md](462c-050000.md) | 0 |  |
-| 462C.06 | [462c-060000.md](462c-060000.md) | 0 |  |
-| 462C.07 | [462c-070000.md](462c-070000.md) | 0 |  |
-| 462C.071 | [462c-071000.md](462c-071000.md) | 0 |  |
-| 462C.08 | [462c-080000.md](462c-080000.md) | 0 |  |
-| 462C.10 | [462c-100000.md](462c-100000.md) | 0 |  |
-| 462C.11 | [462c-110000.md](462c-110000.md) | 0 |  |
-| 462C.12 | [462c-120000.md](462c-120000.md) | 0 |  |
-| 462C.13 | [462c-130000.md](462c-130000.md) | 0 |  |
-| 462C.14 | [462c-140000.md](462c-140000.md) | 0 |  |
-| 462C.15 | [462c-150000.md](462c-150000.md) | 0 |  |
-| 462C.16 | [462c-160000.md](462c-160000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/462C/full
+
+Operative clauses and source references: ../data/commencement/ch-462c.json

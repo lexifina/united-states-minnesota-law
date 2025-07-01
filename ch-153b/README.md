@@ -1,22 +1,7 @@
 # Minnesota Statutes chapter 153B (Orthotics, Prosthetics, and Pedorthics)
 
-Minn. Stat. ch. 153B · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/153B/full>
+Current-source text is recorded from 2025-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 153B.10 | [153b-100000.md](153b-100000.md) | 0 |  |
-| 153B.15 | [153b-150000.md](153b-150000.md) | 0 |  |
-| 153B.20 | [153b-200000.md](153b-200000.md) | 0 |  |
-| 153B.25 | [153b-250000.md](153b-250000.md) | 0 |  |
-| 153B.30 | [153b-300000.md](153b-300000.md) | 0 |  |
-| 153B.35 | [153b-350000.md](153b-350000.md) | 0 |  |
-| 153B.40 | [153b-400000.md](153b-400000.md) | 0 |  |
-| 153B.45 | [153b-450000.md](153b-450000.md) | 0 |  |
-| 153B.50 | [153b-500000.md](153b-500000.md) | 0 |  |
-| 153B.55 | [153b-550000.md](153b-550000.md) | 0 |  |
-| 153B.60 | [153b-600000.md](153b-600000.md) | 0 |  |
-| 153B.65 | [153b-650000.md](153b-650000.md) | 0 |  |
-| 153B.70 | [153b-700000.md](153b-700000.md) | 0 |  |
-| 153B.75 | [153b-750000.md](153b-750000.md) | 0 |  |
-| 153B.80 | [153b-800000.md](153b-800000.md) | 0 |  |
-| 153B.85 | [153b-850000.md](153b-850000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/153B/full
+
+Operative clauses and source references: ../data/commencement/ch-153b.json

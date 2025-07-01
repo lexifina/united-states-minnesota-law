@@ -1,22 +1,7 @@
 # Minnesota Statutes chapter 248 (Blind; Education, Rehabilitation)
 
-Minn. Stat. ch. 248 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/248/full>
+Current-source text is recorded from 2025-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 248.001 | [248-001000.md](248-001000.md) | 0 |  |
-| 248.01 | [248-010000.md](248-010000.md) | 0 |  |
-| 248.011 | [248-011000.md](248-011000.md) | 0 |  |
-| 248.02 | [248-020000.md](248-020000.md) | 0 |  |
-| 248.03 | [248-030000.md](248-030000.md) | 0 |  |
-| 248.04 | [248-040000.md](248-040000.md) | 0 |  |
-| 248.05 | [248-050000.md](248-050000.md) | 0 |  |
-| 248.06 | [248-060000.md](248-060000.md) | 0 |  |
-| 248.061 | [248-061000.md](248-061000.md) | 0 |  |
-| 248.062 | [248-062000.md](248-062000.md) | 0 |  |
-| 248.07 | [248-070000.md](248-070000.md) | 0 |  |
-| 248.075 | [248-075000.md](248-075000.md) | 0 |  |
-| 248.08 | [248-080000.md](248-080000.md) | 0 |  |
-| 248.09 | [248-090000.md](248-090000.md) | 0 |  |
-| 248.10 | [248-100000.md](248-100000.md) | 0 |  |
-| 248.11 | [248-110000.md](248-110000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/248/full
+
+Operative clauses and source references: ../data/commencement/ch-248.json

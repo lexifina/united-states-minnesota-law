@@ -1,34 +1,7 @@
 # Minnesota Statutes chapter 62C (Nonprofit Health Service Plan Corporations)
 
-Minn. Stat. ch. 62C · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/62C/full>
+Current-source text is recorded from 2025-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 62C.001 | [62c-001000.md](62c-001000.md) | 0 |  |
-| 62C.01 | [62c-010000.md](62c-010000.md) | 0 |  |
-| 62C.02 | [62c-020000.md](62c-020000.md) | 0 |  |
-| 62C.03 | [62c-030000.md](62c-030000.md) | 0 |  |
-| 62C.04 | [62c-040000.md](62c-040000.md) | 0 |  |
-| 62C.045 | [62c-045000.md](62c-045000.md) | 0 |  |
-| 62C.05 | [62c-050000.md](62c-050000.md) | 0 |  |
-| 62C.06 | [62c-060000.md](62c-060000.md) | 0 |  |
-| 62C.07 | [62c-070000.md](62c-070000.md) | 0 |  |
-| 62C.08 | [62c-080000.md](62c-080000.md) | 0 |  |
-| 62C.09 | [62c-090000.md](62c-090000.md) | 0 |  |
-| 62C.10 | [62c-100000.md](62c-100000.md) | 0 |  |
-| 62C.11 | [62c-110000.md](62c-110000.md) | 0 |  |
-| 62C.12 | [62c-120000.md](62c-120000.md) | 0 |  |
-| 62C.13 | [62c-130000.md](62c-130000.md) | 0 |  |
-| 62C.14 | [62c-140000.md](62c-140000.md) | 0 |  |
-| 62C.141 | [62c-141000.md](62c-141000.md) | 0 |  |
-| 62C.142 | [62c-142000.md](62c-142000.md) | 0 |  |
-| 62C.143 | [62c-143000.md](62c-143000.md) | 0 |  |
-| 62C.15 | [62c-150000.md](62c-150000.md) | 0 |  |
-| 62C.16 | [62c-160000.md](62c-160000.md) | 0 |  |
-| 62C.17 | [62c-170000.md](62c-170000.md) | 0 |  |
-| 62C.18 | [62c-180000.md](62c-180000.md) | 0 |  |
-| 62C.19 | [62c-190000.md](62c-190000.md) | 0 |  |
-| 62C.20 | [62c-200000.md](62c-200000.md) | 0 |  |
-| 62C.21 | [62c-210000.md](62c-210000.md) | 0 |  |
-| 62C.22 | [62c-220000.md](62c-220000.md) | 0 |  |
-| 62C.23 | [62c-230000.md](62c-230000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/62C/full
+
+Operative clauses and source references: ../data/commencement/ch-62c.json

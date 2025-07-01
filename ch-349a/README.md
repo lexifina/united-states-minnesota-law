@@ -1,23 +1,7 @@
 # Minnesota Statutes chapter 349A (State Lottery)
 
-Minn. Stat. ch. 349A · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/349A/full>
+Current-source text is recorded from 2025-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 349A.01 | [349a-010000.md](349a-010000.md) | 0 |  |
-| 349A.02 | [349a-020000.md](349a-020000.md) | 0 |  |
-| 349A.03 | [349a-030000.md](349a-030000.md) | 0 |  |
-| 349A.04 | [349a-040000.md](349a-040000.md) | 0 |  |
-| 349A.05 | [349a-050000.md](349a-050000.md) | 0 |  |
-| 349A.06 | [349a-060000.md](349a-060000.md) | 0 |  |
-| 349A.07 | [349a-070000.md](349a-070000.md) | 0 |  |
-| 349A.08 | [349a-080000.md](349a-080000.md) | 0 |  |
-| 349A.09 | [349a-090000.md](349a-090000.md) | 0 |  |
-| 349A.10 | [349a-100000.md](349a-100000.md) | 0 |  |
-| 349A.11 | [349a-110000.md](349a-110000.md) | 0 |  |
-| 349A.12 | [349a-120000.md](349a-120000.md) | 0 |  |
-| 349A.13 | [349a-130000.md](349a-130000.md) | 0 |  |
-| 349A.14 | [349a-140000.md](349a-140000.md) | 0 |  |
-| 349A.15 | [349a-150000.md](349a-150000.md) | 0 |  |
-| 349A.16 | [349a-160000.md](349a-160000.md) | 0 |  |
-| 349A.20 | [349a-200000.md](349a-200000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/349A/full
+
+Operative clauses and source references: ../data/commencement/ch-349a.json

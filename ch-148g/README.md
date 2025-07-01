@@ -1,27 +1,7 @@
 # Minnesota Statutes chapter 148G (Licensed Certified Midwives)
 
-Minn. Stat. ch. 148G · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/148G/full>
+Current-source text is recorded from 2025-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 148G.01 | [148g-010000.md](148g-010000.md) | 0 |  |
-| 148G.02 | [148g-020000.md](148g-020000.md) | 0 |  |
-| 148G.03 | [148g-030000.md](148g-030000.md) | 0 |  |
-| 148G.04 | [148g-040000.md](148g-040000.md) | 0 |  |
-| 148G.05 | [148g-050000.md](148g-050000.md) | 0 |  |
-| 148G.06 | [148g-060000.md](148g-060000.md) | 0 |  |
-| 148G.07 | [148g-070000.md](148g-070000.md) | 0 |  |
-| 148G.08 | [148g-080000.md](148g-080000.md) | 0 |  |
-| 148G.09 | [148g-090000.md](148g-090000.md) | 0 |  |
-| 148G.10 | [148g-100000.md](148g-100000.md) | 0 |  |
-| 148G.11 | [148g-110000.md](148g-110000.md) | 0 |  |
-| 148G.12 | [148g-120000.md](148g-120000.md) | 0 |  |
-| 148G.13 | [148g-130000.md](148g-130000.md) | 0 |  |
-| 148G.14 | [148g-140000.md](148g-140000.md) | 0 |  |
-| 148G.15 | [148g-150000.md](148g-150000.md) | 0 |  |
-| 148G.16 | [148g-160000.md](148g-160000.md) | 0 |  |
-| 148G.17 | [148g-170000.md](148g-170000.md) | 0 |  |
-| 148G.18 | [148g-180000.md](148g-180000.md) | 0 |  |
-| 148G.19 | [148g-190000.md](148g-190000.md) | 0 |  |
-| 148G.20 | [148g-200000.md](148g-200000.md) | 0 |  |
-| 148G.21 | [148g-210000.md](148g-210000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/148G/full
+
+Operative clauses and source references: ../data/commencement/ch-148g.json

@@ -1,24 +1,7 @@
 # Minnesota Statutes chapter 15D (Health and Education Facilities Authority)
 
-Minn. Stat. ch. 15D · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/15D/full>
+Current-source text is recorded from 2025-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 15D.01 | [15d-010000.md](15d-010000.md) | 0 |  |
-| 15D.02 | [15d-020000.md](15d-020000.md) | 0 |  |
-| 15D.03 | [15d-030000.md](15d-030000.md) | 0 |  |
-| 15D.04 | [15d-040000.md](15d-040000.md) | 0 |  |
-| 15D.05 | [15d-050000.md](15d-050000.md) | 0 |  |
-| 15D.06 | [15d-060000.md](15d-060000.md) | 0 |  |
-| 15D.07 | [15d-070000.md](15d-070000.md) | 0 |  |
-| 15D.08 | [15d-080000.md](15d-080000.md) | 0 |  |
-| 15D.09 | [15d-090000.md](15d-090000.md) | 0 |  |
-| 15D.10 | [15d-100000.md](15d-100000.md) | 0 |  |
-| 15D.11 | [15d-110000.md](15d-110000.md) | 0 |  |
-| 15D.12 | [15d-120000.md](15d-120000.md) | 0 |  |
-| 15D.13 | [15d-130000.md](15d-130000.md) | 0 |  |
-| 15D.14 | [15d-140000.md](15d-140000.md) | 0 |  |
-| 15D.15 | [15d-150000.md](15d-150000.md) | 0 |  |
-| 15D.16 | [15d-160000.md](15d-160000.md) | 0 |  |
-| 15D.17 | [15d-170000.md](15d-170000.md) | 0 |  |
-| 15D.18 | [15d-180000.md](15d-180000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/15D/full
+
+Operative clauses and source references: ../data/commencement/ch-15d.json

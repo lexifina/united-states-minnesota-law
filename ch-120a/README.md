@@ -1,30 +1,7 @@
 # Minnesota Statutes chapter 120A (Education Code; Attendance; School Calendar)
 
-Minn. Stat. ch. 120A · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/120A/full>
+Current-source text is recorded from 2025-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 120A.01 | [120a-010000.md](120a-010000.md) | 0 |  |
-| 120A.02 | [120a-020000.md](120a-020000.md) | 0 |  |
-| 120A.03 | [120a-030000.md](120a-030000.md) | 0 |  |
-| 120A.05 | [120a-050000.md](120a-050000.md) | 0 |  |
-| 120A.10 | [120a-100000.md](120a-100000.md) | 0 |  |
-| 120A.20 | [120a-200000.md](120a-200000.md) | 0 |  |
-| 120A.21 | [120a-210000.md](120a-210000.md) | 0 |  |
-| 120A.22 | [120a-220000.md](120a-220000.md) | 0 |  |
-| 120A.24 | [120a-240000.md](120a-240000.md) | 0 |  |
-| 120A.26 | [120a-260000.md](120a-260000.md) | 0 |  |
-| 120A.28 | [120a-280000.md](120a-280000.md) | 0 |  |
-| 120A.30 | [120a-300000.md](120a-300000.md) | 0 |  |
-| 120A.32 | [120a-320000.md](120a-320000.md) | 0 |  |
-| 120A.34 | [120a-340000.md](120a-340000.md) | 0 |  |
-| 120A.35 | [120a-350000.md](120a-350000.md) | 0 |  |
-| 120A.36 | [120a-360000.md](120a-360000.md) | 0 |  |
-| 120A.37 | [120a-370000.md](120a-370000.md) | 0 |  |
-| 120A.38 | [120a-380000.md](120a-380000.md) | 0 |  |
-| 120A.40 | [120a-400000.md](120a-400000.md) | 0 |  |
-| 120A.41 | [120a-410000.md](120a-410000.md) | 0 |  |
-| 120A.414 | [120a-414000.md](120a-414000.md) | 0 |  |
-| 120A.415 | [120a-415000.md](120a-415000.md) | 0 |  |
-| 120A.416 | [120a-416000.md](120a-416000.md) | 0 |  |
-| 120A.42 | [120a-420000.md](120a-420000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/120A/full
+
+Operative clauses and source references: ../data/commencement/ch-120a.json

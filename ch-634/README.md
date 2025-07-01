@@ -1,27 +1,7 @@
 # Minnesota Statutes chapter 634 (Evidence; Witnesses)
 
-Minn. Stat. ch. 634 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/634/full>
+Current-source text is recorded from 2025-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 634.01 | [634-010000.md](634-010000.md) | 0 |  |
-| 634.02 | [634-020000.md](634-020000.md) | 0 |  |
-| 634.025 | [634-025000.md](634-025000.md) | 0 |  |
-| 634.03 | [634-030000.md](634-030000.md) | 0 |  |
-| 634.031 | [634-031000.md](634-031000.md) | 0 |  |
-| 634.04 | [634-040000.md](634-040000.md) | 0 |  |
-| 634.045 | [634-045000.md](634-045000.md) | 0 |  |
-| 634.05 | [634-050000.md](634-050000.md) | 0 |  |
-| 634.051 | [634-051000.md](634-051000.md) | 0 |  |
-| 634.06 | [634-060000.md](634-060000.md) | 0 |  |
-| 634.07 | [634-070000.md](634-070000.md) | 0 |  |
-| 634.08 | [634-080000.md](634-080000.md) | 0 |  |
-| 634.09 | [634-090000.md](634-090000.md) | 0 |  |
-| 634.15 | [634-150000.md](634-150000.md) | 0 |  |
-| 634.16 | [634-160000.md](634-160000.md) | 0 |  |
-| 634.20 | [634-200000.md](634-200000.md) | 0 |  |
-| 634.25 | [634-250000.md](634-250000.md) | 0 |  |
-| 634.26 | [634-260000.md](634-260000.md) | 0 |  |
-| 634.30 | [634-300000.md](634-300000.md) | 0 |  |
-| 634.35 | [634-350000.md](634-350000.md) | 0 |  |
-| 634.36 | [634-360000.md](634-360000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/634/full
+
+Operative clauses and source references: ../data/commencement/ch-634.json

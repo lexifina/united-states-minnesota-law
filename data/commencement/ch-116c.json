@@ -1,0 +1,25 @@
+{
+  "act": "ch-116c",
+  "day": "2025-07-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/116C/full",
+  "statute_source_sha256": "2aae33e77eb4e22079a16ecf6194be3b40de351394358e21316006b36be40cac",
+  "latest_year": 2025,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2025/1/7/",
+      "source_sha256": "6238470802aaac0d33df9fc3ca2268e7e9b2becce39379822ebfd4cc88bfd748",
+      "source_ref": "/laws/2025/1/7/#laws.3.1.0",
+      "citation": "1Sp2025 c 7 art 3 s 1",
+      "day": "2025-07-01",
+      "operative_clauses": [
+        "645.02 EFFECTIVE DATE AND TIME OF LAWS. Each act, except one making appropriations, enacted finally at any session of the legislature takes effect on August 1 next following its final enactment, unless a different date is specified in the act. A special law required to be approved by the local government unit affected before it goes into effect becomes effective as to the approving unit the day following the day on which the certificate of approval prescribed by section 645.021 is filed with the secretary of state, unless a later date is specified in the act. When approval of such a special law is required by two or more local government units before it may become effective, the day after the day when the last of the required certificates is filed is the effective date, unless a later date is specified in the act. An appropriation act or an act having appropriation items enacted finally at any session of the legislature takes effect at the beginning of the first day of July next following its final enactment, unless a different date is specified in the act. Each act takes effect at 12:01 a.m. on the day it becomes effective, unless a different time is specified in the act."
+      ],
+      "signed_quote": [
+        "Signed by the governor June 14, 2025, 10:28 a.m."
+      ],
+      "act_title": "An act relating to energy; appropriating and transferring money for energy and renewable development account programs and activities; modifying, modernizing, and making technical changes to various provisions governing energy policy; authorizing natural gas utilities to sell extraordinary event bonds under certain circumstances; amending Minnesota Statutes 2024, sections 116C.7792; 216B.16, subdivisions 7b, 14, 15, by adding a subdivision; 216B.2402, subdivision 16; 216B.2421, subdivision 2; 216B.62, subdivision 3, by adding a subdivision; 216C.09; 216C.10; 216C.11; 216C.12; 216C.391, subdivisions 1, 2, 3; 216C.47, subdivision 1; Laws 2023, chapter 60, article 10, section 2, subdivision 2, as amended; article 11, sections 2, subdivision 3; 3; Laws 2024, chapter 126, article 6, section 53; proposing coding for new law in Minnesota Statutes, chapter 216B.",
+      "reason": null
+    }
+  ]
+}

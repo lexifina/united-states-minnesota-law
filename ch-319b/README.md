@@ -1,19 +1,7 @@
 # Minnesota Statutes chapter 319B (Professional Firms)
 
-Minn. Stat. ch. 319B · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/319B/full>
+Current-source text is recorded from 2025-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 319B.01 | [319b-010000.md](319b-010000.md) | 0 |  |
-| 319B.02 | [319b-020000.md](319b-020000.md) | 0 |  |
-| 319B.03 | [319b-030000.md](319b-030000.md) | 0 |  |
-| 319B.04 | [319b-040000.md](319b-040000.md) | 0 |  |
-| 319B.05 | [319b-050000.md](319b-050000.md) | 0 |  |
-| 319B.06 | [319b-060000.md](319b-060000.md) | 0 |  |
-| 319B.07 | [319b-070000.md](319b-070000.md) | 0 |  |
-| 319B.08 | [319b-080000.md](319b-080000.md) | 0 |  |
-| 319B.09 | [319b-090000.md](319b-090000.md) | 0 |  |
-| 319B.10 | [319b-100000.md](319b-100000.md) | 0 |  |
-| 319B.11 | [319b-110000.md](319b-110000.md) | 0 |  |
-| 319B.12 | [319b-120000.md](319b-120000.md) | 0 |  |
-| 319B.40 | [319b-400000.md](319b-400000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/319B/full
+
+Operative clauses and source references: ../data/commencement/ch-319b.json
