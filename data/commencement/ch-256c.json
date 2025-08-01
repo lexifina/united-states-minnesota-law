@@ -1,0 +1,25 @@
+{
+  "act": "ch-256c",
+  "day": "2025-08-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/256C/full",
+  "statute_source_sha256": "3809f9825cd440a0da983fc5493c09fadd117582eb02ae6de307707a1096a67f",
+  "latest_year": 2025,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2025/0/16/",
+      "source_sha256": "18df69e84762652dc81bbda0fe3d53f8ee66f637fb91f7213a4679560ce20c2c",
+      "source_ref": "/laws/2025/0/16/#laws.0.1.0",
+      "citation": "2025 c 16 s 1",
+      "day": "2025-08-01",
+      "operative_clauses": [
+        "645.02 EFFECTIVE DATE AND TIME OF LAWS. Each act, except one making appropriations, enacted finally at any session of the legislature takes effect on August 1 next following its final enactment, unless a different date is specified in the act. A special law required to be approved by the local government unit affected before it goes into effect becomes effective as to the approving unit the day following the day on which the certificate of approval prescribed by section 645.021 is filed with the secretary of state, unless a later date is specified in the act. When approval of such a special law is required by two or more local government units before it may become effective, the day after the day when the last of the required certificates is filed is the effective date, unless a later date is specified in the act. An appropriation act or an act having appropriation items enacted finally at any session of the legislature takes effect at the beginning of the first day of July next following its final enactment, unless a different date is specified in the act. Each act takes effect at 12:01 a.m. on the day it becomes effective, unless a different time is specified in the act."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 8, 2025, 9:47 a.m."
+      ],
+      "act_title": "An act relating to human services; modifying service dog provisions in housing accommodations for persons with disabilities; amending Minnesota Statutes 2024, section 256C.025, subdivision 2, by adding a subdivision.",
+      "reason": null
+    }
+  ]
+}

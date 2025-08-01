@@ -1,26 +1,7 @@
 # Minnesota Statutes chapter 256C (Persons with Disabilities)
 
-Minn. Stat. ch. 256C · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/256C/full>
+Current-source text is recorded from 2025-08-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 256C.001 | [256c-001000.md](256c-001000.md) | 0 |  |
-| 256C.01 | [256c-010000.md](256c-010000.md) | 0 |  |
-| 256C.02 | [256c-020000.md](256c-020000.md) | 0 |  |
-| 256C.025 | [256c-025000.md](256c-025000.md) | 0 |  |
-| 256C.03 | [256c-030000.md](256c-030000.md) | 0 |  |
-| 256C.04 | [256c-040000.md](256c-040000.md) | 0 |  |
-| 256C.05 | [256c-050000.md](256c-050000.md) | 0 |  |
-| 256C.06 | [256c-060000.md](256c-060000.md) | 0 |  |
-| 256C.21 | [256c-210000.md](256c-210000.md) | 0 |  |
-| 256C.22 | [256c-220000.md](256c-220000.md) | 0 |  |
-| 256C.23 | [256c-230000.md](256c-230000.md) | 0 |  |
-| 256C.233 | [256c-233000.md](256c-233000.md) | 0 |  |
-| 256C.24 | [256c-240000.md](256c-240000.md) | 0 |  |
-| 256C.25 | [256c-250000.md](256c-250000.md) | 0 |  |
-| 256C.26 | [256c-260000.md](256c-260000.md) | 0 |  |
-| 256C.261 | [256c-261000.md](256c-261000.md) | 0 |  |
-| 256C.27 | [256c-270000.md](256c-270000.md) | 0 |  |
-| 256C.28 | [256c-280000.md](256c-280000.md) | 0 |  |
-| 256C.29 | [256c-290000.md](256c-290000.md) | 0 |  |
-| 256C.30 | [256c-300000.md](256c-300000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/256C/full
+
+Operative clauses and source references: ../data/commencement/ch-256c.json

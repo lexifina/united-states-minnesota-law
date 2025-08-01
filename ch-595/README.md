@@ -1,20 +1,7 @@
 # Minnesota Statutes chapter 595 (Witnesses)
 
-Minn. Stat. ch. 595 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/595/full>
+Current-source text is recorded from 2025-08-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 595.001 | [595-001000.md](595-001000.md) | 0 |  |
-| 595.01 | [595-010000.md](595-010000.md) | 0 |  |
-| 595.02 | [595-020000.md](595-020000.md) | 0 |  |
-| 595.021 | [595-021000.md](595-021000.md) | 0 |  |
-| 595.022 | [595-022000.md](595-022000.md) | 0 |  |
-| 595.023 | [595-023000.md](595-023000.md) | 0 |  |
-| 595.024 | [595-024000.md](595-024000.md) | 0 |  |
-| 595.025 | [595-025000.md](595-025000.md) | 0 |  |
-| 595.03 | [595-030000.md](595-030000.md) | 0 |  |
-| 595.04 | [595-040000.md](595-040000.md) | 0 |  |
-| 595.05 | [595-050000.md](595-050000.md) | 0 |  |
-| 595.06 | [595-060000.md](595-060000.md) | 0 |  |
-| 595.07 | [595-070000.md](595-070000.md) | 0 |  |
-| 595.08 | [595-080000.md](595-080000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/595/full
+
+Operative clauses and source references: ../data/commencement/ch-595.json

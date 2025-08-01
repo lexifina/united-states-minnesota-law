@@ -1,0 +1,25 @@
+{
+  "act": "ch-501a",
+  "day": "2025-08-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/501A/full",
+  "statute_source_sha256": "879e3ab4dde72461b1704d112e8fbec7bfdff8038568ec17c05d6cfe79b9100a",
+  "latest_year": 2025,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2025/0/15/",
+      "source_sha256": "aa5cdeb49feca2c5f40a007180556ccd8ac9e4fc9a9b9cee8ef5ae08cc7bb23f",
+      "source_ref": "/laws/2025/0/15/#laws.0.1.0",
+      "citation": "2025 c 15 s 1",
+      "day": "2025-08-01",
+      "operative_clauses": [
+        "645.02 EFFECTIVE DATE AND TIME OF LAWS. Each act, except one making appropriations, enacted finally at any session of the legislature takes effect on August 1 next following its final enactment, unless a different date is specified in the act. A special law required to be approved by the local government unit affected before it goes into effect becomes effective as to the approving unit the day following the day on which the certificate of approval prescribed by section 645.021 is filed with the secretary of state, unless a later date is specified in the act. When approval of such a special law is required by two or more local government units before it may become effective, the day after the day when the last of the required certificates is filed is the effective date, unless a later date is specified in the act. An appropriation act or an act having appropriation items enacted finally at any session of the legislature takes effect at the beginning of the first day of July next following its final enactment, unless a different date is specified in the act. Each act takes effect at 12:01 a.m. on the day it becomes effective, unless a different time is specified in the act."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 6, 2025, 9:43 a.m."
+      ],
+      "act_title": "An act relating to trusts; modifying various provisions of the Uniform Trust Code, Powers of Appointment, and the Uniform Probate Code; making technical, clarifying, and conforming changes; amending Minnesota Statutes 2024, sections 501A.01; 501C.0301; 501C.0302; 501C.0407; 501C.0411; 501C.0414; 501C.0602; 501C.0605; 501C.0701; 501C.0808, subdivisions 1, 2, 3, 4, 5, 6, 8, by adding a subdivision; 501C.1013, subdivision 4; 501C.1014, by adding a subdivision; 501C.1105, subdivision 1, by adding a subdivision; 502.851, subdivisions 1, 2, 3, 4, 11, 15, 16; 524.2-114; 524.2-804, subdivision 1.",
+      "reason": null
+    }
+  ]
+}
