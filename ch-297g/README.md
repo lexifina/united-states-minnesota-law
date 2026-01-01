@@ -1,30 +1,7 @@
 # Minnesota Statutes chapter 297G (Liquor Taxation)
 
-Minn. Stat. ch. 297G · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/297G/full>
+Current-source text is recorded from 2026-01-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 297G.01 | [297g-010000.md](297g-010000.md) | 0 |  |
-| 297G.02 | [297g-020000.md](297g-020000.md) | 0 |  |
-| 297G.03 | [297g-030000.md](297g-030000.md) | 0 |  |
-| 297G.031 | [297g-031000.md](297g-031000.md) | 0 |  |
-| 297G.032 | [297g-032000.md](297g-032000.md) | 0 |  |
-| 297G.04 | [297g-040000.md](297g-040000.md) | 0 |  |
-| 297G.05 | [297g-050000.md](297g-050000.md) | 0 |  |
-| 297G.06 | [297g-060000.md](297g-060000.md) | 0 |  |
-| 297G.07 | [297g-070000.md](297g-070000.md) | 0 |  |
-| 297G.08 | [297g-080000.md](297g-080000.md) | 0 |  |
-| 297G.09 | [297g-090000.md](297g-090000.md) | 0 |  |
-| 297G.10 | [297g-100000.md](297g-100000.md) | 0 |  |
-| 297G.11 | [297g-110000.md](297g-110000.md) | 0 |  |
-| 297G.12 | [297g-120000.md](297g-120000.md) | 0 |  |
-| 297G.13 | [297g-130000.md](297g-130000.md) | 0 |  |
-| 297G.14 | [297g-140000.md](297g-140000.md) | 0 |  |
-| 297G.15 | [297g-150000.md](297g-150000.md) | 0 |  |
-| 297G.16 | [297g-160000.md](297g-160000.md) | 0 |  |
-| 297G.17 | [297g-170000.md](297g-170000.md) | 0 |  |
-| 297G.18 | [297g-180000.md](297g-180000.md) | 0 |  |
-| 297G.19 | [297g-190000.md](297g-190000.md) | 0 |  |
-| 297G.20 | [297g-200000.md](297g-200000.md) | 0 |  |
-| 297G.21 | [297g-210000.md](297g-210000.md) | 0 |  |
-| 297G.22 | [297g-220000.md](297g-220000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/297G/full
+
+Operative clauses and source references: ../data/commencement/ch-297g.json
