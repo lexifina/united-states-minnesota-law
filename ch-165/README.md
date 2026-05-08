@@ -1,22 +1,7 @@
 # Minnesota Statutes chapter 165 (Bridges)
 
-Minn. Stat. ch. 165 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/165/full>
+Current-source text is recorded from 2026-05-08, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 165.01 | [165-010000.md](165-010000.md) | 0 |  |
-| 165.02 | [165-020000.md](165-020000.md) | 0 |  |
-| 165.03 | [165-030000.md](165-030000.md) | 0 |  |
-| 165.04 | [165-040000.md](165-040000.md) | 0 |  |
-| 165.05 | [165-050000.md](165-050000.md) | 0 |  |
-| 165.06 | [165-060000.md](165-060000.md) | 0 |  |
-| 165.07 | [165-070000.md](165-070000.md) | 0 |  |
-| 165.08 | [165-080000.md](165-080000.md) | 0 |  |
-| 165.09 | [165-090000.md](165-090000.md) | 0 |  |
-| 165.10 | [165-100000.md](165-100000.md) | 0 |  |
-| 165.11 | [165-110000.md](165-110000.md) | 0 |  |
-| 165.12 | [165-120000.md](165-120000.md) | 0 |  |
-| 165.13 | [165-130000.md](165-130000.md) | 0 |  |
-| 165.14 | [165-140000.md](165-140000.md) | 0 |  |
-| 165.15 | [165-150000.md](165-150000.md) | 0 |  |
-| 165.16 | [165-160000.md](165-160000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/165/full
+
+Operative clauses and source references: ../data/commencement/ch-165.json

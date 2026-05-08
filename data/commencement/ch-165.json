@@ -1,0 +1,25 @@
+{
+  "act": "ch-165",
+  "day": "2026-05-08",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/165/full",
+  "statute_source_sha256": "9a14537b2818fc94ca29abe756761f2266df07e4bd7bdbe6b1fb606e0252c795",
+  "latest_year": 2026,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/77/",
+      "source_sha256": "5f76247560381a61d82b529907e6c34127a700716dd0c6b76419786dca97779a",
+      "source_ref": "/laws/2026/0/77/#laws.0.1.0",
+      "citation": "2026 c 77 s 1",
+      "day": "2026-05-08",
+      "operative_clauses": [
+        "EFFECTIVE DATE. This section is effective the day following final enactment."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 7, 2026, 9:19 a.m."
+      ],
+      "act_title": "An act relating to transportation; requiring data collection on bridge-related suicides; requiring development of best practices for suicide prevention on bridges; requiring implementation of suicide reduction railings on bridge projects identified as appropriate and feasible; proposing coding for new law in Minnesota Statutes, chapter 165.",
+      "reason": null
+    }
+  ]
+}
