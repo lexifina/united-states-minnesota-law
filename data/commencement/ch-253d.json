@@ -1,0 +1,25 @@
+{
+  "act": "ch-253d",
+  "day": "2026-05-15",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/253D/full",
+  "statute_source_sha256": "a42b36e843e9719f440244e53287f06af9911ccf50677bbd979178022cc76f5d",
+  "latest_year": 2026,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/95/",
+      "source_sha256": "5bcc6797971564bbd36de16bf99a8c4a6b9c17bd64a4d6d46744a4cbdb1d5ca9",
+      "source_ref": "/laws/2026/0/95/#laws.1.17.0",
+      "citation": "2026 c 95 art 1 s 17",
+      "day": "2026-05-15",
+      "operative_clauses": [
+        "EFFECTIVE DATE. This section is effective the day following final enactment."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 14, 2026, 10:02 a.m."
+      ],
+      "act_title": "An act relating to state government; modifying provisions relating to Direct Care and Treatment, the Department of Health, aging and disability services, behavioral health services, housing and support services, maltreatment of vulnerable adults, and continuity of care; removing housing stabilization supports provisions; requiring release of Optum report; prohibiting Optum from disseminating private data; requiring rulemaking; requiring a report; amending Minnesota Statutes 2024, sections 3.7381; 13.04, subdivision 4a; 13.384, subdivision 3; 13.43, subdivision 5a; 13.46, subdivision 1, by adding a subdivision; 15.43, subdivision 3; 97B.001, subdivision 4; 144.121, subdivision 9; 144.56, subdivision 2b; 144.586, subdivision 2; 144.6502, subdivision 1; 144.6512, subdivision 6; 144A.161, subdivisions 1a, 8; 144A.472, subdivision 5; 144A.72, subdivision 2; 144G.08, by adding subdivisions; 144G.19, by adding a subdivision; 144G.31, subdivision 6; 144G.40, subdivision 2; 144G.41, subdivisions 1, 2, by adding a subdivision; 144G.60, subdivision 4; 144G.61, subdivision 2; 144G.92, subdivision 5; 152.137, subdivision 6; 157.17, subdivisions 2, 5; 182.6545; 245.991, subdivision 3; 245.992, subdivisions 1, 2; 245A.03, by adding subdivisions; 245A.11, subdivision 2a; 245D.04, subdivision 3, by adding a subdivision; 245D.09, subdivision 5; 245D.10, subdivision 3; 245F.02, subdivision 17; 245F.15, subdivision 7; 245G.04, by adding a subdivision; 245G.06, subdivision 4; 245G.11, subdivision 8; 245I.10, subdivision 6; 253B.03, subdivisions 2, 3, 6, by adding a subdivision; 253B.18, subdivision 14; 253D.19, subdivision 1; 254B.052, subdivision 1, by adding a subdivision; 256.9752, as amended; 256B.04, subdivision 24, by adding subdivisions; 256B.057, subdivision 9; 256B.0623, subdivision 6; 256B.0624, subdivisions 6b, 7; 256B.0625, subdivisions 4, 47, by adding a subdivision; 256B.0658; 256B.0759, subdivision 3; 256B.0911, subdivision 32; 256B.0924, subdivisions 3, 5, 7, by adding a subdivision; 256B.0943, subdivision 6, by adding a subdivision; 256B.0946, subdivision 4; 256B.0947, subdivision 5; 256B.0949, by adding a subdivision; 256B.4905, subdivision 2a; 256B.492, subdivisions 1, 3; 256B.493, subdivision 1; 256B.851, subdivision 8; 256D.54, subdivision 1; 256L.03, subdivision 1; 256R.481; 256S.205, subdivision 1; 256S.21, subdivision 3; 295.50, subdivision 4; 524.5-409, subdivision 2; 626.557, subdivisions 9, 9a, 12b, by adding subdivisions; 626.5572, subdivisions 2, 9, 17, by adding subdivisions; Minnesota Statutes 2025 Supplement, sections 13.46, subdivision 2; 15.471, subdivision 6; 144.121, subdivision 1a; 144A.474, subdivision 11; 144A.4799, subdivision 1; 245.469, subdivision 1; 245.4889, subdivision 1; 245C.03, subdivision 6; 245C.04, subdivision 6; 245C.10, subdivision 6; 245D.091, subdivisions 2, 3; 245D.10, subdivision 3a; 245F.08, subdivision 3; 245G.09, subdivision 3; 245G.11, subdivision 7; 245I.04, subdivision 17; 253B.18, subdivision 6; 254A.03, subdivision 3; 254B.04, subdivision 1a; 254B.0501, subdivision 6; 254B.0505, subdivision 8, by adding subdivisions; 256B.04, subdivision 21; 256B.0625, subdivision 5m; 256B.0701, subdivision 9; 256B.0759, subdivision 4; 256B.0911, subdivision 13; 256B.0924, subdivision 6; 256B.0943, subdivisions 1, 9; 256B.0947, subdivision 3a; 256B.0949, subdivisions 2, 16, 18; 256B.4914, subdivision 10a; 256L.03, subdivision 5; 256S.205, subdivision 2; 295.50, subdivision 9b; 524.5-311; 626.5572, subdivision 13; Laws 2023, chapter 61, article 1, section 67, subdivision 3, as amended; article 9, section 2, subdivision 5, as amended; Laws 2024, chapter 125, article 1, section 47; article 4, section 12, subdivision 5; article 8, section 2, subdivisions 4, 14, as amended, 20; proposing coding for new law in Minnesota Statutes, chapters 144A; 144G; 245; 245D; 246C; 253B; repealing Minnesota Statutes 2024, sections 245A.03, subdivision 7; 256B.051, subdivisions 1, 4, 7; 256B.0759, subdivisions 2, 5; 256B.5012, subdivisions 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16; 626.557, subdivision 10; Minnesota Statutes 2025 Supplement, sections 254B.052, subdivision 6; 256B.051, subdivisions 2, 3, 5, 6, 6a, 6b, 8, 9, 10; Laws 2025, First Special Session chapter 3, article 18, section 3.",
+      "reason": null
+    }
+  ]
+}

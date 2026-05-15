@@ -1,34 +1,7 @@
 # Minnesota Statutes chapter 253D (Civil Commitment and Treatment of Sex Offenders)
 
-Minn. Stat. ch. 253D · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/253D/full>
+Current-source text is recorded from 2026-05-15, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 253D.01 | [253d-010000.md](253d-010000.md) | 0 |  |
-| 253D.02 | [253d-020000.md](253d-020000.md) | 0 |  |
-| 253D.03 | [253d-030000.md](253d-030000.md) | 0 |  |
-| 253D.04 | [253d-040000.md](253d-040000.md) | 0 |  |
-| 253D.07 | [253d-070000.md](253d-070000.md) | 0 |  |
-| 253D.08 | [253d-080000.md](253d-080000.md) | 0 |  |
-| 253D.09 | [253d-090000.md](253d-090000.md) | 0 |  |
-| 253D.10 | [253d-100000.md](253d-100000.md) | 0 |  |
-| 253D.11 | [253d-110000.md](253d-110000.md) | 0 |  |
-| 253D.12 | [253d-120000.md](253d-120000.md) | 0 |  |
-| 253D.13 | [253d-130000.md](253d-130000.md) | 0 |  |
-| 253D.14 | [253d-140000.md](253d-140000.md) | 0 |  |
-| 253D.17 | [253d-170000.md](253d-170000.md) | 0 |  |
-| 253D.18 | [253d-180000.md](253d-180000.md) | 0 |  |
-| 253D.19 | [253d-190000.md](253d-190000.md) | 0 |  |
-| 253D.20 | [253d-200000.md](253d-200000.md) | 0 |  |
-| 253D.21 | [253d-210000.md](253d-210000.md) | 0 |  |
-| 253D.22 | [253d-220000.md](253d-220000.md) | 0 |  |
-| 253D.23 | [253d-230000.md](253d-230000.md) | 0 |  |
-| 253D.24 | [253d-240000.md](253d-240000.md) | 0 |  |
-| 253D.27 | [253d-270000.md](253d-270000.md) | 0 |  |
-| 253D.28 | [253d-280000.md](253d-280000.md) | 0 |  |
-| 253D.29 | [253d-290000.md](253d-290000.md) | 0 |  |
-| 253D.30 | [253d-300000.md](253d-300000.md) | 0 |  |
-| 253D.31 | [253d-310000.md](253d-310000.md) | 0 |  |
-| 253D.32 | [253d-320000.md](253d-320000.md) | 0 |  |
-| 253D.35 | [253d-350000.md](253d-350000.md) | 0 |  |
-| 253D.36 | [253d-360000.md](253d-360000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/253D/full
+
+Operative clauses and source references: ../data/commencement/ch-253d.json
