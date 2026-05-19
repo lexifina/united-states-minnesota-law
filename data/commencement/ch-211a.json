@@ -1,0 +1,55 @@
+{
+  "act": "ch-211a",
+  "day": "2026-05-19",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/211A/full",
+  "statute_source_sha256": "26a8dc8eff0fd9e27a93e64a5302844c044c7399c0eb2b4c3c58d435afbba636",
+  "latest_year": 2026,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/101/",
+      "source_sha256": "f86f572471e39709b596c646209640ca21ab3abf8779872a71ce28f42439da3f",
+      "source_ref": "/laws/2026/0/101/#laws.0.21.0",
+      "citation": "2026 c 101 s 21",
+      "day": "2026-05-19",
+      "operative_clauses": [
+        "Sec. 33. EFFECTIVE DATE. Unless otherwise specified, this act is effective the day following final enactment."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 18, 2026, 4:15 p.m."
+      ],
+      "act_title": "An act relating to campaign finance; providing for certain noncampaign disbursements; providing for classification of certain data; providing for certain complaints; modifying certain requirements for reports, written communications, and disclaimers; amending Minnesota Statutes 2024, sections 10A.01, by adding subdivisions; 10A.02, by adding a subdivision; 10A.022, subdivision 3; 10A.027; 10A.04, subdivision 6; 10A.09, subdivisions 5, 5b; 10A.20, subdivision 3; 10A.27, subdivisions 2, 10; 10A.275, subdivision 1; 204B.07, subdivision 1; 211A.01, by adding subdivisions; 211B.04, subdivisions 1, 2, 3, 5; Minnesota Statutes 2025 Supplement, sections 10A.01, subdivision 26; 10A.02, subdivision 11b; 10A.04, subdivision 4; 204B.06, subdivision 1b; 211A.02, subdivision 2; proposing coding for new law in Minnesota Statutes, chapters 10A; 204B; 211A; repealing Minnesota Statutes 2024, section 10A.09, subdivision 9; Minnesota Rules, part 4501.0100, subpart 2.",
+      "reason": null
+    },
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/101/",
+      "source_sha256": "f86f572471e39709b596c646209640ca21ab3abf8779872a71ce28f42439da3f",
+      "source_ref": "/laws/2026/0/101/#laws.0.23.0",
+      "citation": "2026 c 101 s 23",
+      "day": "2026-05-19",
+      "operative_clauses": [
+        "Sec. 33. EFFECTIVE DATE. Unless otherwise specified, this act is effective the day following final enactment."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 18, 2026, 4:15 p.m."
+      ],
+      "act_title": "An act relating to campaign finance; providing for certain noncampaign disbursements; providing for classification of certain data; providing for certain complaints; modifying certain requirements for reports, written communications, and disclaimers; amending Minnesota Statutes 2024, sections 10A.01, by adding subdivisions; 10A.02, by adding a subdivision; 10A.022, subdivision 3; 10A.027; 10A.04, subdivision 6; 10A.09, subdivisions 5, 5b; 10A.20, subdivision 3; 10A.27, subdivisions 2, 10; 10A.275, subdivision 1; 204B.07, subdivision 1; 211A.01, by adding subdivisions; 211B.04, subdivisions 1, 2, 3, 5; Minnesota Statutes 2025 Supplement, sections 10A.01, subdivision 26; 10A.02, subdivision 11b; 10A.04, subdivision 4; 204B.06, subdivision 1b; 211A.02, subdivision 2; proposing coding for new law in Minnesota Statutes, chapters 10A; 204B; 211A; repealing Minnesota Statutes 2024, section 10A.09, subdivision 9; Minnesota Rules, part 4501.0100, subpart 2.",
+      "reason": null
+    },
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/101/",
+      "source_sha256": "f86f572471e39709b596c646209640ca21ab3abf8779872a71ce28f42439da3f",
+      "source_ref": "/laws/2026/0/101/#laws.0.24.0",
+      "citation": "2026 c 101 s 24",
+      "day": "2026-05-19",
+      "operative_clauses": [
+        "Sec. 33. EFFECTIVE DATE. Unless otherwise specified, this act is effective the day following final enactment."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 18, 2026, 4:15 p.m."
+      ],
+      "act_title": "An act relating to campaign finance; providing for certain noncampaign disbursements; providing for classification of certain data; providing for certain complaints; modifying certain requirements for reports, written communications, and disclaimers; amending Minnesota Statutes 2024, sections 10A.01, by adding subdivisions; 10A.02, by adding a subdivision; 10A.022, subdivision 3; 10A.027; 10A.04, subdivision 6; 10A.09, subdivisions 5, 5b; 10A.20, subdivision 3; 10A.27, subdivisions 2, 10; 10A.275, subdivision 1; 204B.07, subdivision 1; 211A.01, by adding subdivisions; 211B.04, subdivisions 1, 2, 3, 5; Minnesota Statutes 2025 Supplement, sections 10A.01, subdivision 26; 10A.02, subdivision 11b; 10A.04, subdivision 4; 204B.06, subdivision 1b; 211A.02, subdivision 2; proposing coding for new law in Minnesota Statutes, chapters 10A; 204B; 211A; repealing Minnesota Statutes 2024, section 10A.09, subdivision 9; Minnesota Rules, part 4501.0100, subpart 2.",
+      "reason": null
+    }
+  ]
+}

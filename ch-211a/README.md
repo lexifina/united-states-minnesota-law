@@ -1,21 +1,7 @@
 # Minnesota Statutes chapter 211A (Campaign Financial Reports)
 
-Minn. Stat. ch. 211A · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/211A/full>
+Current-source text is recorded from 2026-05-19, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 211A.01 | [211a-010000.md](211a-010000.md) | 0 |  |
-| 211A.015 | [211a-015000.md](211a-015000.md) | 0 |  |
-| 211A.02 | [211a-020000.md](211a-020000.md) | 0 |  |
-| 211A.03 | [211a-030000.md](211a-030000.md) | 0 |  |
-| 211A.04 | [211a-040000.md](211a-040000.md) | 0 |  |
-| 211A.05 | [211a-050000.md](211a-050000.md) | 0 |  |
-| 211A.06 | [211a-060000.md](211a-060000.md) | 0 |  |
-| 211A.07 | [211a-070000.md](211a-070000.md) | 0 |  |
-| 211A.08 | [211a-080000.md](211a-080000.md) | 0 |  |
-| 211A.09 | [211a-090000.md](211a-090000.md) | 0 |  |
-| 211A.10 | [211a-100000.md](211a-100000.md) | 0 |  |
-| 211A.11 | [211a-110000.md](211a-110000.md) | 0 |  |
-| 211A.12 | [211a-120000.md](211a-120000.md) | 0 |  |
-| 211A.13 | [211a-130000.md](211a-130000.md) | 0 |  |
-| 211A.14 | [211a-140000.md](211a-140000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/211A/full
+
+Operative clauses and source references: ../data/commencement/ch-211a.json

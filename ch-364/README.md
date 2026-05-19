@@ -1,17 +1,7 @@
 # Minnesota Statutes chapter 364 (Criminal Offenders; Rehabilitation)
 
-Minn. Stat. ch. 364 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/364/full>
+Current-source text is recorded from 2026-05-19, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 364.01 | [364-010000.md](364-010000.md) | 0 |  |
-| 364.02 | [364-020000.md](364-020000.md) | 0 |  |
-| 364.021 | [364-021000.md](364-021000.md) | 0 |  |
-| 364.03 | [364-030000.md](364-030000.md) | 0 |  |
-| 364.04 | [364-040000.md](364-040000.md) | 0 |  |
-| 364.05 | [364-050000.md](364-050000.md) | 0 |  |
-| 364.06 | [364-060000.md](364-060000.md) | 0 |  |
-| 364.07 | [364-070000.md](364-070000.md) | 0 |  |
-| 364.08 | [364-080000.md](364-080000.md) | 0 |  |
-| 364.09 | [364-090000.md](364-090000.md) | 0 |  |
-| 364.10 | [364-100000.md](364-100000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/364/full
+
+Operative clauses and source references: ../data/commencement/ch-364.json
