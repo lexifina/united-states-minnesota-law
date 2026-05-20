@@ -1,18 +1,7 @@
 # Minnesota Statutes chapter 187 (Minnesota Secure Choice Retirement Program)
 
-Minn. Stat. ch. 187 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/187/full>
+Current-source text is recorded from 2026-05-20, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 187.01 | [187-010000.md](187-010000.md) | 0 |  |
-| 187.03 | [187-030000.md](187-030000.md) | 0 |  |
-| 187.05 | [187-050000.md](187-050000.md) | 0 |  |
-| 187.06 | [187-060000.md](187-060000.md) | 0 |  |
-| 187.07 | [187-070000.md](187-070000.md) | 0 |  |
-| 187.08 | [187-080000.md](187-080000.md) | 0 |  |
-| 187.09 | [187-090000.md](187-090000.md) | 0 |  |
-| 187.10 | [187-100000.md](187-100000.md) | 0 |  |
-| 187.11 | [187-110000.md](187-110000.md) | 0 |  |
-| 187.12 | [187-120000.md](187-120000.md) | 0 |  |
-| 187.13 | [187-130000.md](187-130000.md) | 0 |  |
-| 187.14 | [187-140000.md](187-140000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/187/full
+
+Operative clauses and source references: ../data/commencement/ch-187.json
