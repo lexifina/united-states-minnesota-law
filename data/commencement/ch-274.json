@@ -1,0 +1,25 @@
+{
+  "act": "ch-274",
+  "day": "2026-05-28",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/274/full",
+  "statute_source_sha256": "900e14dfc1d72a72d2b156450ee20638c4cd3c63a5baae92b4a9461ca575815f",
+  "latest_year": 2026,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/128/",
+      "source_sha256": "bfe23a1248bf8c2f47a5b4da245f564968fc43b88aa2c56f6425ea68d9597331",
+      "source_ref": "/laws/2026/0/128/#laws.10.3.0",
+      "citation": "2026 c 128 art 10 s 3",
+      "day": "2026-05-28",
+      "operative_clauses": [
+        "EFFECTIVE DATE. This section is effective the day following final enactment."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 27, 2026, 12:34 p.m."
+      ],
+      "act_title": "An act relating to financing and operation of state and local government; modifying individual income taxes, corporate franchise taxes, property taxes and credits, local government aids, sales and use taxes, minerals taxes, tax increment financing provisions, public finance provisions, and other various taxes and tax-related provisions; providing for federal income tax conformity; modifying income tax credits; modifying provisions related to claims for income tax refunds; providing for a direct free filing system for individual income taxes; extending the pass-through entity tax; providing for seasonal tax base replacement aid; modifying property tax exemptions and classifications; providing a onetime increase in homestead credit refunds; modifying distributions of minerals tax proceeds and exemptions for contributions to certain funds; exempting certain sales and purchases; providing for return of funds, cancellations, and transfers; making minor policy and technical changes; requiring reports; appropriating money; amending Minnesota Statutes 2024, sections 41A.30, subdivisions 1, 2, 7; 41B.0391, by adding a subdivision; 123B.53, subdivision 1; 123B.535, subdivision 1; 126C.17, by adding a subdivision; 270B.14, subdivision 3, by adding a subdivision; 270B.15; 270C.055, by adding a subdivision; 270C.56, subdivision 1; 272.02, subdivision 101, by adding a subdivision; 273.032; 273.111, subdivision 9; 289A.02, subdivision 7; 289A.08, subdivisions 7, 7a; 289A.40, subdivision 1; 289A.60, subdivision 6; 290.01, subdivisions 19, as amended, 29, 31; 290.0122, subdivision 4; 290.0131, subdivision 15, by adding subdivisions; 290.0132, by adding subdivisions; 290.0133, by adding subdivisions; 290.0134, by adding subdivisions; 290.0137; 290.033; 290.06, subdivisions 2h, 40; 290.067; 290.0921, subdivision 3; 290.0922, subdivisions 2, 3; 290.21, subdivisions 9, 10; 290A.03, subdivision 15; 291.005, subdivision 1; 295.52, subdivision 5; 297A.68, by adding a subdivision; 297A.993, subdivision 4; 297B.03; 298.225; 298.227; 298.28, subdivisions 2, 3, 4, 7a, 8, 9a, 9b, 11, by adding a subdivision; 298.282, subdivision 1; 383A.80, subdivision 4; 383B.80, subdivision 4; 428B.02, subdivision 4; 469.060, subdivision 3; 469.0773; 469.081, subdivision 3a; 469.176, subdivision 2; 477A.30, subdivision 8; Minnesota Statutes 2025 Supplement, sections 41A.30, subdivision 5; 41B.0391, subdivisions 2, 4, 6a; 126C.13, subdivision 4; 268.19, subdivision 1; 273.13, subdivision 22; 290.06, subdivisions 2c, 23a; 290.091, subdivision 2; 297A.75, subdivisions 1, 2, 3; 297A.94; 299C.061, subdivision 6; 299C.76, subdivision 1; 412.341, subdivision 3; Laws 2021, First Special Session chapter 14, article 9, sections 9; 11; Laws 2023, chapter 64, article 15, section 24; Laws 2025, First Special Session chapter 13, article 5, section 11, subdivision 3; Laws 2026, chapter 100, article 1, section 2; proposing coding for new law in Minnesota Statutes, chapters 289A; 290; repealing Minnesota Statutes 2024, sections 272.02, subdivision 64; 272.029, subdivision 7; 273.25; 273.65; 273.66; 273.67; 274.07; 289A.12, subdivision 15; 290.06, subdivision 29; 297A.68, subdivision 37; 428B.02, subdivision 7; 469.310; 469.311; 469.312; 469.313; 469.314; 469.315; 469.316; 469.317; 469.318; 469.3181; 469.319; 469.3191; 469.3192; 469.3193; 469.320; 469.3201; 477A.085; Laws 2026, chapter 100, article 1, section 3.",
+      "reason": null
+    }
+  ]
+}

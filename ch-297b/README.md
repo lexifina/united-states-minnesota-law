@@ -1,25 +1,7 @@
 # Minnesota Statutes chapter 297B (Sales Tax on Motor Vehicles)
 
-Minn. Stat. ch. 297B · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/297B/full>
+Current-source text is recorded from 2026-05-28, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 297B.001 | [297b-001000.md](297b-001000.md) | 0 |  |
-| 297B.01 | [297b-010000.md](297b-010000.md) | 0 |  |
-| 297B.02 | [297b-020000.md](297b-020000.md) | 0 |  |
-| 297B.025 | [297b-025000.md](297b-025000.md) | 0 |  |
-| 297B.03 | [297b-030000.md](297b-030000.md) | 0 |  |
-| 297B.031 | [297b-031000.md](297b-031000.md) | 0 |  |
-| 297B.032 | [297b-032000.md](297b-032000.md) | 0 |  |
-| 297B.035 | [297b-035000.md](297b-035000.md) | 0 |  |
-| 297B.0351 | [297b-035100.md](297b-035100.md) | 0 |  |
-| 297B.04 | [297b-040000.md](297b-040000.md) | 0 |  |
-| 297B.05 | [297b-050000.md](297b-050000.md) | 0 |  |
-| 297B.06 | [297b-060000.md](297b-060000.md) | 0 |  |
-| 297B.07 | [297b-070000.md](297b-070000.md) | 0 |  |
-| 297B.08 | [297b-080000.md](297b-080000.md) | 0 |  |
-| 297B.09 | [297b-090000.md](297b-090000.md) | 0 |  |
-| 297B.10 | [297b-100000.md](297b-100000.md) | 0 |  |
-| 297B.11 | [297b-110000.md](297b-110000.md) | 0 |  |
-| 297B.12 | [297b-120000.md](297b-120000.md) | 0 |  |
-| 297B.13 | [297b-130000.md](297b-130000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/297B/full
+
+Operative clauses and source references: ../data/commencement/ch-297b.json
