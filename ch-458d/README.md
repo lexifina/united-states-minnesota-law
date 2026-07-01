@@ -1,32 +1,7 @@
 # Minnesota Statutes chapter 458D (Western Lake Superior Sanitary District)
 
-Minn. Stat. ch. 458D · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/458D/full>
+Current-source text is recorded from 2026-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 458D.01 | [458d-010000.md](458d-010000.md) | 0 |  |
-| 458D.02 | [458d-020000.md](458d-020000.md) | 0 |  |
-| 458D.03 | [458d-030000.md](458d-030000.md) | 0 |  |
-| 458D.04 | [458d-040000.md](458d-040000.md) | 0 |  |
-| 458D.05 | [458d-050000.md](458d-050000.md) | 0 |  |
-| 458D.06 | [458d-060000.md](458d-060000.md) | 0 |  |
-| 458D.07 | [458d-070000.md](458d-070000.md) | 0 |  |
-| 458D.08 | [458d-080000.md](458d-080000.md) | 0 |  |
-| 458D.09 | [458d-090000.md](458d-090000.md) | 0 |  |
-| 458D.10 | [458d-100000.md](458d-100000.md) | 0 |  |
-| 458D.11 | [458d-110000.md](458d-110000.md) | 0 |  |
-| 458D.111 | [458d-111000.md](458d-111000.md) | 0 |  |
-| 458D.12 | [458d-120000.md](458d-120000.md) | 0 |  |
-| 458D.13 | [458d-130000.md](458d-130000.md) | 0 |  |
-| 458D.14 | [458d-140000.md](458d-140000.md) | 0 |  |
-| 458D.145 | [458d-145000.md](458d-145000.md) | 0 |  |
-| 458D.15 | [458d-150000.md](458d-150000.md) | 0 |  |
-| 458D.16 | [458d-160000.md](458d-160000.md) | 0 |  |
-| 458D.17 | [458d-170000.md](458d-170000.md) | 0 |  |
-| 458D.18 | [458d-180000.md](458d-180000.md) | 0 |  |
-| 458D.19 | [458d-190000.md](458d-190000.md) | 0 |  |
-| 458D.20 | [458d-200000.md](458d-200000.md) | 0 |  |
-| 458D.21 | [458d-210000.md](458d-210000.md) | 0 |  |
-| 458D.22 | [458d-220000.md](458d-220000.md) | 0 |  |
-| 458D.23 | [458d-230000.md](458d-230000.md) | 0 |  |
-| 458D.24 | [458d-240000.md](458d-240000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/458D/full
+
+Operative clauses and source references: ../data/commencement/ch-458d.json

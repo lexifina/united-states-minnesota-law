@@ -1,24 +1,7 @@
 # Minnesota Statutes chapter 62W (Minnesota Pharmacy Benefit Manager)
 
-Minn. Stat. ch. 62W · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/62W/full>
+Current-source text is recorded from 2026-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 62W.01 | [62w-010000.md](62w-010000.md) | 0 |  |
-| 62W.02 | [62w-020000.md](62w-020000.md) | 0 |  |
-| 62W.03 | [62w-030000.md](62w-030000.md) | 0 |  |
-| 62W.04 | [62w-040000.md](62w-040000.md) | 0 |  |
-| 62W.05 | [62w-050000.md](62w-050000.md) | 0 |  |
-| 62W.06 | [62w-060000.md](62w-060000.md) | 0 |  |
-| 62W.07 | [62w-070000.md](62w-070000.md) | 0 |  |
-| 62W.075 | [62w-075000.md](62w-075000.md) | 0 |  |
-| 62W.076 | [62w-076000.md](62w-076000.md) | 0 |  |
-| 62W.077 | [62w-077000.md](62w-077000.md) | 0 |  |
-| 62W.08 | [62w-080000.md](62w-080000.md) | 0 |  |
-| 62W.09 | [62w-090000.md](62w-090000.md) | 0 |  |
-| 62W.10 | [62w-100000.md](62w-100000.md) | 0 |  |
-| 62W.11 | [62w-110000.md](62w-110000.md) | 0 |  |
-| 62W.12 | [62w-120000.md](62w-120000.md) | 0 |  |
-| 62W.13 | [62w-130000.md](62w-130000.md) | 0 |  |
-| 62W.14 | [62w-140000.md](62w-140000.md) | 0 |  |
-| 62W.15 | [62w-150000.md](62w-150000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/62W/full
+
+Operative clauses and source references: ../data/commencement/ch-62w.json

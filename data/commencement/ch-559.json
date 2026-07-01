@@ -1,0 +1,40 @@
+{
+  "act": "ch-559",
+  "day": "2026-07-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/559/full",
+  "statute_source_sha256": "aedd548012ba77fcdd85ccd5a391408bddd6e3873fef934e1a26df43860166dd",
+  "latest_year": 2026,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/80/",
+      "source_sha256": "278e3385f90c026ba8055e2aa673d2c3ac984ebfd34225dffa90387cc41ff991",
+      "source_ref": "/laws/2026/0/80/#laws.0.1.0",
+      "citation": "2026 c 80 s 1",
+      "day": "2026-07-01",
+      "operative_clauses": [
+        "EFFECTIVE DATE. This section is effective July 1, 2026, and applies to contracts for deed entered into on or after that date."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 7, 2026, 9:21 a.m."
+      ],
+      "act_title": "An act relating to civil law; establishing a remedy to extinguish a joint interest in a contract for deed of a perpetrator of domestic abuse or sexual assault; amending Minnesota Statutes 2024, section 559.21, by adding a subdivision; proposing coding for new law in Minnesota Statutes, chapter 559.",
+      "reason": null
+    },
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/80/",
+      "source_sha256": "278e3385f90c026ba8055e2aa673d2c3ac984ebfd34225dffa90387cc41ff991",
+      "source_ref": "/laws/2026/0/80/#laws.0.2.0",
+      "citation": "2026 c 80 s 2",
+      "day": "2026-07-01",
+      "operative_clauses": [
+        "EFFECTIVE DATE. This section is effective July 1, 2026, and applies to contracts for deed entered into on or after that date."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 7, 2026, 9:21 a.m."
+      ],
+      "act_title": "An act relating to civil law; establishing a remedy to extinguish a joint interest in a contract for deed of a perpetrator of domestic abuse or sexual assault; amending Minnesota Statutes 2024, section 559.21, by adding a subdivision; proposing coding for new law in Minnesota Statutes, chapter 559.",
+      "reason": null
+    }
+  ]
+}

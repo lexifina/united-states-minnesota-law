@@ -1,34 +1,7 @@
 # Minnesota Statutes chapter 216I (Energy Infrastructure Permitting)
 
-Minn. Stat. ch. 216I · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/216I/full>
+Current-source text is recorded from 2026-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 216I.01 | [216i-010000.md](216i-010000.md) | 0 |  |
-| 216I.02 | [216i-020000.md](216i-020000.md) | 0 |  |
-| 216I.03 | [216i-030000.md](216i-030000.md) | 0 |  |
-| 216I.04 | [216i-040000.md](216i-040000.md) | 0 |  |
-| 216I.05 | [216i-050000.md](216i-050000.md) | 0 |  |
-| 216I.06 | [216i-060000.md](216i-060000.md) | 0 |  |
-| 216I.07 | [216i-070000.md](216i-070000.md) | 0 |  |
-| 216I.08 | [216i-080000.md](216i-080000.md) | 0 |  |
-| 216I.09 | [216i-090000.md](216i-090000.md) | 0 |  |
-| 216I.10 | [216i-100000.md](216i-100000.md) | 0 |  |
-| 216I.11 | [216i-110000.md](216i-110000.md) | 0 |  |
-| 216I.12 | [216i-120000.md](216i-120000.md) | 0 |  |
-| 216I.13 | [216i-130000.md](216i-130000.md) | 0 |  |
-| 216I.14 | [216i-140000.md](216i-140000.md) | 0 |  |
-| 216I.15 | [216i-150000.md](216i-150000.md) | 0 |  |
-| 216I.16 | [216i-160000.md](216i-160000.md) | 0 |  |
-| 216I.17 | [216i-170000.md](216i-170000.md) | 0 |  |
-| 216I.18 | [216i-180000.md](216i-180000.md) | 0 |  |
-| 216I.19 | [216i-190000.md](216i-190000.md) | 0 |  |
-| 216I.20 | [216i-200000.md](216i-200000.md) | 0 |  |
-| 216I.21 | [216i-210000.md](216i-210000.md) | 0 |  |
-| 216I.22 | [216i-220000.md](216i-220000.md) | 0 |  |
-| 216I.23 | [216i-230000.md](216i-230000.md) | 0 |  |
-| 216I.24 | [216i-240000.md](216i-240000.md) | 0 |  |
-| 216I.25 | [216i-250000.md](216i-250000.md) | 0 |  |
-| 216I.26 | [216i-260000.md](216i-260000.md) | 0 |  |
-| 216I.27 | [216i-270000.md](216i-270000.md) | 0 |  |
-| 216I.28 | [216i-280000.md](216i-280000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/216I/full
+
+Operative clauses and source references: ../data/commencement/ch-216i.json

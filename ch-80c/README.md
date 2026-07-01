@@ -1,33 +1,7 @@
 # Minnesota Statutes chapter 80C (Franchises)
 
-Minn. Stat. ch. 80C · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/80C/full>
+Current-source text is recorded from 2026-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 80C.01 | [80c-010000.md](80c-010000.md) | 0 |  |
-| 80C.02 | [80c-020000.md](80c-020000.md) | 0 |  |
-| 80C.03 | [80c-030000.md](80c-030000.md) | 0 |  |
-| 80C.04 | [80c-040000.md](80c-040000.md) | 0 |  |
-| 80C.05 | [80c-050000.md](80c-050000.md) | 0 |  |
-| 80C.06 | [80c-060000.md](80c-060000.md) | 0 |  |
-| 80C.07 | [80c-070000.md](80c-070000.md) | 0 |  |
-| 80C.08 | [80c-080000.md](80c-080000.md) | 0 |  |
-| 80C.09 | [80c-090000.md](80c-090000.md) | 0 |  |
-| 80C.10 | [80c-100000.md](80c-100000.md) | 0 |  |
-| 80C.11 | [80c-110000.md](80c-110000.md) | 0 |  |
-| 80C.12 | [80c-120000.md](80c-120000.md) | 0 |  |
-| 80C.13 | [80c-130000.md](80c-130000.md) | 0 |  |
-| 80C.14 | [80c-140000.md](80c-140000.md) | 0 |  |
-| 80C.144 | [80c-144000.md](80c-144000.md) | 0 |  |
-| 80C.145 | [80c-145000.md](80c-145000.md) | 0 |  |
-| 80C.146 | [80c-146000.md](80c-146000.md) | 0 |  |
-| 80C.147 | [80c-147000.md](80c-147000.md) | 0 |  |
-| 80C.15 | [80c-150000.md](80c-150000.md) | 0 |  |
-| 80C.16 | [80c-160000.md](80c-160000.md) | 0 |  |
-| 80C.17 | [80c-170000.md](80c-170000.md) | 0 |  |
-| 80C.18 | [80c-180000.md](80c-180000.md) | 0 |  |
-| 80C.19 | [80c-190000.md](80c-190000.md) | 0 |  |
-| 80C.20 | [80c-200000.md](80c-200000.md) | 0 |  |
-| 80C.21 | [80c-210000.md](80c-210000.md) | 0 |  |
-| 80C.22 | [80c-220000.md](80c-220000.md) | 0 |  |
-| 80C.30 | [80c-300000.md](80c-300000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/80C/full
+
+Operative clauses and source references: ../data/commencement/ch-80c.json

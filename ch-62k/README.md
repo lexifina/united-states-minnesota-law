@@ -1,23 +1,7 @@
 # Minnesota Statutes chapter 62K (Minnesota Health Plan Market Rules)
 
-Minn. Stat. ch. 62K · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/62K/full>
+Current-source text is recorded from 2026-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 62K.01 | [62k-010000.md](62k-010000.md) | 0 |  |
-| 62K.02 | [62k-020000.md](62k-020000.md) | 0 |  |
-| 62K.03 | [62k-030000.md](62k-030000.md) | 0 |  |
-| 62K.04 | [62k-040000.md](62k-040000.md) | 0 |  |
-| 62K.05 | [62k-050000.md](62k-050000.md) | 0 |  |
-| 62K.06 | [62k-060000.md](62k-060000.md) | 0 |  |
-| 62K.07 | [62k-070000.md](62k-070000.md) | 0 |  |
-| 62K.075 | [62k-075000.md](62k-075000.md) | 0 |  |
-| 62K.08 | [62k-080000.md](62k-080000.md) | 0 |  |
-| 62K.09 | [62k-090000.md](62k-090000.md) | 0 |  |
-| 62K.10 | [62k-100000.md](62k-100000.md) | 0 |  |
-| 62K.105 | [62k-105000.md](62k-105000.md) | 0 |  |
-| 62K.11 | [62k-110000.md](62k-110000.md) | 0 |  |
-| 62K.12 | [62k-120000.md](62k-120000.md) | 0 |  |
-| 62K.13 | [62k-130000.md](62k-130000.md) | 0 |  |
-| 62K.14 | [62k-140000.md](62k-140000.md) | 0 |  |
-| 62K.15 | [62k-150000.md](62k-150000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/62K/full
+
+Operative clauses and source references: ../data/commencement/ch-62k.json

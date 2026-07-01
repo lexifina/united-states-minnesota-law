@@ -1,31 +1,7 @@
 # Minnesota Statutes chapter 638 (Board of Pardons; Clemency Review Commission)
 
-Minn. Stat. ch. 638 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/638/full>
+Current-source text is recorded from 2026-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 638.01 | [638-010000.md](638-010000.md) | 0 |  |
-| 638.011 | [638-011000.md](638-011000.md) | 0 |  |
-| 638.02 | [638-020000.md](638-020000.md) | 0 |  |
-| 638.03 | [638-030000.md](638-030000.md) | 0 |  |
-| 638.04 | [638-040000.md](638-040000.md) | 0 |  |
-| 638.05 | [638-050000.md](638-050000.md) | 0 |  |
-| 638.06 | [638-060000.md](638-060000.md) | 0 |  |
-| 638.07 | [638-070000.md](638-070000.md) | 0 |  |
-| 638.075 | [638-075000.md](638-075000.md) | 0 |  |
-| 638.08 | [638-080000.md](638-080000.md) | 0 |  |
-| 638.09 | [638-090000.md](638-090000.md) | 0 |  |
-| 638.10 | [638-100000.md](638-100000.md) | 0 |  |
-| 638.11 | [638-110000.md](638-110000.md) | 0 |  |
-| 638.12 | [638-120000.md](638-120000.md) | 0 |  |
-| 638.13 | [638-130000.md](638-130000.md) | 0 |  |
-| 638.14 | [638-140000.md](638-140000.md) | 0 |  |
-| 638.15 | [638-150000.md](638-150000.md) | 0 |  |
-| 638.16 | [638-160000.md](638-160000.md) | 0 |  |
-| 638.17 | [638-170000.md](638-170000.md) | 0 |  |
-| 638.18 | [638-180000.md](638-180000.md) | 0 |  |
-| 638.19 | [638-190000.md](638-190000.md) | 0 |  |
-| 638.20 | [638-200000.md](638-200000.md) | 0 |  |
-| 638.21 | [638-210000.md](638-210000.md) | 0 |  |
-| 638.22 | [638-220000.md](638-220000.md) | 0 |  |
-| 638.23 | [638-230000.md](638-230000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/638/full
+
+Operative clauses and source references: ../data/commencement/ch-638.json

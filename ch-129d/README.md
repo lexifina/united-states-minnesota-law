@@ -1,23 +1,7 @@
 # Minnesota Statutes chapter 129D (Arts Assistance)
 
-Minn. Stat. ch. 129D · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/129D/full>
+Current-source text is recorded from 2026-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 129D.01 | [129d-010000.md](129d-010000.md) | 0 |  |
-| 129D.02 | [129d-020000.md](129d-020000.md) | 0 |  |
-| 129D.03 | [129d-030000.md](129d-030000.md) | 0 |  |
-| 129D.04 | [129d-040000.md](129d-040000.md) | 0 |  |
-| 129D.045 | [129d-045000.md](129d-045000.md) | 0 |  |
-| 129D.05 | [129d-050000.md](129d-050000.md) | 0 |  |
-| 129D.06 | [129d-060000.md](129d-060000.md) | 0 |  |
-| 129D.11 | [129d-110000.md](129d-110000.md) | 0 |  |
-| 129D.12 | [129d-120000.md](129d-120000.md) | 0 |  |
-| 129D.13 | [129d-130000.md](129d-130000.md) | 0 |  |
-| 129D.14 | [129d-140000.md](129d-140000.md) | 0 |  |
-| 129D.15 | [129d-150000.md](129d-150000.md) | 0 |  |
-| 129D.155 | [129d-155000.md](129d-155000.md) | 0 |  |
-| 129D.16 | [129d-160000.md](129d-160000.md) | 0 |  |
-| 129D.17 | [129d-170000.md](129d-170000.md) | 0 |  |
-| 129D.18 | [129d-180000.md](129d-180000.md) | 0 |  |
-| 129D.19 | [129d-190000.md](129d-190000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/129D/full
+
+Operative clauses and source references: ../data/commencement/ch-129d.json

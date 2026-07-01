@@ -1,24 +1,7 @@
 # Minnesota Statutes chapter 473J (Minnesota Sports Facilities Authority)
 
-Minn. Stat. ch. 473J · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/473J/full>
+Current-source text is recorded from 2026-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 473J.01 | [473j-010000.md](473j-010000.md) | 0 |  |
-| 473J.03 | [473j-030000.md](473j-030000.md) | 0 |  |
-| 473J.07 | [473j-070000.md](473j-070000.md) | 0 |  |
-| 473J.08 | [473j-080000.md](473j-080000.md) | 0 |  |
-| 473J.09 | [473j-090000.md](473j-090000.md) | 0 |  |
-| 473J.10 | [473j-100000.md](473j-100000.md) | 0 |  |
-| 473J.11 | [473j-110000.md](473j-110000.md) | 0 |  |
-| 473J.112 | [473j-112000.md](473j-112000.md) | 0 |  |
-| 473J.12 | [473j-120000.md](473j-120000.md) | 0 |  |
-| 473J.13 | [473j-130000.md](473j-130000.md) | 0 |  |
-| 473J.14 | [473j-140000.md](473j-140000.md) | 0 |  |
-| 473J.15 | [473j-150000.md](473j-150000.md) | 0 |  |
-| 473J.17 | [473j-170000.md](473j-170000.md) | 0 |  |
-| 473J.19 | [473j-190000.md](473j-190000.md) | 0 |  |
-| 473J.21 | [473j-210000.md](473j-210000.md) | 0 |  |
-| 473J.23 | [473j-230000.md](473j-230000.md) | 0 |  |
-| 473J.25 | [473j-250000.md](473j-250000.md) | 0 |  |
-| 473J.27 | [473j-270000.md](473j-270000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/473J/full
+
+Operative clauses and source references: ../data/commencement/ch-473j.json

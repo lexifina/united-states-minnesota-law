@@ -1,23 +1,7 @@
 # Minnesota Statutes chapter 34 (Nonalcoholic Beverages)
 
-Minn. Stat. ch. 34 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/34/full>
+Current-source text is recorded from 2026-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 34.001 | [34-001000.md](34-001000.md) | 0 |  |
-| 34.01 | [34-010000.md](34-010000.md) | 0 |  |
-| 34.02 | [34-020000.md](34-020000.md) | 0 |  |
-| 34.03 | [34-030000.md](34-030000.md) | 0 |  |
-| 34.04 | [34-040000.md](34-040000.md) | 0 |  |
-| 34.06 | [34-060000.md](34-060000.md) | 0 |  |
-| 34.07 | [34-070000.md](34-070000.md) | 0 |  |
-| 34.08 | [34-080000.md](34-080000.md) | 0 |  |
-| 34.09 | [34-090000.md](34-090000.md) | 0 |  |
-| 34.10 | [34-100000.md](34-100000.md) | 0 |  |
-| 34.11 | [34-110000.md](34-110000.md) | 0 |  |
-| 34.112 | [34-112000.md](34-112000.md) | 0 |  |
-| 34.113 | [34-113000.md](34-113000.md) | 0 |  |
-| 34.119 | [34-119000.md](34-119000.md) | 0 |  |
-| 34.12 | [34-120000.md](34-120000.md) | 0 |  |
-| 34.13 | [34-130000.md](34-130000.md) | 0 |  |
-| 34.14 | [34-140000.md](34-140000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/34/full
+
+Operative clauses and source references: ../data/commencement/ch-34.json

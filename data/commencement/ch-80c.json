@@ -1,0 +1,34 @@
+{
+  "act": "ch-80c",
+  "day": "2026-07-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/80C/full",
+  "statute_source_sha256": "ae1110c2fd9e83d3cb1563a7836ce6be5ebbb5358ca773ee5e468850a8624245",
+  "latest_year": 2026,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/124/",
+      "source_sha256": "1d3612a8bca538bbe4590175ac8c3b5649288d9bd1354d32a92da04e8d57dbef",
+      "source_ref": "/laws/2026/0/124/#laws.2.4.0",
+      "citation": "2026 c 124 art 2 s 4",
+      "day": "2026-07-01",
+      "operative_clauses": [
+        {
+          "rule": "645.02",
+          "classification": "actual appropriation grant",
+          "items": [
+            {
+              "id": "laws.4.4.0",
+              "quote": "Sec. 4. Minnesota Statutes 2025 Supplement, section 297I.20, subdivision 7, as amended by Laws 2026, chapter 88, article 1, section 179, is amended to read: Subd. 7. Reinsurance credit. Beginning with taxable years after December 31, 2028, a taxpayer may claim a credit against the premiums tax imposed under this chapter equal to the amount of the assessment paid by the taxpayer under section 62E.23 in the immediately preceding calendar year. If the amount of the credit exceeds the liability for tax under this chapter, the commissioner must refund the excess to the taxpayer . An amount sufficient to pay the refunds under this subdivision is appropriated to the commissioner from the general fund. The credit under this subdivision does not affect the calculation of fire state aid under section 477B.03 and police state aid under section 477C.03 . The commissioner of commerce must annually provide to the commissioner a list of assessments paid by taxpayers under section 62E.23 by March 1 of the calendar year following the assessment. EFFECTIVE DATE. This section is effective for taxable years beginning after December 31, 2028."
+            }
+          ]
+        }
+      ],
+      "signed_quote": [
+        "Signed by the governor May 27, 2026, 12:30 p.m."
+      ],
+      "act_title": "An act relating to commerce; adding and modifying various provisions governing consumer protection, financial institutions, securities, insurance, unclaimed property, weights and measures, and lawful gambling; modifying the Minnesota premium security plan; eliminating the prescription drug affordability advisory council; making various technical changes; requiring reports; amending Minnesota Statutes 2024, sections 46.044, subdivision 1; 47.20, subdivision 1; 47.59, subdivision 1; 47.60, subdivision 1; 48.195; 49.37; 53.04, subdivision 3a; 53B.74; 53C.09, subdivision 4; 56.002; 56.01; 56.05; 58.06, subdivision 2; 58.14, subdivisions 3, 4, 5, by adding a subdivision; 58.18, subdivision 4; 58B.02, by adding subdivisions; 58B.03, subdivisions 10, 11; 58B.051; 58B.06, subdivisions 4, 6; 60A.085; 60A.13, subdivisions 1, 6; 60K.383; 62A.135, subdivision 1; 62A.46, subdivision 2; 62D.08, by adding a subdivision; 62E.23, subdivision 1; 62J.40; 62J.89, subdivisions 1, 2; 62J.90, subdivision 2; 62K.07, subdivision 2; 62M.09, subdivision 3; 62Q.47; 62U.04, subdivision 13; 62W.06, by adding a subdivision; 72A.061, subdivision 5; 72A.13, subdivision 1; 72A.18, subdivision 2, by adding subdivisions; 72A.20, subdivision 2, by adding a subdivision; 80A.50; 80C.12, subdivision 1; 80G.01, subdivision 5a; 239.761, subdivisions 7, 8, 9, 10, 11, 12, 13, 14, 16, 17; 239.77, subdivision 1; 256B.0913, subdivision 4; 270B.14, subdivision 11; 296A.01, subdivisions 7, 8, 14, 19, 22, 26, 28, 35; 325E.21, subdivisions 1b, 2c; 332.32; 332.52, subdivision 3; 332A.04, subdivision 1; 332B.04, subdivision 1; 345.31, by adding a subdivision; 345.43, by adding a subdivision; 349.211, subdivision 2b; 609.761, subdivision 3; Minnesota Statutes 2025 Supplement, sections 8.37, subdivisions 3, 5; 41A.09, subdivision 2a; 58B.02, subdivision 8a; 62E.23, subdivisions 1a, 2; 80A.66; 239.761, subdivisions 3, 4, 5, 6; 296A.01, subdivisions 20, 23, 24; 297I.20, subdivision 7, as amended; Laws 2026, chapter 72, section 1, subdivision 5; proposing coding for new law in Minnesota Statutes, chapters 58; 60A; 62A; 62D; 80A; 82B; 82C; 345; proposing coding for new law as Minnesota Statutes, chapters 59E; 65C; repealing Minnesota Statutes 2024, sections 48.158; 56.08; 62J.86, subdivision 2; 62J.88; 332A.02, subdivision 2; 332B.02, subdivision 2.",
+      "reason": null
+    }
+  ]
+}

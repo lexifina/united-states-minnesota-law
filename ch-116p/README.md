@@ -1,28 +1,7 @@
 # Minnesota Statutes chapter 116P (Environment and Natural Resources Trust Fund)
 
-Minn. Stat. ch. 116P · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/116P/full>
+Current-source text is recorded from 2026-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 116P.01 | [116p-010000.md](116p-010000.md) | 0 |  |
-| 116P.011 | [116p-011000.md](116p-011000.md) | 0 |  |
-| 116P.02 | [116p-020000.md](116p-020000.md) | 0 |  |
-| 116P.03 | [116p-030000.md](116p-030000.md) | 0 |  |
-| 116P.04 | [116p-040000.md](116p-040000.md) | 0 |  |
-| 116P.05 | [116p-050000.md](116p-050000.md) | 0 |  |
-| 116P.06 | [116p-060000.md](116p-060000.md) | 0 |  |
-| 116P.07 | [116p-070000.md](116p-070000.md) | 0 |  |
-| 116P.08 | [116p-080000.md](116p-080000.md) | 0 |  |
-| 116P.09 | [116p-090000.md](116p-090000.md) | 0 |  |
-| 116P.10 | [116p-100000.md](116p-100000.md) | 0 |  |
-| 116P.11 | [116p-110000.md](116p-110000.md) | 0 |  |
-| 116P.12 | [116p-120000.md](116p-120000.md) | 0 |  |
-| 116P.13 | [116p-130000.md](116p-130000.md) | 0 |  |
-| 116P.14 | [116p-140000.md](116p-140000.md) | 0 |  |
-| 116P.15 | [116p-150000.md](116p-150000.md) | 0 |  |
-| 116P.16 | [116p-160000.md](116p-160000.md) | 0 |  |
-| 116P.17 | [116p-170000.md](116p-170000.md) | 0 |  |
-| 116P.18 | [116p-180000.md](116p-180000.md) | 0 |  |
-| 116P.19 | [116p-190000.md](116p-190000.md) | 0 |  |
-| 116P.20 | [116p-200000.md](116p-200000.md) | 0 |  |
-| 116P.21 | [116p-210000.md](116p-210000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/116P/full
+
+Operative clauses and source references: ../data/commencement/ch-116p.json

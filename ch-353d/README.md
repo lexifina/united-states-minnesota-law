@@ -1,23 +1,7 @@
 # Minnesota Statutes chapter 353D (Public Employees Defined Contribution Plan)
 
-Minn. Stat. ch. 353D · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/353D/full>
+Current-source text is recorded from 2026-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 353D.01 | [353d-010000.md](353d-010000.md) | 0 |  |
-| 353D.02 | [353d-020000.md](353d-020000.md) | 0 |  |
-| 353D.021 | [353d-021000.md](353d-021000.md) | 0 |  |
-| 353D.03 | [353d-030000.md](353d-030000.md) | 0 |  |
-| 353D.031 | [353d-031000.md](353d-031000.md) | 0 |  |
-| 353D.04 | [353d-040000.md](353d-040000.md) | 0 |  |
-| 353D.05 | [353d-050000.md](353d-050000.md) | 0 |  |
-| 353D.051 | [353d-051000.md](353d-051000.md) | 0 |  |
-| 353D.06 | [353d-060000.md](353d-060000.md) | 0 |  |
-| 353D.07 | [353d-070000.md](353d-070000.md) | 0 |  |
-| 353D.071 | [353d-071000.md](353d-071000.md) | 0 |  |
-| 353D.08 | [353d-080000.md](353d-080000.md) | 0 |  |
-| 353D.09 | [353d-090000.md](353d-090000.md) | 0 |  |
-| 353D.091 | [353d-091000.md](353d-091000.md) | 0 |  |
-| 353D.10 | [353d-100000.md](353d-100000.md) | 0 |  |
-| 353D.11 | [353d-110000.md](353d-110000.md) | 0 |  |
-| 353D.12 | [353d-120000.md](353d-120000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/353D/full
+
+Operative clauses and source references: ../data/commencement/ch-353d.json

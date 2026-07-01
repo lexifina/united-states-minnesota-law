@@ -1,21 +1,7 @@
 # Minnesota Statutes chapter 240A (Amateur Sports Commission)
 
-Minn. Stat. ch. 240A · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/240A/full>
+Current-source text is recorded from 2026-07-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 240A.01 | [240a-010000.md](240a-010000.md) | 0 |  |
-| 240A.02 | [240a-020000.md](240a-020000.md) | 0 |  |
-| 240A.03 | [240a-030000.md](240a-030000.md) | 0 |  |
-| 240A.04 | [240a-040000.md](240a-040000.md) | 0 |  |
-| 240A.05 | [240a-050000.md](240a-050000.md) | 0 |  |
-| 240A.06 | [240a-060000.md](240a-060000.md) | 0 |  |
-| 240A.07 | [240a-070000.md](240a-070000.md) | 0 |  |
-| 240A.08 | [240a-080000.md](240a-080000.md) | 0 |  |
-| 240A.085 | [240a-085000.md](240a-085000.md) | 0 |  |
-| 240A.09 | [240a-090000.md](240a-090000.md) | 0 |  |
-| 240A.10 | [240a-100000.md](240a-100000.md) | 0 |  |
-| 240A.11 | [240a-110000.md](240a-110000.md) | 0 |  |
-| 240A.12 | [240a-120000.md](240a-120000.md) | 0 |  |
-| 240A.13 | [240a-130000.md](240a-130000.md) | 0 |  |
-| 240A.20 | [240a-200000.md](240a-200000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/240A/full
+
+Operative clauses and source references: ../data/commencement/ch-240a.json

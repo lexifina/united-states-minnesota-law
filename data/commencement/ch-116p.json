@@ -1,0 +1,55 @@
+{
+  "act": "ch-116p",
+  "day": "2026-07-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/116P/full",
+  "statute_source_sha256": "8466e7eecb74b41fee97d2f7d3992bc4106234a4ea4d65844fa7ec8a39216b3f",
+  "latest_year": 2026,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/104/",
+      "source_sha256": "af6b1d501896a50fd2e544c87943747e97e1e2c7586f81f2ac178dfa7b12a9cf",
+      "source_ref": "/laws/2026/0/104/#laws.0.13.0",
+      "citation": "2026 c 104 s 13",
+      "day": "2026-05-19",
+      "operative_clauses": [
+        "EFFECTIVE DATE. This section is effective the day following final enactment."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 18, 2026, 4:18 p.m."
+      ],
+      "act_title": "An act relating to natural resources; appropriating money from environment and natural resources trust fund; extending certain prior appropriations; modifying provisions on expenditures from environment and natural resources trust fund; modifying requirements for community grants program; amending Minnesota Statutes 2024, sections 116P.08, subdivision 4, by adding a subdivision; 116P.09, subdivision 6; 116X.03, by adding subdivisions; repealing Minnesota Statutes 2024, section 116P.17.",
+      "reason": null
+    },
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/104/",
+      "source_sha256": "af6b1d501896a50fd2e544c87943747e97e1e2c7586f81f2ac178dfa7b12a9cf",
+      "source_ref": "/laws/2026/0/104/#laws.0.3.0",
+      "citation": "2026 c 104 s 3",
+      "day": "2026-07-01",
+      "operative_clauses": [
+        "645.02 EFFECTIVE DATE AND TIME OF LAWS. Each act, except one making appropriations, enacted finally at any session of the legislature takes effect on August 1 next following its final enactment, unless a different date is specified in the act. A special law required to be approved by the local government unit affected before it goes into effect becomes effective as to the approving unit the day following the day on which the certificate of approval prescribed by section 645.021 is filed with the secretary of state, unless a later date is specified in the act. When approval of such a special law is required by two or more local government units before it may become effective, the day after the day when the last of the required certificates is filed is the effective date, unless a later date is specified in the act. An appropriation act or an act having appropriation items enacted finally at any session of the legislature takes effect at the beginning of the first day of July next following its final enactment, unless a different date is specified in the act. Each act takes effect at 12:01 a.m. on the day it becomes effective, unless a different time is specified in the act."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 18, 2026, 4:18 p.m."
+      ],
+      "act_title": "An act relating to natural resources; appropriating money from environment and natural resources trust fund; extending certain prior appropriations; modifying provisions on expenditures from environment and natural resources trust fund; modifying requirements for community grants program; amending Minnesota Statutes 2024, sections 116P.08, subdivision 4, by adding a subdivision; 116P.09, subdivision 6; 116X.03, by adding subdivisions; repealing Minnesota Statutes 2024, section 116P.17.",
+      "reason": null
+    },
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/104/",
+      "source_sha256": "af6b1d501896a50fd2e544c87943747e97e1e2c7586f81f2ac178dfa7b12a9cf",
+      "source_ref": "/laws/2026/0/104/#laws.0.5.0",
+      "citation": "2026 c 104 s 5",
+      "day": "2026-07-01",
+      "operative_clauses": [
+        "645.02 EFFECTIVE DATE AND TIME OF LAWS. Each act, except one making appropriations, enacted finally at any session of the legislature takes effect on August 1 next following its final enactment, unless a different date is specified in the act. A special law required to be approved by the local government unit affected before it goes into effect becomes effective as to the approving unit the day following the day on which the certificate of approval prescribed by section 645.021 is filed with the secretary of state, unless a later date is specified in the act. When approval of such a special law is required by two or more local government units before it may become effective, the day after the day when the last of the required certificates is filed is the effective date, unless a later date is specified in the act. An appropriation act or an act having appropriation items enacted finally at any session of the legislature takes effect at the beginning of the first day of July next following its final enactment, unless a different date is specified in the act. Each act takes effect at 12:01 a.m. on the day it becomes effective, unless a different time is specified in the act."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 18, 2026, 4:18 p.m."
+      ],
+      "act_title": "An act relating to natural resources; appropriating money from environment and natural resources trust fund; extending certain prior appropriations; modifying provisions on expenditures from environment and natural resources trust fund; modifying requirements for community grants program; amending Minnesota Statutes 2024, sections 116P.08, subdivision 4, by adding a subdivision; 116P.09, subdivision 6; 116X.03, by adding subdivisions; repealing Minnesota Statutes 2024, section 116P.17.",
+      "reason": null
+    }
+  ]
+}

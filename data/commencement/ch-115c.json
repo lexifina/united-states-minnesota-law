@@ -1,0 +1,58 @@
+{
+  "act": "ch-115c",
+  "day": "2026-07-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/115C/full",
+  "statute_source_sha256": "0dd0bc014e81aaac35fb0afe719f7d962ad2385cced3921b049ed319ebc99171",
+  "latest_year": 2026,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/113/",
+      "source_sha256": "6c5444dfd0451ac35e25e169ac96804489e925fae68eef7eb235ef4198e91169",
+      "source_ref": "/laws/2026/0/113/#laws.0.1.0",
+      "citation": "2026 c 113 s 1",
+      "day": "2026-07-01",
+      "operative_clauses": [
+        {
+          "rule": "645.02",
+          "classification": "actual appropriation grant",
+          "items": [
+            {
+              "id": "laws.0.1.0",
+              "quote": "Section 1. Minnesota Statutes 2024, section 115C.08, subdivision 4, is amended to read: Subd. 4. Expenditures. (a) Money in the fund may only be spent: (1) to administer the petroleum tank release cleanup program established in this chapter; (2) for agency administrative costs under sections 116.46 to 116.50 , sections 115C.03 to 115C.06 , and costs of corrective action taken by the agency under section 115C.03 , including investigations; (3) for costs of recovering expenses of corrective actions under section 115C.04 ; (4) for training, certification, and rulemaking under sections 116.46 to 116.50 ; (5) for agency administrative costs of enforcing rules governing the construction, installation, operation, and closure of aboveground and underground petroleum storage tanks; (6) for reimbursement of the environmental response, compensation, and compliance account under subdivision 5 and section 115B.26, subdivision 4 ; (7) for administrative and staff costs as set by the board to administer the petroleum tank release program established in this chapter; (8) for corrective action performance audits under section 115C.093 ; (9) for contamination cleanup grants, as provided in paragraph (c); (10) to assess and remove abandoned underground storage tanks under section 115C.094 and, if a release is discovered, to pay for the specific consultant and contractor services costs necessary to complete the tank removal project, including, but not limited to, excavation soil sampling, groundwater sampling, soil disposal, and completion of an excavation report; (11) to acquire interests in real or personal property, including easements, environmental covenants under chapter 114E, and leases, that the agency determines are necessary for corrective actions or to ensure the protectiveness of corrective actions. A donation of an interest in real property to the agency is not effective until the agency executes a certificate of acceptance. The state is not liable under this chapter solely as a result of acquiring an interest in real property under this clause. Agency approval of an environmental covenant under chapter 114E is sufficient evidence of acceptance of an interest in real property when the agency is expressly identified as a holder in the covenant. Acquisition of real property under this clause, except environmental covenants under chapter 114E, is subject to approval by the board ; and (12) to partially reimburse the cost of replacing pressurized single-walled steel piping and related equipment in underground petroleum storage tank systems under section 115C.09, subdivision 3l. (b) Except as provided in paragraph (c), money in the fund is appropriated to the board to make reimbursements or payments under this section. (c) In fiscal years 2010 and 2011, $3,700,000 is annually appropriated from the fund to the commissioner of employment and economic development for contamination cleanup grants under section 116J.554 . Beginning in fiscal year 2012 and each year thereafter, $6,200,000 is annually appropriated from the fund to the commissioner of employment and economic development for contamination cleanup grants under section 116J.554 . Of this amount, the commissioner may spend up to $225,000 annually for administration of the contamination cleanup grant program. The appropriation does not cancel and is available until expended. The appropriation shall not be withdrawn from the fund nor the fund balance reduced until the funds are requested by the commissioner of employment and economic development. The commissioner shall schedule requests for withdrawals from the fund to minimize the necessity to impose the fee authorized by subdivision 2. Unless otherwise provided, the appropriation in this paragraph may be used for: (1) project costs at a qualifying site if a portion of the cleanup costs are attributable to petroleum contamination or new and used tar and tar-like substances, including but not limited to bitumen and asphalt, but excluding bituminous or asphalt pavement, that consist primarily of hydrocarbons and are found in natural deposits in the earth or are distillates, fractions, or residues from the processing of petroleum crude or petroleum products as defined in section 296A.01 ; and (2) the costs of performing contamination investigation if there is a reasonable basis to suspect the contamination is attributable to petroleum or new and used tar and tar-like substances, including but not limited to bitumen and asphalt, but excluding bituminous or asphalt pavement, that consist primarily of hydrocarbons and are found in natural deposits in the earth or are distillates, fractions, or residues from the processing of petroleum crude or petroleum products as defined in section 296A.01 ."
+            }
+          ]
+        }
+      ],
+      "signed_quote": [
+        "Signed by the governor May 26, 2026, 9:14 a.m."
+      ],
+      "act_title": "An act relating to energy; establishing reimbursement program for underground petroleum storage tank systems with pressurized single-walled steel piping; amending Minnesota Statutes 2024, sections 115C.08, subdivision 4; 115C.09, by adding a subdivision.",
+      "reason": null
+    },
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/113/",
+      "source_sha256": "6c5444dfd0451ac35e25e169ac96804489e925fae68eef7eb235ef4198e91169",
+      "source_ref": "/laws/2026/0/113/#laws.0.2.0",
+      "citation": "2026 c 113 s 2",
+      "day": "2026-07-01",
+      "operative_clauses": [
+        {
+          "rule": "645.02",
+          "classification": "actual appropriation grant",
+          "items": [
+            {
+              "id": "laws.0.1.0",
+              "quote": "Section 1. Minnesota Statutes 2024, section 115C.08, subdivision 4, is amended to read: Subd. 4. Expenditures. (a) Money in the fund may only be spent: (1) to administer the petroleum tank release cleanup program established in this chapter; (2) for agency administrative costs under sections 116.46 to 116.50 , sections 115C.03 to 115C.06 , and costs of corrective action taken by the agency under section 115C.03 , including investigations; (3) for costs of recovering expenses of corrective actions under section 115C.04 ; (4) for training, certification, and rulemaking under sections 116.46 to 116.50 ; (5) for agency administrative costs of enforcing rules governing the construction, installation, operation, and closure of aboveground and underground petroleum storage tanks; (6) for reimbursement of the environmental response, compensation, and compliance account under subdivision 5 and section 115B.26, subdivision 4 ; (7) for administrative and staff costs as set by the board to administer the petroleum tank release program established in this chapter; (8) for corrective action performance audits under section 115C.093 ; (9) for contamination cleanup grants, as provided in paragraph (c); (10) to assess and remove abandoned underground storage tanks under section 115C.094 and, if a release is discovered, to pay for the specific consultant and contractor services costs necessary to complete the tank removal project, including, but not limited to, excavation soil sampling, groundwater sampling, soil disposal, and completion of an excavation report; (11) to acquire interests in real or personal property, including easements, environmental covenants under chapter 114E, and leases, that the agency determines are necessary for corrective actions or to ensure the protectiveness of corrective actions. A donation of an interest in real property to the agency is not effective until the agency executes a certificate of acceptance. The state is not liable under this chapter solely as a result of acquiring an interest in real property under this clause. Agency approval of an environmental covenant under chapter 114E is sufficient evidence of acceptance of an interest in real property when the agency is expressly identified as a holder in the covenant. Acquisition of real property under this clause, except environmental covenants under chapter 114E, is subject to approval by the board ; and (12) to partially reimburse the cost of replacing pressurized single-walled steel piping and related equipment in underground petroleum storage tank systems under section 115C.09, subdivision 3l. (b) Except as provided in paragraph (c), money in the fund is appropriated to the board to make reimbursements or payments under this section. (c) In fiscal years 2010 and 2011, $3,700,000 is annually appropriated from the fund to the commissioner of employment and economic development for contamination cleanup grants under section 116J.554 . Beginning in fiscal year 2012 and each year thereafter, $6,200,000 is annually appropriated from the fund to the commissioner of employment and economic development for contamination cleanup grants under section 116J.554 . Of this amount, the commissioner may spend up to $225,000 annually for administration of the contamination cleanup grant program. The appropriation does not cancel and is available until expended. The appropriation shall not be withdrawn from the fund nor the fund balance reduced until the funds are requested by the commissioner of employment and economic development. The commissioner shall schedule requests for withdrawals from the fund to minimize the necessity to impose the fee authorized by subdivision 2. Unless otherwise provided, the appropriation in this paragraph may be used for: (1) project costs at a qualifying site if a portion of the cleanup costs are attributable to petroleum contamination or new and used tar and tar-like substances, including but not limited to bitumen and asphalt, but excluding bituminous or asphalt pavement, that consist primarily of hydrocarbons and are found in natural deposits in the earth or are distillates, fractions, or residues from the processing of petroleum crude or petroleum products as defined in section 296A.01 ; and (2) the costs of performing contamination investigation if there is a reasonable basis to suspect the contamination is attributable to petroleum or new and used tar and tar-like substances, including but not limited to bitumen and asphalt, but excluding bituminous or asphalt pavement, that consist primarily of hydrocarbons and are found in natural deposits in the earth or are distillates, fractions, or residues from the processing of petroleum crude or petroleum products as defined in section 296A.01 ."
+            }
+          ]
+        }
+      ],
+      "signed_quote": [
+        "Signed by the governor May 26, 2026, 9:14 a.m."
+      ],
+      "act_title": "An act relating to energy; establishing reimbursement program for underground petroleum storage tank systems with pressurized single-walled steel piping; amending Minnesota Statutes 2024, sections 115C.08, subdivision 4; 115C.09, by adding a subdivision.",
+      "reason": null
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "act": "ch-12",
+  "day": "2026-07-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/12/full",
+  "statute_source_sha256": "7da49dd2ac76b65afa10ee9bac351f3dc6b501dbb863396a7bd98b2f3a3fa616",
+  "latest_year": 2026,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/60/",
+      "source_sha256": "6a9d2e7a54ffd2bec19e6289407b2b0ca0910869785d468e42dec246bb3ddfce",
+      "source_ref": "/laws/2026/0/60/#laws.0.1.0",
+      "citation": "2026 c 60 s 1",
+      "day": "2026-07-01",
+      "operative_clauses": [
+        {
+          "rule": "645.02",
+          "classification": "actual appropriation grant",
+          "items": [
+            {
+              "id": "laws.0.1.0",
+              "quote": "Section 1. Minnesota Statutes 2024, section 12.221, subdivision 6, is amended to read: Subd. 6. Disaster assistance contingency account; appropriation. (a) A disaster assistance contingency account is created in the special revenue fund in the state treasury. Money in the disaster assistance contingency account is appropriated to the commissioner of public safety to provide: (1) cost-share for federal assistance under section 12A.15, subdivision 1 ; (2) state public disaster assistance to eligible applicants under chapter 12B; (3) cost-share for federal assistance from the Federal Highway Administration emergency relief program under United States Code, title 23, section 125; and (4) cost-share for federal assistance from the United States Department of Agriculture, Natural Resources Conservation Service emergency watershed protection program under United States Code, title 16, sections 2203 to 2205. (b) For appropriations under paragraph (a), clause (1), the amount appropriated is 100 percent of any nonfederal share for state agencies, local governments, and utility cooperatives. Money appropriated under paragraph (a), clause (1), may be used to pay all or a portion of the nonfederal share for publicly owned capital improvement projects. (c) For appropriations under paragraph (a), clause (2), the amount appropriated is the amount required to pay eligible claims under chapter 12B, as certified by the commissioner of public safety. (d) By January 31 of each year, the commissioner of management and budget shall submit a report to the chairs and ranking minority members of the house of representatives Ways and Means Committee and the senate Finance Committee detailing state disaster assistance appropriations and expenditures under this subdivision during the previous calendar year. (e) The governor's budget proposal submitted to the legislature under section 16A.11 must include recommended appropriations to the disaster assistance contingency account. The governor's appropriation recommendations must be informed by the commissioner of public safety's estimate of the amount of money that will be necessary to: (1) provide 100 percent of the nonfederal share for state agencies, local governments, and utility cooperatives that will receive federal financial assistance from FEMA during the next biennium; and (2) fully pay all eligible claims under chapter 12B. (f) Notwithstanding section 16A.28 : (1) funds appropriated or transferred to the disaster assistance contingency account do not lapse but remain in the account until appropriated; and (2) funds appropriated from the disaster assistance contingency account do not lapse and are available until expended."
+            }
+          ]
+        }
+      ],
+      "signed_quote": [
+        "Signed by the governor April 29, 2026, 11:21 a.m."
+      ],
+      "act_title": "An act relating to state government; changing the reporting date on the disaster assistance contingency account; amending Minnesota Statutes 2024, section 12.221, subdivision 6.",
+      "reason": null
+    }
+  ]
+}
