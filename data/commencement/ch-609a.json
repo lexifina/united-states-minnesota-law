@@ -1,0 +1,25 @@
+{
+  "act": "ch-609a",
+  "day": "2026-08-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/609A/full",
+  "statute_source_sha256": "a8d3c6965d010c5c1471d6d229b7491e2dcf351d8d1ffde19302eb12ea3f7c8f",
+  "latest_year": 2026,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/70/",
+      "source_sha256": "658b7def86848d408f1dd12c1570d871fecb5775308920d6ae803b7b439b9981",
+      "source_ref": "/laws/2026/0/70/#laws.0.5.0",
+      "citation": "2026 c 70 s 5",
+      "day": "2026-08-01",
+      "operative_clauses": [
+        "645.02 EFFECTIVE DATE AND TIME OF LAWS. Each act, except one making appropriations, enacted finally at any session of the legislature takes effect on August 1 next following its final enactment, unless a different date is specified in the act. A special law required to be approved by the local government unit affected before it goes into effect becomes effective as to the approving unit the day following the day on which the certificate of approval prescribed by section 645.021 is filed with the secretary of state, unless a later date is specified in the act. When approval of such a special law is required by two or more local government units before it may become effective, the day after the day when the last of the required certificates is filed is the effective date, unless a later date is specified in the act. An appropriation act or an act having appropriation items enacted finally at any session of the legislature takes effect at the beginning of the first day of July next following its final enactment, unless a different date is specified in the act. Each act takes effect at 12:01 a.m. on the day it becomes effective, unless a different time is specified in the act."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 5, 2026, 10:47 a.m."
+      ],
+      "act_title": "An act relating to public safety; clarifying certain grants from the Bureau of Criminal Apprehension to local law enforcement as reimbursements; updating law related to recording of crimes; establishing process for determining how certain criminal records are ineligible for sealing; requiring court to provide orders for protection for access by law enforcement; amending Minnesota Statutes 2024, sections 299C.05; 299C.065; 299C.46, subdivision 6; 609A.015, subdivision 5; Minnesota Statutes 2025 Supplement, section 609.2334, subdivision 11; repealing Minnesota Statutes 2024, section 299C.12.",
+      "reason": null
+    }
+  ]
+}

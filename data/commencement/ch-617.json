@@ -1,0 +1,55 @@
+{
+  "act": "ch-617",
+  "day": "2026-08-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/617/full",
+  "statute_source_sha256": "5b6807294213ddc3087221aef3180e7ee01b3b70cee1028d18eeed598df098e0",
+  "latest_year": 2026,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/118/",
+      "source_sha256": "c3c120b9d82ae6057052341d09c0947419e4553380a79bb9c5e0aa165f7757fa",
+      "source_ref": "/laws/2026/0/118/#laws.5.3.0",
+      "citation": "2026 c 118 art 5 s 3",
+      "day": "2026-07-01",
+      "operative_clauses": [
+        "645.02 EFFECTIVE DATE AND TIME OF LAWS. Each act, except one making appropriations, enacted finally at any session of the legislature takes effect on August 1 next following its final enactment, unless a different date is specified in the act. A special law required to be approved by the local government unit affected before it goes into effect becomes effective as to the approving unit the day following the day on which the certificate of approval prescribed by section 645.021 is filed with the secretary of state, unless a later date is specified in the act. When approval of such a special law is required by two or more local government units before it may become effective, the day after the day when the last of the required certificates is filed is the effective date, unless a later date is specified in the act. An appropriation act or an act having appropriation items enacted finally at any session of the legislature takes effect at the beginning of the first day of July next following its final enactment, unless a different date is specified in the act. Each act takes effect at 12:01 a.m. on the day it becomes effective, unless a different time is specified in the act."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 26, 2026, 9:17 a.m."
+      ],
+      "act_title": "An act relating to public safety; modifying provisions governing Capitol security; creating emergency contact information policy for elected officials; modifying attorney general subpoena authority; modifying clemency provisions; establishing task forces and a grant program; including security guards in medical personnel assault crime; modifying penalties for theft from vulnerable adults; modifying child sexual abuse material policy; prohibiting prediction markets-related activities; providing for a Department of Natural Resources money transfer; requiring reports; providing criminal penalties; appropriating money for public safety, corrections, and for judicial, legislative, and constitutional officer safety and security; repealing 2026 S.F. No. 4760, article 3, section 1, and article 8, sections 1, 2, and 3, if enacted; amending Minnesota Statutes 2024, sections 8.16, subdivision 1; 13.6905, by adding a subdivision; 299D.03, subdivision 1; 299E.01, subdivisions 1, 2, 3, 4; 299L.03, subdivision 12; 609.52, subdivision 3a; 609.75, subdivision 3; 617.246, by adding a subdivision; 638.14, subdivision 5; Minnesota Statutes 2025 Supplement, sections 609.2231, subdivision 2; 617.247, by adding a subdivision; Laws 2025, chapter 35, article 1, sections 2; 4; 5; article 2, section 4; Laws 2025, chapter 39, article 1, section 2; Laws 2025, First Special Session chapter 8, article 1, section 4, subdivision 3; proposing coding for new law in Minnesota Statutes, chapters 299A; 299E; 609; 617.",
+      "reason": null
+    },
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/118/",
+      "source_sha256": "c3c120b9d82ae6057052341d09c0947419e4553380a79bb9c5e0aa165f7757fa",
+      "source_ref": "/laws/2026/0/118/#laws.5.4.0",
+      "citation": "2026 c 118 art 5 s 4",
+      "day": "2026-07-01",
+      "operative_clauses": [
+        "645.02 EFFECTIVE DATE AND TIME OF LAWS. Each act, except one making appropriations, enacted finally at any session of the legislature takes effect on August 1 next following its final enactment, unless a different date is specified in the act. A special law required to be approved by the local government unit affected before it goes into effect becomes effective as to the approving unit the day following the day on which the certificate of approval prescribed by section 645.021 is filed with the secretary of state, unless a later date is specified in the act. When approval of such a special law is required by two or more local government units before it may become effective, the day after the day when the last of the required certificates is filed is the effective date, unless a later date is specified in the act. An appropriation act or an act having appropriation items enacted finally at any session of the legislature takes effect at the beginning of the first day of July next following its final enactment, unless a different date is specified in the act. Each act takes effect at 12:01 a.m. on the day it becomes effective, unless a different time is specified in the act."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 26, 2026, 9:17 a.m."
+      ],
+      "act_title": "An act relating to public safety; modifying provisions governing Capitol security; creating emergency contact information policy for elected officials; modifying attorney general subpoena authority; modifying clemency provisions; establishing task forces and a grant program; including security guards in medical personnel assault crime; modifying penalties for theft from vulnerable adults; modifying child sexual abuse material policy; prohibiting prediction markets-related activities; providing for a Department of Natural Resources money transfer; requiring reports; providing criminal penalties; appropriating money for public safety, corrections, and for judicial, legislative, and constitutional officer safety and security; repealing 2026 S.F. No. 4760, article 3, section 1, and article 8, sections 1, 2, and 3, if enacted; amending Minnesota Statutes 2024, sections 8.16, subdivision 1; 13.6905, by adding a subdivision; 299D.03, subdivision 1; 299E.01, subdivisions 1, 2, 3, 4; 299L.03, subdivision 12; 609.52, subdivision 3a; 609.75, subdivision 3; 617.246, by adding a subdivision; 638.14, subdivision 5; Minnesota Statutes 2025 Supplement, sections 609.2231, subdivision 2; 617.247, by adding a subdivision; Laws 2025, chapter 35, article 1, sections 2; 4; 5; article 2, section 4; Laws 2025, chapter 39, article 1, section 2; Laws 2025, First Special Session chapter 8, article 1, section 4, subdivision 3; proposing coding for new law in Minnesota Statutes, chapters 299A; 299E; 609; 617.",
+      "reason": null
+    },
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/118/",
+      "source_sha256": "c3c120b9d82ae6057052341d09c0947419e4553380a79bb9c5e0aa165f7757fa",
+      "source_ref": "/laws/2026/0/118/#laws.5.5.0",
+      "citation": "2026 c 118 art 5 s 5",
+      "day": "2026-08-01",
+      "operative_clauses": [
+        "EFFECTIVE DATE. This section is effective August 1, 2026, and applies to search warrants issued on or after that date."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 26, 2026, 9:17 a.m."
+      ],
+      "act_title": "An act relating to public safety; modifying provisions governing Capitol security; creating emergency contact information policy for elected officials; modifying attorney general subpoena authority; modifying clemency provisions; establishing task forces and a grant program; including security guards in medical personnel assault crime; modifying penalties for theft from vulnerable adults; modifying child sexual abuse material policy; prohibiting prediction markets-related activities; providing for a Department of Natural Resources money transfer; requiring reports; providing criminal penalties; appropriating money for public safety, corrections, and for judicial, legislative, and constitutional officer safety and security; repealing 2026 S.F. No. 4760, article 3, section 1, and article 8, sections 1, 2, and 3, if enacted; amending Minnesota Statutes 2024, sections 8.16, subdivision 1; 13.6905, by adding a subdivision; 299D.03, subdivision 1; 299E.01, subdivisions 1, 2, 3, 4; 299L.03, subdivision 12; 609.52, subdivision 3a; 609.75, subdivision 3; 617.246, by adding a subdivision; 638.14, subdivision 5; Minnesota Statutes 2025 Supplement, sections 609.2231, subdivision 2; 617.247, by adding a subdivision; Laws 2025, chapter 35, article 1, sections 2; 4; 5; article 2, section 4; Laws 2025, chapter 39, article 1, section 2; Laws 2025, First Special Session chapter 8, article 1, section 4, subdivision 3; proposing coding for new law in Minnesota Statutes, chapters 299A; 299E; 609; 617.",
+      "reason": null
+    }
+  ]
+}

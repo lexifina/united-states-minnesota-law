@@ -1,0 +1,70 @@
+{
+  "act": "ch-196",
+  "day": "2026-08-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/196/full",
+  "statute_source_sha256": "25a58bea799f98cd9505fade4f5f39de7a3e23a2aa6b8f20d7713ae15f82363a",
+  "latest_year": 2026,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/50/",
+      "source_sha256": "1cf6137b8b115912c408ef863de43627f56faa19a5613e460342c41bee279693",
+      "source_ref": "/laws/2026/0/50/#laws.0.3.0",
+      "citation": "2026 c 50 s 3",
+      "day": "2026-08-01",
+      "operative_clauses": [
+        "645.02 EFFECTIVE DATE AND TIME OF LAWS. Each act, except one making appropriations, enacted finally at any session of the legislature takes effect on August 1 next following its final enactment, unless a different date is specified in the act. A special law required to be approved by the local government unit affected before it goes into effect becomes effective as to the approving unit the day following the day on which the certificate of approval prescribed by section 645.021 is filed with the secretary of state, unless a later date is specified in the act. When approval of such a special law is required by two or more local government units before it may become effective, the day after the day when the last of the required certificates is filed is the effective date, unless a later date is specified in the act. An appropriation act or an act having appropriation items enacted finally at any session of the legislature takes effect at the beginning of the first day of July next following its final enactment, unless a different date is specified in the act. Each act takes effect at 12:01 a.m. on the day it becomes effective, unless a different time is specified in the act."
+      ],
+      "signed_quote": [
+        "Signed by the governor April 21, 2026, 9:57 a.m."
+      ],
+      "act_title": "An act relating to veterans; providing that certain veterans or former members of the armed forces who have forfeited federal benefits do not qualify for state-funded veterans benefits, services, or programs; discontinuing the environmental hazards information and assistance program for veterans; amending Minnesota Statutes 2024, section 196.021; proposing coding for new law in Minnesota Statutes, chapter 197; repealing Minnesota Statutes 2024, sections 196.19; 196.21; 196.22, subdivisions 1, 2, 3, 5; 196.23; 196.24; 196.25; 196.26; 197.225.",
+      "reason": null
+    },
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/50/",
+      "source_sha256": "1cf6137b8b115912c408ef863de43627f56faa19a5613e460342c41bee279693",
+      "source_ref": "/laws/2026/0/50/#laws.0.1.0",
+      "citation": "2026 c 50 s 1",
+      "day": "2026-08-01",
+      "operative_clauses": [
+        "645.02 EFFECTIVE DATE AND TIME OF LAWS. Each act, except one making appropriations, enacted finally at any session of the legislature takes effect on August 1 next following its final enactment, unless a different date is specified in the act. A special law required to be approved by the local government unit affected before it goes into effect becomes effective as to the approving unit the day following the day on which the certificate of approval prescribed by section 645.021 is filed with the secretary of state, unless a later date is specified in the act. When approval of such a special law is required by two or more local government units before it may become effective, the day after the day when the last of the required certificates is filed is the effective date, unless a later date is specified in the act. An appropriation act or an act having appropriation items enacted finally at any session of the legislature takes effect at the beginning of the first day of July next following its final enactment, unless a different date is specified in the act. Each act takes effect at 12:01 a.m. on the day it becomes effective, unless a different time is specified in the act."
+      ],
+      "signed_quote": [
+        "Signed by the governor April 21, 2026, 9:57 a.m."
+      ],
+      "act_title": "An act relating to veterans; providing that certain veterans or former members of the armed forces who have forfeited federal benefits do not qualify for state-funded veterans benefits, services, or programs; discontinuing the environmental hazards information and assistance program for veterans; amending Minnesota Statutes 2024, section 196.021; proposing coding for new law in Minnesota Statutes, chapter 197; repealing Minnesota Statutes 2024, sections 196.19; 196.21; 196.22, subdivisions 1, 2, 3, 5; 196.23; 196.24; 196.25; 196.26; 197.225.",
+      "reason": null
+    },
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/96/",
+      "source_sha256": "334ef46b95745bca02e032b788793f71c69dbaaf2f6a841dfcbb3c0df0d33725",
+      "source_ref": "/laws/2026/0/96/#laws.0.3.0",
+      "citation": "2026 c 96 s 3",
+      "day": "2026-07-01",
+      "operative_clauses": [
+        "645.02 EFFECTIVE DATE AND TIME OF LAWS. Each act, except one making appropriations, enacted finally at any session of the legislature takes effect on August 1 next following its final enactment, unless a different date is specified in the act. A special law required to be approved by the local government unit affected before it goes into effect becomes effective as to the approving unit the day following the day on which the certificate of approval prescribed by section 645.021 is filed with the secretary of state, unless a later date is specified in the act. When approval of such a special law is required by two or more local government units before it may become effective, the day after the day when the last of the required certificates is filed is the effective date, unless a later date is specified in the act. An appropriation act or an act having appropriation items enacted finally at any session of the legislature takes effect at the beginning of the first day of July next following its final enactment, unless a different date is specified in the act. Each act takes effect at 12:01 a.m. on the day it becomes effective, unless a different time is specified in the act."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 14, 2026, 9:58 a.m."
+      ],
+      "act_title": "An act relating to veterans; establishing standards for legislatively directed competitive and direct grants; providing for honor guard detail; modifying benefits available to veterans of the Secret War in Laos; modifying eligibility for burial in state veterans cemeteries; establishing the Commanders Task Force; modifying pay for state active service; allowing the commissioner of veterans affairs to temporarily close veterans homes under certain circumstances; requiring reports; appropriating money; amending Minnesota Statutes 2024, sections 171.07, subdivision 15; 197.231; 198.01; Minnesota Statutes 2025 Supplement, sections 192.49, subdivision 1; 197.236, subdivisions 8, 9; 197.448, subdivisions 1, 2, by adding subdivisions; proposing coding for new law in Minnesota Statutes, chapters 196; 197; repealing Minnesota Statutes 2025 Supplement, section 192.49, subdivision 2.",
+      "reason": null
+    },
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/52/",
+      "source_sha256": "44d7568e6598a7dfe7481f9a295c84b2db0e9909c0dc33be0812e6c552730b2f",
+      "source_ref": "/laws/2026/0/52/#laws.0.1.0",
+      "citation": "2026 c 52 s 1",
+      "day": "2026-08-01",
+      "operative_clauses": [
+        "645.02 EFFECTIVE DATE AND TIME OF LAWS. Each act, except one making appropriations, enacted finally at any session of the legislature takes effect on August 1 next following its final enactment, unless a different date is specified in the act. A special law required to be approved by the local government unit affected before it goes into effect becomes effective as to the approving unit the day following the day on which the certificate of approval prescribed by section 645.021 is filed with the secretary of state, unless a later date is specified in the act. When approval of such a special law is required by two or more local government units before it may become effective, the day after the day when the last of the required certificates is filed is the effective date, unless a later date is specified in the act. An appropriation act or an act having appropriation items enacted finally at any session of the legislature takes effect at the beginning of the first day of July next following its final enactment, unless a different date is specified in the act. Each act takes effect at 12:01 a.m. on the day it becomes effective, unless a different time is specified in the act."
+      ],
+      "signed_quote": [
+        "Signed by the governor April 29, 2026, 11:16 a.m."
+      ],
+      "act_title": "An act relating to veterans; allowing the commissioner of veterans affairs to direct agency resources to veterans' initiatives; requiring reports; amending Minnesota Statutes 2024, section 196.22, by adding a subdivision.",
+      "reason": null
+    }
+  ]
+}

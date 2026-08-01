@@ -1,0 +1,25 @@
+{
+  "act": "ch-168b",
+  "day": "2026-08-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/168B/full",
+  "statute_source_sha256": "5d57e039f8ad8efc4aadc87dfb1471c310a0f2d6a6b5d71ee5e3386222828751",
+  "latest_year": 2026,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/78/",
+      "source_sha256": "fe2ceea430a980856ff898c81d2eaeeb3b8247b883ae5b236360e3ca20dbfc91",
+      "source_ref": "/laws/2026/0/78/#laws.0.1.0",
+      "citation": "2026 c 78 s 1",
+      "day": "2026-08-01",
+      "operative_clauses": [
+        "645.02 EFFECTIVE DATE AND TIME OF LAWS. Each act, except one making appropriations, enacted finally at any session of the legislature takes effect on August 1 next following its final enactment, unless a different date is specified in the act. A special law required to be approved by the local government unit affected before it goes into effect becomes effective as to the approving unit the day following the day on which the certificate of approval prescribed by section 645.021 is filed with the secretary of state, unless a later date is specified in the act. When approval of such a special law is required by two or more local government units before it may become effective, the day after the day when the last of the required certificates is filed is the effective date, unless a later date is specified in the act. An appropriation act or an act having appropriation items enacted finally at any session of the legislature takes effect at the beginning of the first day of July next following its final enactment, unless a different date is specified in the act. Each act takes effect at 12:01 a.m. on the day it becomes effective, unless a different time is specified in the act."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 7, 2026, 9:20 a.m."
+      ],
+      "act_title": "An act relating to transportation; permitting tow trucks to use variable message signs; amending Minnesota Statutes 2024, section 168B.16.",
+      "reason": null
+    }
+  ]
+}

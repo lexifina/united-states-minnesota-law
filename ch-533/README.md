@@ -1,19 +1,7 @@
 # Minnesota Statutes chapter 533 (Uniform Electronic Estate Planning Documents Act)
 
-Minn. Stat. ch. 533 · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.revisor.mn.gov/statutes/cite/533/full>
+Current-source text is recorded from 2026-08-01, the supported latest-amendment commencement. The published 2026-11-03 boundary is retained as a compatibility index. Text as of 2026-11-03.
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 533.01 | [533-010000.md](533-010000.md) | 0 |  |
-| 533.02 | [533-020000.md](533-020000.md) | 0 |  |
-| 533.03 | [533-030000.md](533-030000.md) | 0 |  |
-| 533.10 | [533-100000.md](533-100000.md) | 0 |  |
-| 533.11 | [533-110000.md](533-110000.md) | 0 |  |
-| 533.12 | [533-120000.md](533-120000.md) | 0 |  |
-| 533.13 | [533-130000.md](533-130000.md) | 0 |  |
-| 533.14 | [533-140000.md](533-140000.md) | 0 |  |
-| 533.15 | [533-150000.md](533-150000.md) | 0 |  |
-| 533.16 | [533-160000.md](533-160000.md) | 0 |  |
-| 533.17 | [533-170000.md](533-170000.md) | 0 |  |
-| 533.18 | [533-180000.md](533-180000.md) | 0 |  |
-| 533.19 | [533-190000.md](533-190000.md) | 0 |  |
+Source: https://www.revisor.mn.gov/statutes/cite/533/full
+
+Operative clauses and source references: ../data/commencement/ch-533.json

@@ -1,0 +1,40 @@
+{
+  "act": "ch-29",
+  "day": "2026-08-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/29/full",
+  "statute_source_sha256": "f3b4687f1632a3650ee7f1faad5da22f6c5790ca5733d8147294f7703e5ef7dc",
+  "latest_year": 2026,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/110/",
+      "source_sha256": "3a6e81da0cb86a1882286057b5224090a99c871c06e8883a857e1a608c83c110",
+      "source_ref": "/laws/2026/0/110/#laws.0.1.0",
+      "citation": "2026 c 110 s 1",
+      "day": "2026-08-01",
+      "operative_clauses": [
+        "645.02 EFFECTIVE DATE AND TIME OF LAWS. Each act, except one making appropriations, enacted finally at any session of the legislature takes effect on August 1 next following its final enactment, unless a different date is specified in the act. A special law required to be approved by the local government unit affected before it goes into effect becomes effective as to the approving unit the day following the day on which the certificate of approval prescribed by section 645.021 is filed with the secretary of state, unless a later date is specified in the act. When approval of such a special law is required by two or more local government units before it may become effective, the day after the day when the last of the required certificates is filed is the effective date, unless a later date is specified in the act. An appropriation act or an act having appropriation items enacted finally at any session of the legislature takes effect at the beginning of the first day of July next following its final enactment, unless a different date is specified in the act. Each act takes effect at 12:01 a.m. on the day it becomes effective, unless a different time is specified in the act."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 26, 2026, 9:11 a.m."
+      ],
+      "act_title": "An act relating to agriculture; allowing eggs to be donated past their quality assurance date; amending Minnesota Statutes 2024, sections 29.21, by adding a subdivision; 29.26.",
+      "reason": null
+    },
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/110/",
+      "source_sha256": "3a6e81da0cb86a1882286057b5224090a99c871c06e8883a857e1a608c83c110",
+      "source_ref": "/laws/2026/0/110/#laws.0.2.0",
+      "citation": "2026 c 110 s 2",
+      "day": "2026-08-01",
+      "operative_clauses": [
+        "645.02 EFFECTIVE DATE AND TIME OF LAWS. Each act, except one making appropriations, enacted finally at any session of the legislature takes effect on August 1 next following its final enactment, unless a different date is specified in the act. A special law required to be approved by the local government unit affected before it goes into effect becomes effective as to the approving unit the day following the day on which the certificate of approval prescribed by section 645.021 is filed with the secretary of state, unless a later date is specified in the act. When approval of such a special law is required by two or more local government units before it may become effective, the day after the day when the last of the required certificates is filed is the effective date, unless a later date is specified in the act. An appropriation act or an act having appropriation items enacted finally at any session of the legislature takes effect at the beginning of the first day of July next following its final enactment, unless a different date is specified in the act. Each act takes effect at 12:01 a.m. on the day it becomes effective, unless a different time is specified in the act."
+      ],
+      "signed_quote": [
+        "Signed by the governor May 26, 2026, 9:11 a.m."
+      ],
+      "act_title": "An act relating to agriculture; allowing eggs to be donated past their quality assurance date; amending Minnesota Statutes 2024, sections 29.21, by adding a subdivision; 29.26.",
+      "reason": null
+    }
+  ]
+}

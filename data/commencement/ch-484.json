@@ -1,0 +1,29 @@
+{
+  "act": "ch-484",
+  "day": "2026-08-01",
+  "text_as_of": "2026-11-03",
+  "statute_source": "https://www.revisor.mn.gov/statutes/cite/484/full",
+  "statute_source_sha256": "06fcab4dad0a86f3ad910123d64527cf7f489cfa7474975f30ab05f5d9d540b0",
+  "latest_year": 2026,
+  "references": [
+    {
+      "source_url": "https://www.revisor.mn.gov/laws/2026/0/71/",
+      "source_sha256": "450f15d3ffffb534f843ff1d10a2deeba9ee63da0ba883634208756037fa4c44",
+      "source_ref": "/laws/2026/0/71/#laws.0.2.0",
+      "citation": "2026 c 71 s 2",
+      "day": "2026-08-01",
+      "operative_clauses": [
+        {
+          "rule": "645.02",
+          "classification": "no active appropriation language or grant",
+          "items": []
+        }
+      ],
+      "signed_quote": [
+        "Signed by the governor May 7, 2026, 9:13 a.m."
+      ],
+      "act_title": "An act relating to judiciary; clarifying publication process for court notices and provisions regarding restitution and conciliation court; clarifying certain notices to public authorities in dissolution cases; modifying expiration of the Supreme Court Council on Child Protection; amending Minnesota Statutes 2024, sections 331A.03, subdivision 1; 518A.44; 611A.04, subdivision 3; Laws 2024, chapter 115, article 12, section 30, subdivisions 6, 7; article 22, section 6; proposing coding for new law in Minnesota Statutes, chapter 484.",
+      "reason": null
+    }
+  ]
+}
