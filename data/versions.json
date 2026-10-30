@@ -1,0 +1,61 @@
+{
+ "country": "MN",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Minn. Const.",
+   "title": "Constitution of the State of Minnesota",
+   "url": "https://www.revisor.mn.gov/constitution/",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 137,
+     "source_url": "https://www.revisor.mn.gov/constitution/",
+     "sha256": "6bfe2bc1b70379d84df07ea00d6c5c516f1ba4388bd941662c2c5c7a0b834254"
+    }
+   ]
+  },
+  {
+   "slug": "ch-609",
+   "short": "Minn. Stat. ch. 609",
+   "title": "Minnesota Statutes chapter 609 (Criminal Code)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/609/full",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 436,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/609/full",
+     "sha256": "7f8340762a0fe001123d83b69f1626426f8521f79321080c519acc0d1256fdb1"
+    }
+   ]
+  },
+  {
+   "slug": "ch-302a",
+   "short": "Minn. Stat. ch. 302A",
+   "title": "Minnesota Statutes chapter 302A (Business Corporations)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/302A/full",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 152,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/302A/full",
+     "sha256": "76337c9a12c4ba52a67017382b6ffc52a286d55569e7498666790433001d3286"
+    }
+   ]
+  },
+  {
+   "slug": "ch-507",
+   "short": "Minn. Stat. ch. 507",
+   "title": "Minnesota Statutes chapter 507 (Conveyances of Real Property)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/507/full",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 86,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/507/full",
+     "sha256": "0425770e238e6771e4d0b1415832b0dae26dec4379b9ed5628540357437f9116"
+    }
+   ]
+  }
+ ]
+}
