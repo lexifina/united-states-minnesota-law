@@ -934,3 +934,14 @@ Corrections carry Kind, Corrects, Supersedes, Reason, Files and In-force-basis. 
 | `ch-648/` | Minnesota Statutes chapter 648 (Minnesota Statutes; Publication) | 1 | Legacy capture record; chronology unestablished |
 
 Annual-edition history is also recorded for Minn. Stat. ch. 1, Minn. Stat. ch. 3E, Minn. Stat. ch. 13D, Minn. Stat. ch. 507, Minn. Stat. ch. 645. Each changed edition is a labelled correction with Text-as-of and In-force-basis: annual edition. The 31 December date indexes the stated edition year; it does not assert an exact commencement day. Other chapters' annual histories remain outside this batch.
+
+The annual-edition record now also includes the following earlier editions. Each distinct source text is appended as a labelled correction; identical annual texts share a recorded version. Complete chapter titles, group headings, paragraphs, status, History and post-history notes are retained, including native preformatted text and textual tables. Exact commencement dates and intervening session-law texts are not inferred.
+
+| Chapter | Earlier versions added | Edition range examined |
+| --- | ---: | --- |
+| `ch-1/` | 11 | 1997–2009 |
+| `ch-13d/` | 8 | 2000–2009 |
+| `ch-507/` | 13 | 1997–2009 |
+| `ch-645/` | 9 | 1997–2009 |
+
+Chapter 13D has no source chapter at the 1997–1999 archive paths. Other chapters and the editions before 1997 remain outside this batch. The four current chapters also include source organization and status annotations. Chapter 645 retains the source-labelled pending-amendment note and contingent replacement wording; the published version boundaries remain unchanged.

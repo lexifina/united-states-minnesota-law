@@ -1,19 +1,33 @@
 {
-  "path": "us-mn",
-  "code": "MN",
-  "name": "Minnesota",
-  "level": "state",
-  "repo": "https://github.com/lexifina/united-states-minnesota-law",
-  "build": "partial",
-  "register_date": "2026-10-30",
-  "text_as_of": {
-    "initial_chapters": "2026-10-30",
-    "other_chapters": "2026-11-03",
-    "constitution_capture": "2026-10-30",
-    "constitution_electronic_publication": "2025-01-09"
-  },
-  "date_coverage": {
-    "supported": 450,
-    "held": 358
-  }
+ "path": "us-mn",
+ "code": "MN",
+ "name": "Minnesota",
+ "level": "state",
+ "repo": "https://github.com/lexifina/united-states-minnesota-law",
+ "build": "partial",
+ "register_date": "2026-10-30",
+ "text_as_of": {
+  "initial_chapters": "2026-10-30",
+  "other_chapters": "2026-11-03",
+  "constitution_capture": "2026-10-30",
+  "constitution_electronic_publication": "2025-01-09"
+ },
+ "date_coverage": {
+  "supported": 450,
+  "held": 358
+ },
+ "annual_history_1997_2009": {
+  "edition_from": 1997,
+  "edition_to": 2009,
+  "date_basis": "annual edition",
+  "date_convention": "31 December indexes the source edition year; exact legal commencement is not inferred.",
+  "chapters": [
+   "ch-1",
+   "ch-13d",
+   "ch-507",
+   "ch-645"
+  ],
+  "versions_added": 41
+ },
+ "current_source_annotations_checked_on": "2026-11-05"
 }

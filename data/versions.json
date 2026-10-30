@@ -63,6 +63,214 @@
    "url": "https://www.revisor.mn.gov/statutes/cite/507/full",
    "versions": [
     {
+     "from": "1997-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/1997/cite/507/full",
+     "sha256": "e74fbe981c5f24e0c35d885275999c4909c8132bc5c69eca9c1b020956e2a8b3",
+     "text_as_of": "1997-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 61,
+     "to": "1998-12-30",
+     "status": "as captured",
+     "edition": 1997,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "1998-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/1998/cite/507/full",
+     "sha256": "1bb5b5a1c1c819c61ca9935886ed20246f9ec34b393aef135eb318cda6367e97",
+     "text_as_of": "1998-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 62,
+     "to": "1999-12-30",
+     "status": "as captured",
+     "edition": 1998,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "1999-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/1999/cite/507/full",
+     "sha256": "502e2e965ac098cd763f369b3929690b8183bf014ef1478e8deb0192f9ecb8b9",
+     "text_as_of": "1999-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 62,
+     "to": "2000-12-30",
+     "status": "as captured",
+     "edition": 1999,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2000-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2000/cite/507/full",
+     "sha256": "8833d91b0ae03453f1af9fd46e8c2e8299fc26e0112e5c3a412c1f002ce52ec4",
+     "text_as_of": "2000-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 62,
+     "to": "2001-12-30",
+     "status": "as captured",
+     "edition": 2000,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2001-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2001/cite/507/full",
+     "sha256": "6be5a4f82de2aab851d3dc7bedb36d9ba7e2b576324809174ed95ee72ca5a67f",
+     "text_as_of": "2001-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 64,
+     "to": "2002-12-30",
+     "status": "as captured",
+     "edition": 2001,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2002-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2002/cite/507/full",
+     "sha256": "43c995f29ee8d3e90936d132ec9e50a605a57d53a619f45294141c136466d7d1",
+     "text_as_of": "2002-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 66,
+     "to": "2003-12-30",
+     "status": "as captured",
+     "edition": 2002,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2003-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2003/cite/507/full",
+     "sha256": "28bb4fc2ce7018f1ed398af3f592e85a6c4399030aa1776d4e3e5c06f84c3db5",
+     "text_as_of": "2003-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 67,
+     "to": "2004-12-30",
+     "status": "as captured",
+     "edition": 2003,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2004-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2004/cite/507/full",
+     "sha256": "58360e7a8aafb8215d27a1da1d2e590e7f721e31b5c62d14e8f25767b96f5561",
+     "text_as_of": "2004-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 69,
+     "to": "2005-12-30",
+     "status": "as captured",
+     "edition": 2004,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2005-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2005/cite/507/full",
+     "sha256": "9bdd39bee56399e9c0eacc0adc61aae4f0f4d0ecc6fb4bd580ee7940d7805cc9",
+     "text_as_of": "2005-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 70,
+     "to": "2006-12-30",
+     "status": "as captured",
+     "edition": 2005,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2006-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2006/cite/507/full",
+     "sha256": "99b4a179d813cea14a39ab378fa613d15543601cd930cde401b4b1e331fe72dc",
+     "text_as_of": "2006-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 72,
+     "to": "2007-12-30",
+     "status": "as captured",
+     "edition": 2006,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2007-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2007/cite/507/full",
+     "sha256": "cabb1b8ba307d4195a7542d3caa75ca2528e4dc47d77cfe8011ba28ccf5665c9",
+     "text_as_of": "2007-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 72,
+     "to": "2008-12-30",
+     "status": "as captured",
+     "edition": 2007,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2008-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2008/cite/507/full",
+     "sha256": "fd0c6ba211abd912fdac917676152fce54d011772550c54999e9e0b1234c82e7",
+     "text_as_of": "2008-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 82,
+     "to": "2009-12-30",
+     "status": "as captured",
+     "edition": 2008,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2009-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2009/cite/507/full",
+     "sha256": "6177deaac9fd42774be6ebf42ec9c0c94f8dda044b33fd4815ba8e5c6c7da744",
+     "text_as_of": "2009-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 82,
+     "to": "2010-12-30",
+     "status": "as captured",
+     "edition": 2009,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
      "from": "2010-12-31",
      "source_url": "https://www.revisor.mn.gov/statutes/2010/cite/507/full",
      "sha256": "f9e1ff9d2bb5fabb3a436c6dc10f800b6fed62a89591547990d151b8e276fa49",
@@ -70,7 +278,10 @@
      "to": "2013-12-30",
      "text_as_of": "2010-12-31",
      "in_force_basis": "annual edition: 2010 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2013-12-31",
@@ -80,7 +291,10 @@
      "to": "2014-12-30",
      "text_as_of": "2013-12-31",
      "in_force_basis": "annual edition: 2013 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2014-12-31",
@@ -90,7 +304,10 @@
      "to": "2015-12-30",
      "text_as_of": "2014-12-31",
      "in_force_basis": "annual edition: 2014 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2015-12-31",
@@ -100,7 +317,10 @@
      "to": "2016-12-30",
      "text_as_of": "2015-12-31",
      "in_force_basis": "annual edition: 2015 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2016-12-31",
@@ -110,7 +330,10 @@
      "to": "2017-12-30",
      "text_as_of": "2016-12-31",
      "in_force_basis": "annual edition: 2016 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2017-12-31",
@@ -120,7 +343,10 @@
      "to": "2018-12-30",
      "text_as_of": "2017-12-31",
      "in_force_basis": "annual edition: 2017 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2018-12-31",
@@ -130,7 +356,10 @@
      "to": "2019-12-30",
      "text_as_of": "2018-12-31",
      "in_force_basis": "annual edition: 2018 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2019-12-31",
@@ -140,7 +369,10 @@
      "to": "2023-12-30",
      "text_as_of": "2019-12-31",
      "in_force_basis": "annual edition: 2019 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2023-12-31",
@@ -150,7 +382,10 @@
      "to": "2024-12-30",
      "text_as_of": "2023-12-31",
      "in_force_basis": "annual edition: 2023 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2024-12-31",
@@ -160,7 +395,10 @@
      "to": "2025-06-30",
      "text_as_of": "2024-12-31",
      "in_force_basis": "annual edition: 2024 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2025-07-01",
@@ -171,18 +409,25 @@
      "date_kind": "latest-amendment commencement",
      "in_force_date": "2025-07-01",
      "units": 86,
-     "to": "2026-10-28"
+     "to": "2026-10-28",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2026-10-29",
      "source_url": "https://www.revisor.mn.gov/statutes/cite/507/full",
      "sha256": "0425770e238e6771e4d0b1415832b0dae26dec4379b9ed5628540357437f9116",
-     "text_as_of": "2026-10-30",
+     "text_as_of": "2026-11-05",
      "in_force_basis": "Current-source text dated by latest-amendment commencement 2025-07-01; exact operative clauses and source hashes are recorded in data/commencement/ch-507.json. The published capture boundary is retained as a compatibility index.",
      "date_kind": "retained capture boundary",
      "in_force_date": "2025-07-01",
      "units": 86,
-     "to": null
+     "to": null,
+     "source_images": 0,
+     "source_annotation_correction": "Complete chapter organization, status and post-history notes; contingent amendment wording retains the official condition.",
+     "referenced": 0,
+     "omitted": 0
     }
    ]
   },
@@ -193,6 +438,182 @@
    "url": "https://www.revisor.mn.gov/statutes/cite/1/full",
    "versions": [
     {
+     "from": "1997-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/1997/cite/1/full",
+     "sha256": "f341d1be808596121cf994214322cd5313a67b1477ef08b3e556a87a62de2557",
+     "text_as_of": "1997-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 52,
+     "to": "1998-12-30",
+     "status": "as captured",
+     "edition": 1997,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "1998-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/1998/cite/1/full",
+     "sha256": "db71482147539cbc3f7bcca1c5d2a5ef0385f50f6b6193b6351ffcfc40342e25",
+     "text_as_of": "1998-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 52,
+     "to": "2000-12-30",
+     "status": "as captured",
+     "edition": 1998,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2000-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2000/cite/1/full",
+     "sha256": "8bd0e142fe4d021a9add9f59f96dacf6254eccf2081def6c4660f0097fa6d484",
+     "text_as_of": "2000-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 53,
+     "to": "2001-12-30",
+     "status": "as captured",
+     "edition": 2000,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2001-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2001/cite/1/full",
+     "sha256": "4c2e59ee43554587ab3136725ce50eaf02079ad4f690a5f7f805becbeafd8797",
+     "text_as_of": "2001-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 54,
+     "to": "2002-12-30",
+     "status": "as captured",
+     "edition": 2001,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2002-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2002/cite/1/full",
+     "sha256": "1899ffe7d554de80bdf2435ff0f51e4a70c0f9b6e7d4ded23d514a0d38120030",
+     "text_as_of": "2002-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 55,
+     "to": "2003-12-30",
+     "status": "as captured",
+     "edition": 2002,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2003-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2003/cite/1/full",
+     "sha256": "33bb2ffd73eb11cafa902d0976ae8a15e44d1475f78418fb2f24aa7343b895d7",
+     "text_as_of": "2003-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 55,
+     "to": "2004-12-30",
+     "status": "as captured",
+     "edition": 2003,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2004-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2004/cite/1/full",
+     "sha256": "c0855e22d59bd20d60585ea19bbf724f885d53e10dac87375db5d2b83af8b6ce",
+     "text_as_of": "2004-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 56,
+     "to": "2006-12-30",
+     "status": "as captured",
+     "edition": 2004,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2006-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2006/cite/1/full",
+     "sha256": "93d5c58992dd1c2afaafad23fba4c7dfdb48b1038face0894e168a1a253fd47e",
+     "text_as_of": "2006-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 57,
+     "to": "2007-12-30",
+     "status": "as captured",
+     "edition": 2006,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2007-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2007/cite/1/full",
+     "sha256": "87d9a22210d8a1f3deb202b53107625a00bb95d571a30bc6977fedbfbdab14d1",
+     "text_as_of": "2007-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 57,
+     "to": "2008-12-30",
+     "status": "as captured",
+     "edition": 2007,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2008-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2008/cite/1/full",
+     "sha256": "e509cdd2906723b19b66d65e25beefba0c3d137505da97e949b2f9b9f7a61c38",
+     "text_as_of": "2008-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 57,
+     "to": "2009-12-30",
+     "status": "as captured",
+     "edition": 2008,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2009-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2009/cite/1/full",
+     "sha256": "bac4d93da9f3eb719e2a4a7db4512889f503768f103a7ced1730f668a9faa3f0",
+     "text_as_of": "2009-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 58,
+     "to": "2010-12-30",
+     "status": "as captured",
+     "edition": 2009,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
      "from": "2010-12-31",
      "source_url": "https://www.revisor.mn.gov/statutes/2010/cite/1/full",
      "sha256": "c16cdd16940d3210ee4962f5d76c2413048d8141925ffccee8ae05a99f04482f",
@@ -200,7 +621,10 @@
      "to": "2012-12-30",
      "text_as_of": "2010-12-31",
      "in_force_basis": "annual edition: 2010 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2012-12-31",
@@ -210,7 +634,10 @@
      "to": "2018-12-30",
      "text_as_of": "2012-12-31",
      "in_force_basis": "annual edition: 2012 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2018-12-31",
@@ -220,7 +647,10 @@
      "to": "2019-12-30",
      "text_as_of": "2018-12-31",
      "in_force_basis": "annual edition: 2018 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2019-12-31",
@@ -230,7 +660,10 @@
      "to": "2020-12-30",
      "text_as_of": "2019-12-31",
      "in_force_basis": "annual edition: 2019 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2020-12-31",
@@ -240,7 +673,10 @@
      "to": "2022-12-30",
      "text_as_of": "2020-12-31",
      "in_force_basis": "annual edition: 2020 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2022-12-31",
@@ -250,7 +686,10 @@
      "to": "2023-12-30",
      "text_as_of": "2022-12-31",
      "in_force_basis": "annual edition: 2022 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2023-12-31",
@@ -260,7 +699,10 @@
      "to": "2024-12-30",
      "text_as_of": "2023-12-31",
      "in_force_basis": "annual edition: 2023 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2024-12-31",
@@ -270,7 +712,10 @@
      "to": "2025-06-30",
      "text_as_of": "2024-12-31",
      "in_force_basis": "annual edition: 2024 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2025-07-01",
@@ -281,18 +726,25 @@
      "date_kind": "latest-amendment commencement",
      "in_force_date": "2025-07-01",
      "units": 63,
-     "to": "2026-11-02"
+     "to": "2026-11-02",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2026-11-03",
      "source_url": "https://www.revisor.mn.gov/statutes/cite/1/full",
      "sha256": "f36124263bec8034ac90e2db4ddf685622f98861230bcccc6cb88d2ff8db47d2",
-     "text_as_of": "2026-11-03",
+     "text_as_of": "2026-11-05",
      "in_force_basis": "Current-source text dated by latest-amendment commencement 2025-07-01; exact operative clauses and source hashes are recorded in data/commencement/ch-1.json. The published capture boundary is retained as a compatibility index.",
      "date_kind": "retained capture boundary",
      "in_force_date": "2025-07-01",
      "units": 63,
-     "to": null
+     "to": null,
+     "source_images": 0,
+     "source_annotation_correction": "Complete chapter organization, status and post-history notes; contingent amendment wording retains the official condition.",
+     "referenced": 0,
+     "omitted": 0
     }
    ]
   },
@@ -883,6 +1335,134 @@
    "url": "https://www.revisor.mn.gov/statutes/cite/13D/full",
    "versions": [
     {
+     "from": "2000-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2000/cite/13D/full",
+     "sha256": "98d1a49d3880fee97712c2b61221521b9a35cb8c9f7f4ac7a399e85bc88d4286",
+     "text_as_of": "2000-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 7,
+     "to": "2001-12-30",
+     "status": "as captured",
+     "edition": 2000,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2001-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2001/cite/13D/full",
+     "sha256": "b7ccf96a0196da3792ea75593f1eab8f92a7047316882dde0ae99ca07e4a6510",
+     "text_as_of": "2001-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 7,
+     "to": "2002-12-30",
+     "status": "as captured",
+     "edition": 2001,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2002-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2002/cite/13D/full",
+     "sha256": "d8b413a08d07b808b022ef3f54f77dd3f071ef2a26a368033d04e28bcb9d9ec9",
+     "text_as_of": "2002-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 7,
+     "to": "2004-12-30",
+     "status": "as captured",
+     "edition": 2002,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2004-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2004/cite/13D/full",
+     "sha256": "035a76fd47c0ca9326bfa0fe592d0582ded64809a7016597d1101a42401f4a36",
+     "text_as_of": "2004-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 7,
+     "to": "2006-12-30",
+     "status": "as captured",
+     "edition": 2004,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2006-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2006/cite/13D/full",
+     "sha256": "c11f66eca10a95f8db8356f4a18426b9e0f974b0f395618b94c57f89403c6aa7",
+     "text_as_of": "2006-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 7,
+     "to": "2007-12-30",
+     "status": "as captured",
+     "edition": 2006,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2007-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2007/cite/13D/full",
+     "sha256": "b2bff1085935af70484e858aa1ec5d28bbc901c98e19f7bb24059f62601a431a",
+     "text_as_of": "2007-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 8,
+     "to": "2008-12-30",
+     "status": "as captured",
+     "edition": 2007,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2008-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2008/cite/13D/full",
+     "sha256": "1a99ac92b80a5032b60e9c972202c0900ce985834fa076524381ce18a7215284",
+     "text_as_of": "2008-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 8,
+     "to": "2009-12-30",
+     "status": "as captured",
+     "edition": 2008,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2009-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2009/cite/13D/full",
+     "sha256": "db8423a1e14626f0d907b79840e0471f44fcf103fac50ea670bc28bb54a5c1b6",
+     "text_as_of": "2009-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 9,
+     "to": "2010-12-30",
+     "status": "as captured",
+     "edition": 2009,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
      "from": "2010-12-31",
      "source_url": "https://www.revisor.mn.gov/statutes/2010/cite/13D/full",
      "sha256": "b89d5b54ebd522fe1a7db7392506ed689b077b6117fe68759cef3e245713ef0a",
@@ -890,7 +1470,10 @@
      "to": "2011-12-30",
      "text_as_of": "2010-12-31",
      "in_force_basis": "annual edition: 2010 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2011-12-31",
@@ -900,7 +1483,10 @@
      "to": "2012-12-30",
      "text_as_of": "2011-12-31",
      "in_force_basis": "annual edition: 2011 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2012-12-31",
@@ -910,7 +1496,10 @@
      "to": "2013-12-30",
      "text_as_of": "2012-12-31",
      "in_force_basis": "annual edition: 2012 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2013-12-31",
@@ -920,7 +1509,10 @@
      "to": "2014-12-30",
      "text_as_of": "2013-12-31",
      "in_force_basis": "annual edition: 2013 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2014-12-31",
@@ -930,7 +1522,10 @@
      "to": "2018-12-30",
      "text_as_of": "2014-12-31",
      "in_force_basis": "annual edition: 2014 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2018-12-31",
@@ -940,7 +1535,10 @@
      "to": "2019-12-30",
      "text_as_of": "2018-12-31",
      "in_force_basis": "annual edition: 2018 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2019-12-31",
@@ -950,7 +1548,10 @@
      "to": "2020-12-30",
      "text_as_of": "2019-12-31",
      "in_force_basis": "annual edition: 2019 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2020-12-31",
@@ -960,7 +1561,10 @@
      "to": "2021-12-30",
      "text_as_of": "2020-12-31",
      "in_force_basis": "annual edition: 2020 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2021-12-31",
@@ -970,7 +1574,10 @@
      "to": "2022-12-30",
      "text_as_of": "2021-12-31",
      "in_force_basis": "annual edition: 2021 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2022-12-31",
@@ -980,7 +1587,10 @@
      "to": "2023-12-30",
      "text_as_of": "2022-12-31",
      "in_force_basis": "annual edition: 2022 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2023-12-31",
@@ -990,7 +1600,10 @@
      "to": "2025-12-30",
      "text_as_of": "2023-12-31",
      "in_force_basis": "annual edition: 2023 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2025-12-31",
@@ -1000,7 +1613,10 @@
      "to": "2026-06-30",
      "text_as_of": "2025-12-31",
      "in_force_basis": "annual edition: 2025 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2026-07-01",
@@ -1011,18 +1627,25 @@
      "date_kind": "latest-amendment commencement",
      "in_force_date": "2026-07-01",
      "units": 12,
-     "to": "2026-11-02"
+     "to": "2026-11-02",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2026-11-03",
      "source_url": "https://www.revisor.mn.gov/statutes/cite/13D/full",
      "sha256": "a0db1d570f6e7279c7322158a9207c61747c79dc528100ec105ba9fa59aa80ad",
-     "text_as_of": "2026-11-03",
+     "text_as_of": "2026-11-05",
      "in_force_basis": "Current-source text dated by latest-amendment commencement 2026-07-01; exact operative clauses and source hashes are recorded in data/commencement/ch-13d.json. The published capture boundary is retained as a compatibility index.",
      "date_kind": "retained capture boundary",
      "in_force_date": "2026-07-01",
      "units": 12,
-     "to": null
+     "to": null,
+     "source_images": 0,
+     "source_annotation_correction": "Complete chapter organization, status and post-history notes; contingent amendment wording retains the official condition.",
+     "referenced": 0,
+     "omitted": 0
     }
    ]
   },
@@ -22141,6 +22764,150 @@
    "url": "https://www.revisor.mn.gov/statutes/cite/645/full",
    "versions": [
     {
+     "from": "1997-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/1997/cite/645/full",
+     "sha256": "1073a8a26def8fc7d1936f72bc5fdb8c0be4424aacf91328868e4b86c8f15a68",
+     "text_as_of": "1997-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 60,
+     "to": "1998-12-30",
+     "status": "as captured",
+     "edition": 1997,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "1998-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/1998/cite/645/full",
+     "sha256": "722c57cb77347b5a579bde9b4d03a3f0465f7a31b441526dbcec61a2a00ff4fd",
+     "text_as_of": "1998-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 60,
+     "to": "2000-12-30",
+     "status": "as captured",
+     "edition": 1998,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2000-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2000/cite/645/full",
+     "sha256": "4ec9c6bbb904c092504be332cfe410758a6bd7fdd9eca32e27d40b1c5e71d08b",
+     "text_as_of": "2000-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 60,
+     "to": "2001-12-30",
+     "status": "as captured",
+     "edition": 2000,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2001-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2001/cite/645/full",
+     "sha256": "9280a35c17cee26e8fa486d0d4b95a912b88d467826717d5ec890790aa4e530c",
+     "text_as_of": "2001-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 60,
+     "to": "2002-12-30",
+     "status": "as captured",
+     "edition": 2001,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2002-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2002/cite/645/full",
+     "sha256": "d812681f48eccbe503c1dc717093b18539a7471c8431b5205cec97e673be381e",
+     "text_as_of": "2002-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 60,
+     "to": "2004-12-30",
+     "status": "as captured",
+     "edition": 2002,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2004-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2004/cite/645/full",
+     "sha256": "7e30e16bd256389f00ee724f5ac062fa9930a507eac79f8c317c4bb590f87935",
+     "text_as_of": "2004-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 60,
+     "to": "2006-12-30",
+     "status": "as captured",
+     "edition": 2004,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2006-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2006/cite/645/full",
+     "sha256": "af6f4e62d6aae9261b3ded4bbd146d00c01e5ae0482f21803d8aaf7a2e13627a",
+     "text_as_of": "2006-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 60,
+     "to": "2008-12-30",
+     "status": "as captured",
+     "edition": 2006,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2008-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2008/cite/645/full",
+     "sha256": "1dbdcd11fe7e9dfcf5bcdfa6136890aa253dcfee49b4f879bd2c1c7b4a416a3b",
+     "text_as_of": "2008-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 60,
+     "to": "2009-12-30",
+     "status": "as captured",
+     "edition": 2008,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
+     "from": "2009-12-31",
+     "source_url": "https://www.revisor.mn.gov/statutes/2009/cite/645/full",
+     "sha256": "8626b7acd832aa2afd6dc21636515336a38ca941c00374308d20e526e07391da",
+     "text_as_of": "2009-12-31",
+     "in_force_basis": "annual edition",
+     "in_force_date": null,
+     "date_kind": "annual edition year index",
+     "units": 60,
+     "to": "2010-12-30",
+     "status": "as captured",
+     "edition": 2009,
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
+    },
+    {
      "from": "2010-12-31",
      "source_url": "https://www.revisor.mn.gov/statutes/2010/cite/645/full",
      "sha256": "c63df57b5452b86118d8b30d7a482519552413b35113df9e7d0ac939ad0c2451",
@@ -22148,7 +22915,10 @@
      "to": "2012-12-30",
      "text_as_of": "2010-12-31",
      "in_force_basis": "annual edition: 2010 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2012-12-31",
@@ -22158,7 +22928,10 @@
      "to": "2013-12-30",
      "text_as_of": "2012-12-31",
      "in_force_basis": "annual edition: 2012 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2013-12-31",
@@ -22168,7 +22941,10 @@
      "to": "2014-12-30",
      "text_as_of": "2013-12-31",
      "in_force_basis": "annual edition: 2013 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2014-12-31",
@@ -22178,7 +22954,10 @@
      "to": "2015-12-30",
      "text_as_of": "2014-12-31",
      "in_force_basis": "annual edition: 2014 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2015-12-31",
@@ -22188,7 +22967,10 @@
      "to": "2018-12-30",
      "text_as_of": "2015-12-31",
      "in_force_basis": "annual edition: 2015 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2018-12-31",
@@ -22198,7 +22980,10 @@
      "to": "2021-12-30",
      "text_as_of": "2018-12-31",
      "in_force_basis": "annual edition: 2018 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2021-12-31",
@@ -22208,7 +22993,10 @@
      "to": "2023-12-30",
      "text_as_of": "2021-12-31",
      "in_force_basis": "annual edition: 2021 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2023-12-31",
@@ -22218,7 +23006,10 @@
      "to": "2025-06-30",
      "text_as_of": "2023-12-31",
      "in_force_basis": "annual edition: 2023 Minnesota Statutes; 31 December is an edition-year index, not an exact commencement date",
-     "date_kind": "annual edition"
+     "date_kind": "annual edition",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2025-07-01",
@@ -22229,18 +23020,25 @@
      "date_kind": "latest-amendment commencement",
      "in_force_date": "2025-07-01",
      "units": 62,
-     "to": "2026-11-02"
+     "to": "2026-11-02",
+     "source_images": 0,
+     "referenced": 0,
+     "omitted": 0
     },
     {
      "from": "2026-11-03",
      "source_url": "https://www.revisor.mn.gov/statutes/cite/645/full",
      "sha256": "a1080d6aaa82d9b5c25ecf651d08d33bd83aaa76a7b40aef9e90fe7ea1897bf4",
-     "text_as_of": "2026-11-03",
+     "text_as_of": "2026-11-05",
      "in_force_basis": "Current-source text dated by latest-amendment commencement 2025-07-01; exact operative clauses and source hashes are recorded in data/commencement/ch-645.json. The published capture boundary is retained as a compatibility index.",
      "date_kind": "retained capture boundary",
      "in_force_date": "2025-07-01",
      "units": 62,
-     "to": null
+     "to": null,
+     "source_images": 0,
+     "source_annotation_correction": "Complete chapter organization, status and post-history notes; contingent amendment wording retains the official condition.",
+     "referenced": 0,
+     "omitted": 0
     }
    ]
   },
