@@ -56,6 +56,5816 @@
      "sha256": "0425770e238e6771e4d0b1415832b0dae26dec4379b9ed5628540357437f9116"
     }
    ]
+  },
+  {
+   "slug": "ch-1",
+   "short": "Minn. Stat. ch. 1",
+   "title": "Minnesota Statutes chapter 1 (Sovereignty, Jurisdiction, Emergency Operation, General Policies)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/1/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 63,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/1/full",
+     "sha256": "f36124263bec8034ac90e2db4ddf685622f98861230bcccc6cb88d2ff8db47d2"
+    }
+   ]
+  },
+  {
+   "slug": "ch-2",
+   "short": "Minn. Stat. ch. 2",
+   "title": "Minnesota Statutes chapter 2 (Territorial Divisions)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/2/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 326,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/2/full",
+     "sha256": "6a0c2aca5ac196b5cbe833b7f294656e0f21c70552b55768e365596b8599ceae"
+    }
+   ]
+  },
+  {
+   "slug": "ch-3",
+   "short": "Minn. Stat. ch. 3",
+   "title": "Minnesota Statutes chapter 3 (Legislature)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/3/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 270,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/3/full",
+     "sha256": "33d6adc4c1a5355742a3dba2278177ad812f6451f575790f157e15f17105e95b"
+    }
+   ]
+  },
+  {
+   "slug": "ch-3a",
+   "short": "Minn. Stat. ch. 3A",
+   "title": "Minnesota Statutes chapter 3A (Legislators Retirement Plan)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/3A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 19,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/3A/full",
+     "sha256": "9eb4f78f2b48eb8c16b3d3798f39f384d88c60d31c02d6ad7219de278fd480f4"
+    }
+   ]
+  },
+  {
+   "slug": "ch-3c",
+   "short": "Minn. Stat. ch. 3C",
+   "title": "Minnesota Statutes chapter 3C (Revisor of Statutes)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/3C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 18,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/3C/full",
+     "sha256": "475080a00cf66489ace4a7ad740395e8aadb7b03f2bb04a465bbe36e88ce346b"
+    }
+   ]
+  },
+  {
+   "slug": "ch-3e",
+   "short": "Minn. Stat. ch. 3E",
+   "title": "Minnesota Statutes chapter 3E (Uniform Electronic Legal Material Act)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/3E/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 10,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/3E/full",
+     "sha256": "310a977f12a7953323f3277ebd97e115ef596f05a4962f1a07b010ed7f0a1f37"
+    }
+   ]
+  },
+  {
+   "slug": "ch-4",
+   "short": "Minn. Stat. ch. 4",
+   "title": "Minnesota Statutes chapter 4 (Governor)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/4/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 47,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/4/full",
+     "sha256": "b9b71f5c16227200296b3afd008af1959cda6436d6bb10b8ac450e4a2004e5ef"
+    }
+   ]
+  },
+  {
+   "slug": "ch-4a",
+   "short": "Minn. Stat. ch. 4A",
+   "title": "Minnesota Statutes chapter 4A (Strategic and Long-Range Planning)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/4A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 12,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/4A/full",
+     "sha256": "8c94c2162c1665784d21ede588b72aaaa0f6a05f96659833274f90079d1e5383"
+    }
+   ]
+  },
+  {
+   "slug": "ch-5",
+   "short": "Minn. Stat. ch. 5",
+   "title": "Minnesota Statutes chapter 5 (Secretary of State)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/5/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 43,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/5/full",
+     "sha256": "00f42f850ddfc4061b57dfc187036fa26745448c4ee22dd0783fae9ab6b63ba7"
+    }
+   ]
+  },
+  {
+   "slug": "ch-5a",
+   "short": "Minn. Stat. ch. 5A",
+   "title": "Minnesota Statutes chapter 5A (International Student Exchange Organizations)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/5A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 7,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/5A/full",
+     "sha256": "bcb05ec76516c2f7506fa2fa93104320894b8c732fb4323889cad491f061f20f"
+    }
+   ]
+  },
+  {
+   "slug": "ch-5b",
+   "short": "Minn. Stat. ch. 5B",
+   "title": "Minnesota Statutes chapter 5B (Data Protection for Victims of Violence)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/5B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 14,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/5B/full",
+     "sha256": "abd6d02ced2977d828a3725e3a8a709e4fa9e4cbd3f50e29aa584df26dfd6237"
+    }
+   ]
+  },
+  {
+   "slug": "ch-6",
+   "short": "Minn. Stat. ch. 6",
+   "title": "Minnesota Statutes chapter 6 (State Auditor)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/6/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 103,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/6/full",
+     "sha256": "8283d33df91d6028e2e2058203dde2c22d5a953a943078478c4ad6a6113082f1"
+    }
+   ]
+  },
+  {
+   "slug": "ch-8",
+   "short": "Minn. Stat. ch. 8",
+   "title": "Minnesota Statutes chapter 8 (Attorney General)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/8/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 32,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/8/full",
+     "sha256": "a0c1689788bea77ab4f3cd953fa0a844def7c1d083cf7a1db84d7d4166063c8c"
+    }
+   ]
+  },
+  {
+   "slug": "ch-9",
+   "short": "Minn. Stat. ch. 9",
+   "title": "Minnesota Statutes chapter 9 (Executive Council)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/9/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 45,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/9/full",
+     "sha256": "2e1c909f6b930a27089d3743b4e8c8da2a079a7632029540182ac7307cbf9931"
+    }
+   ]
+  },
+  {
+   "slug": "ch-10",
+   "short": "Minn. Stat. ch. 10",
+   "title": "Minnesota Statutes chapter 10 (Multiple Branches or Offices; Observances)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/10/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 72,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/10/full",
+     "sha256": "4e8c26b3100e5dca0634b17278d03aeeed26bf86d8559ce272734e7988ed7f6b"
+    }
+   ]
+  },
+  {
+   "slug": "ch-10a",
+   "short": "Minn. Stat. ch. 10A",
+   "title": "Minnesota Statutes chapter 10A (Campaign Finance and Public Disclosure)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/10A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 86,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/10A/full",
+     "sha256": "71c22c59e5b307d5c19aea67ec6e91bd52010f3488123ebcfeabfa52c201b087"
+    }
+   ]
+  },
+  {
+   "slug": "ch-11a",
+   "short": "Minn. Stat. ch. 11A",
+   "title": "Minnesota Statutes chapter 11A (Investment of State and Pension Assets)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/11A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 32,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/11A/full",
+     "sha256": "f2269f7702b5f96ae76196b49f7cb3b6fb9a0565dec299d784c6c4f6e8a10e79"
+    }
+   ]
+  },
+  {
+   "slug": "ch-12",
+   "short": "Minn. Stat. ch. 12",
+   "title": "Minnesota Statutes chapter 12 (Emergency Management)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/12/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 50,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/12/full",
+     "sha256": "7da49dd2ac76b65afa10ee9bac351f3dc6b501dbb863396a7bd98b2f3a3fa616"
+    }
+   ]
+  },
+  {
+   "slug": "ch-12a",
+   "short": "Minn. Stat. ch. 12A",
+   "title": "Minnesota Statutes chapter 12A (Natural Disaster; State Assistance)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/12A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 16,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/12A/full",
+     "sha256": "660fc1f00cba89f019d5109dfc9eed1a4d67d22a8035d71cd6a6b5c7209ff64c"
+    }
+   ]
+  },
+  {
+   "slug": "ch-12b",
+   "short": "Minn. Stat. ch. 12B",
+   "title": "Minnesota Statutes chapter 12B (Public Disaster Assistance)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/12B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 8,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/12B/full",
+     "sha256": "f2bbef6e6e29af3448d3f9c5329c225091a9748a9f600c2f494bc8c60ef11611"
+    }
+   ]
+  },
+  {
+   "slug": "ch-13",
+   "short": "Minn. Stat. ch. 13",
+   "title": "Minnesota Statutes chapter 13 (Government Data Practices)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/13/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 221,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/13/full",
+     "sha256": "c99e1ba289fa1f5f0d7797812c41845d9b4d2b9dbd2b4a5468c662a342c16a4a"
+    }
+   ]
+  },
+  {
+   "slug": "ch-13a",
+   "short": "Minn. Stat. ch. 13A",
+   "title": "Minnesota Statutes chapter 13A (Release of Information by Financial Institutions)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/13A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 4,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/13A/full",
+     "sha256": "1a391d88e340f6e5d1cd2bf37ce38255d9c69fa0cae6b051695874583a7471d7"
+    }
+   ]
+  },
+  {
+   "slug": "ch-13b",
+   "short": "Minn. Stat. ch. 13B",
+   "title": "Minnesota Statutes chapter 13B (Matching Programs; Computerized Comparison of Data)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/13B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 7,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/13B/full",
+     "sha256": "c5023790b68ccac3f43cf086f09a12ab02b8c24675e177a74220973edbf9a339"
+    }
+   ]
+  },
+  {
+   "slug": "ch-13c",
+   "short": "Minn. Stat. ch. 13C",
+   "title": "Minnesota Statutes chapter 13C (Access to Consumer Reports)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/13C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 10,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/13C/full",
+     "sha256": "f592d172dc9f4a8b33ebe89cd5f657fbcd2a9e1fcef49874e36c2bbe49e3c8fd"
+    }
+   ]
+  },
+  {
+   "slug": "ch-13d",
+   "short": "Minn. Stat. ch. 13D",
+   "title": "Minnesota Statutes chapter 13D (Open Meeting Law)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/13D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 12,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/13D/full",
+     "sha256": "a0db1d570f6e7279c7322158a9207c61747c79dc528100ec105ba9fa59aa80ad"
+    }
+   ]
+  },
+  {
+   "slug": "ch-14",
+   "short": "Minn. Stat. ch. 14",
+   "title": "Minnesota Statutes chapter 14 (Administrative Procedure)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/14/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 101,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/14/full",
+     "sha256": "6411b85cf3e52789ff66d240abb0f23b8f4ed4d296558aa6384c514f42284a3b"
+    }
+   ]
+  },
+  {
+   "slug": "ch-15",
+   "short": "Minn. Stat. ch. 15",
+   "title": "Minnesota Statutes chapter 15 (State Agencies in General)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/15/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 199,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/15/full",
+     "sha256": "f7a6bcdd4e2abc1d993152bd62e8ebf7f5f1a098f19d46a62441583243fd752d"
+    }
+   ]
+  },
+  {
+   "slug": "ch-15a",
+   "short": "Minn. Stat. ch. 15A",
+   "title": "Minnesota Statutes chapter 15A (Public Officers and Employees; Compensation and Allowances)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/15A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 35,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/15A/full",
+     "sha256": "aa44ca6d145edbd5aca6fe0f09165d7fe4cc2aea4072d96e1052ad63ec19b7cd"
+    }
+   ]
+  },
+  {
+   "slug": "ch-15b",
+   "short": "Minn. Stat. ch. 15B",
+   "title": "Minnesota Statutes chapter 15B (Capitol Area Planning and Preservation)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/15B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 22,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/15B/full",
+     "sha256": "0bd39aaf91a75b871063b3ab8766de1e61cea27c6bff6a7cf55ce287eaee7378"
+    }
+   ]
+  },
+  {
+   "slug": "ch-15c",
+   "short": "Minn. Stat. ch. 15C",
+   "title": "Minnesota Statutes chapter 15C (False Claims Against the State)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/15C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 17,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/15C/full",
+     "sha256": "400ee0635a9c80348f59afe727c084d2ec0facdb076fb45357319e8a192873cd"
+    }
+   ]
+  },
+  {
+   "slug": "ch-15d",
+   "short": "Minn. Stat. ch. 15D",
+   "title": "Minnesota Statutes chapter 15D (Health and Education Facilities Authority)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/15D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 18,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/15D/full",
+     "sha256": "7dcdeadc725b3f9f3b253ad85c44917b795b84387efad0cd31b3d7b5956cf4a1"
+    }
+   ]
+  },
+  {
+   "slug": "ch-15e",
+   "short": "Minn. Stat. ch. 15E",
+   "title": "Minnesota Statutes chapter 15E (Office of Inspector General)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/15E/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 12,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/15E/full",
+     "sha256": "2cb31a306dc65a9052cd2b7c8e935225f5375794ae60bb45a857fd568343a5df"
+    }
+   ]
+  },
+  {
+   "slug": "ch-16",
+   "short": "Minn. Stat. ch. 16",
+   "title": "Minnesota Statutes chapter 16 (Department of Administration)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/16/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 162,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/16/full",
+     "sha256": "965a6a95350e65e973d3b7157929e38559718cf41d4a80b8eb3b0a5df8e964a1"
+    }
+   ]
+  },
+  {
+   "slug": "ch-16a",
+   "short": "Minn. Stat. ch. 16A",
+   "title": "Minnesota Statutes chapter 16A (Department of Management and Budget)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/16A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 189,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/16A/full",
+     "sha256": "09ba685d33d892a1a285508f7713c8718baad0cd577ad9c84c7b2e431c0b0090"
+    }
+   ]
+  },
+  {
+   "slug": "ch-16b",
+   "short": "Minn. Stat. ch. 16B",
+   "title": "Minnesota Statutes chapter 16B (Department of Administration)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/16B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 186,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/16B/full",
+     "sha256": "8a7f3bfe77a364cabbdd138305e9c0772218c36664749bb5193aa39f1ea36673"
+    }
+   ]
+  },
+  {
+   "slug": "ch-16c",
+   "short": "Minn. Stat. ch. 16C",
+   "title": "Minnesota Statutes chapter 16C (State Procurement)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/16C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 74,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/16C/full",
+     "sha256": "eda5d00286e335b7b1a740741bc4f7183fd80734c9facb9e41f5e4a4507dc867"
+    }
+   ]
+  },
+  {
+   "slug": "ch-16d",
+   "short": "Minn. Stat. ch. 16D",
+   "title": "Minnesota Statutes chapter 16D (State Debt Collection)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/16D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 19,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/16D/full",
+     "sha256": "4f621f4dac07c3cbdefdf07378d768a436383ba30b5bf0083bf14cc703893ee8"
+    }
+   ]
+  },
+  {
+   "slug": "ch-16e",
+   "short": "Minn. Stat. ch. 16E",
+   "title": "Minnesota Statutes chapter 16E (Department of Information Technology Services)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/16E/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 35,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/16E/full",
+     "sha256": "10d3f8fe0550430d2a4c9545ff5dd9c4c02cfa38d2db8bca24fcd2e6e103cb65"
+    }
+   ]
+  },
+  {
+   "slug": "ch-17",
+   "short": "Minn. Stat. ch. 17",
+   "title": "Minnesota Statutes chapter 17 (Department of Agriculture)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/17/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 253,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/17/full",
+     "sha256": "1b6871428d0c82f9b68764c3af49a7a0a21aeab56d3c89ed768399abad904ea6"
+    }
+   ]
+  },
+  {
+   "slug": "ch-17a",
+   "short": "Minn. Stat. ch. 17A",
+   "title": "Minnesota Statutes chapter 17A (Livestock Market Agency and Dealer Licensing)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/17A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 20,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/17A/full",
+     "sha256": "5ddc91df7e2ba4c0732a744eb370fdc1d4dce8a7313e1af2e5c2f0073ec860dd"
+    }
+   ]
+  },
+  {
+   "slug": "ch-18",
+   "short": "Minn. Stat. ch. 18",
+   "title": "Minnesota Statutes chapter 18 (Noxious Weed Law)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/18/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 168,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/18/full",
+     "sha256": "0d4e36ec6b312c4c226c866c5fa5fda0bace760883502b60d74102322e41fd44"
+    }
+   ]
+  },
+  {
+   "slug": "ch-18b",
+   "short": "Minn. Stat. ch. 18B",
+   "title": "Minnesota Statutes chapter 18B (Pesticide Control)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/18B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 56,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/18B/full",
+     "sha256": "c9c91afdc2853358a376deb25596d1a6606d029a5e1a8cf585c61eaa3267dfb6"
+    }
+   ]
+  },
+  {
+   "slug": "ch-18c",
+   "short": "Minn. Stat. ch. 18C",
+   "title": "Minnesota Statutes chapter 18C (Fertilizer, Soil Amendment, and Plant Amendment)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/18C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 54,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/18C/full",
+     "sha256": "4e91f5660ca10e24403d1696901693e7c8d5e51bdc38e02942e47e31b8e78888"
+    }
+   ]
+  },
+  {
+   "slug": "ch-18d",
+   "short": "Minn. Stat. ch. 18D",
+   "title": "Minnesota Statutes chapter 18D (Agricultural Chemical Liability)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/18D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 19,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/18D/full",
+     "sha256": "30a39e12cbac27f0ba7b5314b7343691685c6b0a46215330f01762a64fa9c908"
+    }
+   ]
+  },
+  {
+   "slug": "ch-18e",
+   "short": "Minn. Stat. ch. 18E",
+   "title": "Minnesota Statutes chapter 18E (Agricultural Chemical Response and Reimbursement)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/18E/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 7,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/18E/full",
+     "sha256": "646424a134d9bf50c3f494c690bcecb88e88ec2ad103fb0aa0813f9be4d68e90"
+    }
+   ]
+  },
+  {
+   "slug": "ch-18f",
+   "short": "Minn. Stat. ch. 18F",
+   "title": "Minnesota Statutes chapter 18F (Genetically Engineered Organisms)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/18F/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 6,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/18F/full",
+     "sha256": "861de2ffb6e542b90ae4668e86c95872f616980ba19a55b3cbdce2681cc5d2d2"
+    }
+   ]
+  },
+  {
+   "slug": "ch-18g",
+   "short": "Minn. Stat. ch. 18G",
+   "title": "Minnesota Statutes chapter 18G (Plant Protection and Export Certification)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/18G/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 14,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/18G/full",
+     "sha256": "86df029d74ee5d0dc2b6e0ba519bf0b71e8a261d2f53a393ae51d7d6e64e68fa"
+    }
+   ]
+  },
+  {
+   "slug": "ch-18h",
+   "short": "Minn. Stat. ch. 18H",
+   "title": "Minnesota Statutes chapter 18H (Nursery Law)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/18H/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 17,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/18H/full",
+     "sha256": "ad0364cd197c3e51ff0398c48a00e37fbc134c583206c09f99d3bf4c23a9a2a5"
+    }
+   ]
+  },
+  {
+   "slug": "ch-18j",
+   "short": "Minn. Stat. ch. 18J",
+   "title": "Minnesota Statutes chapter 18J (Inspection and Enforcement)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/18J/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 11,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/18J/full",
+     "sha256": "f19d3f9b79d16e61be73c2027ae64b7761a624fa17b3c59eb61b65cc47fa242e"
+    }
+   ]
+  },
+  {
+   "slug": "ch-18k",
+   "short": "Minn. Stat. ch. 18K",
+   "title": "Minnesota Statutes chapter 18K (Industrial Hemp Development)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/18K/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 9,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/18K/full",
+     "sha256": "a48b125aeeb6ecadd94bd729e0d9edf59e017f683cfa9f1ca8817ce6bcd1e812"
+    }
+   ]
+  },
+  {
+   "slug": "ch-21",
+   "short": "Minn. Stat. ch. 21",
+   "title": "Minnesota Statutes chapter 21 (Seeds)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/21/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 94,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/21/full",
+     "sha256": "7c1d413071329b4d04743f6563e6b888f2bc57351ca52c069a3681f29d9f5558"
+    }
+   ]
+  },
+  {
+   "slug": "ch-25",
+   "short": "Minn. Stat. ch. 25",
+   "title": "Minnesota Statutes chapter 25 (Commercial Feed)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/25/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 50,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/25/full",
+     "sha256": "d5ce1ccebfcf1b5d2c781f30ab7882d953278371a07299c8d66606bfe674a7e9"
+    }
+   ]
+  },
+  {
+   "slug": "ch-27",
+   "short": "Minn. Stat. ch. 27",
+   "title": "Minnesota Statutes chapter 27 (Farm Products Dealers)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/27/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 29,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/27/full",
+     "sha256": "4958c63b4c4b18116063fd16688678f39c8c683450f0d4f80c0bc60242ed84d2"
+    }
+   ]
+  },
+  {
+   "slug": "ch-28",
+   "short": "Minn. Stat. ch. 28",
+   "title": "Minnesota Statutes chapter 28 (Cold Storage)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/28/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 13,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/28/full",
+     "sha256": "4d61f5a5831289f61d860785851d238f002ac35112946c0ef519560521a23fd2"
+    }
+   ]
+  },
+  {
+   "slug": "ch-28a",
+   "short": "Minn. Stat. ch. 28A",
+   "title": "Minnesota Statutes chapter 28A (Licensing Food Handlers)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/28A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 29,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/28A/full",
+     "sha256": "708b0394135a1bb45e10bc8fc51fc4046e599e8713214962c6134bcfebfa3e98"
+    }
+   ]
+  },
+  {
+   "slug": "ch-29",
+   "short": "Minn. Stat. ch. 29",
+   "title": "Minnesota Statutes chapter 29 (Poultry, Eggs)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/29/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 53,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/29/full",
+     "sha256": "f3b4687f1632a3650ee7f1faad5da22f6c5790ca5733d8147294f7703e5ef7dc"
+    }
+   ]
+  },
+  {
+   "slug": "ch-30",
+   "short": "Minn. Stat. ch. 30",
+   "title": "Minnesota Statutes chapter 30 (Wild Rice)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/30/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 78,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/30/full",
+     "sha256": "76d5616e5acefec8595daf6ba1a02f37afacf3b123720c4e62e1b50ae5047ed7"
+    }
+   ]
+  },
+  {
+   "slug": "ch-31",
+   "short": "Minn. Stat. ch. 31",
+   "title": "Minnesota Statutes chapter 31 (Food)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/31/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 148,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/31/full",
+     "sha256": "ffb3fcee60083d5e7dffd42aeb13059430e984866e8006b098598f70485d4219"
+    }
+   ]
+  },
+  {
+   "slug": "ch-31a",
+   "short": "Minn. Stat. ch. 31A",
+   "title": "Minnesota Statutes chapter 31A (Meat and Poultry Inspection)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/31A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 31,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/31A/full",
+     "sha256": "b138ad6dececf2c9ebf82fbdd4a1b10b45d4fa8fba3766b9c1d9721e47263fda"
+    }
+   ]
+  },
+  {
+   "slug": "ch-31b",
+   "short": "Minn. Stat. ch. 31B",
+   "title": "Minnesota Statutes chapter 31B (Packers and Stockyards)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/31B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 7,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/31B/full",
+     "sha256": "b1255741c56fb33aa2a6207a4ec5e4783c0a19714ccda6c4bedbff4f2b6da71a"
+    }
+   ]
+  },
+  {
+   "slug": "ch-32",
+   "short": "Minn. Stat. ch. 32",
+   "title": "Minnesota Statutes chapter 32 (Dairy Products)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/32/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 124,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/32/full",
+     "sha256": "3f46d3a45b4e60c5883d02d0b23c562ee05db9b538c455da5659749f870856a8"
+    }
+   ]
+  },
+  {
+   "slug": "ch-32c",
+   "short": "Minn. Stat. ch. 32C",
+   "title": "Minnesota Statutes chapter 32C (Dairy Research, Teaching, and Consumer Education Authority)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/32C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 6,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/32C/full",
+     "sha256": "b4b037862faa40607d5e79d6f055a7ae14badda1dafb26b32f8c5a45c97474ee"
+    }
+   ]
+  },
+  {
+   "slug": "ch-32d",
+   "short": "Minn. Stat. ch. 32D",
+   "title": "Minnesota Statutes chapter 32D (Dairy Law)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/32D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 30,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/32D/full",
+     "sha256": "3429695022e26f8231553f7a3567af21761752b1300790f578f4d90239d09165"
+    }
+   ]
+  },
+  {
+   "slug": "ch-34",
+   "short": "Minn. Stat. ch. 34",
+   "title": "Minnesota Statutes chapter 34 (Nonalcoholic Beverages)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/34/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 17,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/34/full",
+     "sha256": "41faec530d712430c0b719ddc0a70d2f70b4d2b3b9130c97c6a8bae676f37326"
+    }
+   ]
+  },
+  {
+   "slug": "ch-34a",
+   "short": "Minn. Stat. ch. 34A",
+   "title": "Minnesota Statutes chapter 34A (Food Law; Inspection and Enforcement)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/34A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 13,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/34A/full",
+     "sha256": "af7e439dc4d2cf8ef6f3639af2a2d11920babe82478f2f2c8a01a5b54b529715"
+    }
+   ]
+  },
+  {
+   "slug": "ch-35",
+   "short": "Minn. Stat. ch. 35",
+   "title": "Minnesota Statutes chapter 35 (Animal Health)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/35/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 128,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/35/full",
+     "sha256": "34918e52e8627c2cc882ef9d431fcb97042e12d0c29d220ed5acdf2d47a9315a"
+    }
+   ]
+  },
+  {
+   "slug": "ch-36",
+   "short": "Minn. Stat. ch. 36",
+   "title": "Minnesota Statutes chapter 36 (Poultry; Breeding, Inspection)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/36/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 25,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/36/full",
+     "sha256": "9df03920c2e57ddaa7f416c4542d306476e90be49d717b2e259509d8f376052d"
+    }
+   ]
+  },
+  {
+   "slug": "ch-37",
+   "short": "Minn. Stat. ch. 37",
+   "title": "Minnesota Statutes chapter 37 (State Agricultural Society; State Fair)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/37/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 34,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/37/full",
+     "sha256": "dc5f0d773ebaff4c6fcc0a5072ff26a4844fdde6998d24bdd2b27499dfaf4324"
+    }
+   ]
+  },
+  {
+   "slug": "ch-38",
+   "short": "Minn. Stat. ch. 38",
+   "title": "Minnesota Statutes chapter 38 (County Agricultural Societies, Fairs, Extension Service)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/38/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 45,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/38/full",
+     "sha256": "cc6bfc505d23581abfbb92da3fcc1597cd3f15610f6cae56d9b60e2191e5987e"
+    }
+   ]
+  },
+  {
+   "slug": "ch-40a",
+   "short": "Minn. Stat. ch. 40A",
+   "title": "Minnesota Statutes chapter 40A (Agricultural Land Preservation Program)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/40A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 25,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/40A/full",
+     "sha256": "56b371b0f7e1c9223d20dac09b63490bde497ca2436b0c82957608cf91fea811"
+    }
+   ]
+  },
+  {
+   "slug": "ch-41a",
+   "short": "Minn. Stat. ch. 41A",
+   "title": "Minnesota Statutes chapter 41A (Agricultural Development)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/41A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 31,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/41A/full",
+     "sha256": "4def59fdc896db7713a51cc5529d27f4b98d40158bb04f1210626d1bb97c5f9e"
+    }
+   ]
+  },
+  {
+   "slug": "ch-41b",
+   "short": "Minn. Stat. ch. 41B",
+   "title": "Minnesota Statutes chapter 41B (Rural Finance Authority)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/41B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 44,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/41B/full",
+     "sha256": "16ad2ed7b216cbc24fb9ba8dd81d7006b2a0b6cb20d8d471905db86179127d33"
+    }
+   ]
+  },
+  {
+   "slug": "ch-41c",
+   "short": "Minn. Stat. ch. 41C",
+   "title": "Minnesota Statutes chapter 41C (Agricultural Development)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/41C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 13,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/41C/full",
+     "sha256": "8da64242591dad55893d0389a2517a4c051fdf8539496ca7e128b90931ab6611"
+    }
+   ]
+  },
+  {
+   "slug": "ch-41d",
+   "short": "Minn. Stat. ch. 41D",
+   "title": "Minnesota Statutes chapter 41D (Agricultural Education Leadership Council)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/41D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 4,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/41D/full",
+     "sha256": "99e7dee4f6a39ee1a5240b81a0b49862175499d56599e008800d777a5ae2fce7"
+    }
+   ]
+  },
+  {
+   "slug": "ch-43",
+   "short": "Minn. Stat. ch. 43",
+   "title": "Minnesota Statutes chapter 43 (State Civil Service)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/43/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 91,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/43/full",
+     "sha256": "2413604bbe3eabcc46402d8a08784d0b70d35449f1191e530a3049d17d8ac1f7"
+    }
+   ]
+  },
+  {
+   "slug": "ch-43a",
+   "short": "Minn. Stat. ch. 43A",
+   "title": "Minnesota Statutes chapter 43A (State Personnel Management)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/43A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 83,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/43A/full",
+     "sha256": "4cc87aa6aca24965616b05afa9449cf7dc9a18aa3d3a80793d0112a456d21b10"
+    }
+   ]
+  },
+  {
+   "slug": "ch-44",
+   "short": "Minn. Stat. ch. 44",
+   "title": "Minnesota Statutes chapter 44 (Municipal Civil Service)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/44/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 16,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/44/full",
+     "sha256": "e5b0a5cf91c58485a7b169ce587466cbaf8c1856d41b77bfca9a81fea1c5cec1"
+    }
+   ]
+  },
+  {
+   "slug": "ch-45",
+   "short": "Minn. Stat. ch. 45",
+   "title": "Minnesota Statutes chapter 45 (Department of Commerce; General Powers)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/45/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 65,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/45/full",
+     "sha256": "bc6bc93d557db670139818df3ee7cd1574f139c629e25cd40392335229539aa3"
+    }
+   ]
+  },
+  {
+   "slug": "ch-45a",
+   "short": "Minn. Stat. ch. 45A",
+   "title": "Minnesota Statutes chapter 45A (Financial Exploitation Protections for Older or Vulnerable Adults)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/45A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 8,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/45A/full",
+     "sha256": "a6d6bac157c98a76cf6e61dbe212bd79a0c08376f769a8917af9fbc4fad2fefb"
+    }
+   ]
+  },
+  {
+   "slug": "ch-46",
+   "short": "Minn. Stat. ch. 46",
+   "title": "Minnesota Statutes chapter 46 (General Banking Powers)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/46/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 39,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/46/full",
+     "sha256": "01233b9ea622a3189a6cf62c57d6c57de971e045a45e0446749a475b4c4c1702"
+    }
+   ]
+  },
+  {
+   "slug": "ch-46a",
+   "short": "Minn. Stat. ch. 46A",
+   "title": "Minnesota Statutes chapter 46A (Customer Information Data Security)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/46A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 8,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/46A/full",
+     "sha256": "bfeeb20652deebc6ffacf66edb30bcace084d2ef35bb91d9d020c3b8d672ff33"
+    }
+   ]
+  },
+  {
+   "slug": "ch-47",
+   "short": "Minn. Stat. ch. 47",
+   "title": "Minnesota Statutes chapter 47 (Financial Corporations)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/47/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 95,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/47/full",
+     "sha256": "be1dcfa887b3346c29bac096a6559dea6aebe8d0e9b073417f75abd0dc9cce0a"
+    }
+   ]
+  },
+  {
+   "slug": "ch-48",
+   "short": "Minn. Stat. ch. 48",
+   "title": "Minnesota Statutes chapter 48 (Banks)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/48/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 145,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/48/full",
+     "sha256": "73bf59f11294a166f8fb5117f41c427120eb21ae30bfa0b02af46dbae99ed041"
+    }
+   ]
+  },
+  {
+   "slug": "ch-48a",
+   "short": "Minn. Stat. ch. 48A",
+   "title": "Minnesota Statutes chapter 48A (Trust Companies)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/48A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 22,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/48A/full",
+     "sha256": "da79130d8430db18eaf28edd9c99b2c3f4356e39dbfa53bb6f841180aac777cf"
+    }
+   ]
+  },
+  {
+   "slug": "ch-49",
+   "short": "Minn. Stat. ch. 49",
+   "title": "Minnesota Statutes chapter 49 (Liquidation, Consolidation, Merger)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/49/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 46,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/49/full",
+     "sha256": "a32ab05859857351f7a9c36cbc88bb1222677b586092bcdd61395a0dc46ab068"
+    }
+   ]
+  },
+  {
+   "slug": "ch-50",
+   "short": "Minn. Stat. ch. 50",
+   "title": "Minnesota Statutes chapter 50 (Savings Banks)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/50/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 47,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/50/full",
+     "sha256": "1e747d5d4e325a2be6223fdfbbf79657682d115df9735d3f42431564acd46025"
+    }
+   ]
+  },
+  {
+   "slug": "ch-51a",
+   "short": "Minn. Stat. ch. 51A",
+   "title": "Minnesota Statutes chapter 51A (Savings Associations)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/51A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 68,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/51A/full",
+     "sha256": "12e66423dfedef514686b7a4d6af7d6b1ce1948d8fb0efdc1aac037e80024d84"
+    }
+   ]
+  },
+  {
+   "slug": "ch-52",
+   "short": "Minn. Stat. ch. 52",
+   "title": "Minnesota Statutes chapter 52 (Credit Unions)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/52/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 43,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/52/full",
+     "sha256": "4fef45a53d3417f2550f57dbe2808780de7de30484a59bd35eda6f7887b8d464"
+    }
+   ]
+  },
+  {
+   "slug": "ch-53",
+   "short": "Minn. Stat. ch. 53",
+   "title": "Minnesota Statutes chapter 53 (Industrial Loan and Thrift Companies)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/53/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 12,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/53/full",
+     "sha256": "166c2ae35295fe55022cc11596e2703006e74c367429fc87f0529fb0d4472211"
+    }
+   ]
+  },
+  {
+   "slug": "ch-53a",
+   "short": "Minn. Stat. ch. 53A",
+   "title": "Minnesota Statutes chapter 53A (Currency Exchanges)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/53A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 15,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/53A/full",
+     "sha256": "aa447ca8e28381bda008a7b6953628210235fffa835961cbd64d452907b7340c"
+    }
+   ]
+  },
+  {
+   "slug": "ch-53b",
+   "short": "Minn. Stat. ch. 53B",
+   "title": "Minnesota Statutes chapter 53B (Money Transmitters)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/53B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 74,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/53B/full",
+     "sha256": "fbe00a1459033aefa320b7be1294b5aa32e5e52bebcc88382b8c2cbe8e10f8fd"
+    }
+   ]
+  },
+  {
+   "slug": "ch-53c",
+   "short": "Minn. Stat. ch. 53C",
+   "title": "Minnesota Statutes chapter 53C (Motor Vehicle Retail Installment Sales)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/53C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 15,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/53C/full",
+     "sha256": "225670b4a1f1e898a7e7b09aef45cdddec961f22bdd26f15982fd25b070b1b7f"
+    }
+   ]
+  },
+  {
+   "slug": "ch-54",
+   "short": "Minn. Stat. ch. 54",
+   "title": "Minnesota Statutes chapter 54 (Investment and Loan Companies)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/54/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 39,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/54/full",
+     "sha256": "3648fc24fbdd1b1a5fe7411655d86276c89f5b72b209064ce7773cd80d51b81b"
+    }
+   ]
+  },
+  {
+   "slug": "ch-55",
+   "short": "Minn. Stat. ch. 55",
+   "title": "Minnesota Statutes chapter 55 (Safe Deposit Companies)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/55/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 17,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/55/full",
+     "sha256": "daa3f7b4f5ef72cb8d38b2112d541ef05af25189ad808c342c658b5cb23d8e89"
+    }
+   ]
+  },
+  {
+   "slug": "ch-56",
+   "short": "Minn. Stat. ch. 56",
+   "title": "Minnesota Statutes chapter 56 (Regulated Loans)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/56/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 33,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/56/full",
+     "sha256": "4ea266f3085b2ec8fd6e2345b83c3994d1d7d63eb98ab748765efcdd6c2d8227"
+    }
+   ]
+  },
+  {
+   "slug": "ch-58",
+   "short": "Minn. Stat. ch. 58",
+   "title": "Minnesota Statutes chapter 58 (Mortgage Originator and Servicer Licensing)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/58/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 33,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/58/full",
+     "sha256": "a676313810c39e577009802d2746108d36c0039632c5c9cddccefcc2c411d22c"
+    }
+   ]
+  },
+  {
+   "slug": "ch-58a",
+   "short": "Minn. Stat. ch. 58A",
+   "title": "Minnesota Statutes chapter 58A (Individual Mortgage Originator Licensing)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/58A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 21,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/58A/full",
+     "sha256": "71e9c28733569f5480c37c7f82e7820c0afc61d2bd0d99568db375cb736a5655"
+    }
+   ]
+  },
+  {
+   "slug": "ch-58b",
+   "short": "Minn. Stat. ch. 58B",
+   "title": "Minnesota Statutes chapter 58B (Student Loan Borrower Bill of Rights)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/58B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 12,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/58B/full",
+     "sha256": "95c4cc242eda7deb88596ce6b33a06672aaf1e072b2d9f5046d5de92aba0e726"
+    }
+   ]
+  },
+  {
+   "slug": "ch-59a",
+   "short": "Minn. Stat. ch. 59A",
+   "title": "Minnesota Statutes chapter 59A (Insurance Premium Finance Companies)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/59A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 15,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/59A/full",
+     "sha256": "a58f53a977534c066d7a703ea304429da8022bbc0d36d4ededa139d5a56f89fc"
+    }
+   ]
+  },
+  {
+   "slug": "ch-59b",
+   "short": "Minn. Stat. ch. 59B",
+   "title": "Minnesota Statutes chapter 59B (Regulation of Service Contracts)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/59B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 11,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/59B/full",
+     "sha256": "5500d63b1bd36c71910385cf7b27f2cf236385ba4d13ec7154e47f4f6cd87a38"
+    }
+   ]
+  },
+  {
+   "slug": "ch-59c",
+   "short": "Minn. Stat. ch. 59C",
+   "title": "Minnesota Statutes chapter 59C (Vehicle Protection Products)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/59C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 11,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/59C/full",
+     "sha256": "d813bab55968d696fc381da9f7208821fbc743cf21884e4f4014bbfd643ad4d3"
+    }
+   ]
+  },
+  {
+   "slug": "ch-59d",
+   "short": "Minn. Stat. ch. 59D",
+   "title": "Minnesota Statutes chapter 59D (Guaranteed Asset Protection Waivers)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/59D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 7,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/59D/full",
+     "sha256": "83581ccdea307e9e672500dbab202cef46a6a860e674c82378917e0038bd808e"
+    }
+   ]
+  },
+  {
+   "slug": "ch-59e",
+   "short": "Minn. Stat. ch. 59E",
+   "title": "Minnesota Statutes chapter 59E (Rental Home Marketplace Guarantees Act)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/59E/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 7,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/59E/full",
+     "sha256": "2142dc430234e3422a9275a0ef065f8300c2d2e8777098d622ab6586699e4bca"
+    }
+   ]
+  },
+  {
+   "slug": "ch-60a",
+   "short": "Minn. Stat. ch. 60A",
+   "title": "Minnesota Statutes chapter 60A (General Insurance Powers)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/60A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 235,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/60A/full",
+     "sha256": "98f404fdbb7a2ec89e88c6fca56e32e7466f505d003fdf5e45b0cd246b4366e2"
+    }
+   ]
+  },
+  {
+   "slug": "ch-60b",
+   "short": "Minn. Stat. ch. 60B",
+   "title": "Minnesota Statutes chapter 60B (Rehabilitation and Liquidation)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/60B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 68,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/60B/full",
+     "sha256": "6b1edebd7800b64e677b8521a1a34dacf3febd90b45d87719bf61c94f9664a3a"
+    }
+   ]
+  },
+  {
+   "slug": "ch-60c",
+   "short": "Minn. Stat. ch. 60C",
+   "title": "Minnesota Statutes chapter 60C (Insurance Guaranty Association)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/60C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 23,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/60C/full",
+     "sha256": "7aa5298ef7d973546561455300cf7afb59a71a3957b779ebf61b99c622b9e2c6"
+    }
+   ]
+  },
+  {
+   "slug": "ch-60d",
+   "short": "Minn. Stat. ch. 60D",
+   "title": "Minnesota Statutes chapter 60D (Insurance Holding Company Systems)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/60D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 40,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/60D/full",
+     "sha256": "b63f3c1389a9bdb2eb05c3507093cdf70b86d90638a596beb362825e66fea841"
+    }
+   ]
+  },
+  {
+   "slug": "ch-60e",
+   "short": "Minn. Stat. ch. 60E",
+   "title": "Minnesota Statutes chapter 60E (Risk Retention Groups)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/60E/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 15,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/60E/full",
+     "sha256": "3388ff5f0e370f3ff31510a01ed4f33f59054860778443400b3c416fd3ab2efd"
+    }
+   ]
+  },
+  {
+   "slug": "ch-60f",
+   "short": "Minn. Stat. ch. 60F",
+   "title": "Minnesota Statutes chapter 60F (Joint Self-Insurance Plans)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/60F/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 8,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/60F/full",
+     "sha256": "9929f811a52b6fc80fb76631698cfbbb36f7eadf28fb601aaaa7ca5dca7bc552"
+    }
+   ]
+  },
+  {
+   "slug": "ch-60g",
+   "short": "Minn. Stat. ch. 60G",
+   "title": "Minnesota Statutes chapter 60G (Administrative Supervision)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/60G/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 12,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/60G/full",
+     "sha256": "69b00a65fe18914bcc7e4fd0645b739b07ee06bc1ddb0875c1debbe05006073b"
+    }
+   ]
+  },
+  {
+   "slug": "ch-60h",
+   "short": "Minn. Stat. ch. 60H",
+   "title": "Minnesota Statutes chapter 60H (Managing General Agents)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/60H/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 9,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/60H/full",
+     "sha256": "57952ee94caf066a72d93a762bf498ff24f73831f310bf638595c40d70da707e"
+    }
+   ]
+  },
+  {
+   "slug": "ch-60j",
+   "short": "Minn. Stat. ch. 60J",
+   "title": "Minnesota Statutes chapter 60J (Business Transacted with Producer Controlled Insurer)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/60J/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 11,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/60J/full",
+     "sha256": "2e0b5f3b28082477be912e696a1b3a55040477fcf7ff262b2274408bf3d0a251"
+    }
+   ]
+  },
+  {
+   "slug": "ch-60k",
+   "short": "Minn. Stat. ch. 60K",
+   "title": "Minnesota Statutes chapter 60K (Insurance Producers)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/60K/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 52,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/60K/full",
+     "sha256": "de63b76646c8730a4e4748afa148fc8fa8017aa150892bf0d53f12dfa82414f0"
+    }
+   ]
+  },
+  {
+   "slug": "ch-60l",
+   "short": "Minn. Stat. ch. 60L",
+   "title": "Minnesota Statutes chapter 60L (Investments of Insurers)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/60L/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 15,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/60L/full",
+     "sha256": "48042092c0b53cc12d2ab006f709973bba02875558cef8d0224d59bc0b0885d6"
+    }
+   ]
+  },
+  {
+   "slug": "ch-60m",
+   "short": "Minn. Stat. ch. 60M",
+   "title": "Minnesota Statutes chapter 60M (Bail Bonds)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/60M/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 7,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/60M/full",
+     "sha256": "080ed2b3087f456ff1c80db19ceb80acc291e14de758084ab44053d4af3beecd"
+    }
+   ]
+  },
+  {
+   "slug": "ch-61a",
+   "short": "Minn. Stat. ch. 61A",
+   "title": "Minnesota Statutes chapter 61A (Life Insurance)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/61A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 93,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/61A/full",
+     "sha256": "a935e69efd3558b87fb9dc344f34eb0cccfadbce316538f30818a10daba46baa"
+    }
+   ]
+  },
+  {
+   "slug": "ch-61b",
+   "short": "Minn. Stat. ch. 61B",
+   "title": "Minnesota Statutes chapter 61B (Life and Health Guaranty Association)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/61B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 32,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/61B/full",
+     "sha256": "cc076637242f20e46f507c985fc32356844ca541b5711d8b2ed9d6124eb896a0"
+    }
+   ]
+  },
+  {
+   "slug": "ch-62a",
+   "short": "Minn. Stat. ch. 62A",
+   "title": "Minnesota Statutes chapter 62A (Accident and Health Insurance)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/62A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 155,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/62A/full",
+     "sha256": "90d92cedeb077a5cebbe3f3a3655161ab2e96b9cdfb5420a09176346122cc18d"
+    }
+   ]
+  },
+  {
+   "slug": "ch-62b",
+   "short": "Minn. Stat. ch. 62B",
+   "title": "Minnesota Statutes chapter 62B (Credit Insurance)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/62B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 14,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/62B/full",
+     "sha256": "895c8a51c95314c79b79607a0f77e9a22a460396025cb3cc532666d6f8aa431b"
+    }
+   ]
+  },
+  {
+   "slug": "ch-62c",
+   "short": "Minn. Stat. ch. 62C",
+   "title": "Minnesota Statutes chapter 62C (Nonprofit Health Service Plan Corporations)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/62C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 28,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/62C/full",
+     "sha256": "c6dc77f77e68df160e6ca1921ad6ce871de3a84e6f0e3ce4d100d18d91a62c95"
+    }
+   ]
+  },
+  {
+   "slug": "ch-62d",
+   "short": "Minn. Stat. ch. 62D",
+   "title": "Minnesota Statutes chapter 62D (Health Maintenance Organizations)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/62D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 59,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/62D/full",
+     "sha256": "0153f6b484ccf5239c8f4dd1d258dc410c0c915c9329cf4104dee0e201bf7817"
+    }
+   ]
+  },
+  {
+   "slug": "ch-62e",
+   "short": "Minn. Stat. ch. 62E",
+   "title": "Minnesota Statutes chapter 62E (Comprehensive Health Insurance)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/62E/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 35,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/62E/full",
+     "sha256": "082531b6835ea6eac3eac4d40fff1bc0ac70984b4e65f6264ef512a9b8678fd0"
+    }
+   ]
+  },
+  {
+   "slug": "ch-62f",
+   "short": "Minn. Stat. ch. 62F",
+   "title": "Minnesota Statutes chapter 62F (Medical Practice Insurance)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/62F/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 13,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/62F/full",
+     "sha256": "b618f008c258a77741cd2fe40a53dcf439819e8bbc6c16686189223aa48e9f5a"
+    }
+   ]
+  },
+  {
+   "slug": "ch-62h",
+   "short": "Minn. Stat. ch. 62H",
+   "title": "Minnesota Statutes chapter 62H (Employer Health Coverage Arrangements)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/62H/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 17,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/62H/full",
+     "sha256": "19dc75c56fb92b80aaeaacc86eea9c9571e98de35d62bcb56b61ee9eff721d90"
+    }
+   ]
+  },
+  {
+   "slug": "ch-62i",
+   "short": "Minn. Stat. ch. 62I",
+   "title": "Minnesota Statutes chapter 62I (Joint Underwriting Association)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/62I/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 24,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/62I/full",
+     "sha256": "610de16f1a6b4b0923141979a8d6a1e696cd9c7f78117fd365a02f9f5b5afc53"
+    }
+   ]
+  },
+  {
+   "slug": "ch-62j",
+   "short": "Minn. Stat. ch. 62J",
+   "title": "Minnesota Statutes chapter 62J (Health Care Cost Containment)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/62J/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 142,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/62J/full",
+     "sha256": "3f14e1a770ebc3528aa7eeb97206717a93dfbe5274cb2bf427d3f18c0f9664e2"
+    }
+   ]
+  },
+  {
+   "slug": "ch-62k",
+   "short": "Minn. Stat. ch. 62K",
+   "title": "Minnesota Statutes chapter 62K (Minnesota Health Plan Market Rules)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/62K/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 17,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/62K/full",
+     "sha256": "d5e7d226a425928e0c51fc3c50433cb85853a0227b835931cc42b0664160bb44"
+    }
+   ]
+  },
+  {
+   "slug": "ch-62l",
+   "short": "Minn. Stat. ch. 62L",
+   "title": "Minnesota Statutes chapter 62L (Small Employer Insurance Reform)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/62L/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 28,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/62L/full",
+     "sha256": "2f0c17bfe5c7001ddd820519a2ea2c1bb0b2166a618a32a4ee2a44878ef527e0"
+    }
+   ]
+  },
+  {
+   "slug": "ch-62m",
+   "short": "Minn. Stat. ch. 62M",
+   "title": "Minnesota Statutes chapter 62M (Utilization Review of Health Care)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/62M/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 20,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/62M/full",
+     "sha256": "408ba9cfd1edf086fd9e620982e46ed767ffad04def405e833a2e13a5decc77a"
+    }
+   ]
+  },
+  {
+   "slug": "ch-62n",
+   "short": "Minn. Stat. ch. 62N",
+   "title": "Minnesota Statutes chapter 62N (Community Integrated Service Network)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/62N/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 44,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/62N/full",
+     "sha256": "bf5506d86f7650fa44af71af23d57436ab4cb876a3aa934a34be07cf3dd21ac9"
+    }
+   ]
+  },
+  {
+   "slug": "ch-62q",
+   "short": "Minn. Stat. ch. 62Q",
+   "title": "Minnesota Statutes chapter 62Q (Health Plan Companies)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/62Q/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 124,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/62Q/full",
+     "sha256": "eebd3c32363d72429d11888a3e256da5cff5274faa5f66139e625dc43bdf8f23"
+    }
+   ]
+  },
+  {
+   "slug": "ch-62r",
+   "short": "Minn. Stat. ch. 62R",
+   "title": "Minnesota Statutes chapter 62R (Health Care Cooperatives)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/62R/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 19,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/62R/full",
+     "sha256": "7099bface742430dd88ffdfeec82de8b9ccded4d9e3f3c258316df80f3c22118"
+    }
+   ]
+  },
+  {
+   "slug": "ch-62s",
+   "short": "Minn. Stat. ch. 62S",
+   "title": "Minnesota Statutes chapter 62S (Qualified Long-Term Care Insurance Policies)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/62S/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 46,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/62S/full",
+     "sha256": "22b04ecddfe0d9fb651299bd610ae34676731cee2a3f176827325a1474ee77c1"
+    }
+   ]
+  },
+  {
+   "slug": "ch-62t",
+   "short": "Minn. Stat. ch. 62T",
+   "title": "Minnesota Statutes chapter 62T (Community Purchasing Arrangements)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/62T/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 14,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/62T/full",
+     "sha256": "aeab541850bab1bd71ebf0f2522ebf9a2acdb524f1ce208ce3c8a06dfe7d6698"
+    }
+   ]
+  },
+  {
+   "slug": "ch-62u",
+   "short": "Minn. Stat. ch. 62U",
+   "title": "Minnesota Statutes chapter 62U (Health Care Payment and Pricing Reform)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/62U/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 12,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/62U/full",
+     "sha256": "fca9b54cf115ae451965e270b321d9affc34feac3ca4d7676a7998801640e2e4"
+    }
+   ]
+  },
+  {
+   "slug": "ch-62v",
+   "short": "Minn. Stat. ch. 62V",
+   "title": "Minnesota Statutes chapter 62V (Mnsure)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/62V/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 14,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/62V/full",
+     "sha256": "47e2f7954ea0355ca90656ca45bf595c3d9a2f61d5eaa7d933dbba59cfab8d1c"
+    }
+   ]
+  },
+  {
+   "slug": "ch-62w",
+   "short": "Minn. Stat. ch. 62W",
+   "title": "Minnesota Statutes chapter 62W (Minnesota Pharmacy Benefit Manager)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/62W/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 18,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/62W/full",
+     "sha256": "694c39b05265c0185e50d43d5e253ab79d3d265915cd822ad3761dced38f2e71"
+    }
+   ]
+  },
+  {
+   "slug": "ch-64",
+   "short": "Minn. Stat. ch. 64",
+   "title": "Minnesota Statutes chapter 64 (Fraternal Beneficiary Associations)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/64/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 64,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/64/full",
+     "sha256": "7f600345532a926313f9198df687dc791a04b3275cfdfbaefb0ffb9bd7756d0f"
+    }
+   ]
+  },
+  {
+   "slug": "ch-64b",
+   "short": "Minn. Stat. ch. 64B",
+   "title": "Minnesota Statutes chapter 64B (Fraternal Benefit Societies)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/64B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 48,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/64B/full",
+     "sha256": "b1bf137bcb6c477e99427d0db440e0ae257fd502d0fee69559219e9921f86258"
+    }
+   ]
+  },
+  {
+   "slug": "ch-65a",
+   "short": "Minn. Stat. ch. 65A",
+   "title": "Minnesota Statutes chapter 65A (Fire and Related Insurance)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/65A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 59,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/65A/full",
+     "sha256": "09770a4964a63d56cf01688530f8969e1effc40238edc38c89a6a6050dd26d51"
+    }
+   ]
+  },
+  {
+   "slug": "ch-65b",
+   "short": "Minn. Stat. ch. 65B",
+   "title": "Minnesota Statutes chapter 65B (Automobile Insurance)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/65B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 84,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/65B/full",
+     "sha256": "4e322a11955eab815598af24f943db86c088dc05777aff04766270ae19d1e065"
+    }
+   ]
+  },
+  {
+   "slug": "ch-65c",
+   "short": "Minn. Stat. ch. 65C",
+   "title": "Minnesota Statutes chapter 65C (Travel Insurance)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/65C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 6,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/65C/full",
+     "sha256": "62699a0a9e5a24d76b450eb41c303dd5ee66139a8dea2372b788b4edb93af30f"
+    }
+   ]
+  },
+  {
+   "slug": "ch-66a",
+   "short": "Minn. Stat. ch. 66A",
+   "title": "Minnesota Statutes chapter 66A (Mutual Companies)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/66A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 47,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/66A/full",
+     "sha256": "ba87431d5fcf0df1dc11e276d01d72877ffccc41dfa1cb1a683948283b097ca9"
+    }
+   ]
+  },
+  {
+   "slug": "ch-67",
+   "short": "Minn. Stat. ch. 67",
+   "title": "Minnesota Statutes chapter 67 (Township Mutual Companies)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/67/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 54,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/67/full",
+     "sha256": "3d7a5c8d7953138f8ddb990bada698a0a75b23e27ae638e1640030e4a9c82aeb"
+    }
+   ]
+  },
+  {
+   "slug": "ch-67a",
+   "short": "Minn. Stat. ch. 67A",
+   "title": "Minnesota Statutes chapter 67A (Township Mutual Companies)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/67A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 48,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/67A/full",
+     "sha256": "44e7be332e5c4b4b1b85d0780adbc7f5670964498ba6894db0d1d5123344c2fe"
+    }
+   ]
+  },
+  {
+   "slug": "ch-68a",
+   "short": "Minn. Stat. ch. 68A",
+   "title": "Minnesota Statutes chapter 68A (Title Insurers)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/68A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 4,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/68A/full",
+     "sha256": "17bcc2a24d8ded04db405f41feba1003592e7ac9f031c2934bd55141ff26524a"
+    }
+   ]
+  },
+  {
+   "slug": "ch-69",
+   "short": "Minn. Stat. ch. 69",
+   "title": "Minnesota Statutes chapter 69 (Fire and Police Department Aid; Relief Associations)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/69/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 81,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/69/full",
+     "sha256": "89d3528185bf326864a58ed1f41eaf025ca749743e97a1243c2e08bf0366a25f"
+    }
+   ]
+  },
+  {
+   "slug": "ch-70a",
+   "short": "Minn. Stat. ch. 70A",
+   "title": "Minnesota Statutes chapter 70A (Insurance Rate Regulation)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/70A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 23,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/70A/full",
+     "sha256": "a7085d594dbfff3d32130aa64e12daaf62d05adc3f03ab613cae560a2a41b9a8"
+    }
+   ]
+  },
+  {
+   "slug": "ch-71a",
+   "short": "Minn. Stat. ch. 71A",
+   "title": "Minnesota Statutes chapter 71A (Reciprocals or Interinsurance Contracts)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/71A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 8,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/71A/full",
+     "sha256": "6270893a032136d81f6a0656c803b4aeb6b642230a13edaf7cfa74b85457d89f"
+    }
+   ]
+  },
+  {
+   "slug": "ch-72a",
+   "short": "Minn. Stat. ch. 72A",
+   "title": "Minnesota Statutes chapter 72A (Insurance Industry Trade Practices)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/72A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 103,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/72A/full",
+     "sha256": "50494c48749639507aa686b258c01d74d0e4d9fb06e4be095627f42d2abbb3c4"
+    }
+   ]
+  },
+  {
+   "slug": "ch-72b",
+   "short": "Minn. Stat. ch. 72B",
+   "title": "Minnesota Statutes chapter 72B (Insurance Adjusters)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/72B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 24,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/72B/full",
+     "sha256": "5068ea94844e88d0ca7418750ca07177f35b8fd069c876425176b5a94424851d"
+    }
+   ]
+  },
+  {
+   "slug": "ch-72c",
+   "short": "Minn. Stat. ch. 72C",
+   "title": "Minnesota Statutes chapter 72C (Readability of Insurance Policies)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/72C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 13,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/72C/full",
+     "sha256": "3d758b6ed3f9a0a04b3ecef2e10fc7733e10c7981ddeec9a4f22d1a57236ae10"
+    }
+   ]
+  },
+  {
+   "slug": "ch-73",
+   "short": "Minn. Stat. ch. 73",
+   "title": "Minnesota Statutes chapter 73 (State Fire Marshal)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/73/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 53,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/73/full",
+     "sha256": "318007d2a0958c746545c0085562a2868a0526f69dd3e7fa426dedc25dd82353"
+    }
+   ]
+  },
+  {
+   "slug": "ch-79",
+   "short": "Minn. Stat. ch. 79",
+   "title": "Minnesota Statutes chapter 79 (Workers&#X27; Compensation Insurance)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/79/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 81,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/79/full",
+     "sha256": "37b9c0c211ec28df81746181bda3984da1c707b1be809a16cc6579a9d0deeddf"
+    }
+   ]
+  },
+  {
+   "slug": "ch-79a",
+   "short": "Minn. Stat. ch. 79A",
+   "title": "Minnesota Statutes chapter 79A (Workers&#X27; Compensation Self-Insurance)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/79A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 33,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/79A/full",
+     "sha256": "b1f355827c843c26d031f99c1728d4e809879c0b7ba0ce9994ad7537912e62f1"
+    }
+   ]
+  },
+  {
+   "slug": "ch-80a",
+   "short": "Minn. Stat. ch. 80A",
+   "title": "Minnesota Statutes chapter 80A (Regulation of Securities)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/80A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 86,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/80A/full",
+     "sha256": "f83653e5f3501328ce1a8c23b627c8768687e4540044eb62b98ecf8a535dbf00"
+    }
+   ]
+  },
+  {
+   "slug": "ch-80b",
+   "short": "Minn. Stat. ch. 80B",
+   "title": "Minnesota Statutes chapter 80B (Corporate Takeovers)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/80B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 13,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/80B/full",
+     "sha256": "eea77f69935f32262e10c18dbe58d997c8d2336d3e3fa6c7523a4f13b36eb1a3"
+    }
+   ]
+  },
+  {
+   "slug": "ch-80c",
+   "short": "Minn. Stat. ch. 80C",
+   "title": "Minnesota Statutes chapter 80C (Franchises)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/80C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 27,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/80C/full",
+     "sha256": "ae1110c2fd9e83d3cb1563a7836ce6be5ebbb5358ca773ee5e468850a8624245"
+    }
+   ]
+  },
+  {
+   "slug": "ch-80d",
+   "short": "Minn. Stat. ch. 80D",
+   "title": "Minnesota Statutes chapter 80D (Continuing Care Facilities)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/80D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 20,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/80D/full",
+     "sha256": "810abe730ef9d3c679d3898e130aee8c99b8ed3b4eb4359bf57db18cecdb79d1"
+    }
+   ]
+  },
+  {
+   "slug": "ch-80e",
+   "short": "Minn. Stat. ch. 80E",
+   "title": "Minnesota Statutes chapter 80E (Motor Vehicle Sale and Distribution)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/80E/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 21,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/80E/full",
+     "sha256": "9dd6dfb477577aee7e0d45e7cc09c762a06a1d41711b138b13864e101530ba59"
+    }
+   ]
+  },
+  {
+   "slug": "ch-80f",
+   "short": "Minn. Stat. ch. 80F",
+   "title": "Minnesota Statutes chapter 80F (Motor Vehicle Fuel Franchises)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/80F/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 18,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/80F/full",
+     "sha256": "ae606105e30582d780284613840f756a9c3aec8a71364532ea4af2514286d37b"
+    }
+   ]
+  },
+  {
+   "slug": "ch-80g",
+   "short": "Minn. Stat. ch. 80G",
+   "title": "Minnesota Statutes chapter 80G (Bullion Products Dealers)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/80G/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 11,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/80G/full",
+     "sha256": "0e26cd651825598096b2e9f422bd3bd3d26b4c443ca113d1941efe7cec6f0e1d"
+    }
+   ]
+  },
+  {
+   "slug": "ch-81a",
+   "short": "Minn. Stat. ch. 81A",
+   "title": "Minnesota Statutes chapter 81A (Revised Uniform Athlete Agents Act)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/81A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 39,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/81A/full",
+     "sha256": "670450269b1765f87cd600493d2fff328087f11f83d3b778045ed22f28687bb2"
+    }
+   ]
+  },
+  {
+   "slug": "ch-82",
+   "short": "Minn. Stat. ch. 82",
+   "title": "Minnesota Statutes chapter 82 (Real Estate Brokers and Salespersons)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/82/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 91,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/82/full",
+     "sha256": "65c4a44e2f2807113e03a260f771e7889f2b9acf317f20e6ca034ed2bba66d8d"
+    }
+   ]
+  },
+  {
+   "slug": "ch-82a",
+   "short": "Minn. Stat. ch. 82A",
+   "title": "Minnesota Statutes chapter 82A (Membership Camping Practices)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/82A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 27,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/82A/full",
+     "sha256": "9d0e732fb779755ce05d9ac51a6d112bb69b99dab849c6c434ecbef0b0f0226b"
+    }
+   ]
+  },
+  {
+   "slug": "ch-82b",
+   "short": "Minn. Stat. ch. 82B",
+   "title": "Minnesota Statutes chapter 82B (Real Estate Appraisers)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/82B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 38,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/82B/full",
+     "sha256": "3acf1510bf5fce1fb429f6a43f794ee361c76d2a708fb2c8c9383c4c3ade7256"
+    }
+   ]
+  },
+  {
+   "slug": "ch-82c",
+   "short": "Minn. Stat. ch. 82C",
+   "title": "Minnesota Statutes chapter 82C (Appraisal Management Companies)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/82C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 19,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/82C/full",
+     "sha256": "ad08b7d3d2fbe66790eef072ca8ee6266f84b0bf0727311e729e49ab78195437"
+    }
+   ]
+  },
+  {
+   "slug": "ch-83",
+   "short": "Minn. Stat. ch. 83",
+   "title": "Minnesota Statutes chapter 83 (Subdivided Lands)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/83/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 45,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/83/full",
+     "sha256": "7096b13c2d475d97bd98c0ca901248d0b0de203310f4e09d42d765d0d8554497"
+    }
+   ]
+  },
+  {
+   "slug": "ch-83a",
+   "short": "Minn. Stat. ch. 83A",
+   "title": "Minnesota Statutes chapter 83A (State Geographic Features)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/83A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 8,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/83A/full",
+     "sha256": "ad75bc2fbc3686c755a784da3581c3cc0ed26f9581c4912442c5b47bb4514569"
+    }
+   ]
+  },
+  {
+   "slug": "ch-84",
+   "short": "Minn. Stat. ch. 84",
+   "title": "Minnesota Statutes chapter 84 (Department of Natural Resources)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/84/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 233,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/84/full",
+     "sha256": "2c295f4f7d548c9ea674e43d6c692663a25bce0b5f601b8e6ab184971513273a"
+    }
+   ]
+  },
+  {
+   "slug": "ch-84a",
+   "short": "Minn. Stat. ch. 84A",
+   "title": "Minnesota Statutes chapter 84A (Lands Dedicated for Conservation)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/84A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 43,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/84A/full",
+     "sha256": "54989df29bf2175025be0e6c10ded72cc9f8bd8da28ab06d0a86f934cccab4f9"
+    }
+   ]
+  },
+  {
+   "slug": "ch-84b",
+   "short": "Minn. Stat. ch. 84B",
+   "title": "Minnesota Statutes chapter 84B (Voyageurs National Park)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/84B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 12,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/84B/full",
+     "sha256": "8843763d9f3bfe0639e9e42b9c11442b6a18ac1871ce11aff668878352c9102a"
+    }
+   ]
+  },
+  {
+   "slug": "ch-84c",
+   "short": "Minn. Stat. ch. 84C",
+   "title": "Minnesota Statutes chapter 84C (Conservation Easements)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/84C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 5,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/84C/full",
+     "sha256": "e5618f2dbcf56190dad522f5c6da2c6e8053187c65c3e606cfd80a28ccc03067"
+    }
+   ]
+  },
+  {
+   "slug": "ch-84d",
+   "short": "Minn. Stat. ch. 84D",
+   "title": "Minnesota Statutes chapter 84D (Invasive Species)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/84D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 19,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/84D/full",
+     "sha256": "3a908be46fd6d2545e451aa2017cc24cf69dd83e37f870d42a6656ce997bf447"
+    }
+   ]
+  },
+  {
+   "slug": "ch-85",
+   "short": "Minn. Stat. ch. 85",
+   "title": "Minnesota Statutes chapter 85 (Division of Parks and Recreation)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/85/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 112,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/85/full",
+     "sha256": "31157f54e15a74a27226ba9b5cddcae3b27ac94b9c6889e397bfe7f2a87510a4"
+    }
+   ]
+  },
+  {
+   "slug": "ch-85a",
+   "short": "Minn. Stat. ch. 85A",
+   "title": "Minnesota Statutes chapter 85A (Minnesota Zoo)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/85A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 6,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/85A/full",
+     "sha256": "3f4243ec553f7111f3bcc1bbc5f9039ced5662a6219ff81759e2aebf3e9c01b9"
+    }
+   ]
+  },
+  {
+   "slug": "ch-85b",
+   "short": "Minn. Stat. ch. 85B",
+   "title": "Minnesota Statutes chapter 85B (Lake Superior Center Authority)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/85B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 8,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/85B/full",
+     "sha256": "097f9bb21cf5b2b7f8f06cec8521c49c805929e570a3afa3e0fa2b728647e1b4"
+    }
+   ]
+  },
+  {
+   "slug": "ch-86a",
+   "short": "Minn. Stat. ch. 86A",
+   "title": "Minnesota Statutes chapter 86A (Outdoor Recreation System)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/86A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 17,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/86A/full",
+     "sha256": "e1072a4287317e05581e68ac920c85902b9992eb19267152eaf9cc2cf3f1b4e3"
+    }
+   ]
+  },
+  {
+   "slug": "ch-86b",
+   "short": "Minn. Stat. ch. 86B",
+   "title": "Minnesota Statutes chapter 86B (Water Safety and Watercraft)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/86B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 77,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/86B/full",
+     "sha256": "88e8c8c5c71d1c77793d7bb53de28faaba79aa5ed0cadd5facf714aa74087753"
+    }
+   ]
+  },
+  {
+   "slug": "ch-87a",
+   "short": "Minn. Stat. ch. 87A",
+   "title": "Minnesota Statutes chapter 87A (Shooting Ranges)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/87A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 11,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/87A/full",
+     "sha256": "1b583e016ee97f0ef0eb3de7efa661779432ef6296e282b88a5ba3d64b6e67ca"
+    }
+   ]
+  },
+  {
+   "slug": "ch-88",
+   "short": "Minn. Stat. ch. 88",
+   "title": "Minnesota Statutes chapter 88 (Division of Forestry)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/88/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 104,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/88/full",
+     "sha256": "3a61b8604bd7490d685799652ea8f0b08ea4f2fc0da76dd0a20f85e5cbd0e513"
+    }
+   ]
+  },
+  {
+   "slug": "ch-89",
+   "short": "Minn. Stat. ch. 89",
+   "title": "Minnesota Statutes chapter 89 (State Forests; Tree Planting; Forest Roads)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/89/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 88,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/89/full",
+     "sha256": "4d6662065ce14fc06825527e10967daa671101d3195e878c568725582d356a51"
+    }
+   ]
+  },
+  {
+   "slug": "ch-89a",
+   "short": "Minn. Stat. ch. 89A",
+   "title": "Minnesota Statutes chapter 89A (Sustainable Forest Resources)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/89A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 12,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/89A/full",
+     "sha256": "8ac9789186fd5fb2392da445eda440bf8e493c593e5235eafaecc57b89660486"
+    }
+   ]
+  },
+  {
+   "slug": "ch-90",
+   "short": "Minn. Stat. ch. 90",
+   "title": "Minnesota Statutes chapter 90 (Timber Lands)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/90/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 85,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/90/full",
+     "sha256": "5f66acdbca499f0a4a1dde6bf61098f98521de9ca64ef138a8200b215cde4558"
+    }
+   ]
+  },
+  {
+   "slug": "ch-92",
+   "short": "Minn. Stat. ch. 92",
+   "title": "Minnesota Statutes chapter 92 (State Lands; Sales; Investment of Proceeds)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/92/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 85,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/92/full",
+     "sha256": "e60b6003c41953f0fd609fe610d7a58c4f1d595789cf8a42ef1fd2fde2e5465a"
+    }
+   ]
+  },
+  {
+   "slug": "ch-93",
+   "short": "Minn. Stat. ch. 93",
+   "title": "Minnesota Statutes chapter 93 (Mineral Lands)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/93/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 99,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/93/full",
+     "sha256": "b3820c70ba81a5d0da72e6531fcd3721c39b590745dcb04c5499a3dbbe761b86"
+    }
+   ]
+  },
+  {
+   "slug": "ch-94",
+   "short": "Minn. Stat. ch. 94",
+   "title": "Minnesota Statutes chapter 94 (State Lands)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/94/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 58,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/94/full",
+     "sha256": "060337fc039fbe96f6a437cd8e23101061ea7ba2631aadf72e6d18cb92f24790"
+    }
+   ]
+  },
+  {
+   "slug": "ch-97a",
+   "short": "Minn. Stat. ch. 97A",
+   "title": "Minnesota Statutes chapter 97A (Game and Fish)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/97A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 128,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/97A/full",
+     "sha256": "3c98141fc2818599da2a75060892bef6f81b5fd21fb83adeccb56f14e0872493"
+    }
+   ]
+  },
+  {
+   "slug": "ch-97b",
+   "short": "Minn. Stat. ch. 97B",
+   "title": "Minnesota Statutes chapter 97B (Hunting)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/97B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 123,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/97B/full",
+     "sha256": "2b08ad28b6a01c4834ebf148c1bc6a320e496817a37bd58e69f778cff4c941c6"
+    }
+   ]
+  },
+  {
+   "slug": "ch-97c",
+   "short": "Minn. Stat. ch. 97C",
+   "title": "Minnesota Statutes chapter 97C (Fishing)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/97C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 99,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/97C/full",
+     "sha256": "148d0c69c9107423d26887141e91459da4947c3cac7acbd886213b5d786839e8"
+    }
+   ]
+  },
+  {
+   "slug": "ch-103a",
+   "short": "Minn. Stat. ch. 103A",
+   "title": "Minnesota Statutes chapter 103A (Water Policy and Information)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/103A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 26,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/103A/full",
+     "sha256": "1f019b9f26c23bc3c107bab2e56263825cdd3c232a4ab08f1df1205b89eeebd5"
+    }
+   ]
+  },
+  {
+   "slug": "ch-103b",
+   "short": "Minn. Stat. ch. 103B",
+   "title": "Minnesota Statutes chapter 103B (Water Planning and Project Implementation)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/103B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 88,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/103B/full",
+     "sha256": "cf0e5eb5cebe250928d42ae0b53cc60110fdbe1d3c938a8c2398c27d66f5db6e"
+    }
+   ]
+  },
+  {
+   "slug": "ch-103c",
+   "short": "Minn. Stat. ch. 103C",
+   "title": "Minnesota Statutes chapter 103C (Soil and Water Conservation Districts)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/103C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 32,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/103C/full",
+     "sha256": "c89cf99c48360934cbab5332563c73e0bbd784c857c070225dfc1e5473cdb68d"
+    }
+   ]
+  },
+  {
+   "slug": "ch-103d",
+   "short": "Minn. Stat. ch. 103D",
+   "title": "Minnesota Statutes chapter 103D (Watershed Districts)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/103D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 79,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/103D/full",
+     "sha256": "1d55488beaa4a0eea26fc9a487b2864e9e677912d679232ec899018c2f244a62"
+    }
+   ]
+  },
+  {
+   "slug": "ch-103e",
+   "short": "Minn. Stat. ch. 103E",
+   "title": "Minnesota Statutes chapter 103E (Drainage)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/103E/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 107,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/103E/full",
+     "sha256": "44c3020392674d832ace25e8e4379223356cf870f6e70ab27ceb748acf63c26d"
+    }
+   ]
+  },
+  {
+   "slug": "ch-103f",
+   "short": "Minn. Stat. ch. 103F",
+   "title": "Minnesota Statutes chapter 103F (Protection of Water Resources)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/103F/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 122,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/103F/full",
+     "sha256": "24d503416f868e300fb8cb6e0aaf2821cffdae83ae21cadd8c4325cf97c250ff"
+    }
+   ]
+  },
+  {
+   "slug": "ch-103g",
+   "short": "Minn. Stat. ch. 103G",
+   "title": "Minnesota Statutes chapter 103G (Waters of the State)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/103G/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 104,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/103G/full",
+     "sha256": "49a7cb104905600187926ed54d048b5b5f57c61297db5ed2f02ff13ce596e588"
+    }
+   ]
+  },
+  {
+   "slug": "ch-103h",
+   "short": "Minn. Stat. ch. 103H",
+   "title": "Minnesota Statutes chapter 103H (Groundwater Protection)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/103H/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 11,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/103H/full",
+     "sha256": "09f64d82b7ca575c63ace32393a389d716845ed529d33f1192764657acd93070"
+    }
+   ]
+  },
+  {
+   "slug": "ch-103i",
+   "short": "Minn. Stat. ch. 103I",
+   "title": "Minnesota Statutes chapter 103I (Wells, Borings, and Underground Uses)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/103I/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 58,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/103I/full",
+     "sha256": "ce40457d8af4da86ab495cf2b5b4203293815b0b6d0ba14e9bbc3e5e0e24525d"
+    }
+   ]
+  },
+  {
+   "slug": "ch-105",
+   "short": "Minn. Stat. ch. 105",
+   "title": "Minnesota Statutes chapter 105 (Division of Waters, Soils and Minerals)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/105/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 91,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/105/full",
+     "sha256": "ab8507121c3a9ca927148ead819342803158614ceaa1fd03f8b1cc4ecef04578"
+    }
+   ]
+  },
+  {
+   "slug": "ch-110",
+   "short": "Minn. Stat. ch. 110",
+   "title": "Minnesota Statutes chapter 110 (Dams; Lake Water Levels)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/110/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 66,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/110/full",
+     "sha256": "5e55f1d29595451cec2b528f1eee960e03f74fff22317dbcca363b48d3fb2cef"
+    }
+   ]
+  },
+  {
+   "slug": "ch-110a",
+   "short": "Minn. Stat. ch. 110A",
+   "title": "Minnesota Statutes chapter 110A (Rural Water User Districts)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/110A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 36,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/110A/full",
+     "sha256": "142bc20f33cd7fd780ac8009b7afe42deed90facf488bd92670525056ad88b79"
+    }
+   ]
+  },
+  {
+   "slug": "ch-114a",
+   "short": "Minn. Stat. ch. 114A",
+   "title": "Minnesota Statutes chapter 114A (Southern Minnesota Rivers Basin Board)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/114A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 9,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/114A/full",
+     "sha256": "2f50af9c5240c28c79ebd59216753a24fde015bf13169c5a81f671bab90459ea"
+    }
+   ]
+  },
+  {
+   "slug": "ch-114b",
+   "short": "Minn. Stat. ch. 114B",
+   "title": "Minnesota Statutes chapter 114B (Mississippi River Headwaters Area)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/114B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 8,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/114B/full",
+     "sha256": "44f0caa361a0bb485026e9baa66f450f12161a515e069732ca5eca84d285fee1"
+    }
+   ]
+  },
+  {
+   "slug": "ch-114c",
+   "short": "Minn. Stat. ch. 114C",
+   "title": "Minnesota Statutes chapter 114C (Environmental Regulatory Innovations)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/114C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 21,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/114C/full",
+     "sha256": "1d468bf751425cee44ffd8adb46f28d591aab83a44bc45fe6d94ac49d1c9d38f"
+    }
+   ]
+  },
+  {
+   "slug": "ch-114d",
+   "short": "Minn. Stat. ch. 114D",
+   "title": "Minnesota Statutes chapter 114D (Clean Water Legacy Act)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/114D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 11,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/114D/full",
+     "sha256": "f9c45fc2b8b4c1b2d2a8dcec545dfb61193b26d066f0c0055dcf491fbeee3165"
+    }
+   ]
+  },
+  {
+   "slug": "ch-114e",
+   "short": "Minn. Stat. ch. 114E",
+   "title": "Minnesota Statutes chapter 114E (Uniform Environmental Covenants Act)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/114E/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 13,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/114E/full",
+     "sha256": "fc3eb8c17cc68b8b762d8ed6f8194e4aec2f2fc34e686e8a4412f97a8a565cd4"
+    }
+   ]
+  },
+  {
+   "slug": "ch-115",
+   "short": "Minn. Stat. ch. 115",
+   "title": "Minnesota Statutes chapter 115 (Water Pollution Control; Sanitary Districts)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/115/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 110,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/115/full",
+     "sha256": "309c9c1b7dff57b5eab8655b7c8fa36804b27cdc43896cbd486d49698a26a9aa"
+    }
+   ]
+  },
+  {
+   "slug": "ch-115a",
+   "short": "Minn. Stat. ch. 115A",
+   "title": "Minnesota Statutes chapter 115A (Waste Management)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/115A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 219,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/115A/full",
+     "sha256": "79f61b9316d4724f2511a629f50cfffe812a8bd2cc6dbfc6fdaeead13f03bdca"
+    }
+   ]
+  },
+  {
+   "slug": "ch-115b",
+   "short": "Minn. Stat. ch. 115B",
+   "title": "Minnesota Statutes chapter 115B (Environmental Response and Liability)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/115B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 76,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/115B/full",
+     "sha256": "38d7fb2464630deda40ce05032bb221d21ce6b69db7ebba446e138845eb7c4ff"
+    }
+   ]
+  },
+  {
+   "slug": "ch-115c",
+   "short": "Minn. Stat. ch. 115C",
+   "title": "Minnesota Statutes chapter 115C (Petroleum Tank Release Cleanup)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/115C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 23,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/115C/full",
+     "sha256": "0dd0bc014e81aaac35fb0afe719f7d962ad2385cced3921b049ed319ebc99171"
+    }
+   ]
+  },
+  {
+   "slug": "ch-115d",
+   "short": "Minn. Stat. ch. 115D",
+   "title": "Minnesota Statutes chapter 115D (Toxic Pollution Prevention)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/115D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 13,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/115D/full",
+     "sha256": "a1849864293e2c999038e3b4c132c51438ee84a363fec7f32bc4e66bfdf73fb3"
+    }
+   ]
+  },
+  {
+   "slug": "ch-115e",
+   "short": "Minn. Stat. ch. 115E",
+   "title": "Minnesota Statutes chapter 115E (Oil and Hazardous Substance Discharge Preparedness)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/115E/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 13,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/115E/full",
+     "sha256": "ef9d1b3cb7a5754b5f982a9a52a1c7b453acf891d34fd06c12db4c0e646c2d3c"
+    }
+   ]
+  },
+  {
+   "slug": "ch-116",
+   "short": "Minn. Stat. ch. 116",
+   "title": "Minnesota Statutes chapter 116 (Pollution Control Agency)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/116/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 158,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/116/full",
+     "sha256": "43f69fc669d9acf0d971ab2aaa7b176e586fa21c18ab4534d9d408c52ba5567a"
+    }
+   ]
+  },
+  {
+   "slug": "ch-116a",
+   "short": "Minn. Stat. ch. 116A",
+   "title": "Minnesota Statutes chapter 116A (Public Water and Sewer Systems)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/116A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 26,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/116A/full",
+     "sha256": "0d22447737107ac6198011f98fa0d4758b657a820d8d9a91f21d350913c0c1b9"
+    }
+   ]
+  },
+  {
+   "slug": "ch-116b",
+   "short": "Minn. Stat. ch. 116B",
+   "title": "Minnesota Statutes chapter 116B (Environmental Rights)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/116B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 13,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/116B/full",
+     "sha256": "3c307a339649fe1016fb890ae89d99a4c99dc175df069b500d510da17b9dd07c"
+    }
+   ]
+  },
+  {
+   "slug": "ch-116c",
+   "short": "Minn. Stat. ch. 116C",
+   "title": "Minnesota Statutes chapter 116C (Environmental Quality Board)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/116C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 112,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/116C/full",
+     "sha256": "2aae33e77eb4e22079a16ecf6194be3b40de351394358e21316006b36be40cac"
+    }
+   ]
+  },
+  {
+   "slug": "ch-116d",
+   "short": "Minn. Stat. ch. 116D",
+   "title": "Minnesota Statutes chapter 116D (Environmental Policy)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/116D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 10,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/116D/full",
+     "sha256": "c4545e141d9180fafda64fbf2e2498e9560f5cd906a740ab78092d2666acedc7"
+    }
+   ]
+  },
+  {
+   "slug": "ch-116e",
+   "short": "Minn. Stat. ch. 116E",
+   "title": "Minnesota Statutes chapter 116E (Environmental Education Board)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/116E/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 3,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/116E/full",
+     "sha256": "45738faf8e2a787985b73f8b7c61f341289d837da370c81431f8db18d06fb3bb"
+    }
+   ]
+  },
+  {
+   "slug": "ch-116f",
+   "short": "Minn. Stat. ch. 116F",
+   "title": "Minnesota Statutes chapter 116F (Solid Waste Recycling)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/116F/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 11,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/116F/full",
+     "sha256": "041aac5384ff3360e0d872a11542df30175de40ce3a3c00732190554c674ab58"
+    }
+   ]
+  },
+  {
+   "slug": "ch-116g",
+   "short": "Minn. Stat. ch. 116G",
+   "title": "Minnesota Statutes chapter 116G (Critical Areas)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/116G/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 16,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/116G/full",
+     "sha256": "9f5d213af8d06ff245ddbbb86149dd13be235ca1aa42b08432e4cc82b016e2d2"
+    }
+   ]
+  },
+  {
+   "slug": "ch-116h",
+   "short": "Minn. Stat. ch. 116H",
+   "title": "Minnesota Statutes chapter 116H (Minnesota Energy Agency)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/116H/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 30,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/116H/full",
+     "sha256": "a723b951a84b9de0a564b64e29387b5171df4982f8bb4927f13537ab2e0cadfe"
+    }
+   ]
+  },
+  {
+   "slug": "ch-116j",
+   "short": "Minn. Stat. ch. 116J",
+   "title": "Minnesota Statutes chapter 116J (Employment and Economic Development)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/116J/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 264,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/116J/full",
+     "sha256": "841bc6aff6a4f435071a4d3a5d8fddf0ed73bc95b1f91e5ab20936500e804c5b"
+    }
+   ]
+  },
+  {
+   "slug": "ch-116k",
+   "short": "Minn. Stat. ch. 116K",
+   "title": "Minnesota Statutes chapter 116K (State Planning Agency)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/116K/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 14,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/116K/full",
+     "sha256": "3136480151f426edc835c73116a7d4a1cfde3f6f99119121d7b2713b791448c7"
+    }
+   ]
+  },
+  {
+   "slug": "ch-116l",
+   "short": "Minn. Stat. ch. 116L",
+   "title": "Minnesota Statutes chapter 116L (Workforce Development)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/116L/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 54,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/116L/full",
+     "sha256": "b85e9b8d31251ab3323d310d9acc04dc75b392b0b9233ddfb6d131800e9861d4"
+    }
+   ]
+  },
+  {
+   "slug": "ch-116m",
+   "short": "Minn. Stat. ch. 116M",
+   "title": "Minnesota Statutes chapter 116M (Minnesota Emerging Entrepreneur Program)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/116M/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 18,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/116M/full",
+     "sha256": "65cdfb96940661e5a3213321a01fe7554c2afda57476a9d62061074b9a6443b9"
+    }
+   ]
+  },
+  {
+   "slug": "ch-116n",
+   "short": "Minn. Stat. ch. 116N",
+   "title": "Minnesota Statutes chapter 116N (Rural Development Board)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/116N/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 5,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/116N/full",
+     "sha256": "4e37a856b7918af376ed187b9e4d0aea6b4989cd598c9f8626203973e1447de2"
+    }
+   ]
+  },
+  {
+   "slug": "ch-116o",
+   "short": "Minn. Stat. ch. 116O",
+   "title": "Minnesota Statutes chapter 116O (Enterprise Minnesota, Inc.)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/116O/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 23,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/116O/full",
+     "sha256": "b8180e5180b07c6d18fc50501cf35a811adddc9f6d105943ab0637f5cf609bf5"
+    }
+   ]
+  },
+  {
+   "slug": "ch-116p",
+   "short": "Minn. Stat. ch. 116P",
+   "title": "Minnesota Statutes chapter 116P (Environment and Natural Resources Trust Fund)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/116P/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 22,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/116P/full",
+     "sha256": "8466e7eecb74b41fee97d2f7d3992bc4106234a4ea4d65844fa7ec8a39216b3f"
+    }
+   ]
+  },
+  {
+   "slug": "ch-116q",
+   "short": "Minn. Stat. ch. 116Q",
+   "title": "Minnesota Statutes chapter 116Q (Great Lakes Protection Fund)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/116Q/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 2,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/116Q/full",
+     "sha256": "f1331a322aec530308635d4f38cb9731d602ea16ef45edb449f30bc8d0886868"
+    }
+   ]
+  },
+  {
+   "slug": "ch-116r",
+   "short": "Minn. Stat. ch. 116R",
+   "title": "Minnesota Statutes chapter 116R (Aircraft Facilities; State Financing)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/116R/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 16,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/116R/full",
+     "sha256": "8211d5b7a1838a02e0498e369a1681ef6a78222547a8af49847279cb95e3f912"
+    }
+   ]
+  },
+  {
+   "slug": "ch-116s",
+   "short": "Minn. Stat. ch. 116S",
+   "title": "Minnesota Statutes chapter 116S (Minnesota Business Finance, Inc.)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/116S/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 11,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/116S/full",
+     "sha256": "de9d9dc66848b7840ecb27e39aeb26eb5599a6b65ed7ad23df05107a4b777bb0"
+    }
+   ]
+  },
+  {
+   "slug": "ch-116t",
+   "short": "Minn. Stat. ch. 116T",
+   "title": "Minnesota Statutes chapter 116T (Northern Technology Initiative, Inc.)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/116T/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 6,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/116T/full",
+     "sha256": "bb5184c8dcd76748a1b7ebf2cae94f9c50f5f85b3d5453c95ce5aba22ed0948d"
+    }
+   ]
+  },
+  {
+   "slug": "ch-116u",
+   "short": "Minn. Stat. ch. 116U",
+   "title": "Minnesota Statutes chapter 116U (Explore Minnesota)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/116U/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 19,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/116U/full",
+     "sha256": "a3a062d967735dcdee9fd67745f87d8e91ca0d400467521a194e2e5e18bda392"
+    }
+   ]
+  },
+  {
+   "slug": "ch-116v",
+   "short": "Minn. Stat. ch. 116V",
+   "title": "Minnesota Statutes chapter 116V (Agricultural Utilization Research Institute)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/116V/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 3,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/116V/full",
+     "sha256": "3a104c7cfde421c30000c357dd1099fcd2c6c8ad8077044d24cc934cca6e6c06"
+    }
+   ]
+  },
+  {
+   "slug": "ch-116w",
+   "short": "Minn. Stat. ch. 116W",
+   "title": "Minnesota Statutes chapter 116W (Minnesota Science and Technology)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/116W/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 21,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/116W/full",
+     "sha256": "3aeb7a02d26cfbe90873cdb465280e71904b21721a6f24c822f5b622402c122f"
+    }
+   ]
+  },
+  {
+   "slug": "ch-116x",
+   "short": "Minn. Stat. ch. 116X",
+   "title": "Minnesota Statutes chapter 116X (Environment and Natural Resources Trust Fund Community Grants)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/116X/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 3,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/116X/full",
+     "sha256": "fde4fa4a4f3f3b9b8a61bbc1f13d8b3e8ace3c609e073ee9c25bba12fa8e3297"
+    }
+   ]
+  },
+  {
+   "slug": "ch-117",
+   "short": "Minn. Stat. ch. 117",
+   "title": "Minnesota Statutes chapter 117 (Eminent Domain)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/117/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 106,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/117/full",
+     "sha256": "13d9440992a3162e86cbd4462f8253894614799da83a34aea6b3305b4794c350"
+    }
+   ]
+  },
+  {
+   "slug": "ch-118",
+   "short": "Minn. Stat. ch. 118",
+   "title": "Minnesota Statutes chapter 118 (Depositories of Public Funds)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/118/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 18,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/118/full",
+     "sha256": "fe2444f336a0e708e1f6084869d09e0e9d0b2f9827b5f9a75a1bd5fe5471704f"
+    }
+   ]
+  },
+  {
+   "slug": "ch-118a",
+   "short": "Minn. Stat. ch. 118A",
+   "title": "Minnesota Statutes chapter 118A (Deposit and Investment of Local Public Funds)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/118A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 10,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/118A/full",
+     "sha256": "2be0999594c4eb26493787551d13fe715230b105a6d4f274b48258cfa07b06b4"
+    }
+   ]
+  },
+  {
+   "slug": "ch-119",
+   "short": "Minn. Stat. ch. 119",
+   "title": "Minnesota Statutes chapter 119 (Minnesota Educational Computing Corporation)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/119/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 8,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/119/full",
+     "sha256": "755e981174a7b804c57c6992138cc5ab5dc803992408edf69113caa0326f153b"
+    }
+   ]
+  },
+  {
+   "slug": "ch-119a",
+   "short": "Minn. Stat. ch. 119A",
+   "title": "Minnesota Statutes chapter 119A (Department of Education; Programs)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/119A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 46,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/119A/full",
+     "sha256": "81fa3bb993a1a9b4eb49fa8c7660eb68e18f78f37e614c1227f9a784fe2c0b79"
+    }
+   ]
+  },
+  {
+   "slug": "ch-119b",
+   "short": "Minn. Stat. ch. 119B",
+   "title": "Minnesota Statutes chapter 119B (Child Care Programs)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/119B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 38,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/119B/full",
+     "sha256": "d586af72315f49b1cbba784ca6b82e4dcd08b040f7a69cad8cbc229329c874c7"
+    }
+   ]
+  },
+  {
+   "slug": "ch-120",
+   "short": "Minn. Stat. ch. 120",
+   "title": "Minnesota Statutes chapter 120 (Definitions; Attendance; Special Education; Fees)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/120/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 105,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/120/full",
+     "sha256": "dd99b88d2ed6aefa59279e95c7312035a3719755e00a81067809112baf8f5b18"
+    }
+   ]
+  },
+  {
+   "slug": "ch-120a",
+   "short": "Minn. Stat. ch. 120A",
+   "title": "Minnesota Statutes chapter 120A (Education Code; Attendance; School Calendar)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/120A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 24,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/120A/full",
+     "sha256": "21a278123e355f9428bc033cd3487ace59b5134b0b0ec2f730173d25fe077fa0"
+    }
+   ]
+  },
+  {
+   "slug": "ch-120b",
+   "short": "Minn. Stat. ch. 120B",
+   "title": "Minnesota Statutes chapter 120B (Curriculum and Assessment)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/120B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 76,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/120B/full",
+     "sha256": "afc33300c7e17922ac386d05b839913d526d3f0428c82a96c99f04fbf1a9445f"
+    }
+   ]
+  },
+  {
+   "slug": "ch-121",
+   "short": "Minn. Stat. ch. 121",
+   "title": "Minnesota Statutes chapter 121 (State Administration; Interstate Compact)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/121/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 133,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/121/full",
+     "sha256": "6294109b87f1493efa22ffc76a8c45b54dea68757012bbcc1ed80cae2a37535e"
+    }
+   ]
+  },
+  {
+   "slug": "ch-121a",
+   "short": "Minn. Stat. ch. 121A",
+   "title": "Minnesota Statutes chapter 121A (Student Rights, Responsibilities, and Behavior)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/121A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 97,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/121A/full",
+     "sha256": "38297fcedad71501ad8bfe9a7abc4db38ffa4eb9c274af89ce14b780725534e5"
+    }
+   ]
+  },
+  {
+   "slug": "ch-122",
+   "short": "Minn. Stat. ch. 122",
+   "title": "Minnesota Statutes chapter 122 (School Districts: Formation and Cooperation)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/122/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 147,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/122/full",
+     "sha256": "fc8e35efa2e6ccd46beb613e5ff58c245865eecd1daea6cc3ce0202abd9f2943"
+    }
+   ]
+  },
+  {
+   "slug": "ch-122a",
+   "short": "Minn. Stat. ch. 122A",
+   "title": "Minnesota Statutes chapter 122A (Teachers and Other Educators)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/122A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 105,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/122A/full",
+     "sha256": "0b5ee7d88cd468badc3b6d1a581fd1076dfdbf5ffc2e5ba78b3bcca23d10eab7"
+    }
+   ]
+  },
+  {
+   "slug": "ch-123",
+   "short": "Minn. Stat. ch. 123",
+   "title": "Minnesota Statutes chapter 123 (School Districts: Powers and Duties; Service Cooperatives)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/123/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 129,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/123/full",
+     "sha256": "2724a1ed270069bab9ad2516268c3d078911e4424928c18b5e7413b31419e38c"
+    }
+   ]
+  },
+  {
+   "slug": "ch-123a",
+   "short": "Minn. Stat. ch. 123A",
+   "title": "Minnesota Statutes chapter 123A (School Districts; Forms for Organizing)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/123A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 71,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/123A/full",
+     "sha256": "5e508e6a22343768756062a160ae7f0f778c65cf63ce0a0ef1c447a0fe5d2a23"
+    }
+   ]
+  },
+  {
+   "slug": "ch-123b",
+   "short": "Minn. Stat. ch. 123B",
+   "title": "Minnesota Statutes chapter 123B (School District Powers and Duties)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/123B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 119,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/123B/full",
+     "sha256": "387fedaf22fa8fbb1012e9fbb91ed4655b3ff5b494266bc3b4fe82f0b86ff8d0"
+    }
+   ]
+  },
+  {
+   "slug": "ch-124",
+   "short": "Minn. Stat. ch. 124",
+   "title": "Minnesota Statutes chapter 124 (Education Finance)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/124/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 198,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/124/full",
+     "sha256": "a69ff8081cbb714e7c0beaeb5c449e1889e4e7b82928e6392254e1ef87053312"
+    }
+   ]
+  },
+  {
+   "slug": "ch-124a",
+   "short": "Minn. Stat. ch. 124A",
+   "title": "Minnesota Statutes chapter 124A (General Education Revenue)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/124A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 20,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/124A/full",
+     "sha256": "e477310f1a61f64d5b8edf50b82febbc1c8660f5bd569f9d42773927afafd03d"
+    }
+   ]
+  },
+  {
+   "slug": "ch-124b",
+   "short": "Minn. Stat. ch. 124B",
+   "title": "Minnesota Statutes chapter 124B (General Education Revenue: Education Districts)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/124B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 5,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/124B/full",
+     "sha256": "824388ffc7b5fbb459f78cd166a87f053d3f41fee8faef6756565867cedba08d"
+    }
+   ]
+  },
+  {
+   "slug": "ch-124c",
+   "short": "Minn. Stat. ch. 124C",
+   "title": "Minnesota Statutes chapter 124C (Grants for Education)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/124C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 36,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/124C/full",
+     "sha256": "ca6776cbce105a7751e12aed17f581c5a9bd5aaefb2fa4c369e7c94417c1cc50"
+    }
+   ]
+  },
+  {
+   "slug": "ch-124d",
+   "short": "Minn. Stat. ch. 124D",
+   "title": "Minnesota Statutes chapter 124D (Education Programs)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/124D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 167,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/124D/full",
+     "sha256": "fb12bea7d2f5d74da18ed47b5d0d91c8c8c46ca570fb3e0e4417ffd0627bfa91"
+    }
+   ]
+  },
+  {
+   "slug": "ch-124e",
+   "short": "Minn. Stat. ch. 124E",
+   "title": "Minnesota Statutes chapter 124E (Charter Schools)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/124E/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 24,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/124E/full",
+     "sha256": "2a3192dd82e4e5770e7e194a066a589a44ed3f3d5197495efb5d3cbc28049ed4"
+    }
+   ]
+  },
+  {
+   "slug": "ch-124f",
+   "short": "Minn. Stat. ch. 124F",
+   "title": "Minnesota Statutes chapter 124F (Education Innovation)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/124F/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 9,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/124F/full",
+     "sha256": "d20ade59afad080e3ca012f0d9088254d37243639a6030930a5d7f0f623fbb64"
+    }
+   ]
+  },
+  {
+   "slug": "ch-125",
+   "short": "Minn. Stat. ch. 125",
+   "title": "Minnesota Statutes chapter 125 (Teachers)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/125/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 87,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/125/full",
+     "sha256": "399972d4d3c5fa32a664d8b5497bd2241da0da16fbf55cb843ad638c05b72945"
+    }
+   ]
+  },
+  {
+   "slug": "ch-125a",
+   "short": "Minn. Stat. ch. 125A",
+   "title": "Minnesota Statutes chapter 125A (Special Education and Special Programs)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/125A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 95,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/125A/full",
+     "sha256": "3bff37b0c6163d224754ec723949cb1c718b3527be0286342d54b382372887e7"
+    }
+   ]
+  },
+  {
+   "slug": "ch-125b",
+   "short": "Minn. Stat. ch. 125B",
+   "title": "Minnesota Statutes chapter 125B (Education and Technology)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/125B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 11,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/125B/full",
+     "sha256": "1767e7f47385c3759d3f1f125f91b41668ef0d42753916e5a83ff8c9109912cc"
+    }
+   ]
+  },
+  {
+   "slug": "ch-126",
+   "short": "Minn. Stat. ch. 126",
+   "title": "Minnesota Statutes chapter 126 (Curriculum; American Indians)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/126/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 93,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/126/full",
+     "sha256": "df7450dcf36d86380f0d1348805b8f43a7ca48512427b8130e49de452df532fd"
+    }
+   ]
+  },
+  {
+   "slug": "ch-126a",
+   "short": "Minn. Stat. ch. 126A",
+   "title": "Minnesota Statutes chapter 126A (Environmental Education)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/126A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 9,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/126A/full",
+     "sha256": "48fd36760e4db3c578726a34fa80083f1a80c4616213fab3cb1e5b62a8955ef6"
+    }
+   ]
+  },
+  {
+   "slug": "ch-126b",
+   "short": "Minn. Stat. ch. 126B",
+   "title": "Minnesota Statutes chapter 126B (Education and Employment Transitions System)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/126B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 5,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/126B/full",
+     "sha256": "a3b57318dbdca3b6101cdc4d50ac41c6117ee7990ef1b834efeec05256e07d31"
+    }
+   ]
+  },
+  {
+   "slug": "ch-126c",
+   "short": "Minn. Stat. ch. 126C",
+   "title": "Minnesota Statutes chapter 126C (Education Funding)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/126C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 57,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/126C/full",
+     "sha256": "c9dbc511e9da614387bc0168e9f0059acf712932afe1d239c2040028d1a9c582"
+    }
+   ]
+  },
+  {
+   "slug": "ch-127",
+   "short": "Minn. Stat. ch. 127",
+   "title": "Minnesota Statutes chapter 127 (Proceedings, Prohibitions, Policies)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/127/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 60,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/127/full",
+     "sha256": "245e6c9c64fdd6b3a086445638456a346b8f3768912f6b2a80a5823500198d0e"
+    }
+   ]
+  },
+  {
+   "slug": "ch-127a",
+   "short": "Minn. Stat. ch. 127A",
+   "title": "Minnesota Statutes chapter 127A (State Administration of Education)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/127A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 60,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/127A/full",
+     "sha256": "a0573bb2a27487d44512527cc12ef3dd65a185d976c12a64d9b63a75ccc6390d"
+    }
+   ]
+  },
+  {
+   "slug": "ch-128",
+   "short": "Minn. Stat. ch. 128",
+   "title": "Minnesota Statutes chapter 128 (Cook County School District)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/128/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 59,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/128/full",
+     "sha256": "8b6c1ffa32b7d8a2b8939ad45b2ea3aab199efc555eba3ddbe05de0dec76874c"
+    }
+   ]
+  },
+  {
+   "slug": "ch-128a",
+   "short": "Minn. Stat. ch. 128A",
+   "title": "Minnesota Statutes chapter 128A (Academies for the Deaf and Blind)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/128A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 12,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/128A/full",
+     "sha256": "af1fb01f61fc524fda2dd9baf25acf6b9290a789faf91e0727c110e0d107a2a7"
+    }
+   ]
+  },
+  {
+   "slug": "ch-128b",
+   "short": "Minn. Stat. ch. 128B",
+   "title": "Minnesota Statutes chapter 128B (Pine Point School)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/128B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 11,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/128B/full",
+     "sha256": "1dce0d60a09c50e6b9ca6f390c9909b98ba236157f91628cb3123aaefb9e4573"
+    }
+   ]
+  },
+  {
+   "slug": "ch-128c",
+   "short": "Minn. Stat. ch. 128C",
+   "title": "Minnesota Statutes chapter 128C (High School League)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/128C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 14,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/128C/full",
+     "sha256": "73212e5b39d3b84f7602654d6a7ff7657714e1a6f2b991284e9a3473f4d8e26a"
+    }
+   ]
+  },
+  {
+   "slug": "ch-128d",
+   "short": "Minn. Stat. ch. 128D",
+   "title": "Minnesota Statutes chapter 128D (Special School District No. 1, Minneapolis)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/128D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 19,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/128D/full",
+     "sha256": "7a1b652fc255fcc55ebc88709cb615f7beb2123a523d7e5a2a48edc5c03e273b"
+    }
+   ]
+  },
+  {
+   "slug": "ch-129",
+   "short": "Minn. Stat. ch. 129",
+   "title": "Minnesota Statutes chapter 129 (Chippewa Forest Land Exchanges; Border Agreements)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/129/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 21,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/129/full",
+     "sha256": "d37c0fa7b0643fb377f4abbdd81d2887ff4346a2efd18a82d0176adca258638b"
+    }
+   ]
+  },
+  {
+   "slug": "ch-129b",
+   "short": "Minn. Stat. ch. 129B",
+   "title": "Minnesota Statutes chapter 129B (Grants for Education)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/129B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 52,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/129B/full",
+     "sha256": "50e8b9dc82304b697fdb8f61a3d5c74945ebfed9c4f9b97e04f1685971e8ee43"
+    }
+   ]
+  },
+  {
+   "slug": "ch-129c",
+   "short": "Minn. Stat. ch. 129C",
+   "title": "Minnesota Statutes chapter 129C (Perpich Center for Arts Education)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/129C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 8,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/129C/full",
+     "sha256": "0332908eb8d7d3217b5f85749f404d6a4fc15d5b61dbb201789cd829c7ff8e11"
+    }
+   ]
+  },
+  {
+   "slug": "ch-129d",
+   "short": "Minn. Stat. ch. 129D",
+   "title": "Minnesota Statutes chapter 129D (Arts Assistance)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/129D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 17,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/129D/full",
+     "sha256": "bd52ad6c61f9b5c45528fe3c46130c4b3285468d26979b72d1ff4868fc15ac4b"
+    }
+   ]
+  },
+  {
+   "slug": "ch-130",
+   "short": "Minn. Stat. ch. 130",
+   "title": "Minnesota Statutes chapter 130 (Junior Colleges)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/130/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 34,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/130/full",
+     "sha256": "c1e204955cdb812c12cd9cf787126c5583eac037d79457a4595e5e8e51971d62"
+    }
+   ]
+  },
+  {
+   "slug": "ch-131",
+   "short": "Minn. Stat. ch. 131",
+   "title": "Minnesota Statutes chapter 131 (Schools; Classification, Conduct)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/131/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 47,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/131/full",
+     "sha256": "eade6eee5332bb2cd3565c3071d8d12aa5eac48366c9e61587d9f7f3746b5db0"
+    }
+   ]
+  },
+  {
+   "slug": "ch-132",
+   "short": "Minn. Stat. ch. 132",
+   "title": "Minnesota Statutes chapter 132 (Admission and Attendance)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/132/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 14,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/132/full",
+     "sha256": "2cb664f49f6ffc52cbe28dba9cca54087307f002b1849290fc009f99a1bae5f9"
+    }
+   ]
+  },
+  {
+   "slug": "ch-133",
+   "short": "Minn. Stat. ch. 133",
+   "title": "Minnesota Statutes chapter 133 (Textbooks)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/133/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 10,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/133/full",
+     "sha256": "688e47c3c37a677ea182c253c41f07b3556b034c2d17bcbda1c7f5c8a06620db"
+    }
+   ]
+  },
+  {
+   "slug": "ch-134",
+   "short": "Minn. Stat. ch. 134",
+   "title": "Minnesota Statutes chapter 134 (Public and Multitype Libraries)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/134/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 51,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/134/full",
+     "sha256": "a5c6375f88a7237b3bd7f36edb0dc146ac4200ad7edd795240ed5fa3b3a32184"
+    }
+   ]
+  },
+  {
+   "slug": "ch-134a",
+   "short": "Minn. Stat. ch. 134A",
+   "title": "Minnesota Statutes chapter 134A (County Law Libraries)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/134A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 17,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/134A/full",
+     "sha256": "43c36900c4eba9740efbf7f6f6a6cfaa1d613d4b8c673c1cc77c317e0f501e1a"
+    }
+   ]
+  },
+  {
+   "slug": "ch-135",
+   "short": "Minn. Stat. ch. 135",
+   "title": "Minnesota Statutes chapter 135 (Teachers Retirement Fund)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/135/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 53,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/135/full",
+     "sha256": "130e6dcd8c743e9bb732f48e61c6785ebf57352cfe4feed88dc33db2a814823c"
+    }
+   ]
+  },
+  {
+   "slug": "ch-135a",
+   "short": "Minn. Stat. ch. 135A",
+   "title": "Minnesota Statutes chapter 135A (Postsecondary Education)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/135A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 73,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/135A/full",
+     "sha256": "7384e4c2f0e66013af308561986f4227e7b83fc25b458e75671e4266fa0ec2ff"
+    }
+   ]
+  },
+  {
+   "slug": "ch-136",
+   "short": "Minn. Stat. ch. 136",
+   "title": "Minnesota Statutes chapter 136 (State Universities and Community Colleges)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/136/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 105,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/136/full",
+     "sha256": "7d72d704decfa3c7691ce4e88a0463a187bf3e7a95612526822b63361dab4c32"
+    }
+   ]
+  },
+  {
+   "slug": "ch-136a",
+   "short": "Minn. Stat. ch. 136A",
+   "title": "Minnesota Statutes chapter 136A (Higher Education)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/136A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 203,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/136A/full",
+     "sha256": "27024bb1b38b201ba0986aecca47365a27b28797b8927f46869e292b1f641410"
+    }
+   ]
+  },
+  {
+   "slug": "ch-136b",
+   "short": "Minn. Stat. ch. 136B",
+   "title": "Minnesota Statutes chapter 136B (Midwestern Board for Medical and Allied Education)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/136B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 2,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/136B/full",
+     "sha256": "466c66219ba8ef0b7d5878bd921d5b66eac932c964ac51b5b495fa11394baf7b"
+    }
+   ]
+  },
+  {
+   "slug": "ch-136c",
+   "short": "Minn. Stat. ch. 136C",
+   "title": "Minnesota Statutes chapter 136C (Technical Colleges; Joint Districts)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/136C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 50,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/136C/full",
+     "sha256": "b9c108cad493d0c4382e8d970da96009bd242787e33b33c9187d324fb2cc79db"
+    }
+   ]
+  },
+  {
+   "slug": "ch-136d",
+   "short": "Minn. Stat. ch. 136D",
+   "title": "Minnesota Statutes chapter 136D (Intermediate School Districts)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/136D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 42,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/136D/full",
+     "sha256": "4ab3392e73c7f6478c3c8bb99f46b195082d92df977c4227a4be1a0a3239433e"
+    }
+   ]
+  },
+  {
+   "slug": "ch-136e",
+   "short": "Minn. Stat. ch. 136E",
+   "title": "Minnesota Statutes chapter 136E (Higher Education Board)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/136E/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 10,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/136E/full",
+     "sha256": "4d1dca19f63742f707a4bf3c288c2320751dfd0bf814933557bb25c491736668"
+    }
+   ]
+  },
+  {
+   "slug": "ch-136f",
+   "short": "Minn. Stat. ch. 136F",
+   "title": "Minnesota Statutes chapter 136F (Minnesota State Colleges and Universities)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/136F/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 85,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/136F/full",
+     "sha256": "3ad2df3e15ddd6a7d7fcea0d455fda2786ec8dd463ea971d0a42be64ccc1095f"
+    }
+   ]
+  },
+  {
+   "slug": "ch-136g",
+   "short": "Minn. Stat. ch. 136G",
+   "title": "Minnesota Statutes chapter 136G (College Savings Plan)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/136G/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 8,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/136G/full",
+     "sha256": "78a6acba836b6f77898504b511466c9b74fc70e89ad5c76cb3102c1588a8de30"
+    }
+   ]
+  },
+  {
+   "slug": "ch-137",
+   "short": "Minn. Stat. ch. 137",
+   "title": "Minnesota Statutes chapter 137 (University of Minnesota)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/137/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 75,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/137/full",
+     "sha256": "fa14557467bd2d6d59f2f9156ddd8089f859023da2de00558b72f3fa98417761"
+    }
+   ]
+  },
+  {
+   "slug": "ch-138",
+   "short": "Minn. Stat. ch. 138",
+   "title": "Minnesota Statutes chapter 138 (Historical Societies; Sites; Archives; Archaeology; Folklife)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/138/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 111,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/138/full",
+     "sha256": "32c4eb90c0889b3e113fc12e2c05c350c585d0555084902e2420ca318ac9c241"
+    }
+   ]
+  },
+  {
+   "slug": "ch-138a",
+   "short": "Minn. Stat. ch. 138A",
+   "title": "Minnesota Statutes chapter 138A (Labor Interpretive Center)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/138A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 6,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/138A/full",
+     "sha256": "138a447bd9d76306b7c78b9f2de0a78d9905a66ff23427f02d00e3a04abdcc77"
+    }
+   ]
+  },
+  {
+   "slug": "ch-139",
+   "short": "Minn. Stat. ch. 139",
+   "title": "Minnesota Statutes chapter 139 (Board of the Arts)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/139/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 17,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/139/full",
+     "sha256": "35585fab8611a4fab61e8b806169238898265c306096ec6a1ee5ed66b2e146ae"
+    }
+   ]
+  },
+  {
+   "slug": "ch-140",
+   "short": "Minn. Stat. ch. 140",
+   "title": "Minnesota Statutes chapter 140 (Law Libraries)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/140/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 54,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/140/full",
+     "sha256": "d5814bb60bd9aeecfe22a02af99060f5c4f7f25e91f6789836d9b32549bdc0a4"
+    }
+   ]
+  },
+  {
+   "slug": "ch-141",
+   "short": "Minn. Stat. ch. 141",
+   "title": "Minnesota Statutes chapter 141 (Private Career Schools)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/141/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 34,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/141/full",
+     "sha256": "fd8ac2d2724568130ccec43672190134daec5d01c0dbb0944924dbbc26cd7e47"
+    }
+   ]
+  },
+  {
+   "slug": "ch-142",
+   "short": "Minn. Stat. ch. 142",
+   "title": "Minnesota Statutes chapter 142 (Private Trade, Correspondence, and Social Training Schools)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/142/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 12,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/142/full",
+     "sha256": "16d0f1319f789d030a889ae26b54a5a90b697361abb84f7d81a37a35abe9ff81"
+    }
+   ]
+  },
+  {
+   "slug": "ch-142a",
+   "short": "Minn. Stat. ch. 142A",
+   "title": "Minnesota Statutes chapter 142A (Department of Children, Youth, and Families)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/142A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 60,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/142A/full",
+     "sha256": "b2546cda29ee8c08b7e43abf2cd8f252c7fca7beab60fc07cab24ce798e2e477"
+    }
+   ]
+  },
+  {
+   "slug": "ch-142b",
+   "short": "Minn. Stat. ch. 142B",
+   "title": "Minnesota Statutes chapter 142B (Children, Youth, and Families Licensing)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/142B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 54,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/142B/full",
+     "sha256": "9c5993fbb6cd3644976eaf2837e3eb73437ceeb85e51cc3693d2ccb8de189874"
+    }
+   ]
+  },
+  {
+   "slug": "ch-142c",
+   "short": "Minn. Stat. ch. 142C",
+   "title": "Minnesota Statutes chapter 142C (Certified License-Exempt Child Care Centers)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/142C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 18,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/142C/full",
+     "sha256": "cb40f1b6056d4112d90337e7f345752bb48f020d8fbe72df44ea1effcdbbc46e"
+    }
+   ]
+  },
+  {
+   "slug": "ch-142d",
+   "short": "Minn. Stat. ch. 142D",
+   "title": "Minnesota Statutes chapter 142D (Early Care and Learning)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/142D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 31,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/142D/full",
+     "sha256": "db4ec65492e190e2c04601cb70868a94b14e86cbb3ad50543eb9e21ab97a2dd5"
+    }
+   ]
+  },
+  {
+   "slug": "ch-142e",
+   "short": "Minn. Stat. ch. 142E",
+   "title": "Minnesota Statutes chapter 142E (Child Care Assistance Program)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/142E/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 32,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/142E/full",
+     "sha256": "77970c8398c8e767f2d2cdefe96fe11209e4c53bf9a0e982a66100b2e09d84b6"
+    }
+   ]
+  },
+  {
+   "slug": "ch-142f",
+   "short": "Minn. Stat. ch. 142F",
+   "title": "Minnesota Statutes chapter 142F (Food Support and Antipoverty Programs)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/142F/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 14,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/142F/full",
+     "sha256": "1c819fed3138ccc6702f8246a66549df30d1c10e99cb6f884f47b753290b12fa"
+    }
+   ]
+  },
+  {
+   "slug": "ch-142g",
+   "short": "Minn. Stat. ch. 142G",
+   "title": "Minnesota Statutes chapter 142G (Minnesota Family Investment Program)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/142G/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 59,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/142G/full",
+     "sha256": "173dc6ea5a0ea76d436f277f599b93360e4e296ce2372bfee79894f211fb5417"
+    }
+   ]
+  },
+  {
+   "slug": "ch-142h",
+   "short": "Minn. Stat. ch. 142H",
+   "title": "Minnesota Statutes chapter 142H (Child Care Center Licensing)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/142H/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 37,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/142H/full",
+     "sha256": "796379f15264f80f5e841de10a1e252c309fa0af9b228e7e591b4f88801eabe7"
+    }
+   ]
+  },
+  {
+   "slug": "ch-142i",
+   "short": "Minn. Stat. ch. 142I",
+   "title": "Minnesota Statutes chapter 142I (Family Child Care Licensing)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/142I/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 23,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/142I/full",
+     "sha256": "a3a58d0991682c198232abbdda270092b4d945c5f38da3e20ea57ef14f25a9e7"
+    }
+   ]
+  },
+  {
+   "slug": "ch-144",
+   "short": "Minn. Stat. ch. 144",
+   "title": "Minnesota Statutes chapter 144 (Department of Health)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/144/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 576,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/144/full",
+     "sha256": "d1952fd26a9c0281dbf258776608b7c272a02d8cdd429227b9260fe441eb8598"
+    }
+   ]
+  },
+  {
+   "slug": "ch-144a",
+   "short": "Minn. Stat. ch. 144A",
+   "title": "Minnesota Statutes chapter 144A (Nursing Homes and Home Care)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/144A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 117,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/144A/full",
+     "sha256": "31b880a8ab5a9411e2d9109640136fc14c8cba2ede60358b8c6fec394cbd3513"
+    }
+   ]
+  },
+  {
+   "slug": "ch-144d",
+   "short": "Minn. Stat. ch. 144D",
+   "title": "Minnesota Statutes chapter 144D (Housing with Services Establishment)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/144D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 17,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/144D/full",
+     "sha256": "633d559dd3a90aaffc44121d41a45425323d434822336a7a70313102bc18efef"
+    }
+   ]
+  },
+  {
+   "slug": "ch-144e",
+   "short": "Minn. Stat. ch. 144E",
+   "title": "Minnesota Statutes chapter 144E (Office of Emergency Medical Services)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/144E/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 59,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/144E/full",
+     "sha256": "a0f4d433f2793b8f816e58e5c9882545581f1a60576f10aa0ab4e015b407ce0f"
+    }
+   ]
+  },
+  {
+   "slug": "ch-144f",
+   "short": "Minn. Stat. ch. 144F",
+   "title": "Minnesota Statutes chapter 144F (Emergency Medical Services Special Taxing Districts)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/144F/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/144F/full",
+     "sha256": "1d98446b6dec7a341ceac8bd47eb846e6bb92d0588f1327a8b9bc97fb6b69d05"
+    }
+   ]
+  },
+  {
+   "slug": "ch-144g",
+   "short": "Minn. Stat. ch. 144G",
+   "title": "Minnesota Statutes chapter 144G (Assisted Living)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/144G/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 60,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/144G/full",
+     "sha256": "2a400e6e86e7e5582fef985151635518a158f2e880829e60c6c6569ed922628c"
+    }
+   ]
+  },
+  {
+   "slug": "ch-144h",
+   "short": "Minn. Stat. ch. 144H",
+   "title": "Minnesota Statutes chapter 144H (Prescribed Pediatric Extended Care Centers)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/144H/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 20,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/144H/full",
+     "sha256": "c2afb7833909ede0c8ffc6c616c8f07ec5f0ef8e3a87799d406440451e72104f"
+    }
+   ]
+  },
+  {
+   "slug": "ch-145",
+   "short": "Minn. Stat. ch. 145",
+   "title": "Minnesota Statutes chapter 145 (Public Health Provisions)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/145/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 257,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/145/full",
+     "sha256": "3b7505a984a778abc3991ef0a5d12c2142ee0c9b0887eac10f8e363aeabe0ca8"
+    }
+   ]
+  },
+  {
+   "slug": "ch-145a",
+   "short": "Minn. Stat. ch. 145A",
+   "title": "Minnesota Statutes chapter 145A (Community Health Boards)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/145A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 18,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/145A/full",
+     "sha256": "d2e82a6e5d7fc90047bfdca3700dce27c9d3349888d62f9f7bfe3b1188f22e61"
+    }
+   ]
+  },
+  {
+   "slug": "ch-145b",
+   "short": "Minn. Stat. ch. 145B",
+   "title": "Minnesota Statutes chapter 145B (Living Will)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/145B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 19,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/145B/full",
+     "sha256": "8ac1e2ef0d35e229dbd411dcb7caea43f5d50752ddf62e57eca0f11a9a6e089b"
+    }
+   ]
+  },
+  {
+   "slug": "ch-145c",
+   "short": "Minn. Stat. ch. 145C",
+   "title": "Minnesota Statutes chapter 145C (Health Care Directives)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/145C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 18,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/145C/full",
+     "sha256": "db6e4ed88119c18d84d04f09b197e7e6a02a12a85ef686b7d30308fdcd42af64"
+    }
+   ]
+  },
+  {
+   "slug": "ch-145d",
+   "short": "Minn. Stat. ch. 145D",
+   "title": "Minnesota Statutes chapter 145D (Health Care Transactions)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/145D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 11,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/145D/full",
+     "sha256": "e78b149ec60babcae8252d46495fb3ed33c98bd4b583fd1ccce5b4f21b4d3fcb"
+    }
+   ]
+  },
+  {
+   "slug": "ch-146",
+   "short": "Minn. Stat. ch. 146",
+   "title": "Minnesota Statutes chapter 146 (Healing Arts, Registration)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/146/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 23,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/146/full",
+     "sha256": "27d7195e25a079ab64c9e49e36cddb105ea57a5277888a6dea16d1511b288abe"
+    }
+   ]
+  },
+  {
+   "slug": "ch-146a",
+   "short": "Minn. Stat. ch. 146A",
+   "title": "Minnesota Statutes chapter 146A (Complementary and Alternative Health Care Practices)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/146A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 14,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/146A/full",
+     "sha256": "6857930af93bd55a0001e53ff67953ed2e325c22035815b8050a109a5cda023b"
+    }
+   ]
+  },
+  {
+   "slug": "ch-146b",
+   "short": "Minn. Stat. ch. 146B",
+   "title": "Minnesota Statutes chapter 146B (Body Art)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/146B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 10,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/146B/full",
+     "sha256": "310050f51136ca744bea81bbeebe470e1d37d5b903a4feeb2c9c960431555f09"
+    }
+   ]
+  },
+  {
+   "slug": "ch-147",
+   "short": "Minn. Stat. ch. 147",
+   "title": "Minnesota Statutes chapter 147 (Board of Medical Practice)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/147/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 73,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/147/full",
+     "sha256": "e35985da05940914fcbb2d3a37188e69eda3123cb6ad213b4810489f6ccce5e0"
+    }
+   ]
+  },
+  {
+   "slug": "ch-147a",
+   "short": "Minn. Stat. ch. 147A",
+   "title": "Minnesota Statutes chapter 147A (Physician Assistants, Licensing)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/147A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 32,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/147A/full",
+     "sha256": "a0ee5f833174c65ac2f28575be246e432c471710836ecf84ca9807e390de90e1"
+    }
+   ]
+  },
+  {
+   "slug": "ch-147b",
+   "short": "Minn. Stat. ch. 147B",
+   "title": "Minnesota Statutes chapter 147B (Acupuncture Practitioners)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/147B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 9,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/147B/full",
+     "sha256": "2f1202dad904a2748e42b73d4092194d664cb59746830e6e43e50e0e60e63522"
+    }
+   ]
+  },
+  {
+   "slug": "ch-147c",
+   "short": "Minn. Stat. ch. 147C",
+   "title": "Minnesota Statutes chapter 147C (Respiratory Care Practitioners)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/147C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 10,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/147C/full",
+     "sha256": "7f71f0e8482643d3b5f6771f3cfc8771f9717d1c8c1c3648677c3b13ca7e0087"
+    }
+   ]
+  },
+  {
+   "slug": "ch-147d",
+   "short": "Minn. Stat. ch. 147D",
+   "title": "Minnesota Statutes chapter 147D (Traditional Midwives)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/147D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 15,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/147D/full",
+     "sha256": "e0e1c98fb34c96f4ce54a088191fab43a4a2b586340860df6988e331ee30bb6d"
+    }
+   ]
+  },
+  {
+   "slug": "ch-147e",
+   "short": "Minn. Stat. ch. 147E",
+   "title": "Minnesota Statutes chapter 147E (Registered Naturopathic Doctors)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/147E/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 11,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/147E/full",
+     "sha256": "02c860d6e47d65db2eb5a0e76dc23fa190d1fb7020e788a9cbed7a8f09d361a1"
+    }
+   ]
+  },
+  {
+   "slug": "ch-147f",
+   "short": "Minn. Stat. ch. 147F",
+   "title": "Minnesota Statutes chapter 147F (Genetic Counselors)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/147F/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 10,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/147F/full",
+     "sha256": "fe2581f6c66179a7997913dede5565ce2ef600e31eb6c40de46a4acfe495ed4b"
+    }
+   ]
+  },
+  {
+   "slug": "ch-148",
+   "short": "Minn. Stat. ch. 148",
+   "title": "Minnesota Statutes chapter 148 (Public Health Occupations)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/148/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 317,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/148/full",
+     "sha256": "a1b7e5c4cd7573a42a42fa153667af66a6540b3d72b200e956893286e63de186"
+    }
+   ]
+  },
+  {
+   "slug": "ch-148a",
+   "short": "Minn. Stat. ch. 148A",
+   "title": "Minnesota Statutes chapter 148A (Action for Sexual Exploitation; Psychotherapists)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/148A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 6,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/148A/full",
+     "sha256": "6245fb45a9d1c1ac8b257245cdcd6e770cab30d42842190453af10cbd0ccb32f"
+    }
+   ]
+  },
+  {
+   "slug": "ch-148b",
+   "short": "Minn. Stat. ch. 148B",
+   "title": "Minnesota Statutes chapter 148B (Marriage and Family Therapy, Professional Counseling)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/148B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 103,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/148B/full",
+     "sha256": "f7199b69059d80a49bb1f50d12c157cd50f27c0d1fe40f9361700c374c92e2fe"
+    }
+   ]
+  },
+  {
+   "slug": "ch-148c",
+   "short": "Minn. Stat. ch. 148C",
+   "title": "Minnesota Statutes chapter 148C (Alcohol and Drug Counselors, Licensing)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/148C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 16,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/148C/full",
+     "sha256": "e3095fbbb6bbae17f3a594625ca9500d67c4e1fe30d1ba51e980bf74201ce9d8"
+    }
+   ]
+  },
+  {
+   "slug": "ch-148d",
+   "short": "Minn. Stat. ch. 148D",
+   "title": "Minnesota Statutes chapter 148D (Board of Social Work)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/148D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 59,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/148D/full",
+     "sha256": "ba8a59146353a0bdc549ba30f6afc46e50ad57b80c7d8dadfabf1c2e27620f71"
+    }
+   ]
+  },
+  {
+   "slug": "ch-148e",
+   "short": "Minn. Stat. ch. 148E",
+   "title": "Minnesota Statutes chapter 148E (Board of Social Work Practice)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/148E/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 83,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/148E/full",
+     "sha256": "d8d61b72cbab39727c8a8868a00f9451978088b16886041bd5231086c935cc4b"
+    }
+   ]
+  },
+  {
+   "slug": "ch-148f",
+   "short": "Minn. Stat. ch. 148F",
+   "title": "Minnesota Statutes chapter 148F (Alcohol and Drug Counselors Licensing)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/148F/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 42,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/148F/full",
+     "sha256": "ecf7c3f61f35b66361cc645586f3d6790e2dca65341c78edbaa6ba7e4e02f9f4"
+    }
+   ]
+  },
+  {
+   "slug": "ch-148g",
+   "short": "Minn. Stat. ch. 148G",
+   "title": "Minnesota Statutes chapter 148G (Licensed Certified Midwives)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/148G/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 21,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/148G/full",
+     "sha256": "df5517c2430e05a1f81452420f4a01c324fca1ecd10c61a63cf926f037c41284"
+    }
+   ]
+  },
+  {
+   "slug": "ch-148h",
+   "short": "Minn. Stat. ch. 148H",
+   "title": "Minnesota Statutes chapter 148H (Music Therapy Licensure; Certification)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/148H/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 16,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/148H/full",
+     "sha256": "305633b744056c497bf64334cb32d9cee14be00b8d2698d628ae77741bd5e144"
+    }
+   ]
+  },
+  {
+   "slug": "ch-149a",
+   "short": "Minn. Stat. ch. 149A",
+   "title": "Minnesota Statutes chapter 149A (Mortuary Science; Disposition of Dead Bodies)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/149A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 52,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/149A/full",
+     "sha256": "edc3627b1f2a85ffb61595198f0a30bf62173f17ec73ca3fff6592424b64e065"
+    }
+   ]
+  },
+  {
+   "slug": "ch-150a",
+   "short": "Minn. Stat. ch. 150A",
+   "title": "Minnesota Statutes chapter 150A (Dentistry)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/150A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 31,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/150A/full",
+     "sha256": "0e1d9505ddd4998ba65b54f135bbdb61dea547b9f0e9e1c69c8d7fe3f615a6b2"
+    }
+   ]
+  },
+  {
+   "slug": "ch-151",
+   "short": "Minn. Stat. ch. 151",
+   "title": "Minnesota Statutes chapter 151 (Pharmacy Practice and Wholesale Distribution Act)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/151/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 97,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/151/full",
+     "sha256": "784e5068915835688468d14ba5e372807a019006c543dc624f948ddcfc2aec3b"
+    }
+   ]
+  },
+  {
+   "slug": "ch-152",
+   "short": "Minn. Stat. ch. 152",
+   "title": "Minnesota Statutes chapter 152 (Drugs; Controlled Substances)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/152/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 76,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/152/full",
+     "sha256": "4801b803bc60d84a05d23a7647796137ff172d53b326049e49869b572d35f9ad"
+    }
+   ]
+  },
+  {
+   "slug": "ch-153",
+   "short": "Minn. Stat. ch. 153",
+   "title": "Minnesota Statutes chapter 153 (Podiatry)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/153/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 28,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/153/full",
+     "sha256": "9751e6784a5cd7fdda2345d563b5fc7b43dcfeea01ff7cc95a55794a30cc1de4"
+    }
+   ]
+  },
+  {
+   "slug": "ch-153a",
+   "short": "Minn. Stat. ch. 153A",
+   "title": "Minnesota Statutes chapter 153A (Hearing Instrument Dispensing)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/153A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 20,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/153A/full",
+     "sha256": "6c539a39aa156893eb7cf6b3759438a490ada6d79daba1384b2580ddbf36221c"
+    }
+   ]
+  },
+  {
+   "slug": "ch-153b",
+   "short": "Minn. Stat. ch. 153B",
+   "title": "Minnesota Statutes chapter 153B (Orthotics, Prosthetics, and Pedorthics)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/153B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 16,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/153B/full",
+     "sha256": "0fc32305587c243b485b4c3168e48bf5e13f4b1d77e801730fe0cd83eb4fc737"
+    }
+   ]
+  },
+  {
+   "slug": "ch-154",
+   "short": "Minn. Stat. ch. 154",
+   "title": "Minnesota Statutes chapter 154 (Barbers)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/154/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 52,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/154/full",
+     "sha256": "3adebd756a663d9b032b8324e16467cc44a47a185e533117d9fba6b31dd0ba66"
+    }
+   ]
+  },
+  {
+   "slug": "ch-155a",
+   "short": "Minn. Stat. ch. 155A",
+   "title": "Minnesota Statutes chapter 155A (Cosmetology)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/155A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 40,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/155A/full",
+     "sha256": "af9dfb211d41c15fdc34bca437b22702937f4b785df28536a36fb3f8dddee40f"
+    }
+   ]
+  },
+  {
+   "slug": "ch-156",
+   "short": "Minn. Stat. ch. 156",
+   "title": "Minnesota Statutes chapter 156 (Veterinarians)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/156/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 42,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/156/full",
+     "sha256": "83a47a8650716d80414611c7a13f1e0dbfffaf73a7d126be7972734d1a16ff06"
+    }
+   ]
+  },
+  {
+   "slug": "ch-157",
+   "short": "Minn. Stat. ch. 157",
+   "title": "Minnesota Statutes chapter 157 (Food, Beverage, and Lodging Establishments)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/157/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 30,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/157/full",
+     "sha256": "5bf317524cdb682716558a5153fbe1de84c305bf609fa87986e02d14fd3f5960"
+    }
+   ]
+  },
+  {
+   "slug": "ch-160",
+   "short": "Minn. Stat. ch. 160",
+   "title": "Minnesota Statutes chapter 160 (Roads, General Provisions)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/160/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 204,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/160/full",
+     "sha256": "ff5b2b58b548a49afa92cf063d4c3c080da410592e9f25f002874133b39b2084"
+    }
+   ]
+  },
+  {
+   "slug": "ch-161",
+   "short": "Minn. Stat. ch. 161",
+   "title": "Minnesota Statutes chapter 161 (Trunk Highways)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/161/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 157,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/161/full",
+     "sha256": "8a3d9ff5cc308dfea328ed2d641b446342fcb1b1ab3c878a55b7852575f4bc4f"
+    }
+   ]
+  },
+  {
+   "slug": "ch-162",
+   "short": "Minn. Stat. ch. 162",
+   "title": "Minnesota Statutes chapter 162 (State-Aid Road Systems)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/162/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 68,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/162/full",
+     "sha256": "f19a7bea5ad2dc062eafdb3adeaa461f4bf48bff3922cae881939b5860e8030a"
+    }
+   ]
+  },
+  {
+   "slug": "ch-163",
+   "short": "Minn. Stat. ch. 163",
+   "title": "Minnesota Statutes chapter 163 (County Highways)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/163/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 27,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/163/full",
+     "sha256": "2d493487b3b130ea55ff0f57983d38cb3d259f398caa588f866712802472abe4"
+    }
+   ]
+  },
+  {
+   "slug": "ch-164",
+   "short": "Minn. Stat. ch. 164",
+   "title": "Minnesota Statutes chapter 164 (Town Roads)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/164/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 39,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/164/full",
+     "sha256": "07bda2a97c7b2a5e49defb2ba6b2c6b2c1c978dac7e2c24023d563552b322881"
+    }
+   ]
+  },
+  {
+   "slug": "ch-165",
+   "short": "Minn. Stat. ch. 165",
+   "title": "Minnesota Statutes chapter 165 (Bridges)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/165/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 16,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/165/full",
+     "sha256": "9a14537b2818fc94ca29abe756761f2266df07e4bd7bdbe6b1fb606e0252c795"
+    }
+   ]
+  },
+  {
+   "slug": "ch-166",
+   "short": "Minn. Stat. ch. 166",
+   "title": "Minnesota Statutes chapter 166 (Ferries)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/166/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 15,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/166/full",
+     "sha256": "2de86206f8871e6b5ed44483fc605837071e1b921eccf65b07bdb77eef1b236e"
+    }
+   ]
+  },
+  {
+   "slug": "ch-167",
+   "short": "Minn. Stat. ch. 167",
+   "title": "Minnesota Statutes chapter 167 (Trunk Highway Bonds)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/167/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 47,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/167/full",
+     "sha256": "a190a76e6f3b58b3875d4e1cc0308bbeb060dbc69534873a281012acac7de9af"
+    }
+   ]
+  },
+  {
+   "slug": "ch-168",
+   "short": "Minn. Stat. ch. 168",
+   "title": "Minnesota Statutes chapter 168 (Vehicle Registration, Taxation, Sale)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/168/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 189,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/168/full",
+     "sha256": "5d783cdcd29c157b5ed7e3c14dc89a9468c03e44d79c25346a358cab5aee0349"
+    }
+   ]
+  },
+  {
+   "slug": "ch-168a",
+   "short": "Minn. Stat. ch. 168A",
+   "title": "Minnesota Statutes chapter 168A (Vehicle Titles)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/168A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 47,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/168A/full",
+     "sha256": "1a9e50fd65e2a0b4860a36ede678df388063775978fb99ac61a01d9f7b56407f"
+    }
+   ]
+  },
+  {
+   "slug": "ch-168b",
+   "short": "Minn. Stat. ch. 168B",
+   "title": "Minnesota Statutes chapter 168B (Abandoned Motor Vehicles; Towing)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/168B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 23,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/168B/full",
+     "sha256": "5d57e039f8ad8efc4aadc87dfb1471c310a0f2d6a6b5d71ee5e3386222828751"
+    }
+   ]
+  },
+  {
+   "slug": "ch-168c",
+   "short": "Minn. Stat. ch. 168C",
+   "title": "Minnesota Statutes chapter 168C (Bicycle Registration)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/168C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 12,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/168C/full",
+     "sha256": "5f9aa9a6d90ddf9e8f96584038cd5664658e40d2f0861f63dd8b3295fdd1758a"
+    }
+   ]
+  },
+  {
+   "slug": "ch-168d",
+   "short": "Minn. Stat. ch. 168D",
+   "title": "Minnesota Statutes chapter 168D (Motor Carrier Fuel Tax)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/168D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 18,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/168D/full",
+     "sha256": "dc2eea804a5c29f8058358b0b89ed83de2e990e74c6732ec894dde19e99fabd8"
+    }
+   ]
+  },
+  {
+   "slug": "ch-168e",
+   "short": "Minn. Stat. ch. 168E",
+   "title": "Minnesota Statutes chapter 168E (Retail Delivery Fee)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/168E/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 5,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/168E/full",
+     "sha256": "990f88aa7b2e8b440be6b29025aacf6e7b799dda08bb292dcc61f834270d1fb0"
+    }
+   ]
+  },
+  {
+   "slug": "ch-169",
+   "short": "Minn. Stat. ch. 169",
+   "title": "Minnesota Statutes chapter 169 (Traffic Regulations)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/169/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 263,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/169/full",
+     "sha256": "0c21f65ecc23ea6b1c731721d3edddb81630583a6863a8744e76e4af3c3f6d29"
+    }
+   ]
+  },
+  {
+   "slug": "ch-169a",
+   "short": "Minn. Stat. ch. 169A",
+   "title": "Minnesota Statutes chapter 169A (Driving While Impaired)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/169A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 48,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/169A/full",
+     "sha256": "00619e2498b1b093d47d110c4db2d791afcf140a78778af7a6a348fb944b5b3a"
+    }
+   ]
+  },
+  {
+   "slug": "ch-170",
+   "short": "Minn. Stat. ch. 170",
+   "title": "Minnesota Statutes chapter 170 (Traffic Accident Provisions)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/170/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 57,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/170/full",
+     "sha256": "e96c5d974dfbf097fb680ba266e0c8572e9ef2c7665090dd6add6153a5ed66a4"
+    }
+   ]
+  },
+  {
+   "slug": "ch-171",
+   "short": "Minn. Stat. ch. 171",
+   "title": "Minnesota Statutes chapter 171 (Drivers&#X27; Licenses and Training Schools)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/171/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 115,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/171/full",
+     "sha256": "905e2c4db15de0e6124d3730e2ea526163f4027d735264a70d463687e3a9114f"
+    }
+   ]
+  },
+  {
+   "slug": "ch-173",
+   "short": "Minn. Stat. ch. 173",
+   "title": "Minnesota Statutes chapter 173 (Signs and Billboards Along Highways)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/173/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 62,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/173/full",
+     "sha256": "0667621e9c4d43d16290198d19c3703471c30827bfe7d21dcfea25a241867247"
+    }
+   ]
+  },
+  {
+   "slug": "ch-174",
+   "short": "Minn. Stat. ch. 174",
+   "title": "Minnesota Statutes chapter 174 (Department of Transportation)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/174/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 87,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/174/full",
+     "sha256": "17cbc108904d65885514332d1678f3b2551ba90de0c8305adb8ec3069a99462e"
+    }
+   ]
+  },
+  {
+   "slug": "ch-175",
+   "short": "Minn. Stat. ch. 175",
+   "title": "Minnesota Statutes chapter 175 (Department of Labor and Industry)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/175/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 52,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/175/full",
+     "sha256": "55f7c2b74210da2afc6dcc8907908461d4b0c5d4eea5dfe7e9b2aab4e8a94b97"
+    }
+   ]
+  },
+  {
+   "slug": "ch-175a",
+   "short": "Minn. Stat. ch. 175A",
+   "title": "Minnesota Statutes chapter 175A (Workers&#X27; Compensation Court of Appeals)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/175A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 10,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/175A/full",
+     "sha256": "ee6cbbb6d6dc17de4b403dd27ddd62a7dacb6c31cba0c5fea04b5945f4cd2e0e"
+    }
+   ]
+  },
+  {
+   "slug": "ch-176",
+   "short": "Minn. Stat. ch. 176",
+   "title": "Minnesota Statutes chapter 176 (Workers&#X27; Compensation)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/176/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 258,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/176/full",
+     "sha256": "a58aa0b75223d1b491b55eda4d7fa0a01993ae09f3cdccc3af559800cf9dd8a6"
+    }
+   ]
+  },
+  {
+   "slug": "ch-177",
+   "short": "Minn. Stat. ch. 177",
+   "title": "Minnesota Statutes chapter 177 (Labor Standards and Wages)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/177/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 50,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/177/full",
+     "sha256": "84a23fe1afa0b64df5319cebbb17b3dff21d0ca39af92fac35754c69ea4e4e77"
+    }
+   ]
+  },
+  {
+   "slug": "ch-178",
+   "short": "Minn. Stat. ch. 178",
+   "title": "Minnesota Statutes chapter 178 (Apprentice Training)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/178/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 20,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/178/full",
+     "sha256": "5515eb5d9540070158d8b002323144851bf760d543742f8c4dc3d984890eb2be"
+    }
+   ]
+  },
+  {
+   "slug": "ch-179",
+   "short": "Minn. Stat. ch. 179",
+   "title": "Minnesota Statutes chapter 179 (Labor Relations)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/179/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 101,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/179/full",
+     "sha256": "7924f4b6e74aaa42cd9e33d39e1988928486af608c0a4a12027caaa4c8309923"
+    }
+   ]
+  },
+  {
+   "slug": "ch-179a",
+   "short": "Minn. Stat. ch. 179A",
+   "title": "Minnesota Statutes chapter 179A (Public Employment Labor Relations)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/179A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 43,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/179A/full",
+     "sha256": "9e353c3cd47c289535006a6249628176b422d18a791f48a5712ac8bf2d2f1360"
+    }
+   ]
+  },
+  {
+   "slug": "ch-180",
+   "short": "Minn. Stat. ch. 180",
+   "title": "Minnesota Statutes chapter 180 (Mine Inspectors)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/180/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 14,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/180/full",
+     "sha256": "b4ef675537c957ec8bd2626c92687ee838cba059c586bfdb0c8b80e6e1d9613c"
+    }
+   ]
+  },
+  {
+   "slug": "ch-181",
+   "short": "Minn. Stat. ch. 181",
+   "title": "Minnesota Statutes chapter 181 (Employment)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/181/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 186,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/181/full",
+     "sha256": "840492463e4a6809168a256339eb1ddfa1f6e560abf7edd6a5c8bde7477c671f"
+    }
+   ]
+  },
+  {
+   "slug": "ch-181a",
+   "short": "Minn. Stat. ch. 181A",
+   "title": "Minnesota Statutes chapter 181A (Child Labor)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/181A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 16,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/181A/full",
+     "sha256": "7e2037f1f60026dc12612b417c736aa90d19bcd4f75d651e7f158a5303b3df6a"
+    }
+   ]
+  },
+  {
+   "slug": "ch-181c",
+   "short": "Minn. Stat. ch. 181C",
+   "title": "Minnesota Statutes chapter 181C (Transportation Network Companies)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/181C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 10,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/181C/full",
+     "sha256": "b8175b5fb43513da0ca66796225bc34e5a822a99931d154c99e8b37568cb44a9"
+    }
+   ]
+  },
+  {
+   "slug": "ch-182",
+   "short": "Minn. Stat. ch. 182",
+   "title": "Minnesota Statutes chapter 182 (Occupational Safety and Health)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/182/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 107,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/182/full",
+     "sha256": "ee35dd37f99040d481b78f948e574df4a2ac6659761def258b5e54a1e6361f1d"
+    }
+   ]
+  },
+  {
+   "slug": "ch-182a",
+   "short": "Minn. Stat. ch. 182A",
+   "title": "Minnesota Statutes chapter 182A (Industrial Hygiene and Safety Profession)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/182A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 5,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/182A/full",
+     "sha256": "eba7b883c25ccaec880f439e7fd2fbf351d8a65f820e5ce10b5538a4b8d7e900"
+    }
+   ]
+  },
+  {
+   "slug": "ch-183",
+   "short": "Minn. Stat. ch. 183",
+   "title": "Minnesota Statutes chapter 183 (Boilers)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/183/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 69,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/183/full",
+     "sha256": "07b6a8b6c62adb0ef0d5e9d429b869483f3864ffb7b499468057109bdd486842"
+    }
+   ]
+  },
+  {
+   "slug": "ch-184",
+   "short": "Minn. Stat. ch. 184",
+   "title": "Minnesota Statutes chapter 184 (Employment Agencies)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/184/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 35,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/184/full",
+     "sha256": "07c993d24c45bdc622b7673b8d92ebed43725e9fc5f82025d3e5b0f47b93cf78"
+    }
+   ]
+  },
+  {
+   "slug": "ch-184b",
+   "short": "Minn. Stat. ch. 184B",
+   "title": "Minnesota Statutes chapter 184B (Amusement Rides)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/184B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 12,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/184B/full",
+     "sha256": "6b67c18e8c1c1b9ab6b2abf8419b749eb176617d5ca727ddda18a5c00c6c9a64"
+    }
+   ]
+  },
+  {
+   "slug": "ch-185",
+   "short": "Minn. Stat. ch. 185",
+   "title": "Minnesota Statutes chapter 185 (Labor Disputes; Injunctions, Restraining Orders)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/185/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 22,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/185/full",
+     "sha256": "464eaa111144c763fe3e38ae7354b832ac6bba27e4129ad67a6a5cc0da07aae8"
+    }
+   ]
+  },
+  {
+   "slug": "ch-187",
+   "short": "Minn. Stat. ch. 187",
+   "title": "Minnesota Statutes chapter 187 (Minnesota Secure Choice Retirement Program)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/187/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 12,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/187/full",
+     "sha256": "89c4e596c2af7c960da064d623691f5c9f70c91941b8fb353bf9b102c4b1be2f"
+    }
+   ]
+  },
+  {
+   "slug": "ch-190",
+   "short": "Minn. Stat. ch. 190",
+   "title": "Minnesota Statutes chapter 190 (Military Forces)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/190/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 32,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/190/full",
+     "sha256": "d73355d313dd9ecfaa85cfe4b531ba43cf00da359badcdaf1401f6f095c63667"
+    }
+   ]
+  },
+  {
+   "slug": "ch-191",
+   "short": "Minn. Stat. ch. 191",
+   "title": "Minnesota Statutes chapter 191 (Unorganized Militia)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/191/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 5,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/191/full",
+     "sha256": "f4ff648d02b8c484009f0794ac445943000ff3c38c6203cbc5f004c3def2d932"
+    }
+   ]
+  },
+  {
+   "slug": "ch-192",
+   "short": "Minn. Stat. ch. 192",
+   "title": "Minnesota Statutes chapter 192 (National Guard)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/192/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 111,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/192/full",
+     "sha256": "37d8f9cf6d1425b511613c8e38698c84890cf8c2b03686f9628fa75bd56b15a3"
+    }
+   ]
+  },
+  {
+   "slug": "ch-192a",
+   "short": "Minn. Stat. ch. 192A",
+   "title": "Minnesota Statutes chapter 192A (Uniform Code of Military Justice)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/192A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 155,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/192A/full",
+     "sha256": "bbd9125a0a54233b10a011b4e316050d846e580eb19c3d9e614f13b56337c151"
+    }
+   ]
+  },
+  {
+   "slug": "ch-193",
+   "short": "Minn. Stat. ch. 193",
+   "title": "Minnesota Statutes chapter 193 (Armories)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/193/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 42,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/193/full",
+     "sha256": "8afe551e53daecf97a3eb0cce0d6cac1c99d0dd6cf139b849e608e240e8f9ada"
+    }
+   ]
+  },
+  {
+   "slug": "ch-196",
+   "short": "Minn. Stat. ch. 196",
+   "title": "Minnesota Statutes chapter 196 (Department of Veterans Affairs)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/196/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 35,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/196/full",
+     "sha256": "25a58bea799f98cd9505fade4f5f39de7a3e23a2aa6b8f20d7713ae15f82363a"
+    }
+   ]
+  },
+  {
+   "slug": "ch-197",
+   "short": "Minn. Stat. ch. 197",
+   "title": "Minnesota Statutes chapter 197 (Veterans; Rewards, Privileges)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/197/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 147,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/197/full",
+     "sha256": "538e83dc142a82bc21779a4bd0d6da7236312a121504e2493282365623218b0a"
+    }
+   ]
+  },
+  {
+   "slug": "ch-198",
+   "short": "Minn. Stat. ch. 198",
+   "title": "Minnesota Statutes chapter 198 (Veterans Homes)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/198/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 55,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/198/full",
+     "sha256": "899c87468b16abd23ae7b93ec06f38bca8e9968348d98d85f586acaab6d9bf3c"
+    }
+   ]
+  },
+  {
+   "slug": "ch-200",
+   "short": "Minn. Stat. ch. 200",
+   "title": "Minnesota Statutes chapter 200 (General Provisions; Definitions)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/200/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 51,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/200/full",
+     "sha256": "9710f5c56b19f9478fccffb0ec17d3eabe371a7e72dc0e5a69cbc9537c92a381"
+    }
+   ]
+  },
+  {
+   "slug": "ch-201",
+   "short": "Minn. Stat. ch. 201",
+   "title": "Minnesota Statutes chapter 201 (Eligibility and Registration of Voters)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/201/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 69,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/201/full",
+     "sha256": "ad46c3420493503e00bc8eba7001512dae35c30ea607022225e7fea85ec0b848"
+    }
+   ]
+  },
+  {
+   "slug": "ch-202",
+   "short": "Minn. Stat. ch. 202",
+   "title": "Minnesota Statutes chapter 202 (Primary Elections, Nominations)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/202/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 47,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/202/full",
+     "sha256": "d596ae95c97be1632a15c7aa7d4b187bd93d425f71b625de1b600aef06ee10c6"
+    }
+   ]
+  },
+  {
+   "slug": "ch-202a",
+   "short": "Minn. Stat. ch. 202A",
+   "title": "Minnesota Statutes chapter 202A (Caucuses and Conventions)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/202A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 47,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/202A/full",
+     "sha256": "f960b4c0aadb45d6c94400586d019c008f7bec4303cb75e889bf4626dcd6e78d"
+    }
+   ]
+  },
+  {
+   "slug": "ch-203",
+   "short": "Minn. Stat. ch. 203",
+   "title": "Minnesota Statutes chapter 203 (Elections, General and Special)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/203/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 57,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/203/full",
+     "sha256": "300e50f56c56be0032e53c03de627da5cf3adf86c7e1a126ab4ae563fa03b3e3"
+    }
+   ]
+  },
+  {
+   "slug": "ch-203b",
+   "short": "Minn. Stat. ch. 203B",
+   "title": "Minnesota Statutes chapter 203B (Absentee and Early Voting)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/203B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 39,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/203B/full",
+     "sha256": "0f17a4c32eb4e2f51c370ca328450adddf8c60503a73d1d84665535b22c8dd62"
+    }
+   ]
+  },
+  {
+   "slug": "ch-204",
+   "short": "Minn. Stat. ch. 204",
+   "title": "Minnesota Statutes chapter 204 (Elections, Conduct of)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/204/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 35,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/204/full",
+     "sha256": "7d60cc938fc13e19fe2db1ebb27df36cbf0dd03bbe3ced1830694510fef2e15b"
+    }
+   ]
+  },
+  {
+   "slug": "ch-204b",
+   "short": "Minn. Stat. ch. 204B",
+   "title": "Minnesota Statutes chapter 204B (Election Administration; General Provisions)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/204B/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 62,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/204B/full",
+     "sha256": "53a315cffc863e0fc3cc43178184064d78d1ba344a43e7edb40079c316291d07"
+    }
+   ]
+  },
+  {
+   "slug": "ch-204c",
+   "short": "Minn. Stat. ch. 204C",
+   "title": "Minnesota Statutes chapter 204C (Election Day Activities)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/204C/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 43,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/204C/full",
+     "sha256": "3760acaba75ed74d638a24a3dba87f0b35bc5f0944e3baf7e238ac64967f601d"
+    }
+   ]
+  },
+  {
+   "slug": "ch-204d",
+   "short": "Minn. Stat. ch. 204D",
+   "title": "Minnesota Statutes chapter 204D (Particular Elections)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/204D/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 32,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/204D/full",
+     "sha256": "657d49ca1b28e5572b4de72c3a0dfa11fe672772ebaa0059c665504b541f5b28"
+    }
+   ]
+  },
+  {
+   "slug": "ch-205",
+   "short": "Minn. Stat. ch. 205",
+   "title": "Minnesota Statutes chapter 205 (Municipal Elections)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/205/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 93,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/205/full",
+     "sha256": "b8dcbbdde537832e975532b659186ce918b7a3c3f953359af6cc01ef66d04f49"
+    }
+   ]
+  },
+  {
+   "slug": "ch-205a",
+   "short": "Minn. Stat. ch. 205A",
+   "title": "Minnesota Statutes chapter 205A (School District Elections)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/205A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 15,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/205A/full",
+     "sha256": "3cf6f91a710665e934b761f93328081fef91aeab2008fc2e6b64a3a81d7598f1"
+    }
+   ]
+  },
+  {
+   "slug": "ch-206",
+   "short": "Minn. Stat. ch. 206",
+   "title": "Minnesota Statutes chapter 206 (Voting Systems)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/206/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 108,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/206/full",
+     "sha256": "e78f13d579707eefa291d16123ed4776f7c682a40e65ecfc73ebaa717841f24c"
+    }
+   ]
+  },
+  {
+   "slug": "ch-207",
+   "short": "Minn. Stat. ch. 207",
+   "title": "Minnesota Statutes chapter 207 (Absent and Disabled Voters)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/207/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 35,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/207/full",
+     "sha256": "c037915e6ca24ff57d4111c94cfe3a97b6bafa7e7f1f60268aa2ea10308081af"
+    }
+   ]
+  },
+  {
+   "slug": "ch-207a",
+   "short": "Minn. Stat. ch. 207A",
+   "title": "Minnesota Statutes chapter 207A (Presidential Nomination Primary)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/207A/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 15,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/207A/full",
+     "sha256": "22c8c8cad905b4be436a94f1d416299dba59881ef78218e571e2a5c1a377cd41"
+    }
+   ]
+  },
+  {
+   "slug": "ch-208",
+   "short": "Minn. Stat. ch. 208",
+   "title": "Minnesota Statutes chapter 208 (Presidential Electors)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/208/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 37,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/208/full",
+     "sha256": "87d05f07dbcbd05fb3156e350537f891e33f8894abc5281f06372162f051dfca"
+    }
+   ]
+  },
+  {
+   "slug": "ch-209",
+   "short": "Minn. Stat. ch. 209",
+   "title": "Minnesota Statutes chapter 209 (Election Contests)",
+   "url": "https://www.revisor.mn.gov/statutes/cite/209/full",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 26,
+     "source_url": "https://www.revisor.mn.gov/statutes/cite/209/full",
+     "sha256": "5d01fd204fb3e809c9cc11624d3a30345688956403ac5f5b2fce84b618bb0712"
+    }
+   ]
   }
  ]
 }
