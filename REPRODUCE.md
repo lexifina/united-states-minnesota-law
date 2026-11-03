@@ -435,12 +435,509 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ch-207a` | Minnesota Statutes chapter 207A (Presidential Nomination Primary) | 1 | 2026-11-03 to 2026-11-03 |
 | `ch-208` | Minnesota Statutes chapter 208 (Presidential Electors) | 1 | 2026-11-03 to 2026-11-03 |
 | `ch-209` | Minnesota Statutes chapter 209 (Election Contests) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-209a` | Minnesota Statutes chapter 209A (Election Contests - Presidential Elections) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-210` | Minnesota Statutes chapter 210 (Penal Provisions) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-211` | Minnesota Statutes chapter 211 (Fair Campaign Practices) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-211a` | Minnesota Statutes chapter 211A (Campaign Financial Reports) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-211b` | Minnesota Statutes chapter 211B (Fair Campaign Practices) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-211c` | Minnesota Statutes chapter 211C (Recall of Elected State Officials) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-214` | Minnesota Statutes chapter 214 (Examining and Licensing Boards) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-215` | Minnesota Statutes chapter 215 (Public Examiner) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-216` | Minnesota Statutes chapter 216 (Public Utilities Commission Proceedings) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-216a` | Minnesota Statutes chapter 216A (Public Utilities Regulators) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-216b` | Minnesota Statutes chapter 216B (Public Utilities) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-216c` | Minnesota Statutes chapter 216C (Energy Planning and Conservation) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-216d` | Minnesota Statutes chapter 216D (Excavation Notice System) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-216e` | Minnesota Statutes chapter 216E (Electric Power Facility Permits) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-216f` | Minnesota Statutes chapter 216F (Wind Energy Conversion Systems) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-216g` | Minnesota Statutes chapter 216G (Pipelines) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-216h` | Minnesota Statutes chapter 216H (Greenhouse Gas Emissions) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-216i` | Minnesota Statutes chapter 216I (Energy Infrastructure Permitting) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-218` | Minnesota Statutes chapter 218 (Common Carriers, Rail Transportation) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-219` | Minnesota Statutes chapter 219 (Railroad Safety and Employment) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-221` | Minnesota Statutes chapter 221 (Motor Carriers) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-222` | Minnesota Statutes chapter 222 (Railroad Commerce and Property) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-223` | Minnesota Statutes chapter 223 (Grain Buyers) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-227` | Minnesota Statutes chapter 227 (Crimes Involving Warehouse Receipts) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-228` | Minnesota Statutes chapter 228 (Crimes Involving Bills of Lading) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-230` | Minnesota Statutes chapter 230 (Public Warehouses, Elevators, Coal Sheds; Sites) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-231` | Minnesota Statutes chapter 231 (Warehouses) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-232` | Minnesota Statutes chapter 232 (Grain Storage) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-237` | Minnesota Statutes chapter 237 (Telecommunications) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-238` | Minnesota Statutes chapter 238 (Cable Communications) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-239` | Minnesota Statutes chapter 239 (Weights, Measures) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-240` | Minnesota Statutes chapter 240 (Pari-Mutuel Horse Racing) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-240a` | Minnesota Statutes chapter 240A (Amateur Sports Commission) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-241` | Minnesota Statutes chapter 241 (Corrections; Department; Facilities) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-242` | Minnesota Statutes chapter 242 (Corrections; Juveniles) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-243` | Minnesota Statutes chapter 243 (Corrections; Adults) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-244` | Minnesota Statutes chapter 244 (Criminal Sentences; Release) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-245` | Minnesota Statutes chapter 245 (Department of Human Services) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-245a` | Minnesota Statutes chapter 245A (Human Services Licensing) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-245b` | Minnesota Statutes chapter 245B (Services for Developmental Disabilities) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-245c` | Minnesota Statutes chapter 245C (Human Services Background Studies) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-245d` | Minnesota Statutes chapter 245D (Home and Community-Based Services Standards) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-245f` | Minnesota Statutes chapter 245F (Withdrawal Management Programs) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-245g` | Minnesota Statutes chapter 245G (Substance Use Disorder Licensed Treatment Facilities) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-245h` | Minnesota Statutes chapter 245H (Certified License-Exempt Child Care Centers) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-245i` | Minnesota Statutes chapter 245I (Mental Health Uniform Service Standards Act) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-246` | Minnesota Statutes chapter 246 (State-Operated Services) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-246b` | Minnesota Statutes chapter 246B (Sex Offender Program) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-246c` | Minnesota Statutes chapter 246C (Direct Care and Treatment) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-248` | Minnesota Statutes chapter 248 (Blind; Education, Rehabilitation) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-250` | Minnesota Statutes chapter 250 (Gillette Children&#X27;S Hospital Board) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-251` | Minnesota Statutes chapter 251 (Care of Tuberculous Persons) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-252` | Minnesota Statutes chapter 252 (Services for Persons with Developmental Disabilities) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-252a` | Minnesota Statutes chapter 252A (Developmental Disability Protection) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-253` | Minnesota Statutes chapter 253 (Hospitals for Persons with Mental Illness) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-253b` | Minnesota Statutes chapter 253B (Civil Commitment) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-253c` | Minnesota Statutes chapter 253C (Residential Treatment Program Reporting) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-253d` | Minnesota Statutes chapter 253D (Civil Commitment and Treatment of Sex Offenders) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-254a` | Minnesota Statutes chapter 254A (Treatment for Alcohol and Drug Abuse) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-254b` | Minnesota Statutes chapter 254B (Substance Use Disorder Treatment) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-256` | Minnesota Statutes chapter 256 (Human Services) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-256b` | Minnesota Statutes chapter 256B (Medical Assistance for Needy Persons) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-256c` | Minnesota Statutes chapter 256C (Persons with Disabilities) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-256d` | Minnesota Statutes chapter 256D (Economic Assistance and Food Support) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-256e` | Minnesota Statutes chapter 256E (Community Social Services) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-256f` | Minnesota Statutes chapter 256F (Family Services Collaborative) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-256g` | Minnesota Statutes chapter 256G (Unitary Residence and Financial Responsibility) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-256i` | Minnesota Statutes chapter 256I (Housing Support) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-256j` | Minnesota Statutes chapter 256J (Minnesota Family Investment Program) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-256k` | Minnesota Statutes chapter 256K (Services for Homeless Families and Youth) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-256l` | Minnesota Statutes chapter 256L (Minnesotacare) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-256m` | Minnesota Statutes chapter 256M (Vulnerable Children and Adults) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-256p` | Minnesota Statutes chapter 256P (Economic Assistance Program Eligibility and Verification) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-256q` | Minnesota Statutes chapter 256Q (Minnesota Able Plan) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-256r` | Minnesota Statutes chapter 256R (Nursing Facility Rates) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-256s` | Minnesota Statutes chapter 256S (Medical Assistance Elderly Waiver) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-257` | Minnesota Statutes chapter 257 (Children; Custody, Legitimacy) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-257b` | Minnesota Statutes chapter 257B (Standby Custodian; Designation; Guardian) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-257c` | Minnesota Statutes chapter 257C (De Facto Custodian and Interested Third Party) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-257d` | Minnesota Statutes chapter 257D (Guardianship of At-Risk Juveniles) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-257e` | Minnesota Statutes chapter 257E (Assisted Reproduction) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-259` | Minnesota Statutes chapter 259 (Change of Name, Adoption) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-259a` | Minnesota Statutes chapter 259A (Adoption Assistance) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-260` | Minnesota Statutes chapter 260 (Juvenile Court; Child Placement; Compacts) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-260a` | Minnesota Statutes chapter 260A (Truancy) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-260b` | Minnesota Statutes chapter 260B (Delinquency) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-260c` | Minnesota Statutes chapter 260C (Juvenile Safety and Placement) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-260d` | Minnesota Statutes chapter 260D (Child in Voluntary Foster Care for Treatment) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-260e` | Minnesota Statutes chapter 260E (Reporting of Maltreatment of Minors) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-261` | Minnesota Statutes chapter 261 (County and Local Social Services, Generally) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-263` | Minnesota Statutes chapter 263 (Town System) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-264` | Minnesota Statutes chapter 264 (St. Louis County) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-268` | Minnesota Statutes chapter 268 (Unemployment Insurance) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-268a` | Minnesota Statutes chapter 268A (Vocational Rehabilitation) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-268b` | Minnesota Statutes chapter 268B (Family and Medical Benefits) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-270` | Minnesota Statutes chapter 270 (Various Taxes and State Boards) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-270a` | Minnesota Statutes chapter 270A (Revenue Recapture) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-270b` | Minnesota Statutes chapter 270B (Tax Data, Classification and Disclosure) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-270c` | Minnesota Statutes chapter 270C (Department of Revenue) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-271` | Minnesota Statutes chapter 271 (Tax Court) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-272` | Minnesota Statutes chapter 272 (Taxation, General Provisions) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-273` | Minnesota Statutes chapter 273 (Taxes; Listing, Assessment) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-274` | Minnesota Statutes chapter 274 (Assessments; Review, Correction, Equalization) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-275` | Minnesota Statutes chapter 275 (Taxes; Levy, Extension) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-276` | Minnesota Statutes chapter 276 (Collection, Accounting, Distribution) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-276a` | Minnesota Statutes chapter 276A (Tax Relief Area Revenue Distribution) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-277` | Minnesota Statutes chapter 277 (Delinquent Personal Property Taxes) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-278` | Minnesota Statutes chapter 278 (Real or Personal Property Tax; Objection, Defense) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-279` | Minnesota Statutes chapter 279 (Delinquent Real Estate Taxes) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-280` | Minnesota Statutes chapter 280 (Real Estate Tax Judgment Sales) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-281` | Minnesota Statutes chapter 281 (Real Estate Tax Sales, Redemption) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-282` | Minnesota Statutes chapter 282 (Tax-Forfeited Land Sales) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-283` | Minnesota Statutes chapter 283 (Refund to Purchasers) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-284` | Minnesota Statutes chapter 284 (Actions Involving Tax Titles) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-287` | Minnesota Statutes chapter 287 (Mortgage Registry Tax; Deed Tax) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-289a` | Minnesota Statutes chapter 289A (Administration and Compliance) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-290` | Minnesota Statutes chapter 290 (Income and Franchise Taxes) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-290a` | Minnesota Statutes chapter 290A (Property Tax Refund) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-290b` | Minnesota Statutes chapter 290B (Senior Citizens&#X27; Property Tax Deferral) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-290c` | Minnesota Statutes chapter 290C (Sustainable Forest Resource Management Incentive) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-291` | Minnesota Statutes chapter 291 (Estate Tax) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-293` | Minnesota Statutes chapter 293 (Educational Institutions; Exempt Property, Income) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-295` | Minnesota Statutes chapter 295 (Gross Revenues and Gross Receipts Taxes) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-296a` | Minnesota Statutes chapter 296A (Tax on Petroleum and Other Fuels) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-297` | Minnesota Statutes chapter 297 (Sales Taxes; Cigarettes and Tobacco) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-297a` | Minnesota Statutes chapter 297A (General Sales and Use Taxes) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-297b` | Minnesota Statutes chapter 297B (Sales Tax on Motor Vehicles) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-297d` | Minnesota Statutes chapter 297D (Marijuana and Controlled Substance Taxation) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-297e` | Minnesota Statutes chapter 297E (Gambling Taxes) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-297f` | Minnesota Statutes chapter 297F (Cigarettes and Tobacco Taxes) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-297g` | Minnesota Statutes chapter 297G (Liquor Taxation) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-297h` | Minnesota Statutes chapter 297H (Solid Waste Management Taxes) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-297i` | Minnesota Statutes chapter 297I (Insurance Taxes) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-298` | Minnesota Statutes chapter 298 (Minerals Taxes) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-299a` | Minnesota Statutes chapter 299A (Department of Public Safety) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-299c` | Minnesota Statutes chapter 299C (Bureau of Criminal Apprehension) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-299d` | Minnesota Statutes chapter 299D (State Patrol) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-299e` | Minnesota Statutes chapter 299E (Capitol Complex Security) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-299f` | Minnesota Statutes chapter 299F (Fire Marshal) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-299j` | Minnesota Statutes chapter 299J (Pipeline Safety) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-299k` | Minnesota Statutes chapter 299K (Hazardous Chemical Emergency; Planning and Response) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-299l` | Minnesota Statutes chapter 299L (Gambling Enforcement) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-299m` | Minnesota Statutes chapter 299M (Fire Protection Industry Licensing) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-299n` | Minnesota Statutes chapter 299N (Firefighter Training and Education) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-300` | Minnesota Statutes chapter 300 (General Provisions) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-301` | Minnesota Statutes chapter 301 (Development Corporations) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-301b` | Minnesota Statutes chapter 301B (Public Service Corporations) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-302` | Minnesota Statutes chapter 302 (Stock Transfers) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-303` | Minnesota Statutes chapter 303 (Foreign Corporations) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-304a` | Minnesota Statutes chapter 304A (Minnesota Public Benefit Corporation Act) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-306` | Minnesota Statutes chapter 306 (Public Cemeteries) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-307` | Minnesota Statutes chapter 307 (Private Cemeteries) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-308` | Minnesota Statutes chapter 308 (Cooperative Associations) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-308a` | Minnesota Statutes chapter 308A (Cooperative Law) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-308b` | Minnesota Statutes chapter 308B (Cooperative Associations Act) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-308c` | Minnesota Statutes chapter 308C (Cooperative Housing Act) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-309` | Minnesota Statutes chapter 309 (Social and Charitable Organizations) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-315` | Minnesota Statutes chapter 315 (Religious Societies) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-316` | Minnesota Statutes chapter 316 (Corporations; Actions Respecting) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-317a` | Minnesota Statutes chapter 317A (Nonprofit Corporations) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-318` | Minnesota Statutes chapter 318 (Declaration of Trust) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-319b` | Minnesota Statutes chapter 319B (Professional Firms) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-321` | Minnesota Statutes chapter 321 (Uniform Limited Partnership Act 2001) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-322` | Minnesota Statutes chapter 322 (1919 Uniform Limited Partnership Act) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-322b` | Minnesota Statutes chapter 322B (Limited Liability Companies) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-322c` | Minnesota Statutes chapter 322C (Minnesota Revised Uniform Limited Liability Company) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-323a` | Minnesota Statutes chapter 323A (Uniform Partnership Act of 1994) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-324` | Minnesota Statutes chapter 324 (Art; Fine Prints) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-325` | Minnesota Statutes chapter 325 (Manufactures and Sales) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-325a` | Minnesota Statutes chapter 325A (Invention Services) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-325b` | Minnesota Statutes chapter 325B (Beer Brewers and Wholesalers) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-325c` | Minnesota Statutes chapter 325C (Uniform Trade Secrets Act) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-325d` | Minnesota Statutes chapter 325D (Restraint of Trade) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-325e` | Minnesota Statutes chapter 325E (Trade Practices) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-325f` | Minnesota Statutes chapter 325F (Consumer Protection; Products and Sales) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-325g` | Minnesota Statutes chapter 325G (Consumer Protection; Solicitation of Sales) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-325h` | Minnesota Statutes chapter 325H (Tanning Facilities) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-325i` | Minnesota Statutes chapter 325I (Videotape and Video Games) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-325j` | Minnesota Statutes chapter 325J (Pawnbrokers) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-325k` | Minnesota Statutes chapter 325K (Electronic Authentication) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-325l` | Minnesota Statutes chapter 325L (Uniform Electronic Transactions Act) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-325m` | Minnesota Statutes chapter 325M (Consumer Digital and Data Privacy) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-325n` | Minnesota Statutes chapter 325N (Mortgage Foreclosures) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-326` | Minnesota Statutes chapter 326 (Employments Licensed by State) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-326a` | Minnesota Statutes chapter 326A (Accountants) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-326b` | Minnesota Statutes chapter 326B (Construction Codes and Licensing) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-327` | Minnesota Statutes chapter 327 (Hotels, Motels, Resorts, and Manufactured Homes) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-327a` | Minnesota Statutes chapter 327A (Housing; Statutory Warranties) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-327b` | Minnesota Statutes chapter 327B (Manufactured Home Sales) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-327c` | Minnesota Statutes chapter 327C (Manufactured Home Parks) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-328` | Minnesota Statutes chapter 328 (Chain Stores, Mail Order Companies) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-329` | Minnesota Statutes chapter 329 (Peddlers, Transient Merchants) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-330` | Minnesota Statutes chapter 330 (Auctioneers) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-331` | Minnesota Statutes chapter 331 (Newspapers) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-331a` | Minnesota Statutes chapter 331A (Qualified Newspapers) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-332` | Minnesota Statutes chapter 332 (Collection, Credit Services) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-332a` | Minnesota Statutes chapter 332A (Debt Management Services) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-332b` | Minnesota Statutes chapter 332B (Debt Settlement Services) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-332c` | Minnesota Statutes chapter 332C (Medical Debt) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-333` | Minnesota Statutes chapter 333 (Assumed Names, Insignia, and Marks) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-334` | Minnesota Statutes chapter 334 (Money, Rates of Interest) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-336` | Minnesota Statutes chapter 336 (Uniform Commercial Code) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-336a` | Minnesota Statutes chapter 336A (Farm Product Liens and Financing Statements) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-336b` | Minnesota Statutes chapter 336B (Financing Statements of Utilities and Certain Mining Companies) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-337` | Minnesota Statutes chapter 337 (Building and Construction Contracts) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-338` | Minnesota Statutes chapter 338 (Employment Contracts) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-340` | Minnesota Statutes chapter 340 (Intoxicating Liquors) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-340a` | Minnesota Statutes chapter 340A (Liquor) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-341` | Minnesota Statutes chapter 341 (Combative Sports) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-342` | Minnesota Statutes chapter 342 (Cannabis) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-343` | Minnesota Statutes chapter 343 (Prevention of Cruelty to Animals) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-344` | Minnesota Statutes chapter 344 (Partition Fences) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-345` | Minnesota Statutes chapter 345 (Unclaimed Property) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-346` | Minnesota Statutes chapter 346 (Animals) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-347` | Minnesota Statutes chapter 347 (Dogs and Cats) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-348` | Minnesota Statutes chapter 348 (Bounties, Rewards) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-349` | Minnesota Statutes chapter 349 (Lawful Gambling and Gambling Devices) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-349a` | Minnesota Statutes chapter 349A (State Lottery) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-350` | Minnesota Statutes chapter 350 (State Officers and Employees, Salaries) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-351` | Minnesota Statutes chapter 351 (Resignations, Vacancies, Removals) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-352` | Minnesota Statutes chapter 352 (State Retirement) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-352b` | Minnesota Statutes chapter 352B (State Patrol Retirement Fund) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-352d` | Minnesota Statutes chapter 352D (State Unclassified Employees Retirement) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-352f` | Minnesota Statutes chapter 352F (University Hospital Employee Retirement) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-353` | Minnesota Statutes chapter 353 (Public Employees Retirement Association) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-353d` | Minnesota Statutes chapter 353D (Public Employees Defined Contribution Plan) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-353e` | Minnesota Statutes chapter 353E (Local Government Correctional Service Retirement) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-353f` | Minnesota Statutes chapter 353F (Privatized Government Subdivision, Pera Pension Benefits) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-353g` | Minnesota Statutes chapter 353G (Volunteer Firefighters; Retirement) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-353h` | Minnesota Statutes chapter 353H (Probation and Telecommunicator Retirement) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-354` | Minnesota Statutes chapter 354 (Teachers Retirement) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-354a` | Minnesota Statutes chapter 354A (Teachers Retirement, St. Paul) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-354b` | Minnesota Statutes chapter 354B (Higher Education Individual Retirement Accounts) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-354c` | Minnesota Statutes chapter 354C (Higher Education Supplemental Retirement) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-354d` | Minnesota Statutes chapter 354D (Retirement Election, Arts Board, Humanities Center, Historical Society) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-355` | Minnesota Statutes chapter 355 (Public Employee Social Security Coverage) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-356` | Minnesota Statutes chapter 356 (Retirement Systems, Generally) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-356a` | Minnesota Statutes chapter 356A (Public Pension Fiduciary Responsibility) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-356b` | Minnesota Statutes chapter 356B (Public Pension Administration) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-357` | Minnesota Statutes chapter 357 (Fees) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-358` | Minnesota Statutes chapter 358 (Seals, Oaths, Acknowledgments) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-359` | Minnesota Statutes chapter 359 (Notaries Public) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-360` | Minnesota Statutes chapter 360 (Airports and Aeronautics) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-361` | Minnesota Statutes chapter 361 (Waters and Watercraft Safety) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-362a` | Minnesota Statutes chapter 362A (Rural Development Finance Authority) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-363` | Minnesota Statutes chapter 363 (Department of Human Rights) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-363a` | Minnesota Statutes chapter 363A (Human Rights) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-364` | Minnesota Statutes chapter 364 (Criminal Offenders; Rehabilitation) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-365` | Minnesota Statutes chapter 365 (Town General Law) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-365a` | Minnesota Statutes chapter 365A (Subordinate Service Districts) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-366` | Minnesota Statutes chapter 366 (Town Board; Powers) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-367` | Minnesota Statutes chapter 367 (Town Officers; Optional Plans) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-368` | Minnesota Statutes chapter 368 (Towns; Special Provisions) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-370` | Minnesota Statutes chapter 370 (Counties; Change of Boundaries) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-371` | Minnesota Statutes chapter 371 (Consolidation of Counties) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-372` | Minnesota Statutes chapter 372 (Changing County Seats) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-373` | Minnesota Statutes chapter 373 (Counties; Powers, Duties, Privileges) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-374` | Minnesota Statutes chapter 374 (Courthouse and City Hall) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-375` | Minnesota Statutes chapter 375 (County Boards) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-375a` | Minnesota Statutes chapter 375A (Optional Forms of County Government) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-375b` | Minnesota Statutes chapter 375B (County Subordinate Service Districts) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-376` | Minnesota Statutes chapter 376 (County Hospitals and Nursing Homes) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-378` | Minnesota Statutes chapter 378 (Bodies of Water) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-379` | Minnesota Statutes chapter 379 (Organization, Formation, and Partition of Towns) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-380` | Minnesota Statutes chapter 380 (County Boards of Certain Counties) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-381` | Minnesota Statutes chapter 381 (Surveys, Section Corners, Township Landmarks) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-382` | Minnesota Statutes chapter 382 (County Officers) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-383` | Minnesota Statutes chapter 383 (Counties Over 150,000) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-383a` | Minnesota Statutes chapter 383A (Ramsey County) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-383b` | Minnesota Statutes chapter 383B (Hennepin County) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-383c` | Minnesota Statutes chapter 383C (St. Louis County) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-383d` | Minnesota Statutes chapter 383D (Dakota County) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-383e` | Minnesota Statutes chapter 383E (Anoka County) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-384` | Minnesota Statutes chapter 384 (County Auditor) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-385` | Minnesota Statutes chapter 385 (County Treasurer) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-386` | Minnesota Statutes chapter 386 (County Recorder; Abstracter) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-387` | Minnesota Statutes chapter 387 (Sheriff) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-388` | Minnesota Statutes chapter 388 (County Attorney) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-389` | Minnesota Statutes chapter 389 (County Surveyor) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-390` | Minnesota Statutes chapter 390 (Coroner; Medical Examiner) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-393` | Minnesota Statutes chapter 393 (Local Social Services Agency) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-394` | Minnesota Statutes chapter 394 (Planning, Development, Zoning) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-395` | Minnesota Statutes chapter 395 (Agricultural Assistance, Development) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-398` | Minnesota Statutes chapter 398 (Park Systems) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-398a` | Minnesota Statutes chapter 398A (Regional Railroad Authorities) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-400` | Minnesota Statutes chapter 400 (Solid Waste Management) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-401` | Minnesota Statutes chapter 401 (Community Corrections) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-402` | Minnesota Statutes chapter 402 (County Human Services Boards) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-402a` | Minnesota Statutes chapter 402A (Essential Human Services; County Delivery) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-403` | Minnesota Statutes chapter 403 (911 Emergency and Public Safety Communications) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-410` | Minnesota Statutes chapter 410 (Classification; Charters) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-412` | Minnesota Statutes chapter 412 (Statutory Cities) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-413` | Minnesota Statutes chapter 413 (Change of City Name) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-414` | Minnesota Statutes chapter 414 (Municipal Boundary Adjustments) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-415` | Minnesota Statutes chapter 415 (Various Municipal Powers) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-416` | Minnesota Statutes chapter 416 (Public Buildings) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-419` | Minnesota Statutes chapter 419 (Police Civil Service Commissions) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-420` | Minnesota Statutes chapter 420 (Firefighters&#X27; Civil Service Commissions) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-422` | Minnesota Statutes chapter 422 (Retirement Allowances, Cities First Class) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-422a` | Minnesota Statutes chapter 422A (Retirement Allowances, Minneapolis) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-423` | Minnesota Statutes chapter 423 (Retirement; Police Officer, Firefighter) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-423a` | Minnesota Statutes chapter 423A (Police and Firefighter Retirement State Aid) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-423b` | Minnesota Statutes chapter 423B (Minneapolis Police Pensions) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-423c` | Minnesota Statutes chapter 423C (Minneapolis Firefighters Relief Association) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-424a` | Minnesota Statutes chapter 424A (Volunteer Firefighters Retirement) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-424b` | Minnesota Statutes chapter 424B (Volunteer Firefighters, Consolidation, Dissolution, Conversion) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-426` | Minnesota Statutes chapter 426 (Finance, Taxation) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-427` | Minnesota Statutes chapter 427 (Depositories, City and Statutory City Funds) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-428` | Minnesota Statutes chapter 428 (Public Improvements, Certain Cities) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-428a` | Minnesota Statutes chapter 428A (Special Service Districts; Housing Improvement Areas) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-428b` | Minnesota Statutes chapter 428B (Tourism Improvement Districts) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-429` | Minnesota Statutes chapter 429 (Local Improvements, Special Assessments) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-430` | Minnesota Statutes chapter 430 (Land for Streets and Parks) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-435` | Minnesota Statutes chapter 435 (Public Improvements, Other Proceedings) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-436` | Minnesota Statutes chapter 436 (Law Enforcement Agreements) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-437` | Minnesota Statutes chapter 437 (Regulating Transient Merchants or Amusements) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-438` | Minnesota Statutes chapter 438 (Fire Prevention) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-440` | Minnesota Statutes chapter 440 (Acquisition of Property for Streets) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-441` | Minnesota Statutes chapter 441 (Bridges) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-442a` | Minnesota Statutes chapter 442A (Sanitary Districts) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-443` | Minnesota Statutes chapter 443 (Rubbish Removal) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-444` | Minnesota Statutes chapter 444 (Waterworks; Storm, Sanitary Sewer Systems) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-446` | Minnesota Statutes chapter 446 (Public Works, Other Provisions) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-446a` | Minnesota Statutes chapter 446A (Public Facilities Authority) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-447` | Minnesota Statutes chapter 447 (Hospitals, Welfare Activities) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-448` | Minnesota Statutes chapter 448 (Parks, Parkways and Playgrounds) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-449` | Minnesota Statutes chapter 449 (Entertainment Taxes or Levies) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-450` | Minnesota Statutes chapter 450 (Art or Recreational Facility) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-451` | Minnesota Statutes chapter 451 (Utility Franchises, Permits, Rights) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-452` | Minnesota Statutes chapter 452 (Municipal Ownership of Utilities) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-453` | Minnesota Statutes chapter 453 (Municipal Electric Power) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-453a` | Minnesota Statutes chapter 453A (Municipal Gas Distribution) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-455` | Minnesota Statutes chapter 455 (Electric Light and Power Plants) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-456` | Minnesota Statutes chapter 456 (Water from First Class or Charter Cities) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-457a` | Minnesota Statutes chapter 457A (Port Development Assistance) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-458` | Minnesota Statutes chapter 458 (Water Transportation Facilities) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-458a` | Minnesota Statutes chapter 458A (Local Transit Commissions) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-458d` | Minnesota Statutes chapter 458D (Western Lake Superior Sanitary District) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-459` | Minnesota Statutes chapter 459 (Municipal Activities) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-461` | Minnesota Statutes chapter 461 (Regulating Sales of Tobacco; Tobacco-Related and Electronic Delivery Devices; and Nicotine and Lobelia Products) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-462` | Minnesota Statutes chapter 462 (Planning, Zoning) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-462a` | Minnesota Statutes chapter 462A (Housing Finance Agency) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-462b` | Minnesota Statutes chapter 462B (Experimental City Authority) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-462c` | Minnesota Statutes chapter 462C (Municipal Housing) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-462d` | Minnesota Statutes chapter 462D (First-Time Home Buyer Savings Account Act) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-463` | Minnesota Statutes chapter 463 (Line Easements; Hazardous or Substandard Buildings) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-465` | Minnesota Statutes chapter 465 (Rights, Powers and Duties; Municipalities) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-466` | Minnesota Statutes chapter 466 (Tort Liability, Political Subdivisions) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-466a` | Minnesota Statutes chapter 466A (Community Resources Program) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-469` | Minnesota Statutes chapter 469 (Economic Development) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-471` | Minnesota Statutes chapter 471 (Municipal Rights, Powers, Duties) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-473` | Minnesota Statutes chapter 473 (Metropolitan Government) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-473f` | Minnesota Statutes chapter 473F (Metropolitan Revenue Distribution) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-473h` | Minnesota Statutes chapter 473H (Metropolitan Agricultural Preserves) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-473j` | Minnesota Statutes chapter 473J (Minnesota Sports Facilities Authority) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-474a` | Minnesota Statutes chapter 474A (Minnesota Bond Allocation Act) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-475` | Minnesota Statutes chapter 475 (Municipal Debt) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-475a` | Minnesota Statutes chapter 475A (Municipal Debt Service Aid) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-477a` | Minnesota Statutes chapter 477A (Local Government Aid) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-477b` | Minnesota Statutes chapter 477B (Fire State Aid) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-477c` | Minnesota Statutes chapter 477C (Police State Aid) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-480` | Minnesota Statutes chapter 480 (Supreme Court) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-480a` | Minnesota Statutes chapter 480A (Court of Appeals) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-480b` | Minnesota Statutes chapter 480B (Judicial Merit Selection) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-481` | Minnesota Statutes chapter 481 (Attorneys-At-Law) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-482` | Minnesota Statutes chapter 482 (Revisor of Statutes) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-484` | Minnesota Statutes chapter 484 (District Courts) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-485` | Minnesota Statutes chapter 485 (District Court Administrators) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-486` | Minnesota Statutes chapter 486 (Court Reporters) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-487` | Minnesota Statutes chapter 487 (County Courts) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-488` | Minnesota Statutes chapter 488 (Municipal Courts) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-488a` | Minnesota Statutes chapter 488A (Municipal Courts; Hennepin and Ramsey Counties) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-489` | Minnesota Statutes chapter 489 (Court Commissioners) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-490` | Minnesota Statutes chapter 490 (Judges Retirement) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-490a` | Minnesota Statutes chapter 490A (Board on Judicial Standards) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-491a` | Minnesota Statutes chapter 491A (Conciliation Court) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-494` | Minnesota Statutes chapter 494 (Community Dispute Resolution) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-500` | Minnesota Statutes chapter 500 (Estates in Real Property) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-501a` | Minnesota Statutes chapter 501A (Statutory Rule Against Perpetuities) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-501b` | Minnesota Statutes chapter 501B (Charitable Trusts) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-501c` | Minnesota Statutes chapter 501C (Trusts) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-502` | Minnesota Statutes chapter 502 (Powers of Appointment) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-503` | Minnesota Statutes chapter 503 (Official Trustees for Conveying Townsite Lands) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-504` | Minnesota Statutes chapter 504 (Landlords and Tenants) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-504b` | Minnesota Statutes chapter 504B (Landlord and Tenant) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-505` | Minnesota Statutes chapter 505 (Plats; Coordinates; Surveys) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-508` | Minnesota Statutes chapter 508 (Registration of Land) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-508a` | Minnesota Statutes chapter 508A (Registration of Land Without Court Proceedings) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-510` | Minnesota Statutes chapter 510 (Homestead Exemption) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-513` | Minnesota Statutes chapter 513 (Agreements Relating to Property) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-514` | Minnesota Statutes chapter 514 (Liens Against Property) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-515` | Minnesota Statutes chapter 515 (Minnesota Condominium Act) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-515a` | Minnesota Statutes chapter 515A (Uniform Condominium Act) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-515b` | Minnesota Statutes chapter 515B (Minnesota Common Interest Ownership Act) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-517` | Minnesota Statutes chapter 517 (Civil Marriage) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-518` | Minnesota Statutes chapter 518 (Marriage Dissolution) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-518a` | Minnesota Statutes chapter 518A (Child Support) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-518b` | Minnesota Statutes chapter 518B (Domestic Abuse) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-518c` | Minnesota Statutes chapter 518C (Uniform Interstate Family Support Act) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-518d` | Minnesota Statutes chapter 518D (Uniform Child Custody Jurisdiction and Enforcement Act) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-518e` | Minnesota Statutes chapter 518E (Uniform Deployed Parents Custody and Visitation Act) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-518f` | Minnesota Statutes chapter 518F (Uniform Recognition and Enforcement of Canadian Orders for Protection Act) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-519` | Minnesota Statutes chapter 519 (Married Persons; Rights, Privileges) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-519a` | Minnesota Statutes chapter 519A (Uniform Disposition of Community Property Rights at Death Act) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-520` | Minnesota Statutes chapter 520 (Fiduciaries; Uniform Acts) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-521a` | Minnesota Statutes chapter 521A (Uniform Fiduciary Access to Digital Assets Act) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-523` | Minnesota Statutes chapter 523 (Powers of Attorney) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-524` | Minnesota Statutes chapter 524 (Uniform Probate Code) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-525` | Minnesota Statutes chapter 525 (Probate Proceedings) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-525a` | Minnesota Statutes chapter 525A (Anatomical Gifts) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-527` | Minnesota Statutes chapter 527 (Uniform Transfers to Minors Act) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-528` | Minnesota Statutes chapter 528 (Multiparty Accounts) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-529` | Minnesota Statutes chapter 529 (Uniform Custodial Trust Act) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-533` | Minnesota Statutes chapter 533 (Uniform Electronic Estate Planning Documents Act) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-540` | Minnesota Statutes chapter 540 (Parties to Actions) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-541` | Minnesota Statutes chapter 541 (Limitation of Time, Commencing Actions) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-542` | Minnesota Statutes chapter 542 (Venue of Actions) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-543` | Minnesota Statutes chapter 543 (Summons, Jurisdiction; Certain Cases) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-544` | Minnesota Statutes chapter 544 (Pleadings) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-545` | Minnesota Statutes chapter 545 (Judicial Review; Financing Statement under Uniform Commercial Code - Secured Transactions) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-546` | Minnesota Statutes chapter 546 (Trials) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-548` | Minnesota Statutes chapter 548 (Judgments) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-549` | Minnesota Statutes chapter 549 (Costs, Disbursements) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-550` | Minnesota Statutes chapter 550 (Executions, Redemption, Exemptions) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-551` | Minnesota Statutes chapter 551 (Attorney&#X27;S Summary Executions) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-552` | Minnesota Statutes chapter 552 (Support Judgment Debts; Summary Execution) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-553` | Minnesota Statutes chapter 553 (Abolition of Various Civil Actions) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-554` | Minnesota Statutes chapter 554 (Free Speech; Participation in Government) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-555` | Minnesota Statutes chapter 555 (Uniform Declaratory Judgments Act) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-556` | Minnesota Statutes chapter 556 (Usurpation of Office and Corporation; Letters Patent) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-557` | Minnesota Statutes chapter 557 (Actions Relating to Real Property) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-558` | Minnesota Statutes chapter 558 (Partition of Real Property) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-558a` | Minnesota Statutes chapter 558A (Minnesota Partition Act) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-559` | Minnesota Statutes chapter 559 (Adverse Claims to Real Property) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-559a` | Minnesota Statutes chapter 559A (Contracts for Deed; Investor Sellers and Residential Real Property) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-560` | Minnesota Statutes chapter 560 (Actions Involving Mineral Land) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-561` | Minnesota Statutes chapter 561 (Nuisance, Trespass, Waste; Liability) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-562` | Minnesota Statutes chapter 562 (Public Body, Civil Actions, Surety Bonds Required) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-563` | Minnesota Statutes chapter 563 (Proceeding in Forma Pauperis) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-565` | Minnesota Statutes chapter 565 (Claim; Possession of Personal Property) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-570` | Minnesota Statutes chapter 570 (Attachment) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-571` | Minnesota Statutes chapter 571 (Garnishment) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-572` | Minnesota Statutes chapter 572 (Arbitration; Mediation) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-572a` | Minnesota Statutes chapter 572A (Land Use Planning Dispute Resolution) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-572b` | Minnesota Statutes chapter 572B (Uniform Arbitration Act) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-573` | Minnesota Statutes chapter 573 (Personal Representatives, Heirs; Actions) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-574` | Minnesota Statutes chapter 574 (Bonds, Fines, Forfeitures) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-575` | Minnesota Statutes chapter 575 (Proceedings Supplementary to Execution) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-576` | Minnesota Statutes chapter 576 (Receivership) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-577` | Minnesota Statutes chapter 577 (Assignments for Benefit of Creditors) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-578` | Minnesota Statutes chapter 578 (Receivership; Absentees) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-579` | Minnesota Statutes chapter 579 (Boats, Vessels; Actions Against) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-580` | Minnesota Statutes chapter 580 (Mortgages; Foreclosure by Advertisement) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-581` | Minnesota Statutes chapter 581 (Mortgages; Foreclosure by Action) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-582` | Minnesota Statutes chapter 582 (Mortgages; Foreclosure, General Provisions) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-583` | Minnesota Statutes chapter 583 (Farmer-Lender Mediation) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-586` | Minnesota Statutes chapter 586 (Mandamus) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-588` | Minnesota Statutes chapter 588 (Contempts of Court) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-589` | Minnesota Statutes chapter 589 (Habeas Corpus) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-590` | Minnesota Statutes chapter 590 (Postconviction Relief) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-593` | Minnesota Statutes chapter 593 (Juries, Jurors) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-595` | Minnesota Statutes chapter 595 (Witnesses) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-599` | Minnesota Statutes chapter 599 (Judicial Notice) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-600` | Minnesota Statutes chapter 600 (Documents As Evidence) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-601` | Minnesota Statutes chapter 601 (Lost Instruments) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-602` | Minnesota Statutes chapter 602 (Competent Evidence) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-603` | Minnesota Statutes chapter 603 (Procuring Evidence; Inspection) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-604` | Minnesota Statutes chapter 604 (Civil Liability) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-604a` | Minnesota Statutes chapter 604A (Civil Liability Limitations) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-604b` | Minnesota Statutes chapter 604B (Immunity for Year 2000 Activities) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-606` | Minnesota Statutes chapter 606 (Writ of Certiorari) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-607` | Minnesota Statutes chapter 607 (Supreme Court; Costs and Disbursements) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-609a` | Minnesota Statutes chapter 609A (Expungement) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-609b` | Minnesota Statutes chapter 609B (Collateral Sanctions) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-611` | Minnesota Statutes chapter 611 (Rights of Accused) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-611a` | Minnesota Statutes chapter 611A (Crime Victims: Rights, Programs, Agencies) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-617` | Minnesota Statutes chapter 617 (Abortion; Obscenity; Nuisance) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-619` | Minnesota Statutes chapter 619 (Crimes Against the Person) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-624` | Minnesota Statutes chapter 624 (Crimes; Fireworks; Firearms) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-625` | Minnesota Statutes chapter 625 (Preservation of Public Peace) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-626` | Minnesota Statutes chapter 626 (Peace Officers; Searches; Pursuit; Mandatory Reporting) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-626a` | Minnesota Statutes chapter 626A (Wire, Electronic, or Oral Communications; Interception) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-627` | Minnesota Statutes chapter 627 (Venue) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-628` | Minnesota Statutes chapter 628 (Accusation; Charging Instruments) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-629` | Minnesota Statutes chapter 629 (Extradition, Detainers, Arrest, Bail) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-630` | Minnesota Statutes chapter 630 (Pretrial Procedure) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-631` | Minnesota Statutes chapter 631 (Criminal Trial; Conviction; Sentence) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-632` | Minnesota Statutes chapter 632 (Appeal; First-Degree Murder) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-634` | Minnesota Statutes chapter 634 (Evidence; Witnesses) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-636` | Minnesota Statutes chapter 636 (Care of Juvenile Offenders) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-638` | Minnesota Statutes chapter 638 (Board of Pardons; Clemency Review Commission) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-641` | Minnesota Statutes chapter 641 (County and Regional Jails) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-642` | Minnesota Statutes chapter 642 (Lockups) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-643` | Minnesota Statutes chapter 643 (Workhouse; Work Farm) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-645` | Minnesota Statutes chapter 645 (Interpretation of Statutes and Rules) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-646` | Minnesota Statutes chapter 646 (Express Repeals by Revised Laws 1905) | 1 | 2026-11-03 to 2026-11-03 |
+| `ch-648` | Minnesota Statutes chapter 648 (Minnesota Statutes; Publication) | 1 | 2026-11-03 to 2026-11-03 |
 
-The build made 419 commits:
+The build made 916 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 419 | first version of an act |
+| 916 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -448,7 +945,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 419 tags.
+- 916 tags.
 
 ## Dates
 
@@ -460,7 +957,7 @@ When a law gives no date of its own, the default rule applies: Oldest version av
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `be06b9535a16b133952690cd1069d6465764409dc53998195b7b1e10ef5a8eea` (41180036 bytes).
+- Corpus: sha256 `812371737e6c0bcd8f68fe3fcbc4280ec198b208eaf3506781269ae2eb7cb729` (81654921 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
