@@ -4,6 +4,16 @@
   "name": "Minnesota",
   "level": "state",
   "repo": "https://github.com/lexifina/united-states-minnesota-law",
-  "build": "first build: Constitution of the State of Minnesota and Minnesota Statutes chapters 609 (Criminal Code), 302A (Business Corporations) and 507 (Conveyances); one version each, oldest version available",
-  "register_date": "2026-10-30"
+  "build": "partial",
+  "register_date": "2026-10-30",
+  "text_as_of": {
+    "initial_chapters": "2026-10-30",
+    "other_chapters": "2026-11-03",
+    "constitution_capture": "2026-10-30",
+    "constitution_electronic_publication": "2025-01-09"
+  },
+  "date_coverage": {
+    "supported": 450,
+    "held": 358
+  }
 }

@@ -1,0 +1,83 @@
+{
+  "repository": "https://github.com/lexifina/world-law-ops",
+  "approved_main_sha": "3d49b9e76aee06d9eaf4746ba9b43d8890a6cd25",
+  "branch": "main",
+  "transform": "CRLF to LF; remove exact docs_files private-block pattern",
+  "files": {
+    "tools/SCHEMA.md": {
+      "source": "gitlaw_common/SCHEMA.md",
+      "source_git_blob": "c0c899b95b60fc076539ca6f06b4da28d8da646d",
+      "shipped_sha256": "b185e6afab2118373a95ad46b37242a803f4312d780a03ae65b62a53200f19b4"
+    },
+    "tools/append.py": {
+      "source": "gitlaw_common/append.py",
+      "source_git_blob": "d851381e4778d2b1eab9543ac80b7215fbe8957c",
+      "shipped_sha256": "413abdefddb33a6e5c9bffde14dda38d89da594d46b581785f1679a8eb626481"
+    },
+    "tools/build.py": {
+      "source": "gitlaw_common/build.py",
+      "source_git_blob": "63170edd89e92292ac248dae17d79e486e4e9f19",
+      "shipped_sha256": "5e4af6d9963ddca3223b662334e01894613b3c89762e33866489c93845525020"
+    },
+    "tools/check_repo.py": {
+      "source": "gitlaw_common/check.py",
+      "source_git_blob": "e340718c28cd5b0edbe37bdeab1aac31427ada66",
+      "shipped_sha256": "2c994c5ed161f8f1f3b769f5d813ca8fc1e57c9f346cce7d47ba0e56d0253cc5"
+    },
+    "tools/on.py": {
+      "source": "gitlaw_common/on.py",
+      "source_git_blob": "4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c",
+      "shipped_sha256": "fb1c3229d2dedc84eba2170c8853f9b19cc36405dda9c893b22d156bf21efa6e"
+    },
+    "tools/publish_marker.py": {
+      "source": "gitlaw_common/publish_marker.py",
+      "source_git_blob": "0b6356007d7c1367b5b9135253788a60caec3354",
+      "shipped_sha256": "fa7a326f658db079932406fbfb7e285614785422db6543586e94b1b96f3a0824"
+    },
+    "tools/published_parts.py": {
+      "source": "gitlaw_common/published_parts.py",
+      "source_git_blob": "65ef0299566cb209d9e5e3caa251cf6f743c3e4d",
+      "shipped_sha256": "bc5d4544bc5c1693f44433d5ad359a98440d470f017f6b2c9bd0c0bb0bdf4ca0"
+    },
+    "tools/REPRODUCE.template.md": {
+      "source": "gitlaw_common/REPRODUCE.template.md",
+      "source_git_blob": "2aefa31733346a960995610ad8745d04c9e41cd7",
+      "shipped_sha256": "a88b57a729695fa25215c7848b779f9a916369ad7765c6e49b41037dce447965"
+    },
+    "tools/corpus_standard.py": {
+      "source": "gitlaw_common/corpus_standard.py",
+      "source_git_blob": "cd020dfb6cd6cad8b6e02c07bf71047199c42421",
+      "shipped_sha256": "bd990a15d2f9535df4138ad599d6aef0a62cd0db946a35f0969dcefcde99da2a"
+    },
+    "tools/corpus_paths.py": {
+      "source": "gitlaw_common/corpus_paths.py",
+      "source_git_blob": "ebe9d630765d8b31c34465bbd7a983db64943d67",
+      "shipped_sha256": "bba77e52fa0ef2e5406950cf9918cad3912f75aa2f6091ec524ddc6dfd25ab39"
+    },
+    "tools/corpus_tables.py": {
+      "source": "gitlaw_common/corpus_tables.py",
+      "source_git_blob": "63602f4ca1d4220895099d13e8d99c440f1db856",
+      "shipped_sha256": "15ea8928083f6e8a015bc04be6dc1f31b98609f83dcdd110945c6ec3f8070c31"
+    },
+    "tools/provision_index.py": {
+      "source": "gitlaw_common/provision_index.py",
+      "source_git_blob": "d7bc60b24946cbb215dfb66df0be9214728a23c6",
+      "shipped_sha256": "5ce6262be6dbc8f7b14dca7f16b40ae4891732f561fdc97419e1de10b82a7c88"
+    },
+    "tools/corpus_images.py": {
+      "source": "gitlaw_common/corpus_images.py",
+      "source_git_blob": "c4c71cb510a8cd857a708a0f34d2e6d8e991dfaa",
+      "shipped_sha256": "b689392d390e4d42df711e1af7cd2c06ca22f107b748269db09c90d5910bb9db"
+    },
+    "tools/corpus_jurisdiction.py": {
+      "source": "gitlaw_common/corpus_jurisdiction.py",
+      "source_git_blob": "3675b8a6c8e2ce16cc1cc3fb40c31188143483b3",
+      "shipped_sha256": "280ba3032d51ef441f9fb6ddf37334480ed3685bc940307f9e1e64038081f7a9"
+    },
+    "tools/current_text.py": {
+      "source": "gitlaw_common/current_text.py",
+      "source_git_blob": "45ac18dd45124a1469b429aa1ce0928ea2b42cf4",
+      "shipped_sha256": "433811ce2892829e35daf628f670a108b6fced47a15448d4c08d13ee778b6d3b"
+    }
+  }
+}
