@@ -932,3 +932,5 @@ Corrections carry Kind, Corrects, Supersedes, Reason, Files and In-force-basis. 
 | `ch-645/` | Minnesota Statutes chapter 645 (Interpretation of Statutes and Rules) | 2 | Source-dated current text; retained capture boundary |
 | `ch-646/` | Minnesota Statutes chapter 646 (Express Repeals by Revised Laws 1905) | 1 | Legacy capture record; chronology unestablished |
 | `ch-648/` | Minnesota Statutes chapter 648 (Minnesota Statutes; Publication) | 1 | Legacy capture record; chronology unestablished |
+
+Annual-edition history is also recorded for Minn. Stat. ch. 1, Minn. Stat. ch. 3E, Minn. Stat. ch. 13D, Minn. Stat. ch. 507, Minn. Stat. ch. 645. Each changed edition is a labelled correction with Text-as-of and In-force-basis: annual edition. The 31 December date indexes the stated edition year; it does not assert an exact commencement day. Other chapters' annual histories remain outside this batch.
