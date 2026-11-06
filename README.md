@@ -1,5 +1,7 @@
 # Minnesota: statutory text in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Minnesota, United States, which global-law reads at `united-states/minnesota/acts/`.
+
 This repository contains the Constitution of the State of Minnesota and 915 statutory chapter records. All 808 chapters listed with normative statutory text are represented; 107 additional historical chapter records contain status information. Representation does not establish text completeness or legal chronology for every record.
 
 Text is from the Office of the Revisor of Statutes, State of Minnesota: [Minnesota Statutes](https://www.revisor.mn.gov/statutes/) and the [Constitution](https://www.revisor.mn.gov/constitution/).
