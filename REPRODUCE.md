@@ -949,3 +949,7 @@ Annual-edition append: source URLs and SHA-256 hashes are listed in data/annual-
 ## Annual-edition record, 1997–2009
 
 The Office of the Revisor of Statutes archive supplies 41 distinct earlier chapter versions for the chapters listed in data/annual-history-1997-2009.json. Each source is identified by its edition URL and SHA-256 in data/annual-editions.tsv. The complete official chapter text, including chapter and group headings, History, status and post-history notes, was compared word for word with each recorded version. Source text is not supplied or corrected by a model. Annual edition dates are year indexes with Text-as-of and In-force-basis: annual edition, not inferred commencement days. Labelled current corrections restore complete official chapter organization and annotations at the retained published capture boundaries. Contingent replacement wording remains explicitly contingent.
+
+Complete corpus input: 27f40dc46ce1f2ef503949878d0585826793f001af74fe84411d3ed9bbda6cfc. The input includes all 916 acts, 1446 previously published versions and 81 new official 2024 annual-edition records.
+
+Source-date correction input: c21e7e788a2c5c49c4c2c889b7b8ccc0bee0510e50f3d5300a6f36ffd09075fd. Source-dated correction ranges include the later compatibility capture indexes.
