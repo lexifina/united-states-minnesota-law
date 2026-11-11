@@ -604,11 +604,11 @@ Corrections carry Kind, Corrects, Supersedes, Reason, Files and In-force-basis. 
 | `ch-322b/` | Minnesota Statutes chapter 322B (Limited Liability Companies) | 1 | Legacy capture record; chronology unestablished |
 | `ch-322c/` | Minnesota Statutes chapter 322C (Minnesota Revised Uniform Limited Liability Company) | 1 | Legacy capture record; chronology unestablished |
 | `ch-323a/` | Minnesota Statutes chapter 323A (Uniform Partnership Act of 1994) | 2 | Legacy capture record; chronology unestablished |
-| `ch-324/` | Minnesota Statutes chapter 324 (Art; Fine Prints) | 1 | Legacy capture record; chronology unestablished |
+| `ch-324/` | Minnesota Statutes chapter 324 (Art; Fine Prints) | 2 | Legacy capture record; chronology unestablished |
 | `ch-325/` | Minnesota Statutes chapter 325 (Manufactures and Sales) | 1 | Legacy capture record; chronology unestablished |
-| `ch-325a/` | Minnesota Statutes chapter 325A (Invention Services) | 1 | Legacy capture record; chronology unestablished |
-| `ch-325b/` | Minnesota Statutes chapter 325B (Beer Brewers and Wholesalers) | 1 | Legacy capture record; chronology unestablished |
-| `ch-325c/` | Minnesota Statutes chapter 325C (Uniform Trade Secrets Act) | 1 | Legacy capture record; chronology unestablished |
+| `ch-325a/` | Minnesota Statutes chapter 325A (Invention Services) | 2 | Legacy capture record; chronology unestablished |
+| `ch-325b/` | Minnesota Statutes chapter 325B (Beer Brewers and Wholesalers) | 2 | Legacy capture record; chronology unestablished |
+| `ch-325c/` | Minnesota Statutes chapter 325C (Uniform Trade Secrets Act) | 2 | Legacy capture record; chronology unestablished |
 | `ch-325d/` | Minnesota Statutes chapter 325D (Restraint of Trade) | 2 | Source-dated current text; retained capture boundary |
 | `ch-325e/` | Minnesota Statutes chapter 325E (Trade Practices) | 1 | Legacy capture record; chronology unestablished |
 | `ch-325f/` | Minnesota Statutes chapter 325F (Consumer Protection; Products and Sales) | 2 | Source-dated current text; retained capture boundary |
@@ -616,33 +616,33 @@ Corrections carry Kind, Corrects, Supersedes, Reason, Files and In-force-basis. 
 | `ch-325h/` | Minnesota Statutes chapter 325H (Tanning Facilities) | 2 | Source-dated current text; retained capture boundary |
 | `ch-325i/` | Minnesota Statutes chapter 325I (Videotape and Video Games) | 2 | Source-dated current text; retained capture boundary |
 | `ch-325j/` | Minnesota Statutes chapter 325J (Pawnbrokers) | 2 | Source-dated current text; retained capture boundary |
-| `ch-325k/` | Minnesota Statutes chapter 325K (Electronic Authentication) | 1 | Legacy capture record; chronology unestablished |
-| `ch-325l/` | Minnesota Statutes chapter 325L (Uniform Electronic Transactions Act) | 1 | Legacy capture record; chronology unestablished |
+| `ch-325k/` | Minnesota Statutes chapter 325K (Electronic Authentication) | 2 | Legacy capture record; chronology unestablished |
+| `ch-325l/` | Minnesota Statutes chapter 325L (Uniform Electronic Transactions Act) | 2 | Legacy capture record; chronology unestablished |
 | `ch-325m/` | Minnesota Statutes chapter 325M (Consumer Digital and Data Privacy) | 1 | Legacy capture record; chronology unestablished |
 | `ch-325n/` | Minnesota Statutes chapter 325N (Mortgage Foreclosures) | 2 | Source-dated current text; retained capture boundary |
-| `ch-326/` | Minnesota Statutes chapter 326 (Employments Licensed by State) | 1 | Legacy capture record; chronology unestablished |
+| `ch-326/` | Minnesota Statutes chapter 326 (Employments Licensed by State) | 2 | Legacy capture record; chronology unestablished |
 | `ch-326a/` | Minnesota Statutes chapter 326A (Accountants) | 2 | Source-dated current text; retained capture boundary |
 | `ch-326b/` | Minnesota Statutes chapter 326B (Construction Codes and Licensing) | 2 | Source-dated current text; retained capture boundary |
-| `ch-327/` | Minnesota Statutes chapter 327 (Hotels, Motels, Resorts, and Manufactured Homes) | 1 | Legacy capture record; chronology unestablished |
-| `ch-327a/` | Minnesota Statutes chapter 327A (Housing; Statutory Warranties) | 1 | Legacy capture record; chronology unestablished |
+| `ch-327/` | Minnesota Statutes chapter 327 (Hotels, Motels, Resorts, and Manufactured Homes) | 2 | Legacy capture record; chronology unestablished |
+| `ch-327a/` | Minnesota Statutes chapter 327A (Housing; Statutory Warranties) | 2 | Legacy capture record; chronology unestablished |
 | `ch-327b/` | Minnesota Statutes chapter 327B (Manufactured Home Sales) | 2 | Source-dated current text; retained capture boundary |
 | `ch-327c/` | Minnesota Statutes chapter 327C (Manufactured Home Parks) | 1 | Legacy capture record; chronology unestablished |
 | `ch-328/` | Minnesota Statutes chapter 328 (Chain Stores, Mail Order Companies) | 1 | Legacy capture record; chronology unestablished |
-| `ch-329/` | Minnesota Statutes chapter 329 (Peddlers, Transient Merchants) | 1 | Legacy capture record; chronology unestablished |
-| `ch-330/` | Minnesota Statutes chapter 330 (Auctioneers) | 1 | Legacy capture record; chronology unestablished |
+| `ch-329/` | Minnesota Statutes chapter 329 (Peddlers, Transient Merchants) | 2 | Legacy capture record; chronology unestablished |
+| `ch-330/` | Minnesota Statutes chapter 330 (Auctioneers) | 2 | Legacy capture record; chronology unestablished |
 | `ch-331/` | Minnesota Statutes chapter 331 (Newspapers) | 1 | Legacy capture record; chronology unestablished |
 | `ch-331a/` | Minnesota Statutes chapter 331A (Qualified Newspapers) | 2 | Source-dated current text; retained capture boundary |
-| `ch-332/` | Minnesota Statutes chapter 332 (Collection, Credit Services) | 1 | Legacy capture record; chronology unestablished |
-| `ch-332a/` | Minnesota Statutes chapter 332A (Debt Management Services) | 1 | Legacy capture record; chronology unestablished |
-| `ch-332b/` | Minnesota Statutes chapter 332B (Debt Settlement Services) | 1 | Legacy capture record; chronology unestablished |
+| `ch-332/` | Minnesota Statutes chapter 332 (Collection, Credit Services) | 2 | Legacy capture record; chronology unestablished |
+| `ch-332a/` | Minnesota Statutes chapter 332A (Debt Management Services) | 2 | Legacy capture record; chronology unestablished |
+| `ch-332b/` | Minnesota Statutes chapter 332B (Debt Settlement Services) | 2 | Legacy capture record; chronology unestablished |
 | `ch-332c/` | Minnesota Statutes chapter 332C (Medical Debt) | 2 | Source-dated current text; retained capture boundary |
 | `ch-333/` | Minnesota Statutes chapter 333 (Assumed Names, Insignia, and Marks) | 2 | Source-dated current text; retained capture boundary |
 | `ch-334/` | Minnesota Statutes chapter 334 (Money, Rates of Interest) | 2 | Source-dated current text; retained capture boundary |
 | `ch-336/` | Minnesota Statutes chapter 336 (Uniform Commercial Code) | 2 | Source-dated current text; retained capture boundary |
 | `ch-336a/` | Minnesota Statutes chapter 336A (Farm Product Liens and Financing Statements) | 2 | Source-dated current text; retained capture boundary |
-| `ch-336b/` | Minnesota Statutes chapter 336B (Financing Statements of Utilities and Certain Mining Companies) | 1 | Legacy capture record; chronology unestablished |
+| `ch-336b/` | Minnesota Statutes chapter 336B (Financing Statements of Utilities and Certain Mining Companies) | 2 | Legacy capture record; chronology unestablished |
 | `ch-337/` | Minnesota Statutes chapter 337 (Building and Construction Contracts) | 2 | Source-dated current text; retained capture boundary |
-| `ch-338/` | Minnesota Statutes chapter 338 (Employment Contracts) | 1 | Legacy capture record; chronology unestablished |
+| `ch-338/` | Minnesota Statutes chapter 338 (Employment Contracts) | 2 | Legacy capture record; chronology unestablished |
 | `ch-340/` | Minnesota Statutes chapter 340 (Intoxicating Liquors) | 1 | Legacy capture record; chronology unestablished |
 | `ch-340a/` | Minnesota Statutes chapter 340A (Liquor) | 1 | Legacy capture record; chronology unestablished |
 | `ch-341/` | Minnesota Statutes chapter 341 (Combative Sports) | 2 | Source-dated current text; retained capture boundary |
@@ -656,46 +656,46 @@ Corrections carry Kind, Corrects, Supersedes, Reason, Files and In-force-basis. 
 | `ch-349/` | Minnesota Statutes chapter 349 (Lawful Gambling and Gambling Devices) | 2 | Source-dated current text; retained capture boundary |
 | `ch-349a/` | Minnesota Statutes chapter 349A (State Lottery) | 2 | Source-dated current text; retained capture boundary |
 | `ch-350/` | Minnesota Statutes chapter 350 (State Officers and Employees, Salaries) | 1 | Legacy capture record; chronology unestablished |
-| `ch-351/` | Minnesota Statutes chapter 351 (Resignations, Vacancies, Removals) | 1 | Legacy capture record; chronology unestablished |
-| `ch-352/` | Minnesota Statutes chapter 352 (State Retirement) | 1 | Legacy capture record; chronology unestablished |
+| `ch-351/` | Minnesota Statutes chapter 351 (Resignations, Vacancies, Removals) | 2 | Legacy capture record; chronology unestablished |
+| `ch-352/` | Minnesota Statutes chapter 352 (State Retirement) | 2 | Legacy capture record; chronology unestablished |
 | `ch-352b/` | Minnesota Statutes chapter 352B (State Patrol Retirement Fund) | 2 | Source-dated current text; retained capture boundary |
 | `ch-352d/` | Minnesota Statutes chapter 352D (State Unclassified Employees Retirement) | 2 | Source-dated current text; retained capture boundary |
 | `ch-352f/` | Minnesota Statutes chapter 352F (University Hospital Employee Retirement) | 2 | Source-dated current text; retained capture boundary |
 | `ch-353/` | Minnesota Statutes chapter 353 (Public Employees Retirement Association) | 1 | Legacy capture record; chronology unestablished |
 | `ch-353d/` | Minnesota Statutes chapter 353D (Public Employees Defined Contribution Plan) | 2 | Source-dated current text; retained capture boundary |
 | `ch-353e/` | Minnesota Statutes chapter 353E (Local Government Correctional Service Retirement) | 1 | Legacy capture record; chronology unestablished |
-| `ch-353f/` | Minnesota Statutes chapter 353F (Privatized Government Subdivision, Pera Pension Benefits) | 1 | Legacy capture record; chronology unestablished |
+| `ch-353f/` | Minnesota Statutes chapter 353F (Privatized Government Subdivision, Pera Pension Benefits) | 2 | Legacy capture record; chronology unestablished |
 | `ch-353g/` | Minnesota Statutes chapter 353G (Volunteer Firefighters; Retirement) | 2 | Source-dated current text; retained capture boundary |
 | `ch-353h/` | Minnesota Statutes chapter 353H (Probation and Telecommunicator Retirement) | 1 | Legacy capture record; chronology unestablished |
-| `ch-354/` | Minnesota Statutes chapter 354 (Teachers Retirement) | 1 | Legacy capture record; chronology unestablished |
-| `ch-354a/` | Minnesota Statutes chapter 354A (Teachers Retirement, St. Paul) | 1 | Legacy capture record; chronology unestablished |
-| `ch-354b/` | Minnesota Statutes chapter 354B (Higher Education Individual Retirement Accounts) | 1 | Legacy capture record; chronology unestablished |
+| `ch-354/` | Minnesota Statutes chapter 354 (Teachers Retirement) | 2 | Legacy capture record; chronology unestablished |
+| `ch-354a/` | Minnesota Statutes chapter 354A (Teachers Retirement, St. Paul) | 2 | Legacy capture record; chronology unestablished |
+| `ch-354b/` | Minnesota Statutes chapter 354B (Higher Education Individual Retirement Accounts) | 2 | Legacy capture record; chronology unestablished |
 | `ch-354c/` | Minnesota Statutes chapter 354C (Higher Education Supplemental Retirement) | 2 | Source-dated current text; retained capture boundary |
 | `ch-354d/` | Minnesota Statutes chapter 354D (Retirement Election, Arts Board, Humanities Center, Historical Society) | 2 | Source-dated current text; retained capture boundary |
 | `ch-355/` | Minnesota Statutes chapter 355 (Public Employee Social Security Coverage) | 2 | Source-dated current text; retained capture boundary |
-| `ch-356/` | Minnesota Statutes chapter 356 (Retirement Systems, Generally) | 1 | Legacy capture record; chronology unestablished |
-| `ch-356a/` | Minnesota Statutes chapter 356A (Public Pension Fiduciary Responsibility) | 1 | Legacy capture record; chronology unestablished |
+| `ch-356/` | Minnesota Statutes chapter 356 (Retirement Systems, Generally) | 2 | Legacy capture record; chronology unestablished |
+| `ch-356a/` | Minnesota Statutes chapter 356A (Public Pension Fiduciary Responsibility) | 2 | Legacy capture record; chronology unestablished |
 | `ch-356b/` | Minnesota Statutes chapter 356B (Public Pension Administration) | 2 | Source-dated current text; retained capture boundary |
 | `ch-357/` | Minnesota Statutes chapter 357 (Fees) | 2 | Source-dated current text; retained capture boundary |
 | `ch-358/` | Minnesota Statutes chapter 358 (Seals, Oaths, Acknowledgments) | 2 | Source-dated current text; retained capture boundary |
-| `ch-359/` | Minnesota Statutes chapter 359 (Notaries Public) | 1 | Legacy capture record; chronology unestablished |
+| `ch-359/` | Minnesota Statutes chapter 359 (Notaries Public) | 2 | Legacy capture record; chronology unestablished |
 | `ch-360/` | Minnesota Statutes chapter 360 (Airports and Aeronautics) | 2 | Source-dated current text; retained capture boundary |
 | `ch-361/` | Minnesota Statutes chapter 361 (Waters and Watercraft Safety) | 1 | Legacy capture record; chronology unestablished |
-| `ch-362a/` | Minnesota Statutes chapter 362A (Rural Development Finance Authority) | 1 | Legacy capture record; chronology unestablished |
+| `ch-362a/` | Minnesota Statutes chapter 362A (Rural Development Finance Authority) | 2 | Legacy capture record; chronology unestablished |
 | `ch-363/` | Minnesota Statutes chapter 363 (Department of Human Rights) | 1 | Legacy capture record; chronology unestablished |
-| `ch-363a/` | Minnesota Statutes chapter 363A (Human Rights) | 1 | Legacy capture record; chronology unestablished |
+| `ch-363a/` | Minnesota Statutes chapter 363A (Human Rights) | 2 | Legacy capture record; chronology unestablished |
 | `ch-364/` | Minnesota Statutes chapter 364 (Criminal Offenders; Rehabilitation) | 2 | Source-dated current text; retained capture boundary |
 | `ch-365/` | Minnesota Statutes chapter 365 (Town General Law) | 2 | Source-dated current text; retained capture boundary |
 | `ch-365a/` | Minnesota Statutes chapter 365A (Subordinate Service Districts) | 2 | Source-dated current text; retained capture boundary |
-| `ch-366/` | Minnesota Statutes chapter 366 (Town Board; Powers) | 1 | Legacy capture record; chronology unestablished |
-| `ch-367/` | Minnesota Statutes chapter 367 (Town Officers; Optional Plans) | 1 | Legacy capture record; chronology unestablished |
+| `ch-366/` | Minnesota Statutes chapter 366 (Town Board; Powers) | 2 | Legacy capture record; chronology unestablished |
+| `ch-367/` | Minnesota Statutes chapter 367 (Town Officers; Optional Plans) | 2 | Legacy capture record; chronology unestablished |
 | `ch-368/` | Minnesota Statutes chapter 368 (Towns; Special Provisions) | 2 | Source-dated current text; retained capture boundary |
-| `ch-370/` | Minnesota Statutes chapter 370 (Counties; Change of Boundaries) | 1 | Legacy capture record; chronology unestablished |
-| `ch-371/` | Minnesota Statutes chapter 371 (Consolidation of Counties) | 1 | Legacy capture record; chronology unestablished |
-| `ch-372/` | Minnesota Statutes chapter 372 (Changing County Seats) | 1 | Legacy capture record; chronology unestablished |
+| `ch-370/` | Minnesota Statutes chapter 370 (Counties; Change of Boundaries) | 2 | Legacy capture record; chronology unestablished |
+| `ch-371/` | Minnesota Statutes chapter 371 (Consolidation of Counties) | 2 | Legacy capture record; chronology unestablished |
+| `ch-372/` | Minnesota Statutes chapter 372 (Changing County Seats) | 2 | Legacy capture record; chronology unestablished |
 | `ch-373/` | Minnesota Statutes chapter 373 (Counties; Powers, Duties, Privileges) | 2 | Source-dated current text; retained capture boundary |
 | `ch-374/` | Minnesota Statutes chapter 374 (Courthouse and City Hall) | 2 | Source-dated current text; retained capture boundary |
-| `ch-375/` | Minnesota Statutes chapter 375 (County Boards) | 1 | Legacy capture record; chronology unestablished |
+| `ch-375/` | Minnesota Statutes chapter 375 (County Boards) | 2 | Legacy capture record; chronology unestablished |
 | `ch-375a/` | Minnesota Statutes chapter 375A (Optional Forms of County Government) | 2 | Source-dated current text; retained capture boundary |
 | `ch-375b/` | Minnesota Statutes chapter 375B (County Subordinate Service Districts) | 2 | Source-dated current text; retained capture boundary |
 | `ch-376/` | Minnesota Statutes chapter 376 (County Hospitals and Nursing Homes) | 2 | Source-dated current text; retained capture boundary |
@@ -707,72 +707,72 @@ Corrections carry Kind, Corrects, Supersedes, Reason, Files and In-force-basis. 
 | `ch-383/` | Minnesota Statutes chapter 383 (Counties Over 150,000) | 1 | Legacy capture record; chronology unestablished |
 | `ch-383a/` | Minnesota Statutes chapter 383A (Ramsey County) | 2 | Source-dated current text; retained capture boundary |
 | `ch-383b/` | Minnesota Statutes chapter 383B (Hennepin County) | 1 | Legacy capture record; chronology unestablished |
-| `ch-383c/` | Minnesota Statutes chapter 383C (St. Louis County) | 1 | Legacy capture record; chronology unestablished |
+| `ch-383c/` | Minnesota Statutes chapter 383C (St. Louis County) | 2 | Legacy capture record; chronology unestablished |
 | `ch-383d/` | Minnesota Statutes chapter 383D (Dakota County) | 2 | Source-dated current text; retained capture boundary |
 | `ch-383e/` | Minnesota Statutes chapter 383E (Anoka County) | 1 | Legacy capture record; chronology unestablished |
-| `ch-384/` | Minnesota Statutes chapter 384 (County Auditor) | 1 | Legacy capture record; chronology unestablished |
-| `ch-385/` | Minnesota Statutes chapter 385 (County Treasurer) | 1 | Legacy capture record; chronology unestablished |
+| `ch-384/` | Minnesota Statutes chapter 384 (County Auditor) | 2 | Legacy capture record; chronology unestablished |
+| `ch-385/` | Minnesota Statutes chapter 385 (County Treasurer) | 2 | Legacy capture record; chronology unestablished |
 | `ch-386/` | Minnesota Statutes chapter 386 (County Recorder; Abstracter) | 2 | Source-dated current text; retained capture boundary |
 | `ch-387/` | Minnesota Statutes chapter 387 (Sheriff) | 2 | Source-dated current text; retained capture boundary |
-| `ch-388/` | Minnesota Statutes chapter 388 (County Attorney) | 1 | Legacy capture record; chronology unestablished |
+| `ch-388/` | Minnesota Statutes chapter 388 (County Attorney) | 2 | Legacy capture record; chronology unestablished |
 | `ch-389/` | Minnesota Statutes chapter 389 (County Surveyor) | 2 | Source-dated current text; retained capture boundary |
-| `ch-390/` | Minnesota Statutes chapter 390 (Coroner; Medical Examiner) | 1 | Legacy capture record; chronology unestablished |
+| `ch-390/` | Minnesota Statutes chapter 390 (Coroner; Medical Examiner) | 2 | Legacy capture record; chronology unestablished |
 | `ch-393/` | Minnesota Statutes chapter 393 (Local Social Services Agency) | 2 | Source-dated current text; retained capture boundary |
 | `ch-394/` | Minnesota Statutes chapter 394 (Planning, Development, Zoning) | 2 | Source-dated current text; retained capture boundary |
 | `ch-395/` | Minnesota Statutes chapter 395 (Agricultural Assistance, Development) | 1 | Legacy capture record; chronology unestablished |
 | `ch-398/` | Minnesota Statutes chapter 398 (Park Systems) | 2 | Source-dated current text; retained capture boundary |
 | `ch-398a/` | Minnesota Statutes chapter 398A (Regional Railroad Authorities) | 2 | Source-dated current text; retained capture boundary |
-| `ch-400/` | Minnesota Statutes chapter 400 (Solid Waste Management) | 1 | Legacy capture record; chronology unestablished |
+| `ch-400/` | Minnesota Statutes chapter 400 (Solid Waste Management) | 2 | Legacy capture record; chronology unestablished |
 | `ch-401/` | Minnesota Statutes chapter 401 (Community Corrections) | 2 | Source-dated current text; retained capture boundary |
 | `ch-402/` | Minnesota Statutes chapter 402 (County Human Services Boards) | 2 | Source-dated current text; retained capture boundary |
 | `ch-402a/` | Minnesota Statutes chapter 402A (Essential Human Services; County Delivery) | 2 | Source-dated current text; retained capture boundary |
 | `ch-403/` | Minnesota Statutes chapter 403 (911 Emergency and Public Safety Communications) | 2 | Source-dated current text; retained capture boundary |
 | `ch-410/` | Minnesota Statutes chapter 410 (Classification; Charters) | 2 | Source-dated current text; retained capture boundary |
 | `ch-412/` | Minnesota Statutes chapter 412 (Statutory Cities) | 2 | Source-dated current text; retained capture boundary |
-| `ch-413/` | Minnesota Statutes chapter 413 (Change of City Name) | 1 | Legacy capture record; chronology unestablished |
+| `ch-413/` | Minnesota Statutes chapter 413 (Change of City Name) | 2 | Legacy capture record; chronology unestablished |
 | `ch-414/` | Minnesota Statutes chapter 414 (Municipal Boundary Adjustments) | 2 | Source-dated current text; retained capture boundary |
 | `ch-415/` | Minnesota Statutes chapter 415 (Various Municipal Powers) | 2 | Source-dated current text; retained capture boundary |
 | `ch-416/` | Minnesota Statutes chapter 416 (Public Buildings) | 2 | Source-dated current text; retained capture boundary |
-| `ch-419/` | Minnesota Statutes chapter 419 (Police Civil Service Commissions) | 1 | Legacy capture record; chronology unestablished |
+| `ch-419/` | Minnesota Statutes chapter 419 (Police Civil Service Commissions) | 2 | Legacy capture record; chronology unestablished |
 | `ch-420/` | Minnesota Statutes chapter 420 (Firefighters&#X27; Civil Service Commissions) | 2 | Source-dated current text; retained capture boundary |
 | `ch-422/` | Minnesota Statutes chapter 422 (Retirement Allowances, Cities First Class) | 1 | Legacy capture record; chronology unestablished |
 | `ch-422a/` | Minnesota Statutes chapter 422A (Retirement Allowances, Minneapolis) | 1 | Legacy capture record; chronology unestablished |
-| `ch-423/` | Minnesota Statutes chapter 423 (Retirement; Police Officer, Firefighter) | 1 | Legacy capture record; chronology unestablished |
+| `ch-423/` | Minnesota Statutes chapter 423 (Retirement; Police Officer, Firefighter) | 2 | Legacy capture record; chronology unestablished |
 | `ch-423a/` | Minnesota Statutes chapter 423A (Police and Firefighter Retirement State Aid) | 2 | Source-dated current text; retained capture boundary |
 | `ch-423b/` | Minnesota Statutes chapter 423B (Minneapolis Police Pensions) | 1 | Legacy capture record; chronology unestablished |
 | `ch-423c/` | Minnesota Statutes chapter 423C (Minneapolis Firefighters Relief Association) | 1 | Legacy capture record; chronology unestablished |
 | `ch-424a/` | Minnesota Statutes chapter 424A (Volunteer Firefighters Retirement) | 1 | Legacy capture record; chronology unestablished |
 | `ch-424b/` | Minnesota Statutes chapter 424B (Volunteer Firefighters, Consolidation, Dissolution, Conversion) | 1 | Legacy capture record; chronology unestablished |
-| `ch-426/` | Minnesota Statutes chapter 426 (Finance, Taxation) | 1 | Legacy capture record; chronology unestablished |
-| `ch-427/` | Minnesota Statutes chapter 427 (Depositories, City and Statutory City Funds) | 1 | Legacy capture record; chronology unestablished |
+| `ch-426/` | Minnesota Statutes chapter 426 (Finance, Taxation) | 2 | Legacy capture record; chronology unestablished |
+| `ch-427/` | Minnesota Statutes chapter 427 (Depositories, City and Statutory City Funds) | 2 | Legacy capture record; chronology unestablished |
 | `ch-428/` | Minnesota Statutes chapter 428 (Public Improvements, Certain Cities) | 1 | Legacy capture record; chronology unestablished |
-| `ch-428a/` | Minnesota Statutes chapter 428A (Special Service Districts; Housing Improvement Areas) | 1 | Legacy capture record; chronology unestablished |
-| `ch-428b/` | Minnesota Statutes chapter 428B (Tourism Improvement Districts) | 1 | Legacy capture record; chronology unestablished |
+| `ch-428a/` | Minnesota Statutes chapter 428A (Special Service Districts; Housing Improvement Areas) | 2 | Legacy capture record; chronology unestablished |
+| `ch-428b/` | Minnesota Statutes chapter 428B (Tourism Improvement Districts) | 2 | Legacy capture record; chronology unestablished |
 | `ch-429/` | Minnesota Statutes chapter 429 (Local Improvements, Special Assessments) | 2 | Source-dated current text; retained capture boundary |
 | `ch-430/` | Minnesota Statutes chapter 430 (Land for Streets and Parks) | 2 | Source-dated current text; retained capture boundary |
 | `ch-435/` | Minnesota Statutes chapter 435 (Public Improvements, Other Proceedings) | 2 | Source-dated current text; retained capture boundary |
-| `ch-436/` | Minnesota Statutes chapter 436 (Law Enforcement Agreements) | 1 | Legacy capture record; chronology unestablished |
-| `ch-437/` | Minnesota Statutes chapter 437 (Regulating Transient Merchants or Amusements) | 1 | Legacy capture record; chronology unestablished |
-| `ch-438/` | Minnesota Statutes chapter 438 (Fire Prevention) | 1 | Legacy capture record; chronology unestablished |
-| `ch-440/` | Minnesota Statutes chapter 440 (Acquisition of Property for Streets) | 1 | Legacy capture record; chronology unestablished |
-| `ch-441/` | Minnesota Statutes chapter 441 (Bridges) | 1 | Legacy capture record; chronology unestablished |
+| `ch-436/` | Minnesota Statutes chapter 436 (Law Enforcement Agreements) | 2 | Legacy capture record; chronology unestablished |
+| `ch-437/` | Minnesota Statutes chapter 437 (Regulating Transient Merchants or Amusements) | 2 | Legacy capture record; chronology unestablished |
+| `ch-438/` | Minnesota Statutes chapter 438 (Fire Prevention) | 2 | Legacy capture record; chronology unestablished |
+| `ch-440/` | Minnesota Statutes chapter 440 (Acquisition of Property for Streets) | 2 | Legacy capture record; chronology unestablished |
+| `ch-441/` | Minnesota Statutes chapter 441 (Bridges) | 2 | Legacy capture record; chronology unestablished |
 | `ch-442a/` | Minnesota Statutes chapter 442A (Sanitary Districts) | 2 | Source-dated current text; retained capture boundary |
-| `ch-443/` | Minnesota Statutes chapter 443 (Rubbish Removal) | 1 | Legacy capture record; chronology unestablished |
+| `ch-443/` | Minnesota Statutes chapter 443 (Rubbish Removal) | 2 | Legacy capture record; chronology unestablished |
 | `ch-444/` | Minnesota Statutes chapter 444 (Waterworks; Storm, Sanitary Sewer Systems) | 2 | Source-dated current text; retained capture boundary |
-| `ch-446/` | Minnesota Statutes chapter 446 (Public Works, Other Provisions) | 1 | Legacy capture record; chronology unestablished |
+| `ch-446/` | Minnesota Statutes chapter 446 (Public Works, Other Provisions) | 2 | Legacy capture record; chronology unestablished |
 | `ch-446a/` | Minnesota Statutes chapter 446A (Public Facilities Authority) | 2 | Source-dated current text; retained capture boundary |
-| `ch-447/` | Minnesota Statutes chapter 447 (Hospitals, Welfare Activities) | 1 | Legacy capture record; chronology unestablished |
-| `ch-448/` | Minnesota Statutes chapter 448 (Parks, Parkways and Playgrounds) | 1 | Legacy capture record; chronology unestablished |
+| `ch-447/` | Minnesota Statutes chapter 447 (Hospitals, Welfare Activities) | 2 | Legacy capture record; chronology unestablished |
+| `ch-448/` | Minnesota Statutes chapter 448 (Parks, Parkways and Playgrounds) | 2 | Legacy capture record; chronology unestablished |
 | `ch-449/` | Minnesota Statutes chapter 449 (Entertainment Taxes or Levies) | 2 | Source-dated current text; retained capture boundary |
 | `ch-450/` | Minnesota Statutes chapter 450 (Art or Recreational Facility) | 2 | Source-dated current text; retained capture boundary |
-| `ch-451/` | Minnesota Statutes chapter 451 (Utility Franchises, Permits, Rights) | 1 | Legacy capture record; chronology unestablished |
-| `ch-452/` | Minnesota Statutes chapter 452 (Municipal Ownership of Utilities) | 1 | Legacy capture record; chronology unestablished |
-| `ch-453/` | Minnesota Statutes chapter 453 (Municipal Electric Power) | 1 | Legacy capture record; chronology unestablished |
+| `ch-451/` | Minnesota Statutes chapter 451 (Utility Franchises, Permits, Rights) | 2 | Legacy capture record; chronology unestablished |
+| `ch-452/` | Minnesota Statutes chapter 452 (Municipal Ownership of Utilities) | 2 | Legacy capture record; chronology unestablished |
+| `ch-453/` | Minnesota Statutes chapter 453 (Municipal Electric Power) | 2 | Legacy capture record; chronology unestablished |
 | `ch-453a/` | Minnesota Statutes chapter 453A (Municipal Gas Distribution) | 2 | Source-dated current text; retained capture boundary |
-| `ch-455/` | Minnesota Statutes chapter 455 (Electric Light and Power Plants) | 1 | Legacy capture record; chronology unestablished |
-| `ch-456/` | Minnesota Statutes chapter 456 (Water from First Class or Charter Cities) | 1 | Legacy capture record; chronology unestablished |
+| `ch-455/` | Minnesota Statutes chapter 455 (Electric Light and Power Plants) | 2 | Legacy capture record; chronology unestablished |
+| `ch-456/` | Minnesota Statutes chapter 456 (Water from First Class or Charter Cities) | 2 | Legacy capture record; chronology unestablished |
 | `ch-457a/` | Minnesota Statutes chapter 457A (Port Development Assistance) | 2 | Source-dated current text; retained capture boundary |
-| `ch-458/` | Minnesota Statutes chapter 458 (Water Transportation Facilities) | 1 | Legacy capture record; chronology unestablished |
+| `ch-458/` | Minnesota Statutes chapter 458 (Water Transportation Facilities) | 2 | Legacy capture record; chronology unestablished |
 | `ch-458a/` | Minnesota Statutes chapter 458A (Local Transit Commissions) | 2 | Source-dated current text; retained capture boundary |
 | `ch-458d/` | Minnesota Statutes chapter 458D (Western Lake Superior Sanitary District) | 2 | Source-dated current text; retained capture boundary |
 | `ch-459/` | Minnesota Statutes chapter 459 (Municipal Activities) | 2 | Source-dated current text; retained capture boundary |
@@ -781,7 +781,7 @@ Corrections carry Kind, Corrects, Supersedes, Reason, Files and In-force-basis. 
 | `ch-462a/` | Minnesota Statutes chapter 462A (Housing Finance Agency) | 1 | Legacy capture record; chronology unestablished |
 | `ch-462b/` | Minnesota Statutes chapter 462B (Experimental City Authority) | 1 | Legacy capture record; chronology unestablished |
 | `ch-462c/` | Minnesota Statutes chapter 462C (Municipal Housing) | 2 | Source-dated current text; retained capture boundary |
-| `ch-462d/` | Minnesota Statutes chapter 462D (First-Time Home Buyer Savings Account Act) | 1 | Legacy capture record; chronology unestablished |
+| `ch-462d/` | Minnesota Statutes chapter 462D (First-Time Home Buyer Savings Account Act) | 2 | Legacy capture record; chronology unestablished |
 | `ch-463/` | Minnesota Statutes chapter 463 (Line Easements; Hazardous or Substandard Buildings) | 2 | Source-dated current text; retained capture boundary |
 | `ch-465/` | Minnesota Statutes chapter 465 (Rights, Powers and Duties; Municipalities) | 2 | Source-dated current text; retained capture boundary |
 | `ch-466/` | Minnesota Statutes chapter 466 (Tort Liability, Political Subdivisions) | 2 | Source-dated current text; retained capture boundary |
@@ -792,15 +792,15 @@ Corrections carry Kind, Corrects, Supersedes, Reason, Files and In-force-basis. 
 | `ch-473f/` | Minnesota Statutes chapter 473F (Metropolitan Revenue Distribution) | 2 | Source-dated current text; retained capture boundary |
 | `ch-473h/` | Minnesota Statutes chapter 473H (Metropolitan Agricultural Preserves) | 2 | Source-dated current text; retained capture boundary |
 | `ch-473j/` | Minnesota Statutes chapter 473J (Minnesota Sports Facilities Authority) | 2 | Source-dated current text; retained capture boundary |
-| `ch-474a/` | Minnesota Statutes chapter 474A (Minnesota Bond Allocation Act) | 1 | Legacy capture record; chronology unestablished |
+| `ch-474a/` | Minnesota Statutes chapter 474A (Minnesota Bond Allocation Act) | 2 | Legacy capture record; chronology unestablished |
 | `ch-475/` | Minnesota Statutes chapter 475 (Municipal Debt) | 2 | Source-dated current text; retained capture boundary |
 | `ch-475a/` | Minnesota Statutes chapter 475A (Municipal Debt Service Aid) | 2 | Source-dated current text; retained capture boundary |
 | `ch-477a/` | Minnesota Statutes chapter 477A (Local Government Aid) | 2 | Source-dated current text; retained capture boundary |
 | `ch-477b/` | Minnesota Statutes chapter 477B (Fire State Aid) | 2 | Source-dated current text; retained capture boundary |
-| `ch-477c/` | Minnesota Statutes chapter 477C (Police State Aid) | 1 | Legacy capture record; chronology unestablished |
+| `ch-477c/` | Minnesota Statutes chapter 477C (Police State Aid) | 2 | Legacy capture record; chronology unestablished |
 | `ch-480/` | Minnesota Statutes chapter 480 (Supreme Court) | 1 | Legacy capture record; chronology unestablished |
 | `ch-480a/` | Minnesota Statutes chapter 480A (Court of Appeals) | 2 | Source-dated current text; retained capture boundary |
-| `ch-480b/` | Minnesota Statutes chapter 480B (Judicial Merit Selection) | 1 | Legacy capture record; chronology unestablished |
+| `ch-480b/` | Minnesota Statutes chapter 480B (Judicial Merit Selection) | 2 | Legacy capture record; chronology unestablished |
 | `ch-481/` | Minnesota Statutes chapter 481 (Attorneys-At-Law) | 2 | Source-dated current text; retained capture boundary |
 | `ch-482/` | Minnesota Statutes chapter 482 (Revisor of Statutes) | 1 | Legacy capture record; chronology unestablished |
 | `ch-484/` | Minnesota Statutes chapter 484 (District Courts) | 2 | Source-dated current text; retained capture boundary |
@@ -809,12 +809,12 @@ Corrections carry Kind, Corrects, Supersedes, Reason, Files and In-force-basis. 
 | `ch-487/` | Minnesota Statutes chapter 487 (County Courts) | 2 | Source-dated current text; retained capture boundary |
 | `ch-488/` | Minnesota Statutes chapter 488 (Municipal Courts) | 1 | Legacy capture record; chronology unestablished |
 | `ch-488a/` | Minnesota Statutes chapter 488A (Municipal Courts; Hennepin and Ramsey Counties) | 2 | Source-dated current text; retained capture boundary |
-| `ch-489/` | Minnesota Statutes chapter 489 (Court Commissioners) | 1 | Legacy capture record; chronology unestablished |
+| `ch-489/` | Minnesota Statutes chapter 489 (Court Commissioners) | 2 | Legacy capture record; chronology unestablished |
 | `ch-490/` | Minnesota Statutes chapter 490 (Judges Retirement) | 2 | Source-dated current text; retained capture boundary |
 | `ch-490a/` | Minnesota Statutes chapter 490A (Board on Judicial Standards) | 2 | Source-dated current text; retained capture boundary |
 | `ch-491a/` | Minnesota Statutes chapter 491A (Conciliation Court) | 2 | Source-dated current text; retained capture boundary |
-| `ch-494/` | Minnesota Statutes chapter 494 (Community Dispute Resolution) | 1 | Legacy capture record; chronology unestablished |
-| `ch-500/` | Minnesota Statutes chapter 500 (Estates in Real Property) | 1 | Legacy capture record; chronology unestablished |
+| `ch-494/` | Minnesota Statutes chapter 494 (Community Dispute Resolution) | 2 | Legacy capture record; chronology unestablished |
+| `ch-500/` | Minnesota Statutes chapter 500 (Estates in Real Property) | 2 | Legacy capture record; chronology unestablished |
 | `ch-501a/` | Minnesota Statutes chapter 501A (Statutory Rule Against Perpetuities) | 2 | Source-dated current text; retained capture boundary |
 | `ch-501b/` | Minnesota Statutes chapter 501B (Charitable Trusts) | 2 | Source-dated current text; retained capture boundary |
 | `ch-501c/` | Minnesota Statutes chapter 501C (Trusts) | 2 | Source-dated current text; retained capture boundary |
@@ -822,97 +822,97 @@ Corrections carry Kind, Corrects, Supersedes, Reason, Files and In-force-basis. 
 | `ch-503/` | Minnesota Statutes chapter 503 (Official Trustees for Conveying Townsite Lands) | 1 | Legacy capture record; chronology unestablished |
 | `ch-504/` | Minnesota Statutes chapter 504 (Landlords and Tenants) | 1 | Legacy capture record; chronology unestablished |
 | `ch-504b/` | Minnesota Statutes chapter 504B (Landlord and Tenant) | 1 | Legacy capture record; chronology unestablished |
-| `ch-505/` | Minnesota Statutes chapter 505 (Plats; Coordinates; Surveys) | 1 | Legacy capture record; chronology unestablished |
-| `ch-508/` | Minnesota Statutes chapter 508 (Registration of Land) | 1 | Legacy capture record; chronology unestablished |
+| `ch-505/` | Minnesota Statutes chapter 505 (Plats; Coordinates; Surveys) | 2 | Legacy capture record; chronology unestablished |
+| `ch-508/` | Minnesota Statutes chapter 508 (Registration of Land) | 2 | Legacy capture record; chronology unestablished |
 | `ch-508a/` | Minnesota Statutes chapter 508A (Registration of Land Without Court Proceedings) | 2 | Source-dated current text; retained capture boundary |
 | `ch-510/` | Minnesota Statutes chapter 510 (Homestead Exemption) | 2 | Source-dated current text; retained capture boundary |
 | `ch-513/` | Minnesota Statutes chapter 513 (Agreements Relating to Property) | 2 | Source-dated current text; retained capture boundary |
 | `ch-514/` | Minnesota Statutes chapter 514 (Liens Against Property) | 2 | Source-dated current text; retained capture boundary |
-| `ch-515/` | Minnesota Statutes chapter 515 (Minnesota Condominium Act) | 1 | Legacy capture record; chronology unestablished |
-| `ch-515a/` | Minnesota Statutes chapter 515A (Uniform Condominium Act) | 1 | Legacy capture record; chronology unestablished |
+| `ch-515/` | Minnesota Statutes chapter 515 (Minnesota Condominium Act) | 2 | Legacy capture record; chronology unestablished |
+| `ch-515a/` | Minnesota Statutes chapter 515A (Uniform Condominium Act) | 2 | Legacy capture record; chronology unestablished |
 | `ch-515b/` | Minnesota Statutes chapter 515B (Minnesota Common Interest Ownership Act) | 1 | Legacy capture record; chronology unestablished |
 | `ch-517/` | Minnesota Statutes chapter 517 (Civil Marriage) | 2 | Source-dated current text; retained capture boundary |
 | `ch-518/` | Minnesota Statutes chapter 518 (Marriage Dissolution) | 2 | Source-dated current text; retained capture boundary |
 | `ch-518a/` | Minnesota Statutes chapter 518A (Child Support) | 2 | Source-dated current text; retained capture boundary |
-| `ch-518b/` | Minnesota Statutes chapter 518B (Domestic Abuse) | 1 | Legacy capture record; chronology unestablished |
+| `ch-518b/` | Minnesota Statutes chapter 518B (Domestic Abuse) | 2 | Legacy capture record; chronology unestablished |
 | `ch-518c/` | Minnesota Statutes chapter 518C (Uniform Interstate Family Support Act) | 2 | Source-dated current text; retained capture boundary |
-| `ch-518d/` | Minnesota Statutes chapter 518D (Uniform Child Custody Jurisdiction and Enforcement Act) | 1 | Legacy capture record; chronology unestablished |
-| `ch-518e/` | Minnesota Statutes chapter 518E (Uniform Deployed Parents Custody and Visitation Act) | 1 | Legacy capture record; chronology unestablished |
-| `ch-518f/` | Minnesota Statutes chapter 518F (Uniform Recognition and Enforcement of Canadian Orders for Protection Act) | 1 | Legacy capture record; chronology unestablished |
-| `ch-519/` | Minnesota Statutes chapter 519 (Married Persons; Rights, Privileges) | 1 | Legacy capture record; chronology unestablished |
+| `ch-518d/` | Minnesota Statutes chapter 518D (Uniform Child Custody Jurisdiction and Enforcement Act) | 2 | Legacy capture record; chronology unestablished |
+| `ch-518e/` | Minnesota Statutes chapter 518E (Uniform Deployed Parents Custody and Visitation Act) | 2 | Legacy capture record; chronology unestablished |
+| `ch-518f/` | Minnesota Statutes chapter 518F (Uniform Recognition and Enforcement of Canadian Orders for Protection Act) | 2 | Legacy capture record; chronology unestablished |
+| `ch-519/` | Minnesota Statutes chapter 519 (Married Persons; Rights, Privileges) | 2 | Legacy capture record; chronology unestablished |
 | `ch-519a/` | Minnesota Statutes chapter 519A (Uniform Disposition of Community Property Rights at Death Act) | 2 | Source-dated current text; retained capture boundary |
-| `ch-520/` | Minnesota Statutes chapter 520 (Fiduciaries; Uniform Acts) | 1 | Legacy capture record; chronology unestablished |
-| `ch-521a/` | Minnesota Statutes chapter 521A (Uniform Fiduciary Access to Digital Assets Act) | 1 | Legacy capture record; chronology unestablished |
-| `ch-523/` | Minnesota Statutes chapter 523 (Powers of Attorney) | 1 | Legacy capture record; chronology unestablished |
-| `ch-524/` | Minnesota Statutes chapter 524 (Uniform Probate Code) | 1 | Legacy capture record; chronology unestablished |
+| `ch-520/` | Minnesota Statutes chapter 520 (Fiduciaries; Uniform Acts) | 2 | Legacy capture record; chronology unestablished |
+| `ch-521a/` | Minnesota Statutes chapter 521A (Uniform Fiduciary Access to Digital Assets Act) | 2 | Legacy capture record; chronology unestablished |
+| `ch-523/` | Minnesota Statutes chapter 523 (Powers of Attorney) | 2 | Legacy capture record; chronology unestablished |
+| `ch-524/` | Minnesota Statutes chapter 524 (Uniform Probate Code) | 2 | Legacy capture record; chronology unestablished |
 | `ch-525/` | Minnesota Statutes chapter 525 (Probate Proceedings) | 2 | Source-dated current text; retained capture boundary |
-| `ch-525a/` | Minnesota Statutes chapter 525A (Anatomical Gifts) | 1 | Legacy capture record; chronology unestablished |
-| `ch-527/` | Minnesota Statutes chapter 527 (Uniform Transfers to Minors Act) | 1 | Legacy capture record; chronology unestablished |
+| `ch-525a/` | Minnesota Statutes chapter 525A (Anatomical Gifts) | 2 | Legacy capture record; chronology unestablished |
+| `ch-527/` | Minnesota Statutes chapter 527 (Uniform Transfers to Minors Act) | 2 | Legacy capture record; chronology unestablished |
 | `ch-528/` | Minnesota Statutes chapter 528 (Multiparty Accounts) | 1 | Legacy capture record; chronology unestablished |
-| `ch-529/` | Minnesota Statutes chapter 529 (Uniform Custodial Trust Act) | 1 | Legacy capture record; chronology unestablished |
+| `ch-529/` | Minnesota Statutes chapter 529 (Uniform Custodial Trust Act) | 2 | Legacy capture record; chronology unestablished |
 | `ch-533/` | Minnesota Statutes chapter 533 (Uniform Electronic Estate Planning Documents Act) | 2 | Source-dated current text; retained capture boundary |
-| `ch-540/` | Minnesota Statutes chapter 540 (Parties to Actions) | 1 | Legacy capture record; chronology unestablished |
-| `ch-541/` | Minnesota Statutes chapter 541 (Limitation of Time, Commencing Actions) | 1 | Legacy capture record; chronology unestablished |
-| `ch-542/` | Minnesota Statutes chapter 542 (Venue of Actions) | 1 | Legacy capture record; chronology unestablished |
-| `ch-543/` | Minnesota Statutes chapter 543 (Summons, Jurisdiction; Certain Cases) | 1 | Legacy capture record; chronology unestablished |
+| `ch-540/` | Minnesota Statutes chapter 540 (Parties to Actions) | 2 | Legacy capture record; chronology unestablished |
+| `ch-541/` | Minnesota Statutes chapter 541 (Limitation of Time, Commencing Actions) | 2 | Legacy capture record; chronology unestablished |
+| `ch-542/` | Minnesota Statutes chapter 542 (Venue of Actions) | 2 | Legacy capture record; chronology unestablished |
+| `ch-543/` | Minnesota Statutes chapter 543 (Summons, Jurisdiction; Certain Cases) | 2 | Legacy capture record; chronology unestablished |
 | `ch-544/` | Minnesota Statutes chapter 544 (Pleadings) | 2 | Source-dated current text; retained capture boundary |
 | `ch-545/` | Minnesota Statutes chapter 545 (Judicial Review; Financing Statement under Uniform Commercial Code - Secured Transactions) | 2 | Source-dated current text; retained capture boundary |
 | `ch-546/` | Minnesota Statutes chapter 546 (Trials) | 2 | Source-dated current text; retained capture boundary |
-| `ch-548/` | Minnesota Statutes chapter 548 (Judgments) | 1 | Legacy capture record; chronology unestablished |
+| `ch-548/` | Minnesota Statutes chapter 548 (Judgments) | 2 | Legacy capture record; chronology unestablished |
 | `ch-549/` | Minnesota Statutes chapter 549 (Costs, Disbursements) | 2 | Source-dated current text; retained capture boundary |
 | `ch-550/` | Minnesota Statutes chapter 550 (Executions, Redemption, Exemptions) | 2 | Source-dated current text; retained capture boundary |
 | `ch-551/` | Minnesota Statutes chapter 551 (Attorney&#X27;S Summary Executions) | 2 | Source-dated current text; retained capture boundary |
-| `ch-552/` | Minnesota Statutes chapter 552 (Support Judgment Debts; Summary Execution) | 1 | Legacy capture record; chronology unestablished |
-| `ch-553/` | Minnesota Statutes chapter 553 (Abolition of Various Civil Actions) | 1 | Legacy capture record; chronology unestablished |
+| `ch-552/` | Minnesota Statutes chapter 552 (Support Judgment Debts; Summary Execution) | 2 | Legacy capture record; chronology unestablished |
+| `ch-553/` | Minnesota Statutes chapter 553 (Abolition of Various Civil Actions) | 2 | Legacy capture record; chronology unestablished |
 | `ch-554/` | Minnesota Statutes chapter 554 (Free Speech; Participation in Government) | 2 | Source-dated current text; retained capture boundary |
 | `ch-555/` | Minnesota Statutes chapter 555 (Uniform Declaratory Judgments Act) | 2 | Source-dated current text; retained capture boundary |
-| `ch-556/` | Minnesota Statutes chapter 556 (Usurpation of Office and Corporation; Letters Patent) | 1 | Legacy capture record; chronology unestablished |
+| `ch-556/` | Minnesota Statutes chapter 556 (Usurpation of Office and Corporation; Letters Patent) | 2 | Legacy capture record; chronology unestablished |
 | `ch-557/` | Minnesota Statutes chapter 557 (Actions Relating to Real Property) | 2 | Source-dated current text; retained capture boundary |
-| `ch-558/` | Minnesota Statutes chapter 558 (Partition of Real Property) | 1 | Legacy capture record; chronology unestablished |
+| `ch-558/` | Minnesota Statutes chapter 558 (Partition of Real Property) | 2 | Legacy capture record; chronology unestablished |
 | `ch-558a/` | Minnesota Statutes chapter 558A (Minnesota Partition Act) | 2 | Source-dated current text; retained capture boundary |
 | `ch-559/` | Minnesota Statutes chapter 559 (Adverse Claims to Real Property) | 2 | Source-dated current text; retained capture boundary |
 | `ch-559a/` | Minnesota Statutes chapter 559A (Contracts for Deed; Investor Sellers and Residential Real Property) | 2 | Source-dated current text; retained capture boundary |
-| `ch-560/` | Minnesota Statutes chapter 560 (Actions Involving Mineral Land) | 1 | Legacy capture record; chronology unestablished |
-| `ch-561/` | Minnesota Statutes chapter 561 (Nuisance, Trespass, Waste; Liability) | 1 | Legacy capture record; chronology unestablished |
-| `ch-562/` | Minnesota Statutes chapter 562 (Public Body, Civil Actions, Surety Bonds Required) | 1 | Legacy capture record; chronology unestablished |
+| `ch-560/` | Minnesota Statutes chapter 560 (Actions Involving Mineral Land) | 2 | Legacy capture record; chronology unestablished |
+| `ch-561/` | Minnesota Statutes chapter 561 (Nuisance, Trespass, Waste; Liability) | 2 | Legacy capture record; chronology unestablished |
+| `ch-562/` | Minnesota Statutes chapter 562 (Public Body, Civil Actions, Surety Bonds Required) | 2 | Legacy capture record; chronology unestablished |
 | `ch-563/` | Minnesota Statutes chapter 563 (Proceeding in Forma Pauperis) | 2 | Source-dated current text; retained capture boundary |
-| `ch-565/` | Minnesota Statutes chapter 565 (Claim; Possession of Personal Property) | 1 | Legacy capture record; chronology unestablished |
-| `ch-570/` | Minnesota Statutes chapter 570 (Attachment) | 1 | Legacy capture record; chronology unestablished |
+| `ch-565/` | Minnesota Statutes chapter 565 (Claim; Possession of Personal Property) | 2 | Legacy capture record; chronology unestablished |
+| `ch-570/` | Minnesota Statutes chapter 570 (Attachment) | 2 | Legacy capture record; chronology unestablished |
 | `ch-571/` | Minnesota Statutes chapter 571 (Garnishment) | 2 | Source-dated current text; retained capture boundary |
 | `ch-572/` | Minnesota Statutes chapter 572 (Arbitration; Mediation) | 2 | Source-dated current text; retained capture boundary |
 | `ch-572a/` | Minnesota Statutes chapter 572A (Land Use Planning Dispute Resolution) | 2 | Source-dated current text; retained capture boundary |
 | `ch-572b/` | Minnesota Statutes chapter 572B (Uniform Arbitration Act) | 2 | Source-dated current text; retained capture boundary |
-| `ch-573/` | Minnesota Statutes chapter 573 (Personal Representatives, Heirs; Actions) | 1 | Legacy capture record; chronology unestablished |
+| `ch-573/` | Minnesota Statutes chapter 573 (Personal Representatives, Heirs; Actions) | 2 | Legacy capture record; chronology unestablished |
 | `ch-574/` | Minnesota Statutes chapter 574 (Bonds, Fines, Forfeitures) | 2 | Source-dated current text; retained capture boundary |
-| `ch-575/` | Minnesota Statutes chapter 575 (Proceedings Supplementary to Execution) | 1 | Legacy capture record; chronology unestablished |
+| `ch-575/` | Minnesota Statutes chapter 575 (Proceedings Supplementary to Execution) | 2 | Legacy capture record; chronology unestablished |
 | `ch-576/` | Minnesota Statutes chapter 576 (Receivership) | 2 | Source-dated current text; retained capture boundary |
-| `ch-577/` | Minnesota Statutes chapter 577 (Assignments for Benefit of Creditors) | 1 | Legacy capture record; chronology unestablished |
-| `ch-578/` | Minnesota Statutes chapter 578 (Receivership; Absentees) | 1 | Legacy capture record; chronology unestablished |
-| `ch-579/` | Minnesota Statutes chapter 579 (Boats, Vessels; Actions Against) | 1 | Legacy capture record; chronology unestablished |
+| `ch-577/` | Minnesota Statutes chapter 577 (Assignments for Benefit of Creditors) | 2 | Legacy capture record; chronology unestablished |
+| `ch-578/` | Minnesota Statutes chapter 578 (Receivership; Absentees) | 2 | Legacy capture record; chronology unestablished |
+| `ch-579/` | Minnesota Statutes chapter 579 (Boats, Vessels; Actions Against) | 2 | Legacy capture record; chronology unestablished |
 | `ch-580/` | Minnesota Statutes chapter 580 (Mortgages; Foreclosure by Advertisement) | 2 | Source-dated current text; retained capture boundary |
 | `ch-581/` | Minnesota Statutes chapter 581 (Mortgages; Foreclosure by Action) | 2 | Source-dated current text; retained capture boundary |
-| `ch-582/` | Minnesota Statutes chapter 582 (Mortgages; Foreclosure, General Provisions) | 1 | Legacy capture record; chronology unestablished |
+| `ch-582/` | Minnesota Statutes chapter 582 (Mortgages; Foreclosure, General Provisions) | 2 | Legacy capture record; chronology unestablished |
 | `ch-583/` | Minnesota Statutes chapter 583 (Farmer-Lender Mediation) | 1 | Legacy capture record; chronology unestablished |
-| `ch-586/` | Minnesota Statutes chapter 586 (Mandamus) | 1 | Legacy capture record; chronology unestablished |
+| `ch-586/` | Minnesota Statutes chapter 586 (Mandamus) | 2 | Legacy capture record; chronology unestablished |
 | `ch-588/` | Minnesota Statutes chapter 588 (Contempts of Court) | 2 | Source-dated current text; retained capture boundary |
 | `ch-589/` | Minnesota Statutes chapter 589 (Habeas Corpus) | 2 | Source-dated current text; retained capture boundary |
 | `ch-590/` | Minnesota Statutes chapter 590 (Postconviction Relief) | 2 | Source-dated current text; retained capture boundary |
 | `ch-593/` | Minnesota Statutes chapter 593 (Juries, Jurors) | 2 | Source-dated current text; retained capture boundary |
 | `ch-595/` | Minnesota Statutes chapter 595 (Witnesses) | 2 | Source-dated current text; retained capture boundary |
-| `ch-599/` | Minnesota Statutes chapter 599 (Judicial Notice) | 1 | Legacy capture record; chronology unestablished |
-| `ch-600/` | Minnesota Statutes chapter 600 (Documents As Evidence) | 1 | Legacy capture record; chronology unestablished |
-| `ch-601/` | Minnesota Statutes chapter 601 (Lost Instruments) | 1 | Legacy capture record; chronology unestablished |
-| `ch-602/` | Minnesota Statutes chapter 602 (Competent Evidence) | 1 | Legacy capture record; chronology unestablished |
+| `ch-599/` | Minnesota Statutes chapter 599 (Judicial Notice) | 2 | Legacy capture record; chronology unestablished |
+| `ch-600/` | Minnesota Statutes chapter 600 (Documents As Evidence) | 2 | Legacy capture record; chronology unestablished |
+| `ch-601/` | Minnesota Statutes chapter 601 (Lost Instruments) | 2 | Legacy capture record; chronology unestablished |
+| `ch-602/` | Minnesota Statutes chapter 602 (Competent Evidence) | 2 | Legacy capture record; chronology unestablished |
 | `ch-603/` | Minnesota Statutes chapter 603 (Procuring Evidence; Inspection) | 1 | Legacy capture record; chronology unestablished |
 | `ch-604/` | Minnesota Statutes chapter 604 (Civil Liability) | 2 | Source-dated current text; retained capture boundary |
 | `ch-604a/` | Minnesota Statutes chapter 604A (Civil Liability Limitations) | 2 | Source-dated current text; retained capture boundary |
-| `ch-604b/` | Minnesota Statutes chapter 604B (Immunity for Year 2000 Activities) | 1 | Legacy capture record; chronology unestablished |
+| `ch-604b/` | Minnesota Statutes chapter 604B (Immunity for Year 2000 Activities) | 2 | Legacy capture record; chronology unestablished |
 | `ch-606/` | Minnesota Statutes chapter 606 (Writ of Certiorari) | 2 | Source-dated current text; retained capture boundary |
 | `ch-607/` | Minnesota Statutes chapter 607 (Supreme Court; Costs and Disbursements) | 1 | Legacy capture record; chronology unestablished |
 | `ch-609a/` | Minnesota Statutes chapter 609A (Expungement) | 2 | Source-dated current text; retained capture boundary |
 | `ch-609b/` | Minnesota Statutes chapter 609B (Collateral Sanctions) | 1 | Legacy capture record; chronology unestablished |
-| `ch-611/` | Minnesota Statutes chapter 611 (Rights of Accused) | 1 | Legacy capture record; chronology unestablished |
-| `ch-611a/` | Minnesota Statutes chapter 611A (Crime Victims: Rights, Programs, Agencies) | 1 | Legacy capture record; chronology unestablished |
+| `ch-611/` | Minnesota Statutes chapter 611 (Rights of Accused) | 2 | Legacy capture record; chronology unestablished |
+| `ch-611a/` | Minnesota Statutes chapter 611A (Crime Victims: Rights, Programs, Agencies) | 2 | Legacy capture record; chronology unestablished |
 | `ch-617/` | Minnesota Statutes chapter 617 (Abortion; Obscenity; Nuisance) | 2 | Source-dated current text; retained capture boundary |
 | `ch-619/` | Minnesota Statutes chapter 619 (Crimes Against the Person) | 1 | Legacy capture record; chronology unestablished |
 | `ch-624/` | Minnesota Statutes chapter 624 (Crimes; Fireworks; Firearms) | 2 | Source-dated current text; retained capture boundary |
@@ -921,16 +921,16 @@ Corrections carry Kind, Corrects, Supersedes, Reason, Files and In-force-basis. 
 | `ch-626a/` | Minnesota Statutes chapter 626A (Wire, Electronic, or Oral Communications; Interception) | 2 | Source-dated current text; retained capture boundary |
 | `ch-627/` | Minnesota Statutes chapter 627 (Venue) | 2 | Source-dated current text; retained capture boundary |
 | `ch-628/` | Minnesota Statutes chapter 628 (Accusation; Charging Instruments) | 2 | Source-dated current text; retained capture boundary |
-| `ch-629/` | Minnesota Statutes chapter 629 (Extradition, Detainers, Arrest, Bail) | 1 | Legacy capture record; chronology unestablished |
-| `ch-630/` | Minnesota Statutes chapter 630 (Pretrial Procedure) | 1 | Legacy capture record; chronology unestablished |
+| `ch-629/` | Minnesota Statutes chapter 629 (Extradition, Detainers, Arrest, Bail) | 2 | Legacy capture record; chronology unestablished |
+| `ch-630/` | Minnesota Statutes chapter 630 (Pretrial Procedure) | 2 | Legacy capture record; chronology unestablished |
 | `ch-631/` | Minnesota Statutes chapter 631 (Criminal Trial; Conviction; Sentence) | 2 | Source-dated current text; retained capture boundary |
-| `ch-632/` | Minnesota Statutes chapter 632 (Appeal; First-Degree Murder) | 1 | Legacy capture record; chronology unestablished |
+| `ch-632/` | Minnesota Statutes chapter 632 (Appeal; First-Degree Murder) | 2 | Legacy capture record; chronology unestablished |
 | `ch-634/` | Minnesota Statutes chapter 634 (Evidence; Witnesses) | 2 | Source-dated current text; retained capture boundary |
-| `ch-636/` | Minnesota Statutes chapter 636 (Care of Juvenile Offenders) | 1 | Legacy capture record; chronology unestablished |
+| `ch-636/` | Minnesota Statutes chapter 636 (Care of Juvenile Offenders) | 2 | Legacy capture record; chronology unestablished |
 | `ch-638/` | Minnesota Statutes chapter 638 (Board of Pardons; Clemency Review Commission) | 2 | Source-dated current text; retained capture boundary |
 | `ch-641/` | Minnesota Statutes chapter 641 (County and Regional Jails) | 2 | Source-dated current text; retained capture boundary |
 | `ch-642/` | Minnesota Statutes chapter 642 (Lockups) | 2 | Source-dated current text; retained capture boundary |
-| `ch-643/` | Minnesota Statutes chapter 643 (Workhouse; Work Farm) | 1 | Legacy capture record; chronology unestablished |
+| `ch-643/` | Minnesota Statutes chapter 643 (Workhouse; Work Farm) | 2 | Legacy capture record; chronology unestablished |
 | `ch-645/` | Minnesota Statutes chapter 645 (Interpretation of Statutes and Rules) | 19 | Source-dated current text; retained capture boundary |
 | `ch-646/` | Minnesota Statutes chapter 646 (Express Repeals by Revised Laws 1905) | 1 | Legacy capture record; chronology unestablished |
 | `ch-648/` | Minnesota Statutes chapter 648 (Minnesota Statutes; Publication) | 1 | Legacy capture record; chronology unestablished |
@@ -952,3 +952,5 @@ The 2024 annual-edition record additionally includes 81 statutory chapters. Comp
 
 This batch adds complete official 2024 annual-edition records for 76 additional chapters. Each chapter is retained as a single Markdown file containing native HTML, including chapter and group headings, statutory sections, textual tables, status records, History lines and post-history notes. The duplicated editorial section index and subdivision link controls are excluded. The 31 December 2024 date is an annual-edition index, not an exact commencement assertion. Each new range ends before the unchanged published capture boundary. Earlier wording and exact historical commencement remain incomplete.
 Chapter 308C begins on 1 August 2025, the whole-chapter commencement expressly stated in the official 2024 edition. Its 2024 edition label is not a commencement date. Other historical chapter records whose future or conditional timing remains unresolved are excluded from this batch.
+
+This batch adds complete official 2024 annual-edition records for 117 additional chapters. Each chapter is retained as a single Markdown file containing native HTML, including chapter and group headings, statutory sections, textual tables, status records, History lines and post-history notes. The duplicated editorial section index and subdivision link controls are excluded. The 31 December 2024 date is an annual-edition index, not an exact commencement assertion. Each new range ends before the unchanged published capture boundary. Earlier wording and exact historical commencement remain incomplete.
