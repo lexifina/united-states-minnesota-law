@@ -959,3 +959,5 @@ This batch adds complete official 2024 annual-edition records for 76 additional 
 Chapter 308C begins on 1 August 2025, the whole-chapter commencement expressly stated in the official 2024 edition. Its 2024 edition label is not a commencement date. Other historical chapter records whose future or conditional timing remains unresolved are excluded from this batch.
 
 This batch adds complete official 2024 annual-edition records for 117 additional chapters. Each chapter is retained as a single Markdown file containing native HTML, including chapter and group headings, statutory sections, textual tables, status records, History lines and post-history notes. The duplicated editorial section index and subdivision link controls are excluded. The 31 December 2024 date is an annual-edition index, not an exact commencement assertion. Each new range ends before the unchanged published capture boundary. Earlier wording and exact historical commencement remain incomplete.
+
+Source availability for 113 additional 2024 chapters is indexed in data/annual-source-inventory-2024-q1911.json. Historical record ranges for these entries remain unestablished.
