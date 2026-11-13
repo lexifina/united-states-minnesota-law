@@ -1,0 +1,110 @@
+{
+  "purpose": "Official current-source comparison with unchanged published section files; missing table content is held for a labelled law-text correction.",
+  "chapters": [
+    {
+      "act": "ch-168e",
+      "official_url": "https://www.revisor.mn.gov/statutes/cite/168E/full",
+      "official_sha256": "990f88aa7b2e8b440be6b29025aacf6e7b799dda08bb292dcc61f834270d1fb0",
+      "normative_sections": 5,
+      "published_units_equal_existing_parser": 5,
+      "published_units_different": [],
+      "published_units_absent": [],
+      "normative_table_holds": []
+    },
+    {
+      "act": "ch-167",
+      "official_url": "https://www.revisor.mn.gov/statutes/cite/167/full",
+      "official_sha256": "a190a76e6f3b58b3875d4e1cc0308bbeb060dbc69534873a281012acac7de9af",
+      "normative_sections": 5,
+      "published_units_equal_existing_parser": 47,
+      "published_units_different": [],
+      "published_units_absent": [],
+      "normative_table_holds": []
+    },
+    {
+      "act": "ch-518b",
+      "official_url": "https://www.revisor.mn.gov/statutes/cite/518B/full",
+      "official_sha256": "821fa0aa1381a74c57417278ca57ad2c3bc35f0be9ea831e93282d201ecbac53",
+      "normative_sections": 4,
+      "published_units_equal_existing_parser": 4,
+      "published_units_different": [],
+      "published_units_absent": [],
+      "normative_table_holds": []
+    },
+    {
+      "act": "ch-543",
+      "official_url": "https://www.revisor.mn.gov/statutes/cite/543/full",
+      "official_sha256": "958c7de66fd1b47bb7e3493926f343a887a8921b9c56496b27320c2422c68bbb",
+      "normative_sections": 6,
+      "published_units_equal_existing_parser": 23,
+      "published_units_different": [],
+      "published_units_absent": [],
+      "normative_table_holds": []
+    },
+    {
+      "act": "ch-552",
+      "official_url": "https://www.revisor.mn.gov/statutes/cite/552/full",
+      "official_sha256": "9b0adc2c3987e6357eecbe0af3d994a1267ba9f372aed63ac300d77934b67bff",
+      "normative_sections": 5,
+      "published_units_equal_existing_parser": 6,
+      "published_units_different": [],
+      "published_units_absent": [],
+      "normative_table_holds": [
+        {
+          "section": "552.04",
+          "file": "552-040000.md",
+          "table_index": 1,
+          "source_words": 26,
+          "source_text_sha256": "fd93f304f1fadffa4e206db005b68a9ffba10944db86c4229927715546c9faf8",
+          "first_words": [
+            "DISTRICT",
+            "COURT",
+            "File",
+            "No.",
+            "..............",
+            ".",
+            "(Public",
+            "authority)"
+          ],
+          "first_words_present_in_published_file": false
+        },
+        {
+          "section": "552.04",
+          "file": "552-040000.md",
+          "table_index": 2,
+          "source_words": 8,
+          "source_text_sha256": "b76ff8385e8b81edb08bc01afa53d0d9705f3befd39e88b51fb06b2f7c12e8a4",
+          "first_words": [
+            "Public",
+            "Authority",
+            "Address",
+            "(",
+            ".",
+            ")",
+            "Phone",
+            "number"
+          ],
+          "first_words_present_in_published_file": false
+        },
+        {
+          "section": "552.04",
+          "file": "552-040000.md",
+          "table_index": 3,
+          "source_words": 9,
+          "source_text_sha256": "d3e01f92b19c75913be8da4b8d267dd3e615651367c49cb3cd5d0468bd03ee7d",
+          "first_words": [
+            "Dated:",
+            ".",
+            ".",
+            "Signature",
+            ".",
+            "Title",
+            ".",
+            "Telephone"
+          ],
+          "first_words_present_in_published_file": false
+        }
+      ]
+    }
+  ]
+}
