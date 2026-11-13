@@ -311,5 +311,11 @@
     ],
     "date_kind": "annual edition range index",
     "in_force_date": null
+  },
+  "textual_table_restoration": {
+    "chapters": 71,
+    "sections": 106,
+    "tables": 202,
+    "legal_commencement_established": false
   }
 }

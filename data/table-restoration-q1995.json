@@ -1,0 +1,1355 @@
+{
+  "scope": "Textual tables in the current capture records of chapters whose legal chronology remains unestablished.",
+  "legal_commencement_established": false,
+  "chapters_audited": 358,
+  "source_tables": 215,
+  "tables_restored": 202,
+  "chapters": [
+    {
+      "act": "ch-144",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/144/full",
+      "source_sha256": "d1952fd26a9c0281dbf258776608b7c272a02d8cdd429227b9260fe441eb8598",
+      "source_tables": 7,
+      "source_images": 0,
+      "correction_commit": "7aaa1206b7eaa7ccf48046a12ee92712280722c7",
+      "files": [
+        {
+          "file": "ch-144/144-122000.md",
+          "old_blob": "4c5cc89215ff0c9d82b047a3cd202ab7046800e7",
+          "tables": 3,
+          "source_table_words": 189
+        },
+        {
+          "file": "ch-144/144-554000.md",
+          "old_blob": "9f80280a309c1eaee6f935659440e231fd4c8a77",
+          "tables": 1,
+          "source_table_words": 158
+        }
+      ]
+    },
+    {
+      "act": "ch-145b",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/145B/full",
+      "source_sha256": "8ac1e2ef0d35e229dbd411dcb7caea43f5d50752ddf62e57eca0f11a9a6e089b",
+      "source_tables": 5,
+      "source_images": 0,
+      "correction_commit": "4518fd71159921e51d5ad82cbdef6bbd54ad457b",
+      "files": [
+        {
+          "file": "ch-145b/145b-040000.md",
+          "old_blob": "8e6d0bd7ad76506ef14b15d5edcbaa54021fbd72",
+          "tables": 5,
+          "source_table_words": 44
+        }
+      ]
+    },
+    {
+      "act": "ch-216b",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/216B/full",
+      "source_sha256": "145ef278c5d96e4288941283bad72300744d4c78758d47ada67e83bd67ce8680",
+      "source_tables": 3,
+      "source_images": 0,
+      "correction_commit": "e7069e23e7f952f022e40e38010f482dc472f914",
+      "files": [
+        {
+          "file": "ch-216b/216b-720000.md",
+          "old_blob": "c4bf48b430286ac0d311d60821f4f2ffbb45fb0c",
+          "tables": 1,
+          "source_table_words": 32
+        }
+      ]
+    },
+    {
+      "act": "ch-371",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/371/full",
+      "source_sha256": "57483b0ed27028b7bbb73eac325e6bc31a2df28dd4557ee83505a54696a96259",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "f7b9840fb8f347365c7819b7a08323366bef06c4",
+      "files": [
+        {
+          "file": "ch-371/371-050000.md",
+          "old_blob": "ffd48e7733837da78a120a366b227e4df3c57a73",
+          "tables": 1,
+          "source_table_words": 5
+        }
+      ]
+    },
+    {
+      "act": "ch-383b",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/383B/full",
+      "source_sha256": "30ead0add7c99ec2e9f090e9dbbd7de4c2a6862548a2aa44777f873ad8f87029",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "24e37ae658021911578f0a788cd58bb9b85650ee",
+      "files": [
+        {
+          "file": "ch-383b/383b-203000.md",
+          "old_blob": "651e09578b7ca6f8232a6830e3768d402eb69f46",
+          "tables": 1,
+          "source_table_words": 3
+        }
+      ]
+    },
+    {
+      "act": "ch-474a",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/474A/full",
+      "source_sha256": "3dcffbbdb38b0fa0688e61c0cee7e6da9c6b5a234ff41931f27d426652dffffd",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "2e8156e4c4ad8c671eee191c82cbc62ec3700711",
+      "files": [
+        {
+          "file": "ch-474a/474a-045000.md",
+          "old_blob": "c23bc8ffe9bb7446d2cdf629d5ca4345c4ae16a8",
+          "tables": 1,
+          "source_table_words": 25
+        }
+      ]
+    },
+    {
+      "act": "ch-504b",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/504B/full",
+      "source_sha256": "41b463000cd6a424f6b4bfb05560e02482981239469b5471003768064472637a",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "f92e6eb4b09d4e1b9f98129e32467e31ccf1b46a",
+      "files": [
+        {
+          "file": "ch-504b/504b-117000.md",
+          "old_blob": "70efef46320b1707743038b767589abb4933dcf0",
+          "tables": 1,
+          "source_table_words": 5
+        }
+      ]
+    },
+    {
+      "act": "ch-508",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/508/full",
+      "source_sha256": "327fc89a106e2ba3b5f3583df69479e56a06f75b23559322c03ee92e8d68771e",
+      "source_tables": 4,
+      "source_images": 0,
+      "correction_commit": "7bb01e54a658b27a36d30da3d15e273a0eab6d8d",
+      "files": [
+        {
+          "file": "ch-508/508-350000.md",
+          "old_blob": "e1958461263c64d40a7a6aa3a5a147cf89ef4c08",
+          "tables": 1,
+          "source_table_words": 10
+        }
+      ]
+    },
+    {
+      "act": "ch-515b",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/515B/full",
+      "source_sha256": "7bdb3ec788e48d506b61b0044e9dadf7ecf87ba82f50ba86dbdaf79207cf59d2",
+      "source_tables": 4,
+      "source_images": 0,
+      "correction_commit": "9de23ec903dac205475d3762953148c9632fd768",
+      "files": [
+        {
+          "file": "ch-515b/515b-4-107.md",
+          "old_blob": "0912520eb18b66dbd93dca2541d8fcb1b0ff37a6",
+          "tables": 4,
+          "source_table_words": 168
+        }
+      ]
+    },
+    {
+      "act": "ch-524",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/524/full",
+      "source_sha256": "9c93bf2135bbf06a96a88fdfe014b2594bb3c07433d4ab6d1ecf426d15effbfa",
+      "source_tables": 10,
+      "source_images": 0,
+      "correction_commit": "4a188f74544ee006e05959b5c77eabad9e89bad0",
+      "files": [
+        {
+          "file": "ch-524/524-2-504.md",
+          "old_blob": "50b946ac24de22f2ec09faa855794c48dcf05330",
+          "tables": 5,
+          "source_table_words": 26
+        }
+      ]
+    },
+    {
+      "act": "ch-529",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/529/full",
+      "source_sha256": "9e80bd9885852fead5d4954c5fd19ae7f7320436f0399b0aa9fe770bc6914f4d",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "f0aa2fc43da8d638fe5b501e6f2610e44dfe4828",
+      "files": [
+        {
+          "file": "ch-529/529-040000.md",
+          "old_blob": "53541efeb4a645f4c2601da64c39917df4671200",
+          "tables": 1,
+          "source_table_words": 7
+        }
+      ]
+    },
+    {
+      "act": "ch-548",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/548/full",
+      "source_sha256": "18b985229708c5723318cdcba1183ad72f1e8789a712090777b3bd506699efc5",
+      "source_tables": 2,
+      "source_images": 0,
+      "correction_commit": "0ec47c5613ec22375980795c77f01c63569b81e0",
+      "files": [
+        {
+          "file": "ch-548/548-101000.md",
+          "old_blob": "acee841f883855ac5b340e1ac6ed5f04e014f5c7",
+          "tables": 1,
+          "source_table_words": 204
+        },
+        {
+          "file": "ch-548/548-670000.md",
+          "old_blob": "6ed94ecea5205061213192fba4f3b2a57ab98595",
+          "tables": 1,
+          "source_table_words": 693
+        }
+      ]
+    },
+    {
+      "act": "ch-577",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/577/full",
+      "source_sha256": "1552c637ab9de1bf2baef464cdfa76950d680430e3e4aad911254c7bf5f123f8",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "17b2b7545c81a4b6444b2f462a92ac7184c941b8",
+      "files": [
+        {
+          "file": "ch-577/577-130000.md",
+          "old_blob": "e75d19c14f9f2c5df0150331d6f8921dc80081dc",
+          "tables": 1,
+          "source_table_words": 8
+        }
+      ]
+    },
+    {
+      "act": "ch-79a",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/79A/full",
+      "source_sha256": "b1f355827c843c26d031f99c1728d4e809879c0b7ba0ce9994ad7537912e62f1",
+      "source_tables": 7,
+      "source_images": 0,
+      "correction_commit": "067d86a4b03e92795545c30ac84d4dbfcbd2b870",
+      "files": [
+        {
+          "file": "ch-79a/79a-150000.md",
+          "old_blob": "352a6503e8e6d5f8bcadcaa120cf122e677846f9",
+          "tables": 6,
+          "source_table_words": 101
+        },
+        {
+          "file": "ch-79a/79a-270000.md",
+          "old_blob": "c7d65caacfee9cd591172780ea9e391295f9aa04",
+          "tables": 1,
+          "source_table_words": 14
+        }
+      ]
+    },
+    {
+      "act": "ch-552",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/552/full",
+      "source_sha256": "9b0adc2c3987e6357eecbe0af3d994a1267ba9f372aed63ac300d77934b67bff",
+      "source_tables": 3,
+      "source_images": 0,
+      "correction_commit": "4cf1bb5841466a21d9ea6b7ca168976a60d7c905",
+      "files": [
+        {
+          "file": "ch-552/552-040000.md",
+          "old_blob": "71275441d05a2fce3b2dbba9182b1a4dadb59c2c",
+          "tables": 3,
+          "source_table_words": 43
+        }
+      ]
+    },
+    {
+      "act": "ch-103g",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/103G/full",
+      "source_sha256": "49a7cb104905600187926ed54d048b5b5f57c61297db5ed2f02ff13ce596e588",
+      "source_tables": 2,
+      "source_images": 0,
+      "correction_commit": "af33f8125cbbc3b3743f32239d8152b2da91674e",
+      "files": [
+        {
+          "file": "ch-103g/103g-421000.md",
+          "old_blob": "4400afb10096c7baaa2ae8da98c920d6310ee0a4",
+          "tables": 2,
+          "source_table_words": 60
+        }
+      ]
+    },
+    {
+      "act": "ch-116j",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/116J/full",
+      "source_sha256": "841bc6aff6a4f435071a4d3a5d8fddf0ed73bc95b1f91e5ab20936500e804c5b",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "0fb15ba37df91c4492fa6feb6918e143a48c3ee4",
+      "files": [
+        {
+          "file": "ch-116j/116j-873700.md",
+          "old_blob": "b112b184920766381d98c0a1bf78054ae54fbc83",
+          "tables": 1,
+          "source_table_words": 31
+        }
+      ]
+    },
+    {
+      "act": "ch-127a",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/127A/full",
+      "source_sha256": "a0573bb2a27487d44512527cc12ef3dd65a185d976c12a64d9b63a75ccc6390d",
+      "source_tables": 4,
+      "source_images": 0,
+      "correction_commit": "3f1df01e662c16ce7cb94dd59ffac64a375cf5cf",
+      "files": [
+        {
+          "file": "ch-127a/127a-450000.md",
+          "old_blob": "fb356567e3a57fe6c8e4dceef57dab9f213da235",
+          "tables": 4,
+          "source_table_words": 292
+        }
+      ]
+    },
+    {
+      "act": "ch-13",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/13/full",
+      "source_sha256": "c99e1ba289fa1f5f0d7797812c41845d9b4d2b9dbd2b4a5468c662a342c16a4a",
+      "source_tables": 3,
+      "source_images": 0,
+      "correction_commit": "2a281dc70923a4ab1ed1ea35d951565400543ca8",
+      "files": [
+        {
+          "file": "ch-13/13-320000.md",
+          "old_blob": "9eae40c84f3835144b1fa6af90677ee22385c534",
+          "tables": 3,
+          "source_table_words": 112
+        }
+      ]
+    },
+    {
+      "act": "ch-142a",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/142A/full",
+      "source_sha256": "b2546cda29ee8c08b7e43abf2cd8f252c7fca7beab60fc07cab24ce798e2e477",
+      "source_tables": 2,
+      "source_images": 0,
+      "correction_commit": "205f75003b814e359960afdfa089b34295d8040f",
+      "files": [
+        {
+          "file": "ch-142a/142a-609000.md",
+          "old_blob": "edf55eeddcbde0a95136a60c07a8009c399ddc00",
+          "tables": 2,
+          "source_table_words": 103
+        }
+      ]
+    },
+    {
+      "act": "ch-142b",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/142B/full",
+      "source_sha256": "9c5993fbb6cd3644976eaf2837e3eb73437ceeb85e51cc3693d2ccb8de189874",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "d09ef3b027c74a01a91c32e37f85e505bd75e78d",
+      "files": [
+        {
+          "file": "ch-142b/142b-120000.md",
+          "old_blob": "f04a53f6bebce4f3308f74b9a90a303972684f31",
+          "tables": 1,
+          "source_table_words": 56
+        }
+      ]
+    },
+    {
+      "act": "ch-142c",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/142C/full",
+      "source_sha256": "cb40f1b6056d4112d90337e7f345752bb48f020d8fbe72df44ea1effcdbbc46e",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "fc2119735bb8ea6071f6c1911034b49e59595761",
+      "files": [
+        {
+          "file": "ch-142c/142c-080000.md",
+          "old_blob": "cc173b4d086f328cdc94b117c4b85ce1eb466951",
+          "tables": 1,
+          "source_table_words": 9
+        }
+      ]
+    },
+    {
+      "act": "ch-142e",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/142E/full",
+      "source_sha256": "77970c8398c8e767f2d2cdefe96fe11209e4c53bf9a0e982a66100b2e09d84b6",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "13b772a12715983d01644df02b4c8c736553a6d6",
+      "files": [
+        {
+          "file": "ch-142e/142e-150000.md",
+          "old_blob": "e36b27d1e1ffebdb537d906f49c0af8c691b2e1d",
+          "tables": 1,
+          "source_table_words": 73
+        }
+      ]
+    },
+    {
+      "act": "ch-142g",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/142G/full",
+      "source_sha256": "173dc6ea5a0ea76d436f277f599b93360e4e296ce2372bfee79894f211fb5417",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "c81be6b0be13df39aaff507ad0bb3db1e0b43420",
+      "files": [
+        {
+          "file": "ch-142g/142g-340000.md",
+          "old_blob": "89176089ae69e24cdbaafb4c5f7f15d786a47c5e",
+          "tables": 1,
+          "source_table_words": 24
+        }
+      ]
+    },
+    {
+      "act": "ch-142h",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/142H/full",
+      "source_sha256": "796379f15264f80f5e841de10a1e252c309fa0af9b228e7e591b4f88801eabe7",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "0d5b2ee2e58f45d2d0c33df0394fbb9192bb72f1",
+      "files": [
+        {
+          "file": "ch-142h/142h-100000.md",
+          "old_blob": "674e93e738945f0dded6dc9b670360871dd9d5ee",
+          "tables": 1,
+          "source_table_words": 20
+        }
+      ]
+    },
+    {
+      "act": "ch-142i",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/142I/full",
+      "source_sha256": "a3a58d0991682c198232abbdda270092b4d945c5f38da3e20ea57ef14f25a9e7",
+      "source_tables": 2,
+      "source_images": 0,
+      "correction_commit": "fd8f9ec72eae5e5f51abf416f3fa48d9ca95bb43",
+      "files": [
+        {
+          "file": "ch-142i/142i-070000.md",
+          "old_blob": "33821d8141c6f1ab6dfb9e60e013306471b34c82",
+          "tables": 2,
+          "source_table_words": 70
+        }
+      ]
+    },
+    {
+      "act": "ch-144g",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/144G/full",
+      "source_sha256": "2a400e6e86e7e5582fef985151635518a158f2e880829e60c6c6569ed922628c",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "3c25f334a0be7abc20cc564b1ac6d4337a67e459",
+      "files": [
+        {
+          "file": "ch-144g/144g-191000.md",
+          "old_blob": "a37f287b13d03e834ed3457e39db6a7cad813a0b",
+          "tables": 1,
+          "source_table_words": 104
+        }
+      ]
+    },
+    {
+      "act": "ch-149a",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/149A/full",
+      "source_sha256": "edc3627b1f2a85ffb61595198f0a30bf62173f17ec73ca3fff6592424b64e065",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "ceac3493a4276ab3c8f386fdbad778f8fa4f1cca",
+      "files": [
+        {
+          "file": "ch-149a/149a-955000.md",
+          "old_blob": "81ebc88a0f72f02d182560f7f549ce05ded0fc24",
+          "tables": 1,
+          "source_table_words": 82
+        }
+      ]
+    },
+    {
+      "act": "ch-15a",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/15A/full",
+      "source_sha256": "aa44ca6d145edbd5aca6fe0f09165d7fe4cc2aea4072d96e1052ad63ec19b7cd",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "8123350773fcaa09188036186cf11c4b414cb607",
+      "files": [
+        {
+          "file": "ch-15a/15a-083000.md",
+          "old_blob": "cfd16e7d52986990473cf7ba383d3264366f0b3a",
+          "tables": 1,
+          "source_table_words": 10
+        }
+      ]
+    },
+    {
+      "act": "ch-169",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/169/full",
+      "source_sha256": "0c21f65ecc23ea6b1c731721d3edddb81630583a6863a8744e76e4af3c3f6d29",
+      "source_tables": 7,
+      "source_images": 0,
+      "correction_commit": "b3c0f0db9fa385ad36d9ece5cc2ea5e482d185d3",
+      "files": [
+        {
+          "file": "ch-169/169-670000.md",
+          "old_blob": "e1ced1a3a64802530288d9554e3cd8367c531c1a",
+          "tables": 1,
+          "source_table_words": 114
+        },
+        {
+          "file": "ch-169/169-824000.md",
+          "old_blob": "0d6fd23ac1706a07283f936b6c1ff738c3261ca5",
+          "tables": 4,
+          "source_table_words": 568
+        },
+        {
+          "file": "ch-169/169-860000.md",
+          "old_blob": "86ea22864289c7f89dd1cf81e73621dd46ffe53f",
+          "tables": 2,
+          "source_table_words": 137
+        }
+      ]
+    },
+    {
+      "act": "ch-171",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/171/full",
+      "source_sha256": "905e2c4db15de0e6124d3730e2ea526163f4027d735264a70d463687e3a9114f",
+      "source_tables": 3,
+      "source_images": 0,
+      "correction_commit": "b7f8eff26d470279473082631f90bedf7ca92258",
+      "files": [
+        {
+          "file": "ch-171/171-020000.md",
+          "old_blob": "24eb9b214ed99eb5c14c7a7c14572030ae4e8a1d",
+          "tables": 1,
+          "source_table_words": 49
+        },
+        {
+          "file": "ch-171/171-060000.md",
+          "old_blob": "14a13b2939a4413cc00baa62b2cd47768c20eea4",
+          "tables": 1,
+          "source_table_words": 123
+        },
+        {
+          "file": "ch-171/171-061000.md",
+          "old_blob": "d3c625c57fd125ca9d7869a482e7988dfcd0d295",
+          "tables": 1,
+          "source_table_words": 34
+        }
+      ]
+    },
+    {
+      "act": "ch-176",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/176/full",
+      "source_sha256": "a58aa0b75223d1b491b55eda4d7fa0a01993ae09f3cdccc3af559800cf9dd8a6",
+      "source_tables": 4,
+      "source_images": 0,
+      "correction_commit": "d325e12076cf49bc708a0c362052f3bbb9c7b129",
+      "files": [
+        {
+          "file": "ch-176/176-101000.md",
+          "old_blob": "9909773819e50fe11e9f8eabca725d6d9397a200",
+          "tables": 1,
+          "source_table_words": 124
+        },
+        {
+          "file": "ch-176/176-194000.md",
+          "old_blob": "baa3a972d6161a628214853b8a8357b2901f49fc",
+          "tables": 2,
+          "source_table_words": 61
+        },
+        {
+          "file": "ch-176/176-221000.md",
+          "old_blob": "3696f195739fc91865a722a35415557b4fd681c0",
+          "tables": 1,
+          "source_table_words": 49
+        }
+      ]
+    },
+    {
+      "act": "ch-181a",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/181A/full",
+      "source_sha256": "7e2037f1f60026dc12612b417c736aa90d19bcd4f75d651e7f158a5303b3df6a",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "66968a5ac0f5a43a8088e6424e61e9880e1dd77e",
+      "files": [
+        {
+          "file": "ch-181a/181a-120000.md",
+          "old_blob": "8bf497dd201923187f3fc4a80fba259359bb352b",
+          "tables": 1,
+          "source_table_words": 191
+        }
+      ]
+    },
+    {
+      "act": "ch-18c",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/18C/full",
+      "source_sha256": "4e91f5660ca10e24403d1696901693e7c8d5e51bdc38e02942e47e31b8e78888",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "c85c3f4d614c5cb3d4131a54b5d54bf0ac6f48fc",
+      "files": [
+        {
+          "file": "ch-18c/18c-211000.md",
+          "old_blob": "4c1aef1e0d2dd39b1f160ab858c093caaa856f0a",
+          "tables": 1,
+          "source_table_words": 15
+        }
+      ]
+    },
+    {
+      "act": "ch-205a",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/205A/full",
+      "source_sha256": "3cf6f91a710665e934b761f93328081fef91aeab2008fc2e6b64a3a81d7598f1",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "faf2708dc93e1614a4a8c6d8e00ee5c093d94f7e",
+      "files": [
+        {
+          "file": "ch-205a/205a-120000.md",
+          "old_blob": "93c75d4e4837ab90c6f86a0fa1aff904d4a202aa",
+          "tables": 1,
+          "source_table_words": 5
+        }
+      ]
+    },
+    {
+      "act": "ch-245a",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/245A/full",
+      "source_sha256": "b30c47db624c3c50744bcde9de8e112e2cb61bad57eef157902bc74c4d1a4d51",
+      "source_tables": 7,
+      "source_images": 0,
+      "correction_commit": "8b859e522f71ca71ae3274d410da7b4047862860",
+      "files": [
+        {
+          "file": "ch-245a/245a-100000.md",
+          "old_blob": "9bc288e5f5a7286fa13d3a33b60a9e47f5af99c9",
+          "tables": 7,
+          "source_table_words": 566
+        }
+      ]
+    },
+    {
+      "act": "ch-256l",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/256L/full",
+      "source_sha256": "d7c589e818ac10e5b7c75da8558d5f4de0720e27cc7d16203f96167bde835012",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "3a9fdb376b3644a699ccf5e5b7078347076ed9ce",
+      "files": [
+        {
+          "file": "ch-256l/256l-150000.md",
+          "old_blob": "4871b557ee629849f82efa2f3071dead1fa911c0",
+          "tables": 1,
+          "source_table_words": 57
+        }
+      ]
+    },
+    {
+      "act": "ch-257b",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/257B/full",
+      "source_sha256": "4c5b0f8d65fda5f639f0b06ce713023ce3c438f03dd08287fa40a7b6cf90a721",
+      "source_tables": 3,
+      "source_images": 0,
+      "correction_commit": "b63ac6f6ee3843c2c05b4785a8cd8d6507a82243",
+      "files": [
+        {
+          "file": "ch-257b/257b-040000.md",
+          "old_blob": "491648ed85482656b2ec9ff7c06d96b747cb6455",
+          "tables": 3,
+          "source_table_words": 52
+        }
+      ]
+    },
+    {
+      "act": "ch-259a",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/259A/full",
+      "source_sha256": "d6577c28fa2ed905eed1eba9adacca73574fe767971cf463ea292b3400ffe104",
+      "source_tables": 2,
+      "source_images": 0,
+      "correction_commit": "1cf7f1f2a22d32a66e4693bc7e9d6e23811218d6",
+      "files": [
+        {
+          "file": "ch-259a/259a-200000.md",
+          "old_blob": "357cf47d8b3da19aa46e695dd85233cc911f0982",
+          "tables": 2,
+          "source_table_words": 66
+        }
+      ]
+    },
+    {
+      "act": "ch-277",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/277/full",
+      "source_sha256": "3edd08ee4fccbabfae61f97f656a7d102dd31ec4f99522864e8ab55d5887f59e",
+      "source_tables": 2,
+      "source_images": 0,
+      "correction_commit": "cb7321dcf7cbfe1dc4dedc605215129b47170953",
+      "files": [
+        {
+          "file": "ch-277/277-230000.md",
+          "old_blob": "bec3ce7f558c7598bc91527988e9a141cf3808bd",
+          "tables": 2,
+          "source_table_words": 43
+        }
+      ]
+    },
+    {
+      "act": "ch-281",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/281/full",
+      "source_sha256": "066fe722e1079f0c0f49c445e4de3554aa772e09ef3bdbc6047217c3c1181888",
+      "source_tables": 2,
+      "source_images": 0,
+      "correction_commit": "ac9ca88838ce22bbeb6041ad371fdc13348dce41",
+      "files": [
+        {
+          "file": "ch-281/281-230000.md",
+          "old_blob": "2eccca977932f40465d9f152dde00761b0dad6e5",
+          "tables": 2,
+          "source_table_words": 54
+        }
+      ]
+    },
+    {
+      "act": "ch-289a",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/289A/full",
+      "source_sha256": "5598d11202e23a5aec13813bac0cd116ec7b2a643c549d2b011b7c7513e02a4e",
+      "source_tables": 2,
+      "source_images": 0,
+      "correction_commit": "9dcbb2663e3f2ca784df39d872a2eeb9418a019b",
+      "files": [
+        {
+          "file": "ch-289a/289a-250000.md",
+          "old_blob": "ec8535d74a0f77845142b020dea2067ece367079",
+          "tables": 1,
+          "source_table_words": 26
+        },
+        {
+          "file": "ch-289a/289a-260000.md",
+          "old_blob": "940b1056a81375f44e32f357771f3ee912f7a5b8",
+          "tables": 1,
+          "source_table_words": 16
+        }
+      ]
+    },
+    {
+      "act": "ch-28a",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/28A/full",
+      "source_sha256": "708b0394135a1bb45e10bc8fc51fc4046e599e8713214962c6134bcfebfa3e98",
+      "source_tables": 2,
+      "source_images": 0,
+      "correction_commit": "c3451485406cc56df07ebe82652f8fed5b1bfaea",
+      "files": [
+        {
+          "file": "ch-28a/28a-080000.md",
+          "old_blob": "52691c3d0a0654065face0c6411edbbef2c7125e",
+          "tables": 1,
+          "source_table_words": 805
+        },
+        {
+          "file": "ch-28a/28a-082000.md",
+          "old_blob": "e65181f81f28b0138e21367af0a29407987ca7d8",
+          "tables": 1,
+          "source_table_words": 27
+        }
+      ]
+    },
+    {
+      "act": "ch-290",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/290/full",
+      "source_sha256": "0ea40367ad3ad820a8f5e0aeff1f37c3fa29203caf957d0efaf5c32e157a284e",
+      "source_tables": 4,
+      "source_images": 0,
+      "correction_commit": "d0436a2dfffecba1cd00adbb1d85d69b1feac6e8",
+      "files": [
+        {
+          "file": "ch-290/290-069300.md",
+          "old_blob": "3c7cd5877546015dacc293eb1a21b6de49f1afbc",
+          "tables": 1,
+          "source_table_words": 209
+        },
+        {
+          "file": "ch-290/290-092200.md",
+          "old_blob": "69390fb3f245da7141a93e56ff453654f558d76d",
+          "tables": 2,
+          "source_table_words": 117
+        },
+        {
+          "file": "ch-290/290-191000.md",
+          "old_blob": "afd96d6959e28e5e31e902226330e54fd9029dfe",
+          "tables": 1,
+          "source_table_words": 50
+        }
+      ]
+    },
+    {
+      "act": "ch-290a",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/290A/full",
+      "source_sha256": "7b9daf126a7ca4e293e56c83e527532e8b25f37a9ae0e07c5969db3911e14e7e",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "50e736fa41c6aa1301ceed0b5604df3e0393aac5",
+      "files": [
+        {
+          "file": "ch-290a/290a-040000.md",
+          "old_blob": "4d2396c61cb05a653facfbaab685a4b47f377f03",
+          "tables": 1,
+          "source_table_words": 217
+        }
+      ]
+    },
+    {
+      "act": "ch-291",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/291/full",
+      "source_sha256": "02678c6dce86162eacf899a6295e917a3a856ebf8d508d2d3c222c18073f278d",
+      "source_tables": 2,
+      "source_images": 0,
+      "correction_commit": "3235a23f80acbfa5a885cf9a948320291e3746e9",
+      "files": [
+        {
+          "file": "ch-291/291-030000.md",
+          "old_blob": "fa81c3017f584a7f9d59d8b4e402223441d49e75",
+          "tables": 2,
+          "source_table_words": 153
+        }
+      ]
+    },
+    {
+      "act": "ch-299c",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/299C/full",
+      "source_sha256": "4409f5744690dcc4380ad6962d7cdc23c6c5bf44727187033a167d8a257732a7",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "e768f29cf5ad19f93b2435e4c3c2b4ee954ac23a",
+      "files": [
+        {
+          "file": "ch-299c/299c-061000.md",
+          "old_blob": "492f9bcde29ab892e3e05e1450b95920a78b79bd",
+          "tables": 1,
+          "source_table_words": 35
+        }
+      ]
+    },
+    {
+      "act": "ch-327",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/327/full",
+      "source_sha256": "8a38af6b7da69c56fb8f935d40d8bcf0d7815bd5ad12972fa5d19e70465055cb",
+      "source_tables": 12,
+      "source_images": 0,
+      "correction_commit": "7905163ed4c8ff55bd2c228c443c6b020abb68f6",
+      "files": [
+        {
+          "file": "ch-327/327-320000.md",
+          "old_blob": "82ce2a07e97b684ed1f4168a66e745b1ffe03afe",
+          "tables": 12,
+          "source_table_words": 232
+        }
+      ]
+    },
+    {
+      "act": "ch-340a",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/340A/full",
+      "source_sha256": "a98eed6e7c33f0ec918d317f9314a45c0d089683b4054342f6ce677b867f190c",
+      "source_tables": 5,
+      "source_images": 0,
+      "correction_commit": "971eefb29b542b7ca96cf8c9f0ca5400404f4813",
+      "files": [
+        {
+          "file": "ch-340a/340a-301000.md",
+          "old_blob": "d361ad18b7009876fdc41f92404c280cea627207",
+          "tables": 2,
+          "source_table_words": 222
+        },
+        {
+          "file": "ch-340a/340a-302000.md",
+          "old_blob": "5839c1d92b29c4cccc5bd5c16f7800c010c4473a",
+          "tables": 1,
+          "source_table_words": 16
+        },
+        {
+          "file": "ch-340a/340a-413000.md",
+          "old_blob": "be5762d4081cc6378b5e526a92cc5963b5aab33f",
+          "tables": 2,
+          "source_table_words": 10
+        }
+      ]
+    },
+    {
+      "act": "ch-351",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/351/full",
+      "source_sha256": "173bad338293e46772c2fe89f49634ef241e3b0193ceb75f7963bed347317b88",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "3bb793405daeeb1053658cd016f169efdd3beffa",
+      "files": [
+        {
+          "file": "ch-351/351-220000.md",
+          "old_blob": "6d07f23c7210776a13b22dca86aab51becc297c1",
+          "tables": 1,
+          "source_table_words": 5
+        }
+      ]
+    },
+    {
+      "act": "ch-352",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/352/full",
+      "source_sha256": "8412c1b7f6cceb927f6a38fcb63ed135a16d7d130c8d4cf61676d46b3c05ef3f",
+      "source_tables": 4,
+      "source_images": 0,
+      "correction_commit": "76a75850f0c037c588e30edb2c2631b18558a3c4",
+      "files": [
+        {
+          "file": "ch-352/352-040000.md",
+          "old_blob": "a64dafdc243004351f7194a343e3c4ecf7746a40",
+          "tables": 2,
+          "source_table_words": 64
+        },
+        {
+          "file": "ch-352/352-920000.md",
+          "old_blob": "e4fe1c0b79811d6c0899cd9313969b7845a99528",
+          "tables": 2,
+          "source_table_words": 28
+        }
+      ]
+    },
+    {
+      "act": "ch-353",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/353/full",
+      "source_sha256": "faa4f5bc8be89d95dd636d2a3f1835406ac974f55b1881643b7cac89716aac88",
+      "source_tables": 8,
+      "source_images": 0,
+      "correction_commit": "22a4ecbd33eea3e1b10fc3253e44071856f7eb61",
+      "files": [
+        {
+          "file": "ch-353/353-270000.md",
+          "old_blob": "1980b73a249005fa1d7820a07986ea5916684fdc",
+          "tables": 3,
+          "source_table_words": 51
+        },
+        {
+          "file": "ch-353/353-310000.md",
+          "old_blob": "d6f371d7fedbdf28d7bfa8465305d4e27b611abf",
+          "tables": 1,
+          "source_table_words": 59
+        },
+        {
+          "file": "ch-353/353-650000.md",
+          "old_blob": "b81ddd5e5d161b42c6870ce0da8aa98073cb7d54",
+          "tables": 2,
+          "source_table_words": 48
+        },
+        {
+          "file": "ch-353/353-651100.md",
+          "old_blob": "1f5bb5a945f9c5eedc50bdd446660342e9333bea",
+          "tables": 1,
+          "source_table_words": 42
+        },
+        {
+          "file": "ch-353/353-651200.md",
+          "old_blob": "dc7bc852a0fdee97bbbedd6bf30bc65e895b2e89",
+          "tables": 1,
+          "source_table_words": 26
+        }
+      ]
+    },
+    {
+      "act": "ch-354",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/354/full",
+      "source_sha256": "4e70cdc66b4398892aafa42b60bcb266607dc4f40aa7b343a11ab72f166fcfc1",
+      "source_tables": 4,
+      "source_images": 0,
+      "correction_commit": "14f76cf77a935130ec8342dc7e6be91d98916c6b",
+      "files": [
+        {
+          "file": "ch-354/354-420000.md",
+          "old_blob": "1128b694e545f0ae42b5433437fea56f5bd5cc6c",
+          "tables": 1,
+          "source_table_words": 37
+        },
+        {
+          "file": "ch-354/354-440000.md",
+          "old_blob": "1d73deed3d8df462deb4b1a32f6256afac2b39f1",
+          "tables": 2,
+          "source_table_words": 70
+        },
+        {
+          "file": "ch-354/354-460000.md",
+          "old_blob": "a323d3037e1826f3fcd3f00e4e8372ae19119bc9",
+          "tables": 1,
+          "source_table_words": 45
+        }
+      ]
+    },
+    {
+      "act": "ch-354a",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/354A/full",
+      "source_sha256": "d97016de0b03d0d4b7d2ff12b76c986a908ae0a9f7b67b01966cce369c224e26",
+      "source_tables": 5,
+      "source_images": 0,
+      "correction_commit": "4b7cae9a226efdb8b5b18ebacdd2e16b24978adc",
+      "files": [
+        {
+          "file": "ch-354a/354a-120000.md",
+          "old_blob": "993caf91a5a4cbdb419dec992a48b331f616f1e9",
+          "tables": 3,
+          "source_table_words": 83
+        },
+        {
+          "file": "ch-354a/354a-310000.md",
+          "old_blob": "3217bbccd8a50eb1b2e99ef9cad5ff7e5fd06cdd",
+          "tables": 2,
+          "source_table_words": 73
+        }
+      ]
+    },
+    {
+      "act": "ch-354b",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/354B/full",
+      "source_sha256": "c15b4de1568e87815fbaa643c1d0a8f7aa79351a7bb0665265ec76b3720a00a7",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "3ff15d977b89dd9265aab2807ada10724998b993",
+      "files": [
+        {
+          "file": "ch-354b/354b-230000.md",
+          "old_blob": "ae5787c795c2f1f5686f7e8bac3ecf63f83ba67d",
+          "tables": 1,
+          "source_table_words": 45
+        }
+      ]
+    },
+    {
+      "act": "ch-356",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/356/full",
+      "source_sha256": "6147977ea3a6c55daa4a50b5263828b1ec3c87ccd5b03bf215a8b9875c090890",
+      "source_tables": 8,
+      "source_images": 0,
+      "correction_commit": "7d42e3b5371956df6ae4a0ee43325331a211ab7a",
+      "files": [
+        {
+          "file": "ch-356/356-215000.md",
+          "old_blob": "3d9728d9325f313b49fc3a4b1c7946b56556ef6c",
+          "tables": 2,
+          "source_table_words": 165
+        },
+        {
+          "file": "ch-356/356-415000.md",
+          "old_blob": "e3a3c4e48e78de2e63141dfb110622541bc675b7",
+          "tables": 2,
+          "source_table_words": 96
+        },
+        {
+          "file": "ch-356/356-590000.md",
+          "old_blob": "35ec86ef412c73815756a2f34c86de79bc0d0d91",
+          "tables": 4,
+          "source_table_words": 146
+        }
+      ]
+    },
+    {
+      "act": "ch-366",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/366/full",
+      "source_sha256": "baaad784c68284f69cb40aefe55e7ce3db8050c8bf308feea60b3a5bd10f0489",
+      "source_tables": 2,
+      "source_images": 0,
+      "correction_commit": "f9f548123bd818c8217638848c3b2ec18dbaf3c7",
+      "files": [
+        {
+          "file": "ch-366/366-015000.md",
+          "old_blob": "4ce682146ba6451143f986d6cff392069391bf99",
+          "tables": 1,
+          "source_table_words": 5
+        },
+        {
+          "file": "ch-366/366-016000.md",
+          "old_blob": "cd1b8e8b4c3777e468097329df224ce1faf9099e",
+          "tables": 1,
+          "source_table_words": 5
+        }
+      ]
+    },
+    {
+      "act": "ch-424a",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/424A/full",
+      "source_sha256": "d33bb34d63b6c2ae4420ade073ae3e83c8ac91a39911a1d9bd2103043575a383",
+      "source_tables": 2,
+      "source_images": 0,
+      "correction_commit": "e1669dad76ae4c9666d99c9afe938261b0cb89eb",
+      "files": [
+        {
+          "file": "ch-424a/424a-016000.md",
+          "old_blob": "7cde994b9d6bb90c0a954cc4aa483c5cc2a7acb8",
+          "tables": 1,
+          "source_table_words": 30
+        },
+        {
+          "file": "ch-424a/424a-020000.md",
+          "old_blob": "d09fd6e2c0df3f3a79abfcbfcc874bcf6706bde0",
+          "tables": 1,
+          "source_table_words": 30
+        }
+      ]
+    },
+    {
+      "act": "ch-47",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/47/full",
+      "source_sha256": "be1dcfa887b3346c29bac096a6559dea6aebe8d0e9b073417f75abd0dc9cce0a",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "9830bbfe8bcad15a3baa5ad080e0c2b98e5377e6",
+      "files": [
+        {
+          "file": "ch-47/47-580000.md",
+          "old_blob": "a3aac27b060218ae07bfba53f3a85e850aedf9f0",
+          "tables": 1,
+          "source_table_words": 74
+        }
+      ]
+    },
+    {
+      "act": "ch-477c",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/477C/full",
+      "source_sha256": "94f22a8061cde217de57fe59bf06d0dd95ad162f1ee79df368a1b7c36e993bbe",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "ceba505faf1c9487e09d1c2cef410cf9eec6dfcb",
+      "files": [
+        {
+          "file": "ch-477c/477c-030000.md",
+          "old_blob": "5f20463be80bff7c70f6efb51a0a94e382d1e683",
+          "tables": 1,
+          "source_table_words": 131
+        }
+      ]
+    },
+    {
+      "act": "ch-500",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/500/full",
+      "source_sha256": "d6880c2b83395276e31861a7e00915bc1d7dd32c3776e43f424749e674205e36",
+      "source_tables": 2,
+      "source_images": 0,
+      "correction_commit": "bdfe96f736c3729f7062e89ec6f71b4e91f551e0",
+      "files": [
+        {
+          "file": "ch-500/500-245000.md",
+          "old_blob": "2e9135fddbdd62824c307d57f6ec37c087f9756d",
+          "tables": 2,
+          "source_table_words": 38
+        }
+      ]
+    },
+    {
+      "act": "ch-523",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/523/full",
+      "source_sha256": "93de7a781da9852ee6ba671f9ebcb595594357daaa2964912b906e4cde2c6b57",
+      "source_tables": 13,
+      "source_images": 0,
+      "correction_commit": "bc5e903624346127d037e4cf20e2501a229a83b9",
+      "files": [
+        {
+          "file": "ch-523/523-170000.md",
+          "old_blob": "a3b4566cb68ee7306506a5b58b79b0ffc07775a8",
+          "tables": 2,
+          "source_table_words": 45
+        },
+        {
+          "file": "ch-523/523-230000.md",
+          "old_blob": "5cb452042717f18eebdcdfff344705440ea90ad1",
+          "tables": 11,
+          "source_table_words": 504
+        }
+      ]
+    },
+    {
+      "act": "ch-58",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/58/full",
+      "source_sha256": "a676313810c39e577009802d2746108d36c0039632c5c9cddccefcc2c411d22c",
+      "source_tables": 2,
+      "source_images": 0,
+      "correction_commit": "ff1b059a03b261bc16506db90d717ea96b0af174",
+      "files": [
+        {
+          "file": "ch-58/58-080000.md",
+          "old_blob": "e706cffa00618bd5f803ba6b3c901aa8f9b8241d",
+          "tables": 2,
+          "source_table_words": 50
+        }
+      ]
+    },
+    {
+      "act": "ch-582",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/582/full",
+      "source_sha256": "e03d4bbe3bb7fb40bf2d91d4ec1391273b97b3edf2162ccbc207bc2c667504b4",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "4cf0ff22b9837fe82f80123f3855b79e7c702e8a",
+      "files": [
+        {
+          "file": "ch-582/582-010000.md",
+          "old_blob": "7774364afa54b44a377ff3e1a52556b59c2b4ca2",
+          "tables": 1,
+          "source_table_words": 71
+        }
+      ]
+    },
+    {
+      "act": "ch-60a",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/60A/full",
+      "source_sha256": "98f404fdbb7a2ec89e88c6fca56e32e7466f505d003fdf5e45b0cd246b4366e2",
+      "source_tables": 6,
+      "source_images": 0,
+      "correction_commit": "35373f5d935fee62efd698aca40852c47f12c912",
+      "files": [
+        {
+          "file": "ch-60a/60a-070000.md",
+          "old_blob": "9e6ece4f9eb90559e26f2d6998eb3fc3f8f7628f",
+          "tables": 1,
+          "source_table_words": 68
+        },
+        {
+          "file": "ch-60a/60a-092100.md",
+          "old_blob": "99a9f54ed620e88925611ae36fc8990ee67cdf9e",
+          "tables": 2,
+          "source_table_words": 124
+        },
+        {
+          "file": "ch-60a/60a-768000.md",
+          "old_blob": "1da54c9a53b919348102ecc2204055d557b61dc4",
+          "tables": 1,
+          "source_table_words": 124
+        },
+        {
+          "file": "ch-60a/60a-803000.md",
+          "old_blob": "f3998568128d79f39e0171a7c4b0cad2b5d65ce7",
+          "tables": 2,
+          "source_table_words": 214
+        }
+      ]
+    },
+    {
+      "act": "ch-62a",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/62A/full",
+      "source_sha256": "90d92cedeb077a5cebbe3f3a3655161ab2e96b9cdfb5420a09176346122cc18d",
+      "source_tables": 4,
+      "source_images": 0,
+      "correction_commit": "f2e2cf92765127df622c59c505b35eb7651fb577",
+      "files": [
+        {
+          "file": "ch-62a/62a-135000.md",
+          "old_blob": "a208324c0ca27d0d17ed90a84c05a23b43ff0473",
+          "tables": 1,
+          "source_table_words": 14
+        },
+        {
+          "file": "ch-62a/62a-290000.md",
+          "old_blob": "2e2ddceace9625a4b600188a22edb1cf4d1922ba",
+          "tables": 1,
+          "source_table_words": 21
+        },
+        {
+          "file": "ch-62a/62a-440000.md",
+          "old_blob": "5d73773b219bd17d5853d72c1ba928c1ece6910d",
+          "tables": 2,
+          "source_table_words": 49
+        }
+      ]
+    },
+    {
+      "act": "ch-62s",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/62S/full",
+      "source_sha256": "22b04ecddfe0d9fb651299bd610ae34676731cee2a3f176827325a1474ee77c1",
+      "source_tables": 5,
+      "source_images": 0,
+      "correction_commit": "d26367ea363fc5f742bcf997813c6be7b179261a",
+      "files": [
+        {
+          "file": "ch-62s/62s-240000.md",
+          "old_blob": "2f5c34e662f8120ef8832827e55e80f1b394f5c5",
+          "tables": 3,
+          "source_table_words": 34
+        },
+        {
+          "file": "ch-62s/62s-266000.md",
+          "old_blob": "4a296168cf3f2c39cbdb4d72c016ad8ea6d7bc1b",
+          "tables": 2,
+          "source_table_words": 113
+        }
+      ]
+    },
+    {
+      "act": "ch-65a",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/65A/full",
+      "source_sha256": "09770a4964a63d56cf01688530f8969e1effc40238edc38c89a6a6050dd26d51",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "80f917149a13dd5a85b5c108ad887863121470ba",
+      "files": [
+        {
+          "file": "ch-65a/65a-010000.md",
+          "old_blob": "267ea979a8e6beaa03aa4b6def55bbf9e30a26bc",
+          "tables": 1,
+          "source_table_words": 12
+        }
+      ]
+    },
+    {
+      "act": "ch-67a",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/67A/full",
+      "source_sha256": "44e7be332e5c4b4b1b85d0780adbc7f5670964498ba6894db0d1d5123344c2fe",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "2575510faee32b6bd2c44cb77706adb2b52cb4d6",
+      "files": [
+        {
+          "file": "ch-67a/67a-010000.md",
+          "old_blob": "68ce9fbe173a64534451786c3b6e98aab85b5bf0",
+          "tables": 1,
+          "source_table_words": 47
+        }
+      ]
+    },
+    {
+      "act": "ch-80g",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/80G/full",
+      "source_sha256": "0e26cd651825598096b2e9f422bd3bd3d26b4c443ca113d1941efe7cec6f0e1d",
+      "source_tables": 1,
+      "source_images": 0,
+      "correction_commit": "c72fff5968586dd52c611eccefb2d7864269548f",
+      "files": [
+        {
+          "file": "ch-80g/80g-060000.md",
+          "old_blob": "e2170ac0d3e05e73028197b7c15b581bd85b2850",
+          "tables": 1,
+          "source_table_words": 28
+        }
+      ]
+    },
+    {
+      "act": "ch-82",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/82/full",
+      "source_sha256": "65c4a44e2f2807113e03a260f771e7889f2b9acf317f20e6ca034ed2bba66d8d",
+      "source_tables": 6,
+      "source_images": 0,
+      "correction_commit": "9b374a0c368877eb880261039f83798a782da4df",
+      "files": [
+        {
+          "file": "ch-82/82-660000.md",
+          "old_blob": "2452cbeb099e94da4254986f4dc79be45d42c123",
+          "tables": 4,
+          "source_table_words": 105
+        },
+        {
+          "file": "ch-82/82-670000.md",
+          "old_blob": "c5bd06c4a9a5d940a175064e41dcc4abf83f33d4",
+          "tables": 2,
+          "source_table_words": 20
+        }
+      ]
+    }
+  ]
+}
