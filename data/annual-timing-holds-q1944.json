@@ -1,0 +1,65 @@
+{
+  "purpose": "Official 2024 chapter evidence for five previously held annual-history candidates",
+  "new_versions": 0,
+  "chapters": [
+    {
+      "act": "ch-10",
+      "edition": 2024,
+      "official_source": "https://www.revisor.mn.gov/statutes/2024/cite/10/full",
+      "official_sha256": "e8bdd216b06fccd59efdf101676f82d50980ea18f5622a1e3aca85166c573b4b",
+      "official_section_divs": 35,
+      "source_images_in_sections": 0,
+      "exact_timing_paragraphs": [],
+      "history_status": "held",
+      "reason": "Annual text has no established compatible range against the published first record; a provision expiry does not establish a chapter-wide commencement day."
+    },
+    {
+      "act": "ch-16e",
+      "edition": 2024,
+      "official_source": "https://www.revisor.mn.gov/statutes/2024/cite/16E/full",
+      "official_sha256": "748a78001ac5b21ea04b1cf4b5fbc3668ec6030def658deae26498c61a6a4a31",
+      "official_section_divs": 21,
+      "source_images_in_sections": 0,
+      "exact_timing_paragraphs": [
+        "(b) This subdivision expires December 31, 2027."
+      ],
+      "history_status": "held",
+      "reason": "Annual text has no established compatible range against the published first record; a provision expiry does not establish a chapter-wide commencement day."
+    },
+    {
+      "act": "ch-34a",
+      "edition": 2024,
+      "official_source": "https://www.revisor.mn.gov/statutes/2024/cite/34A/full",
+      "official_sha256": "52f3d25f7e7b27f41be69db092ba95cb27e31a277c5bc2d351b5d24647493b8b",
+      "official_section_divs": 13,
+      "source_images_in_sections": 0,
+      "exact_timing_paragraphs": [],
+      "history_status": "held",
+      "reason": "Annual text has no established compatible range against the published first record; a provision expiry does not establish a chapter-wide commencement day."
+    },
+    {
+      "act": "ch-62c",
+      "edition": 2024,
+      "official_source": "https://www.revisor.mn.gov/statutes/2024/cite/62C/full",
+      "official_sha256": "21cbcb747d846797848ed0eba7db0ecfc2327eb62e044ef57d5491931074492f",
+      "official_section_divs": 25,
+      "source_images_in_sections": 0,
+      "exact_timing_paragraphs": [],
+      "history_status": "held",
+      "reason": "Annual text has no established compatible range against the published first record; a provision expiry does not establish a chapter-wide commencement day."
+    },
+    {
+      "act": "ch-62d",
+      "edition": 2024,
+      "official_source": "https://www.revisor.mn.gov/statutes/2024/cite/62D/full",
+      "official_sha256": "e558b0bc18c49c0148bbf2f9e2d27d1f07bd282407091b0918f3bcd82ab8717f",
+      "official_section_divs": 47,
+      "source_images_in_sections": 0,
+      "exact_timing_paragraphs": [
+        "A health maintenance organization may not deny or limit coverage of a service which the enrollee has already received solely on the basis of lack of prior authorization or second opinion, to the extent that the service would otherwise have been covered under the member's contract by the health maintenance organization had prior authorization or second opinion been obtained. This subdivision expires December 31, 2025, for health plans offered, sold, issued, or renewed on or after that date."
+      ],
+      "history_status": "held",
+      "reason": "Annual text has no established compatible range against the published first record; a provision expiry does not establish a chapter-wide commencement day."
+    }
+  ]
+}
