@@ -955,3 +955,7 @@ Complete corpus input: 27f40dc46ce1f2ef503949878d0585826793f001af74fe84411d3ed9b
 Additional official 2024 annual-edition records: 76. Full input SHA-256: cbe3603a72b62c3e7778f28e800c6109a80e7272cc24c772fc53349dd02a4b80. Earlier published text and tags are unchanged.
 
 Additional official 2024 annual-edition records: 117. Full input SHA-256: 8789eaeeb93782fb51e689f7af236762f3dfe9f5459f93b2308a2bd1ef43ffa5. Earlier published text and tags are unchanged.
+
+Additional official 2024 annual-edition records: 113. Append-batch input SHA-256: fef33fa90bf2e6ddfe65bfc27f4b04f324345463c9b2c09670a97a8d45bab23d. Earlier published text and tags are unchanged.
+
+The checksum in data/corpus.sha256 identifies the inherited input at 3d3e87d3fc2405d438c32b2ccf29858f37fbd06f. This addition is a separately checked append batch; its checksum and scope are in data/append-inputs-q1911.json. A complete-record input checksum is not asserted for this addition. GPT-6 assisted with preparation code; statutory wording comes from deterministic processing of the official text.
