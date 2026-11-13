@@ -1,0 +1,124 @@
+{
+  "purpose": "Queue 1971 depth probe for held/status-only Minnesota chapters; no law text, dates, or version boundaries changed.",
+  "checked_on": "2026-11-13T07:16:30.703276+00:00",
+  "baseline": "b4c4501fd426dc03ef5c7723d833fa29876beac8",
+  "official_listing": {
+    "url": "https://www.revisor.mn.gov/statutes/",
+    "sha256": "739e30a05515c96d17c1905d28e98a590e7eeb6affa834ad20e5c25ecdb90dca",
+    "bytes": 96241,
+    "chapter_link_count_on_listing_page": 0,
+    "part_or_anchor_link_count_on_listing_page": 12,
+    "sample_chapter_links": [],
+    "sample_part_links": [
+      "https://www.revisor.mn.gov/statutes/#billsExternalContent",
+      "https://www.revisor.mn.gov/statutes/#collapse",
+      "https://www.revisor.mn.gov/statutes/#committeesExternalContent",
+      "https://www.revisor.mn.gov/statutes/#houseExternalContent",
+      "https://www.revisor.mn.gov/statutes/#jointExternalContent",
+      "https://www.revisor.mn.gov/statutes/#lawExternalContent",
+      "https://www.revisor.mn.gov/statutes/#legContainerMain",
+      "https://www.revisor.mn.gov/statutes/#legFooter",
+      "https://www.revisor.mn.gov/statutes/#multimediaExternalContent",
+      "https://www.revisor.mn.gov/statutes/#publicationsExternalContent"
+    ]
+  },
+  "published_inventory": {
+    "acts_total": 916,
+    "statutory_chapter_records": 915,
+    "chapters_with_stored_current_units": 915,
+    "normative_current_chapters_from_published_readme": 808,
+    "status_only_or_historical_chapter_records_from_published_readme": 107,
+    "date_supported_normative_chapters": 450,
+    "date_unestablished_normative_chapters": 358,
+    "count_basis": "Stored current units include status tables; normative/status-only counts are taken from the published README coverage sentence and reconciled to jurisdiction.json date_coverage."
+  },
+  "candidate_pages_checked": [
+    {
+      "url": "https://www.revisor.mn.gov/statutes/cite/16/full",
+      "sha256": "965a6a95350e65e973d3b7157929e38559718cf41d4a80b8eb3b0a5df8e964a1",
+      "title": "CHAPTER 16. DEPARTMENT OF ADMINISTRATION",
+      "normative_section_divs": 0,
+      "source_images_in_sections": 0,
+      "has_normative_body": false,
+      "status_excerpt": [
+        "Table of Sections Section Headnote 16.01 [Repealed, 1984 c 544 s 90 ] 16.011 [Repealed, 1984 c 544 s 90 ] 16.012 [Repealed, 1984 c 544 s 90 ] 16.014 [Repealed, 1984 c 544 s 90 ] 16.015 [Repealed, 1978 c 792 s 29 ] 16.016 [Repealed, 1978 c 792 s 29 ] 16.02 Subdivisions renumbered, repealed, or no longer in effect 16.021 [Repealed, 1984 c 544 s 90 ] 16.022 [Repealed, 1984 c 544 s 90 ] 16.023 [Repealed, 1984 c 544 s 90 ] 16.0231 [Repealed, 1984 c 544 s 90 ] 16.024 [Repealed, 1984 c 544 s 90 ] 16.025 [Repealed, 1984 c 544 s 90 ] 16.026 [Repealed, 1984 c 544 s 90 ; renumbered in part 16B.51, subd 5 ] 16.027 [Renumbered 16A.17 ] 16.028 [Repealed, 1984 c 544 s 90 ] 16.03 [Repealed, 1984 c 544 s 90 ] 16.04 [Repealed, 1984 c 544 s 90 ] 16.05 [Repealed, 1984 c 544 s 90 ] 16.06 [Repealed, 1984 c 544 s 90 ] 16.061 [Repealed, 1984 c 544 s 90 ] 16.062 [Repealed, 1984 c 544 s 90 ] 16.063 [Repealed, 1984 c 544 s 90 ] 16.064 [Repealed, 1984 c 544 s 90 ] 16.065 [Repealed, 1984 c 544 s 90 ] 16.066 [Repealed, 1984 c 544 s 90 ] 16.068 [Repealed, 1984 c 544 s 90 ] 16.07 [Repealed, 1984 c 544 s 90 ] 16.071 [Expired] 16.072 [Repealed, 1984 c 440 s 3 ; 1984 c 544 s 90 ] 16.0721 [Repealed, 1984 c 544 s 90 ; renumbered 16B.101 ] 16.073 [Repealed, 1984 c 440 s 3 ; 1984 c 544 s 90 ] 16.075 [Repealed, 1984 c 544 s 90 ] 16.08 [Repealed, 1984 c 544 s 90 ] 16.081 [Repealed, 1984 c 544 s 90 ; renumbered 16B.089 ] 16.082 [Repealed, 1984 c 544 s 90 ] 16.083 [Repealed, 1984 c 544 s 90 ; renumbered 16B.19 ] 16.084 [Repealed, 1984 c 544 s 90 ] 16.085 [Repealed, 1984 c 544 s 90 ] 16.086 [Repealed, 1984 c 544 s 90 ] 16.09 [Repealed, 1984 c 544 s 90 ] 16.095 [Repealed, 1984 c 544 s 90 ] 16.096 [Repealed, 1984 c 544 s 90 ] 16.098 [Repealed, 1984 c 544 s 90 ] 16.10 [Repealed, 1978 c 480 s 3 ] 16.11 [Repealed, 1973 c 400 s 2 ] 16.12 [Repealed, 1984 c 544 s 90 ] 16.125 [Repealed, 1984 c 544 s 90 ] 16.13 [Repealed, 1977 c 305 s 46 ] 16.135 [Repealed, 1984 c 544 s 90 ] 16.138 [Renumbered 16A.09 ] 16.139 [Repealed, 1984 c 544 s 90 ] 16.14 [Renumbered 16A.10 ] 16.141 Subdivisions renumbered, repealed, or no longer in effect 16.15 [Renumbered 16A.11 ] 16.155 [Renumbered 16A.12 ] 16.16 Subdivisions renumbered, repealed, or no longer in effect 16.161 [Repealed, 1976 c 231 s 34 ] 16.162 [Repealed, 1969 c 159 s 2 ] 16.164 [Repealed, 1976 c 231 s 34 ] 16.165 [Repealed, 1973 c 720 s 63 subd 3] 16.17 [Renumbered 16A.28 ] 16.171 [Repealed, 1978 c 793 s 98 ] 16.172 [Repealed, 1984 c 544 s 90 ] 16.173 [Repealed, 1977 c 455 s 95 ] 16.18 [Repealed, 1976 c 231 s 34 ] 16.19 [Repealed, 1976 c 231 s 34 ] 16.20 [Renumbered 16A.125 ] 16.201 [Repealed, 1955 c 714 s 3 ] 16.21 [Repealed, 1984 c 544 s 90 ] 16.22 [Repealed, 1984 c 544 s 90 ] 16.23 [Repealed, 1984 c 544 s 90 ] 16.231 [Repealed, 1955 c 303 s 7 ] 16.24 [Repealed, 1984 c 544 s 90 ] 16.243 [Repealed, 1984 c 544 s 90 ] 16.244 [Repealed, 1984 c 544 s 90 ] 16.245 [Renumbered 16A.128 ] 16.25 [Renumbered 16A.129 ] 16.251 [Repealed, 1984 c 544 s 90 ] 16.26 [Repealed, 1961 c 561 s 17 ] 16.27 [Repealed, 1961 c 561 s 17 ] 16.28 [Repealed, 1984 c 544 s 90 ] 16.281 [Repealed, 1984 c 544 s 90 ] 16.29 [Repealed, 1961 c 561 s 17 ] 16.30 [Repealed, 1961 c 561 s 17 ] 16.31 [Repealed, 1961 c 561 s 17 ] 16.32 [Repealed, 1984 c 544 s 90 ] 16.321 [Repealed, 1984 c 544 s 90 ] 16.33 [Repealed, 1961 c 561 s 17 ] 16.34 [Repealed, 1984 c 544 s 90 ] 16.35 [Repealed, 1961 c 561 s 17 ] 16.36 [Repealed, 1961 c 561 s 17 ] 16.365 [Repealed, 1984 c 544 s 90 ; renumbered 16B.102 ] 16.37 [Repealed, 1965 c 45 s 73 ] 16.38 [Repealed, 1961 c 561 s 17 ] 16.381 [Repealed, 1984 c 544 s 90 ] 16.51 [Repealed, 1984 c 544 s 90 ] 16.52 [Repealed, 1984 c 544 s 90 ] 16.53 [Repealed, 1984 c 544 s 90 ] 16.531 [Expired] 16.54 [Repealed, 1984 c 544 s 90 ] 16.55 [Repealed, 1984 c 544 s 90 ] 16.56 [Repealed, 1984 c 544 s 90 ] 16.57 [Repealed, 1969 c 1150 s 7] 16.61 [Repealed, 1980 c 471 s 3 ] 16.62 [Renumbered 16A.13 ] 16.63 [Renumbered 16A.131 ] 16.64 [Renumbered 16A.132 ] 16.66 [Repealed, 1982 c 573 s 14 ] 16.71 [Repealed, 1984 c 544 s 90 ; renumbered in part 16B.39 ] 16.72 [Repealed, 1984 c 544 s 90 ; renumbered in part 16B.58 ] 16.723 [Repealed, 1984 c 544 s 90 ] 16.73 [Repealed, 1984 c 544 s 90 ] 16.75 [Repealed, 1984 c 544 s 90 ] 16.753 [Repealed, 1984 c 544 s 90 ] 16.755 [Repealed, 1976 c 233 s 13 ] 16.756 Subdivisions renumbered, repealed, or no longer in effect 16.76 [Repealed, 1984 c 544 s 90 ] 16.77 [Repealed, 1984 c 544 s 90 ] 16.78 [Repealed, 1984 c 544 s 90 ] 16.80 [Repealed, 1984 c 544 s 90 ; renumbered in part 16B.48 ] 16.81 [Repealed, 1984 c 544 s 90 ] 16.811 [Repealed, 1984 c 544 s 90 ] 16.82 [Repealed, 1984 c 544 s 90 ] 16.821 [Repealed, 1984 c 544 s 90 ] 16.822 [Repealed, 1984 c 544 s 90 ] 16.823 [Repealed, 1984 c 544 s 90 ] 16.824 [Repealed, 1984 c 544 s 90 ] 16.825 [Repealed, 1984 c 544 s 90 ] 16.826 [Repealed, 1984 c 544 s 90 ] 16.827 [Repealed, 1984 c 544 s 90 ] 16.83 [Repealed, 1984 c 544 s 90 ] 16.84 [Repealed, 1984 c 544 s 90 ] 16.85 [Repealed, 1984 c 544 s 90 ] 16.851 Subdivisions renumbered, repealed, or no longer in effect 16.852 [Expired] 16.853 [Repealed, 1983 c 260 s 68 ] 16.854 [Repealed, 1984 c 544 s 90 ] 16.86 [Repealed, 1984 c 544 s 90 ] 16.861 Subdivisions renumbered, repealed, or no longer in effect 16.862 [Repealed, 1984 c 544 s 90 ] 16.863 [Repealed, 1984 c 544 s 90 ] 16.8632 [Repealed, 1984 c 544 s 90 ] 16.864 [Repealed, 1984 c 544 s 90 ] 16.865 [Repealed, 1984 c 544 s 90 ] 16.866 [Repealed, 1984 c 544 s 90 ] 16.867 [Repealed, 1984 c 544 s 90 ] 16.868 [Repealed, 1984 c 544 s 90 ] 16.869 [Repealed, 1984 c 544 s 90 ] 16.87 [Repealed, 1971 c 561 s 17 ] 16.871 [Repealed, 1984 c 544 s 90 ] 16.872 [Repealed, 1984 c 544 s 90 ] 16.873 [Expired] 16.874 [Repealed, 1984 c 544 s 90 ] 16.88 [Repealed, 1984 c 544 s 90 ] 16.89 [Repealed, 1984 c 544 s 90 ] 16.90 [Repealed, 1984 c 544 s 90 ] 16.91 [Repealed, 1984 c 544 s 90 ] 16.911 [Repealed, 1984 c 544 s 90 ; renumbered in part 16B.42 ] 16.92 [Repealed, 1974 c 494 s 4 ] 16.93 [Repealed, 1980 c 609 art 7 s 18 ] 16.931 [Repealed, 1984 c 544 s 90 ] 16.94 [Repealed, 1984 c 544 s 90 ] 16.95 [Repealed, 1984 c 544 s 90 ] 16.955 [Repealed, 1984 c 544 s 90 ] 16.96 [Repealed, 1984 c 544 s 90 ] 16.965 [Repealed, 1980 c 614 s 191 subd 2] 16.97 [Repealed, 1984 c 544 s 90 ]",
+        "16.01 [Repealed, 1984 c 544 s 90 ]",
+        "16.011 [Repealed, 1984 c 544 s 90 ]",
+        "16.012 [Repealed, 1984 c 544 s 90 ]",
+        "16.014 [Repealed, 1984 c 544 s 90 ]"
+      ],
+      "hold_reason": "no normative chapter body in official current page",
+      "act": "ch-16"
+    },
+    {
+      "url": "https://www.revisor.mn.gov/statutes/cite/32/full",
+      "sha256": "3f46d3a45b4e60c5883d02d0b23c562ee05db9b538c455da5659749f870856a8",
+      "title": "CHAPTER 32. DAIRY PRODUCTS",
+      "normative_section_divs": 0,
+      "source_images_in_sections": 0,
+      "has_normative_body": false,
+      "status_excerpt": [
+        "Table of Sections Section Headnote 32.01 Subdivisions renumbered, repealed, or no longer in effect 32.02 [Repealed, 1949 c 196 s 3 ] 32.021 [Repealed, 2017 c 88 art 3 s 35 ] 32.03 [Repealed, 1949 c 196 s 3 ] 32.04 [Repealed, 1949 c 196 s 3 ] 32.05 [Repealed, 1949 c 196 s 3 ] 32.06 [Repealed, 1949 c 196 s 3 ] 32.07 [Repealed, 1949 c 176 s 10 ; 1949 c 196 s 3 ] 32.071 [Repealed, 2017 c 88 art 3 s 35 ] 32.072 [Repealed, 2017 c 88 art 3 s 35 ] 32.073 [Repealed, 2017 c 88 art 3 s 35 ] 32.074 [Repealed, 2017 c 88 art 3 s 35 ] 32.075 [Repealed, 2017 c 88 art 3 s 35 ] 32.076 [Repealed, 2017 c 88 art 3 s 35 ] 32.077 [Repealed, 1996 c 310 s 1 ] 32.078 [Repealed, 2017 c 88 art 3 s 35 ] 32.08 [Repealed, 1961 c 147 art 4 s 2 ] 32.09 [Repealed, 1971 c 339 s 27 ] 32.10 [Repealed, 2017 c 88 art 3 s 35 ] 32.101 [Repealed, 1996 c 310 s 1 ] 32.102 [Repealed, 2017 c 88 art 3 s 35 ] 32.103 [Repealed, 2017 c 88 art 3 s 35 ] 32.104 [Repealed, 2014 c 181 s 14 ] 32.105 [Repealed, 2017 c 88 art 3 s 35 ] 32.106 [Repealed, 2017 c 88 art 3 s 35 ] 32.11 [Repealed, 1Sp2001 c 2 s 162 ] 32.12 [Repealed, 1Sp2001 c 2 s 162 ] 32.13 [Repealed, 1961 c 147 art 3 s 3 ] 32.14 [Repealed, 1961 c 147 art 3 s 3 ] 32.15 [Repealed, 1961 c 147 art 3 s 3 ; art 4 s 2] 32.16 [Repealed, 1961 c 147 art 3 s 3 ] 32.17 [Repealed, 1961 c 147 art 3 s 3 ] 32.18 [Repealed, 1Sp2001 c 2 s 162 ] 32.19 [Repealed, 1Sp2001 c 2 s 162 ] 32.20 [Repealed, 1Sp2001 c 2 s 162 ] 32.201 [Repealed, 1996 c 310 s 1 ] 32.203 [Repealed, 1Sp2001 c 2 s 162 ] 32.204 [Repealed, 1Sp2001 c 2 s 162 ] 32.205 [Repealed, 1996 c 310 s 1 ] 32.206 [Repealed, 1Sp2001 c 2 s 162 ] 32.207 [Repealed, 1996 c 310 s 1 ] 32.208 [Repealed, 1Sp2001 c 2 s 162 ] 32.21 [Repealed, 2017 c 88 art 3 s 35 ] 32.211 [Expired 60 days following cessation of hostilities, World War II. Proclamation No. 2714.] 32.212 [Repealed, 2017 c 88 art 3 s 35 ] 32.213 [Repealed, 2007 c 45 art 1 s 66 ] 32.22 [Repealed, 2017 c 88 art 3 s 35 ] 32.23 [Repealed, 1959 c 606 s 12 ] 32.24 [Repealed, 1959 c 606 s 12 ] 32.25 [Repealed, 2017 c 88 art 3 s 35 ] 32.26 [Renumbered 32.106 ] 32.27 [Renumbered 32.208 ] 32.28 [Repealed, 1957 c 91 s 1 ] 32.29 [Renumbered 32.103 ] 32.30 [Renumbered 32.104 ] 32.31 [Renumbered 32.471 ] 32.32 [Renumbered 32.203 ] 32.33 [Renumbered 32.204 ] 32.34 [Renumbered 32.206 ] 32.35 [Repealed, 1947 c 55 s 1 ] 32.36 [Renumbered 32.472 ] 32.37 [Renumbered 32.473 ] 32.38 [Repealed, 1955 c 833 s 1 ] 32.381 [Renumbered 32.481 ] 32.382 [Renumbered 32.482 ] 32.383 [Renumbered 32.483 ] 32.384 [Renumbered 32.484 ] 32.385 [Renumbered 32.485 ] 32.39 [Repealed, 1947 c 104 s 2 ] 32.391 Subdivisions renumbered, repealed, or no longer in effect 32.392 [Repealed, 2017 c 88 art 3 s 35 ] 32.393 [Repealed, 2017 c 88 art 3 s 35 ] 32.394 Subdivisions renumbered, repealed, or no longer in effect 32.395 [Repealed, 2017 c 88 art 3 s 35 ] 32.396 [Repealed, 1953 c 536 s 6 ] 32.397 [Repealed, 2017 c 88 art 3 s 35 ] 32.398 Subdivisions renumbered, repealed, or no longer in effect 32.40 [Repealed, 1949 c 176 s 10 ] 32.401 Subdivisions renumbered, repealed, or no longer in effect 32.41 [Repealed, 1949 c 176 s 10 ] 32.411 Subdivisions renumbered, repealed, or no longer in effect 32.415 [Repealed, 2017 c 88 art 3 s 35 ] 32.416 [Repealed, 2017 c 88 art 3 s 35 ] 32.417 [Repealed, 2014 c 181 s 14 ] 32.42 [Repealed, 1949 c 176 s 10 ] 32.43 [Repealed, 1957 c 91 s 1 ] 32.44 [Repealed, 1957 c 91 s 1 ] 32.45 [Repealed, 1957 c 91 s 1 ] 32.46 [Repealed, 1957 c 91 s 1 ] 32.47 [Repealed, 1957 c 91 s 1 ] 32.471 Subdivisions renumbered, repealed, or no longer in effect 32.472 [Repealed, 1983 c 300 s 28 ] 32.473 [Repealed, 1983 c 300 s 28 ] 32.474 [Repealed, 1Sp2001 c 2 s 162 ] 32.475 [Repealed, 2017 c 88 art 3 s 35 ] 32.48 [Repealed, 1947 c 275 s 1 ] 32.481 Subdivisions renumbered, repealed, or no longer in effect 32.482 [Repealed, 2017 c 88 art 3 s 35 ] 32.483 [Repealed, 2017 c 88 art 3 s 35 ] 32.484 [Repealed, 2017 c 88 art 3 s 35 ] 32.485 [Repealed, 1996 c 310 s 1 ] 32.486 [Repealed, 2017 c 88 art 3 s 35 ] 32.49 [Renumbered 32.5311 ] 32.491 [Renumbered 32.401 ] 32.492 [Renumbered 32.411 ] 32.494 [Renumbered 32.207 ] 32.50 Subdivisions renumbered, repealed, or no longer in effect 32.51 Subdivisions renumbered, repealed, or no longer in effect 32.511 Subdivisions renumbered, repealed, or no longer in effect 32.52 Subdivisions renumbered, repealed, or no longer in effect 32.529 [Repealed, 1Sp2001 c 2 s 162 ] 32.53 [Repealed, 1Sp2001 c 2 s 162 ] 32.531 Subdivisions renumbered, repealed, or no longer in effect 32.5311 [Repealed, 1Sp2001 c 2 s 162 ] 32.5312 [Repealed, 1Sp2001 c 2 s 162 ] 32.532 [Repealed, 1Sp2001 c 2 s 162 ] 32.533 [Repealed, 1Sp2001 c 2 s 162 ] 32.534 [Repealed, 1Sp2001 c 2 s 162 ] 32.55 Subdivisions renumbered, repealed, or no longer in effect 32.555 [Repealed, 2017 c 88 art 3 s 35 ] 32.56 [Repealed, 2017 c 88 art 3 s 35 ] 32.57 [Repealed, 2014 c 181 s 14 ] 32.58 [Repealed, 1971 c 339 s 27 ] 32.59 [Repealed, 2014 c 181 s 14 ] 32.60 [Repealed, 1971 c 339 s 27 ] 32.61 [Repealed, 2017 c 88 art 3 s 35 ] 32.62 [Repealed, 2017 c 88 art 3 s 35 ] 32.63 [Repealed, 2017 c 88 art 3 s 35 ] 32.64 [Repealed, 2017 c 88 art 3 s 35 ] 32.645 [Repealed, 2017 c 88 art 3 s 35 ] 32.70 [Repealed, 2017 c 88 art 3 s 35 ] 32.71 [Repealed, 2017 c 88 art 3 s 35 ] 32.72 [Repealed, 2017 c 88 art 3 s 35 ] 32.73 [Repealed, 1997 c 244 s 3 ] 32.74 [Repealed, 2017 c 88 art 3 s 35 ] 32.745 [Repealed, 2017 c 88 art 3 s 35 ] 32.75 [Repealed, 2017 c 88 art 3 s 35 ] 32.90 [Repealed, 2017 c 88 art 3 s 35 ]",
+        "32.01 § Subdivision 1. [Repealed, 2017 c 88 art 3 s 35 ] § Subd. 2. [Repealed, 2017 c 88 art 3 s 35 ] § Subd. 3. [Repealed, 1996 c 310 s 1 ] § Subd. 4. [Repealed, 1996 c 310 s 1 ] § Subd. 5. [Repealed, 1961 c 147 art 3 s 3 ] § Subd. 6. [Repealed, 2017 c 88 art 3 s 35 ] § Subd. 7. [Repealed, 1999 c 154 s 4 ] § Subd. 8. [Repealed, 2017 c 88 art 3 s 35 ] § Subd. 9. [Repealed, 2017 c 88 art 3 s 35 ] § Subd. 10. [Repealed, 2017 c 88 art 3 s 35 ] § Subd. 11. [Repealed, 2017 c 88 art 3 s 35 ] § Subd. 12. [Repealed, 2017 c 88 art 3 s 35 ]",
+        "§ Subdivision 1. [Repealed, 2017 c 88 art 3 s 35 ]",
+        "[Repealed, 2017 c 88 art 3 s 35 ]",
+        "§ Subd. 2. [Repealed, 2017 c 88 art 3 s 35 ]"
+      ],
+      "hold_reason": "no normative chapter body in official current page",
+      "act": "ch-32"
+    },
+    {
+      "url": "https://www.revisor.mn.gov/statutes/cite/32C/full",
+      "sha256": "b4b037862faa40607d5e79d6f055a7ae14badda1dafb26b32f8c5a45c97474ee",
+      "title": "CHAPTER 32C. DAIRY RESEARCH, TEACHING, AND CONSUMER EDUCATION AUTHORITY",
+      "normative_section_divs": 0,
+      "source_images_in_sections": 0,
+      "has_normative_body": false,
+      "status_excerpt": [
+        "Table of Sections Section Headnote 32C.01 MS 2018 [Repealed, 2017 c 88 art 2 s 57] 32C.02 MS 2018 [Repealed, 2017 c 88 art 2 s 57] 32C.03 MS 2018 [Repealed, 2017 c 88 art 2 s 57] 32C.04 MS 2018 [Repealed, 2017 c 88 art 2 s 57] 32C.05 MS 2018 [Repealed, 2017 c 88 art 2 s 57] 32C.06 MS 2018 [Repealed, 2017 c 88 art 2 s 57]",
+        "32C.01 MS 2018 [Repealed, 2017 c 88 art 2 s 57]",
+        "32C.02 MS 2018 [Repealed, 2017 c 88 art 2 s 57]",
+        "32C.03 MS 2018 [Repealed, 2017 c 88 art 2 s 57]",
+        "32C.04 MS 2018 [Repealed, 2017 c 88 art 2 s 57]"
+      ],
+      "hold_reason": "no normative chapter body in official current page",
+      "act": "ch-32c"
+    },
+    {
+      "url": "https://www.revisor.mn.gov/statutes/cite/36/full",
+      "sha256": "9df03920c2e57ddaa7f416c4542d306476e90be49d717b2e259509d8f376052d",
+      "title": "CHAPTER 36. POULTRY; BREEDING, INSPECTION",
+      "normative_section_divs": 0,
+      "source_images_in_sections": 0,
+      "has_normative_body": false,
+      "status_excerpt": [
+        "Table of Sections Section Headnote 36.01 [Renumbered 29.011 ] 36.02 [Renumbered 29.013 ] 36.03 [Renumbered 29.021 ] 36.031 [Renumbered 29.025 ] 36.04 [Renumbered 29.031 ] 36.05 [Renumbered 29.049 ] 36.06 [Renumbered 29.051 ] 36.07 [Renumbered 29.061 ] 36.08 [Renumbered 29.071 ] 36.09 [Renumbered 29.081 ] 36.095 [Renumbered 29.091 ] 36.10 [Renumbered 35.063 ] 36.11 [Renumbered 35.065 ] 36.12 [Renumbered 35.067 ] 36.13 [Repealed, 1961 c 468 s 1 ] 36.14 [Repealed, 1961 c 468 s 1 ] 36.15 [Repealed, 1961 c 468 s 1 ] 36.16 [Repealed, 1961 c 468 s 1 ] 36.17 [Repealed, 1961 c 468 s 1 ] 36.18 [Repealed, 1961 c 468 s 1 ] 36.19 [Repealed, 1961 c 468 s 1 ] 36.20 [Repealed, 1961 c 110 s 5 ; 1961 c 245 s 2 ; 1961 c 468 s 1 ] 36.21 [Repealed, 1961 c 468 s 1 ] 36.22 [Repealed, 1961 c 468 s 1 ] 36.23 MS 1957 [Renumbered 395.035 ] 36.24 Subdivisions renumbered, repealed, or no longer in effect",
+        "36.01 [Renumbered 29.011 ]",
+        "36.02 [Renumbered 29.013 ]",
+        "36.03 [Renumbered 29.021 ]",
+        "36.031 [Renumbered 29.025 ]"
+      ],
+      "hold_reason": "no normative chapter body in official current page",
+      "act": "ch-36"
+    },
+    {
+      "url": "https://www.revisor.mn.gov/statutes/cite/43/full",
+      "sha256": "2413604bbe3eabcc46402d8a08784d0b70d35449f1191e530a3049d17d8ac1f7",
+      "title": "CHAPTER 43. STATE CIVIL SERVICE",
+      "normative_section_divs": 0,
+      "source_images_in_sections": 0,
+      "has_normative_body": false,
+      "status_excerpt": [
+        "Table of Sections Section Headnote 43.0001 [Repealed, 1981 c 210 s 55 ] 43.001 [Repealed, 1981 c 210 s 55 ] 43.002 [Repealed, 1981 c 210 s 55 ] 43.003 [Repealed, 1980 c 617 s 45 ] 43.004 [Repealed, 1981 c 210 s 55 ] 43.005 [Repealed, 1981 c 210 s 55 ] 43.006 [Repealed, 1981 c 210 s 55 ] 43.01 Subdivisions renumbered, repealed, or no longer in effect 43.02 [Repealed, 1974 c 511 s 16 ] 43.03 Subdivisions renumbered, repealed, or no longer in effect 43.04 [Repealed, 1955 c 596 s 2 ] 43.041 [Repealed, 1973 c 507 s 47 ] 43.05 [Repealed, 1981 c 210 s 55 ] 43.051 Subdivisions renumbered, repealed, or no longer in effect 43.055 [Repealed, 1981 c 210 s 55 ] 43.056 [Repealed, 1981 c 210 s 55 ] 43.06 [Repealed, 1979 c 332 art 1 s 114 ; 1980 c 614 s 191 ] 43.062 [Repealed, 1979 c 332 art 1 s 114 ; 1981 c 210 s 55 ] 43.063 [Repealed, 1979 c 332 art 1 s 114 ; 1981 c 210 s 55 ] 43.064 [Repealed, 1981 c 210 s 55 ] 43.065 [Repealed, 1979 c 332 art 1 s 114 ; 1981 c 210 s 55 ] 43.066 [Repealed, 1977 c 35 s 21 ] 43.067 Subdivisions renumbered, repealed, or no longer in effect 43.068 [Repealed, 1979 c 332 art 1 s 114 ; 1981 c 210 s 55 ] 43.069 [Repealed, 1979 c 192 s 4 ; 1979 c 332 art 1 s 114 ] 43.07 [Repealed, 1979 c 332 art 1 s 114 ; 1981 c 210 s 55 ] 43.08 [Repealed, 1973 c 507 s 47 ] 43.09 Subdivisions renumbered, repealed, or no longer in effect 43.10 Subdivisions renumbered, repealed, or no longer in effect 43.11 [Repealed, 1951 c 371 s 1 ] 43.111 [Repealed, 1981 c 210 s 55 ] 43.112 [Repealed, 1981 c 210 s 55 ] 43.113 [Repealed, 1981 c 210 s 55 ] 43.12 Subdivisions renumbered, repealed, or no longer in effect 43.121 [Repealed, 1979 c 332 art 1 s 114 ; 1981 c 210 s 55 ] 43.122 Subdivisions renumbered, repealed, or no longer in effect 43.123 Subdivisions renumbered, repealed, or no longer in effect 43.124 [Repealed, 1955 c 659 s 9 ] 43.125 [Repealed, 1967 c 193 s 7 ] 43.126 [Repealed, 1979 c 332 art 1 s 114 ; 1981 c 210 s 55 ] 43.127 [Repealed, 1979 c 332 art 1 s 114 ; 1981 c 210 s 55 ] 43.128 [Repealed, 1979 c 332 art 1 s 114 ; 1981 c 210 s 55 ] 43.13 [Repealed, 1981 c 210 s 55 ] 43.14 [Repealed, 1981 c 210 s 55 ] 43.15 [Repealed, 1981 c 210 s 55 ] 43.16 [Repealed, 1975 c 399 s 2 ] 43.162 [Repealed, 1979 c 332 art 1 s 114 ; 1981 c 210 s 55 ] 43.17 Subdivisions renumbered, repealed, or no longer in effect 43.171 [Repealed, 1957 c 141 s 1 ] 43.18 Subdivisions renumbered, repealed, or no longer in effect 43.19 [Repealed, 1981 c 210 s 55 ] 43.20 [Repealed, 1981 c 210 s 55 ] 43.21 [Repealed, 1981 c 210 s 55 ] 43.212 [Repealed, 1981 c 210 s 55 ] 43.22 Subdivisions renumbered, repealed, or no longer in effect 43.221 [Repealed, Ex1971 c 48 s 20 ] 43.222 [Repealed, 1979 c 332 art 1 s 114 ; 1981 c 210 s 55 ] 43.223 [Repealed, 1979 c 332 art 1 s 114 ; 1981 c 210 s 55 ] 43.224 [Repealed, 1979 c 332 art 1 s 114 ; 1981 c 210 s 55 ] 43.225 [Repealed, 1957 c 141 s 1 ] 43.226 [Repealed, 1957 c 141 s 1 ] 43.227 [Repealed, 1981 c 210 s 55 ] 43.23 [Repealed, 1979 c 332 art 1 s 114 ; 1981 c 210 s 55 ] 43.24 [Repealed, 1979 c 332 art 1 s 114 ; 1981 c 210 s 55 ] 43.245 [Repealed, 1981 c 210 s 55 ] 43.25 [Repealed, 1981 c 210 s 55 ] 43.26 [Repealed, 1981 c 210 s 55 ] 43.27 [Repealed, 1981 c 210 s 55 ] 43.28 [Repealed, 1981 c 210 s 55 ] 43.29 [Repealed, 1981 c 210 s 55 ] 43.30 [Repealed, 1981 c 210 s 55 ] 43.31 [Repealed, 1981 c 210 s 55 ] 43.32 [Repealed, 1981 c 210 s 55 ] 43.321 [Repealed, 1981 c 210 s 55 ] 43.322 [Repealed, 1979 c 332 art 1 s 114 ; 1981 c 210 s 55 ] 43.323 [Repealed, 1979 c 332 art 1 s 114 ; 1981 c 210 s 55 ] 43.324 [Repealed, 1979 c 332 art 1 s 114 ; 1981 c 210 s 55 ] 43.326 [Repealed, 1979 c 332 art 1 s 114 ; 1981 c 210 s 55 ] 43.327 [Repealed, 1979 c 332 art 1 s 114 ; 1981 c 210 s 55 ] 43.328 [Renumbered 471.665 ] 43.329 [Repealed, 1981 c 210 s 55 ] 43.33 MS 1980 [Repealed, 1979 c 332 art 1 s 114 ; 1981 c 210 s 55 ] 43.34 [Repealed, 1973 c 507 s 47 ] 43.35 [Repealed, 1981 c 210 s 55 ] 43.36 [Repealed, 1957 c 141 s 1 ] 43.37 [Repealed, 1977 c 347 s 4 ] 43.42 [Repealed, 1981 c 210 s 55 ] 43.43 [Repealed, 1981 c 210 s 55 ] 43.44 [Repealed, 1979 c 332 art 1 s 114 ; 1981 c 210 s 55 ] 43.45 [Repealed, 1981 c 210 s 55 ] 43.46 [Repealed, 1981 c 210 s 55 ] 43.47 [Repealed, 1981 c 210 s 55 ] 43.48 [Repealed, 1979 c 332 art 1 s 114 ; 1981 c 210 s 55 ] 43.49 [Repealed, 1979 c 332 art 1 s 114 ; 1981 c 210 s 55 ] 43.491 [Repealed, 1981 c 210 s 55 ] 43.50 Subdivisions renumbered, repealed, or no longer in effect 43.51 [Repealed, 1981 c 210 s 55 ] 43.56 [Repealed, 1981 c 210 s 55 ] 43.57 [Repealed, 1981 c 210 s 55 ] 43.58 [Repealed, 1981 c 210 s 55 ] 43.59 [Repealed, 1981 c 210 s 55 ] 43.60 [Repealed, 1981 c 210 s 55 ] 43.61 [Repealed, 1981 c 210 s 55 ] 43.62 [Repealed, 1981 c 210 s 55 ]",
+        "43.0001 [Repealed, 1981 c 210 s 55 ]",
+        "43.001 [Repealed, 1981 c 210 s 55 ]",
+        "43.002 [Repealed, 1981 c 210 s 55 ]",
+        "43.003 [Repealed, 1980 c 617 s 45 ]"
+      ],
+      "hold_reason": "no normative chapter body in official current page",
+      "act": "ch-43"
+    }
+  ],
+  "decision": "All sampled held records still lack a normative current chapter body on the official page; they are status-only/current-body-unavailable records, not safe law-version additions.",
+  "new_law_versions": 0
+}
