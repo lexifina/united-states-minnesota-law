@@ -1,0 +1,1239 @@
+{
+  "purpose": "Official current chapter and latest cited amendment evidence. Legal commencement and historical version ranges remain unestablished.",
+  "chapters": [
+    {
+      "act": "ch-586",
+      "title": "CHAPTER 586. MANDAMUS",
+      "official_source": "https://www.revisor.mn.gov/statutes/cite/586/full",
+      "official_sha256": "5eb7ca61c89f8554d6c2e5fa6ce3576f34da217e8749ff248cb7b11ad97fb88f",
+      "latest_history_year": 1983,
+      "latest_history_references": [
+        {
+          "citation": "1983 c 247 s 195",
+          "ref": "/laws/1983/0/247/#laws.0.195.0",
+          "year": 1983,
+          "law_url": "https://www.revisor.mn.gov/laws/1983/0/247/"
+        },
+        {
+          "citation": "1983 c 216 art 2 s 8",
+          "ref": "/laws/1983/0/216/#laws.2.8.0",
+          "year": 1983,
+          "law_url": "https://www.revisor.mn.gov/laws/1983/0/216/"
+        },
+        {
+          "citation": "1983 c 247 s 196",
+          "ref": "/laws/1983/0/247/#laws.0.196.0",
+          "year": 1983,
+          "law_url": "https://www.revisor.mn.gov/laws/1983/0/247/"
+        },
+        {
+          "citation": "1983 c 247 s 197",
+          "ref": "/laws/1983/0/247/#laws.0.197.0",
+          "year": 1983,
+          "law_url": "https://www.revisor.mn.gov/laws/1983/0/247/"
+        }
+      ],
+      "exact_chapter_timing_paragraphs": [],
+      "date_status": "unestablished; amendment evidence only",
+      "law_versions_added": 0,
+      "words": 1033,
+      "sections": 12,
+      "tables": 0,
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "session_law_evidence": [
+        {
+          "citation": "1983 c 247 s 195",
+          "ref": "/laws/1983/0/247/#laws.0.195.0",
+          "year": 1983,
+          "law_url": "https://www.revisor.mn.gov/laws/1983/0/247/",
+          "source_sha256": "771b1254ed7345507113ef9ec47015dba4e908289f1061f4107310bd29f311c2",
+          "anchor_found": false,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": []
+        },
+        {
+          "citation": "1983 c 216 art 2 s 8",
+          "ref": "/laws/1983/0/216/#laws.2.8.0",
+          "year": 1983,
+          "law_url": "https://www.revisor.mn.gov/laws/1983/0/216/",
+          "source_sha256": "be836f68543320b9af7ea4672761c2bcdd16c74c1f58e9f270cbf38b40d428c7",
+          "anchor_found": false,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": []
+        },
+        {
+          "citation": "1983 c 247 s 196",
+          "ref": "/laws/1983/0/247/#laws.0.196.0",
+          "year": 1983,
+          "law_url": "https://www.revisor.mn.gov/laws/1983/0/247/",
+          "source_sha256": "771b1254ed7345507113ef9ec47015dba4e908289f1061f4107310bd29f311c2",
+          "anchor_found": false,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": []
+        },
+        {
+          "citation": "1983 c 247 s 197",
+          "ref": "/laws/1983/0/247/#laws.0.197.0",
+          "year": 1983,
+          "law_url": "https://www.revisor.mn.gov/laws/1983/0/247/",
+          "source_sha256": "771b1254ed7345507113ef9ec47015dba4e908289f1061f4107310bd29f311c2",
+          "anchor_found": false,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": []
+        }
+      ]
+    },
+    {
+      "act": "ch-599",
+      "title": "CHAPTER 599. JUDICIAL NOTICE",
+      "official_source": "https://www.revisor.mn.gov/statutes/cite/599/full",
+      "official_sha256": "0873319e41a51ea803aa4ef90a25057dde964e14b7281b2cdcc3a3a9c65d3947",
+      "latest_history_year": 1998,
+      "latest_history_references": [
+        {
+          "citation": "1998 c 324 s 8",
+          "ref": "/laws/1998/0/324/#laws.0.8.0",
+          "year": 1998,
+          "law_url": "https://www.revisor.mn.gov/laws/1998/0/324/"
+        }
+      ],
+      "exact_chapter_timing_paragraphs": [],
+      "date_status": "unestablished; amendment evidence only",
+      "law_versions_added": 0,
+      "words": 1591,
+      "sections": 22,
+      "tables": 0,
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "session_law_evidence": [
+        {
+          "citation": "1998 c 324 s 8",
+          "ref": "/laws/1998/0/324/#laws.0.8.0",
+          "year": 1998,
+          "law_url": "https://www.revisor.mn.gov/laws/1998/0/324/",
+          "source_sha256": "2415e9a15bb9f79cbd5cab6b924806570e1917ff33452b8c3828b74acddae56e",
+          "anchor_found": false,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": []
+        }
+      ]
+    },
+    {
+      "act": "ch-600",
+      "title": "CHAPTER 600. DOCUMENTS AS EVIDENCE",
+      "official_source": "https://www.revisor.mn.gov/statutes/cite/600/full",
+      "official_sha256": "6ddbfae369b27fb56ae1dca57ba2c1405d75ae0cf48f42d0a276997face49f41",
+      "latest_history_year": 2023,
+      "latest_history_references": [
+        {
+          "citation": "2023 c 52 art 19 s 39",
+          "ref": "/laws/2023/0/52/#laws.19.39.0",
+          "year": 2023,
+          "law_url": "https://www.revisor.mn.gov/laws/2023/0/52/"
+        }
+      ],
+      "exact_chapter_timing_paragraphs": [],
+      "date_status": "unestablished; amendment evidence only",
+      "law_versions_added": 0,
+      "words": 4036,
+      "sections": 27,
+      "tables": 0,
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "session_law_evidence": [
+        {
+          "citation": "2023 c 52 art 19 s 39",
+          "ref": "/laws/2023/0/52/#laws.19.39.0",
+          "year": 2023,
+          "law_url": "https://www.revisor.mn.gov/laws/2023/0/52/",
+          "source_sha256": "930e75f85a34c43396dbd1e25f90dc4c92c9b92180bbc5ca2da3e71ef734f10f",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 19, 2023, 12:32 p.m."
+          ]
+        }
+      ]
+    },
+    {
+      "act": "ch-601",
+      "title": "CHAPTER 601. LOST INSTRUMENTS",
+      "official_source": "https://www.revisor.mn.gov/statutes/cite/601/full",
+      "official_sha256": "41308d5c903bd870ca5fef3cf293e8f9154540a623bc71ddf284873995a4730b",
+      "latest_history_year": 1905,
+      "latest_history_references": [
+        {
+          "citation": "1905 c 193 s 1",
+          "ref": "/laws/1905/0/193/#laws.0.1.0",
+          "year": 1905,
+          "law_url": "https://www.revisor.mn.gov/laws/1905/0/193/"
+        },
+        {
+          "citation": "1905 c 193 s 2",
+          "ref": "/laws/1905/0/193/#laws.0.2.0",
+          "year": 1905,
+          "law_url": "https://www.revisor.mn.gov/laws/1905/0/193/"
+        }
+      ],
+      "exact_chapter_timing_paragraphs": [],
+      "date_status": "unestablished; amendment evidence only",
+      "law_versions_added": 0,
+      "words": 392,
+      "sections": 3,
+      "tables": 0,
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "session_law_evidence": [
+        {
+          "citation": "1905 c 193 s 1",
+          "ref": "/laws/1905/0/193/#laws.0.1.0",
+          "year": 1905,
+          "law_url": "https://www.revisor.mn.gov/laws/1905/0/193/",
+          "source_sha256": "d2a4bcef94dd940fac35dc1525659829f980881ad79cda49eef2f6cc284bae10",
+          "anchor_found": false,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": []
+        },
+        {
+          "citation": "1905 c 193 s 2",
+          "ref": "/laws/1905/0/193/#laws.0.2.0",
+          "year": 1905,
+          "law_url": "https://www.revisor.mn.gov/laws/1905/0/193/",
+          "source_sha256": "d2a4bcef94dd940fac35dc1525659829f980881ad79cda49eef2f6cc284bae10",
+          "anchor_found": false,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": []
+        }
+      ]
+    },
+    {
+      "act": "ch-602",
+      "title": "CHAPTER 602. COMPETENT EVIDENCE",
+      "official_source": "https://www.revisor.mn.gov/statutes/cite/602/full",
+      "official_sha256": "e92e097f872c6f54aff7ac21ac4482ea35a7eddc2189d56c4cb50da76caef884",
+      "latest_history_year": 1945,
+      "latest_history_references": [
+        {
+          "citation": "1945 c 592 s 1",
+          "ref": "/laws/1945/0/592/#laws.0.1.0",
+          "year": 1945,
+          "law_url": "https://www.revisor.mn.gov/laws/1945/0/592/"
+        }
+      ],
+      "exact_chapter_timing_paragraphs": [],
+      "date_status": "unestablished; amendment evidence only",
+      "law_versions_added": 0,
+      "words": 296,
+      "sections": 3,
+      "tables": 0,
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "session_law_evidence": [
+        {
+          "citation": "1945 c 592 s 1",
+          "ref": "/laws/1945/0/592/#laws.0.1.0",
+          "year": 1945,
+          "law_url": "https://www.revisor.mn.gov/laws/1945/0/592/",
+          "source_sha256": "f91cc410f26ccab649ab91d2346b4157766941a712d897f18dd8292ba8ea526b",
+          "anchor_found": false,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": []
+        }
+      ]
+    },
+    {
+      "act": "ch-604b",
+      "title": "CHAPTER 604B. IMMUNITY FOR YEAR 2000 ACTIVITIES",
+      "official_source": "https://www.revisor.mn.gov/statutes/cite/604B/full",
+      "official_sha256": "c3b340782c7b5726a227e3e0ecf9966f773d9ff11919fe6993081c9af0255885",
+      "latest_history_year": 1999,
+      "latest_history_references": [
+        {
+          "citation": "1999 c 250 art 2 s 3",
+          "ref": "/laws/1999/0/250/#laws.2.3.0",
+          "year": 1999,
+          "law_url": "https://www.revisor.mn.gov/laws/1999/0/250/"
+        }
+      ],
+      "exact_chapter_timing_paragraphs": [],
+      "date_status": "unestablished; amendment evidence only",
+      "law_versions_added": 0,
+      "words": 384,
+      "sections": 1,
+      "tables": 0,
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "session_law_evidence": [
+        {
+          "citation": "1999 c 250 art 2 s 3",
+          "ref": "/laws/1999/0/250/#laws.2.3.0",
+          "year": 1999,
+          "law_url": "https://www.revisor.mn.gov/laws/1999/0/250/",
+          "source_sha256": "7281ee98dec1aa27e3adecf71dc6a138b14d8e9401a53271842fdcaee449f4eb",
+          "anchor_found": false,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": []
+        }
+      ]
+    },
+    {
+      "act": "ch-611",
+      "title": "CHAPTER 611. RIGHTS OF ACCUSED",
+      "official_source": "https://www.revisor.mn.gov/statutes/cite/611/full",
+      "official_sha256": "1e18071aa85b6e5da45f4ed71a53b1ac9e62c8f58d858ebdd40511e1d2f5204c",
+      "latest_history_year": 2025,
+      "latest_history_references": [
+        {
+          "citation": "2025 c 35 art 5 s 15",
+          "ref": "/laws/2025/0/35/#laws.5.15.0",
+          "year": 2025,
+          "law_url": "https://www.revisor.mn.gov/laws/2025/0/35/"
+        },
+        {
+          "citation": "1Sp2025 c 9 art 5 s 9",
+          "ref": "/laws/2025/1/9/#laws.5.9.0",
+          "year": 2025,
+          "law_url": "https://www.revisor.mn.gov/laws/2025/1/9/"
+        },
+        {
+          "citation": "2025 c 35 art 11 s 17",
+          "ref": "/laws/2025/0/35/#laws.11.17.0",
+          "year": 2025,
+          "law_url": "https://www.revisor.mn.gov/laws/2025/0/35/"
+        },
+        {
+          "citation": "2025 c 35 art 11 s 18",
+          "ref": "/laws/2025/0/35/#laws.11.18.0",
+          "year": 2025,
+          "law_url": "https://www.revisor.mn.gov/laws/2025/0/35/"
+        },
+        {
+          "citation": "2025 c 38 art 3 s 75",
+          "ref": "/laws/2025/0/38/#laws.3.75.0",
+          "year": 2025,
+          "law_url": "https://www.revisor.mn.gov/laws/2025/0/38/"
+        },
+        {
+          "citation": "2025 c 35 art 11 s 19",
+          "ref": "/laws/2025/0/35/#laws.11.19.0",
+          "year": 2025,
+          "law_url": "https://www.revisor.mn.gov/laws/2025/0/35/"
+        },
+        {
+          "citation": "2025 c 35 art 11 s 21",
+          "ref": "/laws/2025/0/35/#laws.11.21.0",
+          "year": 2025,
+          "law_url": "https://www.revisor.mn.gov/laws/2025/0/35/"
+        },
+        {
+          "citation": "2025 c 38 art 3 s 76",
+          "ref": "/laws/2025/0/38/#laws.3.76.0",
+          "year": 2025,
+          "law_url": "https://www.revisor.mn.gov/laws/2025/0/38/"
+        },
+        {
+          "citation": "2025 c 35 art 11 s 22",
+          "ref": "/laws/2025/0/35/#laws.11.22.0",
+          "year": 2025,
+          "law_url": "https://www.revisor.mn.gov/laws/2025/0/35/"
+        },
+        {
+          "citation": "2025 c 38 art 3 s 77",
+          "ref": "/laws/2025/0/38/#laws.3.77.0",
+          "year": 2025,
+          "law_url": "https://www.revisor.mn.gov/laws/2025/0/38/"
+        },
+        {
+          "citation": "2025 c 35 art 11 s 23",
+          "ref": "/laws/2025/0/35/#laws.11.23.0",
+          "year": 2025,
+          "law_url": "https://www.revisor.mn.gov/laws/2025/0/35/"
+        }
+      ],
+      "exact_chapter_timing_paragraphs": [
+        "MS 2022 [Repealed, 2024 c 123 art 14 s 23 ]",
+        "MS 2022 [Repealed, 2024 c 123 art 14 s 23 ]",
+        "MS 2006 [Repealed, 2007 c 54 art 5 s 21 ; 2007 c 61 s 17 ]",
+        "MS 2010 [Repealed, 2012 c 212 s 18 ]",
+        "MS 2022 [Repealed, 2024 c 123 art 14 s 23 ]",
+        "MS 1990 [Repealed, 1991 c 345 art 3 s 30 ]",
+        "MS 1996 [Repealed, 1998 c 367 art 8 s 26 ]",
+        "MS 1988 [Repealed, 1989 c 335 art 1 s 270 ; art 3 s 57]",
+        "MS 2022 [Repealed, 2024 c 123 art 14 s 23 ]",
+        "MS 1990 [Repealed, 1991 c 345 art 3 s 30 ]",
+        "MS 1986 [Repealed, 1987 c 250 s 20 ]",
+        "MS 1986 [Repealed, 1987 c 250 s 20 ]",
+        "MS 1996 [Repealed, 1998 c 367 art 8 s 26 ]",
+        "MS 1996 [Repealed, 1998 c 367 art 8 s 26 ]",
+        "MS 1997 Supp [Repealed, 1998 c 367 art 8 s 26 ]",
+        "MS 2022 [Repealed, 2024 c 123 art 14 s 23 ]",
+        "MS 2022 [Repealed, 2024 c 123 art 14 s 23 ]",
+        "[Repealed, 2024 c 123 art 14 s 23 ]",
+        "MS 1996 [Repealed, 1997 c 7 art 2 s 67 ]",
+        "NOTE: Subdivision 5, as added by Laws 2025, chapter 38, article 3, section 76, is effective July 1, 2027. Laws 2025, chapter 38, article 3, section 76, the effective date.",
+        "(3) propose statutory changes to the legislature and rule changes to the supreme court that would facilitate the effective operation of the forensic navigator program.",
+        "(1) carry out all administrative functions necessary for the efficient and effective operation of the board and the program, including but not limited to hiring, supervising, and disciplining program staff and forensic navigators;"
+      ],
+      "date_status": "unestablished; amendment evidence only",
+      "law_versions_added": 0,
+      "words": 22899,
+      "sections": 61,
+      "tables": 0,
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "session_law_evidence": [
+        {
+          "citation": "2025 c 35 art 5 s 15",
+          "ref": "/laws/2025/0/35/#laws.5.15.0",
+          "year": 2025,
+          "law_url": "https://www.revisor.mn.gov/laws/2025/0/35/",
+          "source_sha256": "bc986573a208eaa85574e46e7bea92e0bdefa5d024964baec95ee955315614f7",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 23, 2025, 10:55 a.m."
+          ]
+        },
+        {
+          "citation": "1Sp2025 c 9 art 5 s 9",
+          "ref": "/laws/2025/1/9/#laws.5.9.0",
+          "year": 2025,
+          "law_url": "https://www.revisor.mn.gov/laws/2025/1/9/",
+          "source_sha256": "425f5004766c15f8bfee8888c21de26af6cc576f04ac26e60aec2f8666c90cf4",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor June 14, 2025, 10:29 a.m."
+          ]
+        },
+        {
+          "citation": "2025 c 35 art 11 s 17",
+          "ref": "/laws/2025/0/35/#laws.11.17.0",
+          "year": 2025,
+          "law_url": "https://www.revisor.mn.gov/laws/2025/0/35/",
+          "source_sha256": "bc986573a208eaa85574e46e7bea92e0bdefa5d024964baec95ee955315614f7",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 23, 2025, 10:55 a.m."
+          ]
+        },
+        {
+          "citation": "2025 c 35 art 11 s 18",
+          "ref": "/laws/2025/0/35/#laws.11.18.0",
+          "year": 2025,
+          "law_url": "https://www.revisor.mn.gov/laws/2025/0/35/",
+          "source_sha256": "bc986573a208eaa85574e46e7bea92e0bdefa5d024964baec95ee955315614f7",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 23, 2025, 10:55 a.m."
+          ]
+        },
+        {
+          "citation": "2025 c 38 art 3 s 75",
+          "ref": "/laws/2025/0/38/#laws.3.75.0",
+          "year": 2025,
+          "law_url": "https://www.revisor.mn.gov/laws/2025/0/38/",
+          "source_sha256": "cb0c57f0e474362c853a57990dd1794a9c7df5559feba9ab06de29523a73c8ca",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 23, 2025, 10:58 a.m."
+          ]
+        },
+        {
+          "citation": "2025 c 35 art 11 s 19",
+          "ref": "/laws/2025/0/35/#laws.11.19.0",
+          "year": 2025,
+          "law_url": "https://www.revisor.mn.gov/laws/2025/0/35/",
+          "source_sha256": "bc986573a208eaa85574e46e7bea92e0bdefa5d024964baec95ee955315614f7",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 23, 2025, 10:55 a.m."
+          ]
+        },
+        {
+          "citation": "2025 c 35 art 11 s 21",
+          "ref": "/laws/2025/0/35/#laws.11.21.0",
+          "year": 2025,
+          "law_url": "https://www.revisor.mn.gov/laws/2025/0/35/",
+          "source_sha256": "bc986573a208eaa85574e46e7bea92e0bdefa5d024964baec95ee955315614f7",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 23, 2025, 10:55 a.m."
+          ]
+        },
+        {
+          "citation": "2025 c 38 art 3 s 76",
+          "ref": "/laws/2025/0/38/#laws.3.76.0",
+          "year": 2025,
+          "law_url": "https://www.revisor.mn.gov/laws/2025/0/38/",
+          "source_sha256": "cb0c57f0e474362c853a57990dd1794a9c7df5559feba9ab06de29523a73c8ca",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [
+            "new text begin This section is effective July 1, 2027. new text end"
+          ],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 23, 2025, 10:58 a.m."
+          ]
+        },
+        {
+          "citation": "2025 c 35 art 11 s 22",
+          "ref": "/laws/2025/0/35/#laws.11.22.0",
+          "year": 2025,
+          "law_url": "https://www.revisor.mn.gov/laws/2025/0/35/",
+          "source_sha256": "bc986573a208eaa85574e46e7bea92e0bdefa5d024964baec95ee955315614f7",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 23, 2025, 10:55 a.m."
+          ]
+        },
+        {
+          "citation": "2025 c 38 art 3 s 77",
+          "ref": "/laws/2025/0/38/#laws.3.77.0",
+          "year": 2025,
+          "law_url": "https://www.revisor.mn.gov/laws/2025/0/38/",
+          "source_sha256": "cb0c57f0e474362c853a57990dd1794a9c7df5559feba9ab06de29523a73c8ca",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [
+            "new text begin This section is effective July 1, 2025. new text end"
+          ],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 23, 2025, 10:58 a.m."
+          ]
+        },
+        {
+          "citation": "2025 c 35 art 11 s 23",
+          "ref": "/laws/2025/0/35/#laws.11.23.0",
+          "year": 2025,
+          "law_url": "https://www.revisor.mn.gov/laws/2025/0/35/",
+          "source_sha256": "bc986573a208eaa85574e46e7bea92e0bdefa5d024964baec95ee955315614f7",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 23, 2025, 10:55 a.m."
+          ]
+        }
+      ]
+    },
+    {
+      "act": "ch-611a",
+      "title": "CHAPTER 611A. CRIME VICTIMS: RIGHTS, PROGRAMS, AGENCIES",
+      "official_source": "https://www.revisor.mn.gov/statutes/cite/611A/full",
+      "official_sha256": "f5a54b33d80d96919395a1ac0d2c6ee74f2b0a5d86024e17b8c6f1a0554918e4",
+      "latest_history_year": 2026,
+      "latest_history_references": [
+        {
+          "citation": "2026 c 97 art 1 s 26",
+          "ref": "/laws/2026/0/97/#laws.1.26.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/97/"
+        },
+        {
+          "citation": "2026 c 97 art 7 s 4",
+          "ref": "/laws/2026/0/97/#laws.7.4.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/97/"
+        },
+        {
+          "citation": "2026 c 97 art 1 s 28",
+          "ref": "/laws/2026/0/97/#laws.1.28.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/97/"
+        },
+        {
+          "citation": "2026 c 97 art 1 s 29",
+          "ref": "/laws/2026/0/97/#laws.1.29.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/97/"
+        },
+        {
+          "citation": "2026 c 97 art 1 s 30",
+          "ref": "/laws/2026/0/97/#laws.1.30.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/97/"
+        },
+        {
+          "citation": "2026 c 71 s 4",
+          "ref": "/laws/2026/0/71/#laws.0.4.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/71/"
+        },
+        {
+          "citation": "2026 c 97 art 1 s 31",
+          "ref": "/laws/2026/0/97/#laws.1.31.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/97/"
+        },
+        {
+          "citation": "2026 c 97 art 1 s 33",
+          "ref": "/laws/2026/0/97/#laws.1.33.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/97/"
+        },
+        {
+          "citation": "2026 c 88 art 1 s 221",
+          "ref": "/laws/2026/0/88/#laws.1.221.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/88/"
+        },
+        {
+          "citation": "2026 c 88 art 1 s 222",
+          "ref": "/laws/2026/0/88/#laws.1.222.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/88/"
+        }
+      ],
+      "exact_chapter_timing_paragraphs": [
+        "MS 2012 [Repealed, 2014 c 212 art 1 s 15 ]",
+        "MS 1986 [Repealed, 1988 c 649 s 5 ]",
+        "MS 2012 [Repealed, 2014 c 212 art 1 s 15 ]",
+        "An order of restitution may be enforced by any person named in the order to receive the restitution, or by the Crime Victims Reimbursement Board in the same manner as a judgment in a civil action. Any order for restitution in favor of a victim shall also operate as an order for restitution in favor of the Crime Victims Reimbursement Board, if the board has paid reimbursement to the victim or on the victim's behalf. Filing fees for docketing an order of restitution as a civil judgment are waived for any victim named in the restitution order. An order of restitution shall be docketed as a civil judgment, in the name of any person named in the order and in the name of the Crime Victims Reimbursement Board, by the court administrator of the district court in the county in which the order of restitution was entered. Notwithstanding section 541.04 or any other law or rule to the contrary, an order of restitution docketed as a civil judgment does not expire until satisfied or otherwise discharged pursuant to a court order. The court administrator also shall notify the commissioner of revenue of the restitution debt in the manner provided in chapter 270A, the Revenue Recapture Act. A juvenile court is not required to appoint a guardian ad litem for a juvenile offender before docketing a restitution order. Interest shall accrue on the unpaid balance of the judgment as provided in section 549.09 . Whether the order of restitution has been docketed or not, it is a debt that is not dischargeable in bankruptcy. A decision for or against restitution in any criminal or juvenile proceeding is not a bar to any civil action by the victim or by the state pursuant to section 611A.61 against the offender. The offender shall be given credit, in any order for judgment in favor of a victim in a civil action, for any restitution paid to the victim for the same injuries for which the judgment is awarded.",
+        "MS 1994 [Repealed, 1996 c 310 s 1 ]",
+        "MS 2006 [Repealed, 2007 c 13 art 2 s 14 ]",
+        "(c) As part of any review, the domestic fatality review team may compel the production of other records by applying to the district court for a subpoena, which will be effective throughout the state according to the Rules of Civil Procedure.",
+        "MS 2006 [Repealed, 2007 c 133 art 2 s 13 ]",
+        "MS 2006 [Repealed, 2007 c 133 art 2 s 13 ]",
+        "MS 2006 [Repealed, 2007 c 133 art 2 s 13 ]",
+        "MS 1991 Supp [Repealed, 1991 c 272 s 20 ; 2007 c 133 art 2 s 13 ]",
+        "MS 2006 [Repealed, 2007 c 133 art 2 s 13 ]",
+        "MS 1990 [Repealed, 1991 c 272 s 20 ]",
+        "MS 2006 [Repealed, 2007 c 133 art 2 s 13 ]",
+        "MS 2006 [Repealed, 2007 c 133 art 2 s 13 ]",
+        "MS 2006 [Repealed, 2007 c 133 art 2 s 13 ]",
+        "MS 1991 Supp [Repealed, 1991 c 272 s 20 ; 2007 c 133 art 2 s 13 ]",
+        "MS 2002 [Repealed, 2002 c 220 art 7 s 33 ]",
+        "MS 2002 [Repealed, 2002 c 220 art 7 s 33 ]",
+        "MS 1992 [Repealed, 1993 c 326 art 6 s 26 ]",
+        "MS 1994 [Repealed, 1995 c 226 art 7 s 26 ]",
+        "MS 1986 [Repealed, 1988 c 638 s 17 ]",
+        "MS 1986 [Repealed, 1988 c 638 s 17 ]",
+        "MS 2000 [Repealed, 2002 c 220 art 7 s 33 ]"
+      ],
+      "date_status": "unestablished; amendment evidence only",
+      "law_versions_added": 0,
+      "words": 26499,
+      "sections": 82,
+      "tables": 0,
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "session_law_evidence": [
+        {
+          "citation": "2026 c 97 art 1 s 26",
+          "ref": "/laws/2026/0/97/#laws.1.26.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/97/",
+          "source_sha256": "cc4917066b8e07af86c9949f5e72fb5990cb26b1f43c0127fb71eee9df55460a",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 18, 2026, 4:22 p.m."
+          ]
+        },
+        {
+          "citation": "2026 c 97 art 7 s 4",
+          "ref": "/laws/2026/0/97/#laws.7.4.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/97/",
+          "source_sha256": "cc4917066b8e07af86c9949f5e72fb5990cb26b1f43c0127fb71eee9df55460a",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 18, 2026, 4:22 p.m."
+          ]
+        },
+        {
+          "citation": "2026 c 97 art 1 s 28",
+          "ref": "/laws/2026/0/97/#laws.1.28.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/97/",
+          "source_sha256": "cc4917066b8e07af86c9949f5e72fb5990cb26b1f43c0127fb71eee9df55460a",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 18, 2026, 4:22 p.m."
+          ]
+        },
+        {
+          "citation": "2026 c 97 art 1 s 29",
+          "ref": "/laws/2026/0/97/#laws.1.29.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/97/",
+          "source_sha256": "cc4917066b8e07af86c9949f5e72fb5990cb26b1f43c0127fb71eee9df55460a",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 18, 2026, 4:22 p.m."
+          ]
+        },
+        {
+          "citation": "2026 c 97 art 1 s 30",
+          "ref": "/laws/2026/0/97/#laws.1.30.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/97/",
+          "source_sha256": "cc4917066b8e07af86c9949f5e72fb5990cb26b1f43c0127fb71eee9df55460a",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 18, 2026, 4:22 p.m."
+          ]
+        },
+        {
+          "citation": "2026 c 71 s 4",
+          "ref": "/laws/2026/0/71/#laws.0.4.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/71/",
+          "source_sha256": "450f15d3ffffb534f843ff1d10a2deeba9ee63da0ba883634208756037fa4c44",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [
+            "An order of restitution may be enforced by any person named in the order to receive the restitution, or by the Crime Victims Reimbursement Board in the same manner as a judgment in a civil action. Any order for restitution in favor of a victim shall also operate as an order for restitution in favor of the Crime Victims Reimbursement Board, if the board has paid reimbursement to the victim or on the victim's behalf. Filing fees for docketing an order of restitution as a civil judgment are waived for any victim named in the restitution order. An order of restitution shall be docketed as a civil judgment, in the name of any person named in the order and in the name of the Crime Victims Reimbursement Board, by the court administrator of the district court in the county in which the order of restitution was entered. new text begin Notwithstanding section 541.04 or any other law or rule to the contrary, an order of restitution docketed as a civil judgment does not expire until satisfied or otherwise discharged pursuant to a court order. new text end The court administrator also shall notify the commissioner of revenue of the restitution debt in the manner provided in chapter 270A, the Revenue Recapture Act. A juvenile court is not required to appoint a guardian ad litem for a juvenile offender before docketing a restitution order. Interest shall accrue on the unpaid balance of the judgment as provided in section 549.09 . Whether the order of restitution has been docketed or not, it is a debt that is not dischargeable in bankruptcy. A decision for or against restitution in any criminal or juvenile proceeding is not a bar to any civil action by the victim or by the state pursuant to section 611A.61 against the offender. The offender shall be given credit, in any order for judgment in favor of a victim in a civil action, for any restitution paid to the victim for the same injuries for which the judgment is awarded."
+          ],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 7, 2026, 9:13 a.m."
+          ]
+        },
+        {
+          "citation": "2026 c 97 art 1 s 31",
+          "ref": "/laws/2026/0/97/#laws.1.31.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/97/",
+          "source_sha256": "cc4917066b8e07af86c9949f5e72fb5990cb26b1f43c0127fb71eee9df55460a",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 18, 2026, 4:22 p.m."
+          ]
+        },
+        {
+          "citation": "2026 c 97 art 1 s 33",
+          "ref": "/laws/2026/0/97/#laws.1.33.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/97/",
+          "source_sha256": "cc4917066b8e07af86c9949f5e72fb5990cb26b1f43c0127fb71eee9df55460a",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 18, 2026, 4:22 p.m."
+          ]
+        },
+        {
+          "citation": "2026 c 88 art 1 s 221",
+          "ref": "/laws/2026/0/88/#laws.1.221.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/88/",
+          "source_sha256": "2856fb68664e30d0c91503f05cf9cc43d6d76233656404e6cb4ad797ffe39ac7",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 12, 2026, 12:43 p.m."
+          ]
+        },
+        {
+          "citation": "2026 c 88 art 1 s 222",
+          "ref": "/laws/2026/0/88/#laws.1.222.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/88/",
+          "source_sha256": "2856fb68664e30d0c91503f05cf9cc43d6d76233656404e6cb4ad797ffe39ac7",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 12, 2026, 12:43 p.m."
+          ]
+        }
+      ]
+    },
+    {
+      "act": "ch-626",
+      "title": "CHAPTER 626. PEACE OFFICERS; SEARCHES; PURSUIT; MANDATORY REPORTING",
+      "official_source": "https://www.revisor.mn.gov/statutes/cite/626/full",
+      "official_sha256": "7e4c4e25e8b76b0d63a4f55a6485d9d1e211e7f43df6ad7d85f748a2525a3795",
+      "latest_history_year": 2026,
+      "latest_history_references": [
+        {
+          "citation": "2026 c 97 art 7 s 5",
+          "ref": "/laws/2026/0/97/#laws.7.5.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/97/"
+        },
+        {
+          "citation": "2026 c 95 art 7 s 7",
+          "ref": "/laws/2026/0/95/#laws.7.7.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/95/"
+        },
+        {
+          "citation": "2026 c 95 art 7 s 20",
+          "ref": "/laws/2026/0/95/#laws.7.20.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/95/"
+        },
+        {
+          "citation": "2026 c 121 art 4 s 35",
+          "ref": "/laws/2026/0/121/#laws.4.35.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/121/"
+        },
+        {
+          "citation": "2026 c 69 s 1",
+          "ref": "/laws/2026/0/69/#laws.0.1.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/69/"
+        },
+        {
+          "citation": "2026 c 92 art 2 s 14",
+          "ref": "/laws/2026/0/92/#laws.2.14.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/92/"
+        },
+        {
+          "citation": "2026 c 59 s 9",
+          "ref": "/laws/2026/0/59/#laws.0.9.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/59/"
+        }
+      ],
+      "exact_chapter_timing_paragraphs": [
+        "MS 2000 [Repealed, 1Sp2001 c 8 art 12 s 18 ]",
+        "MS 1998 [Repealed, 1999 c 216 art 5 s 15 ]",
+        "NOTE: This section, as added by Laws 2026, chapter 97, article 7, section 5, is effective January 1, 2028. Laws 2026, chapter 97, article 7, section 5, the effective date.",
+        "MS 2004 [Repealed, 2005 c 159 art 1 s 15 ]",
+        "MS 2004 [Repealed, 2005 c 159 art 1 s 15 ]",
+        "MS 2004 [Repealed, 2005 c 159 art 1 s 15 ]",
+        "MS 2004 [Repealed, 2005 c 98 art 3 s 25 ; 2005 c 159 art 1 s 15 ]",
+        "MS 2004 [Repealed, 2005 c 159 art 1 s 15 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2019 Supp [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2019 Supp [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2019 Supp [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2019 Supp [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2019 Supp [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 1986 [Repealed, 1988 c 625 s 9 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 1994 [Repealed, 1995 c 229 art 1 s 24 ]",
+        "(h) The lead investigative agency shall complete its final disposition within 60 calendar days. If the lead investigative agency is unable to complete its final disposition within 60 calendar days, the lead investigative agency shall notify the following persons provided that the notification will not endanger the vulnerable adult or hamper the investigation: (1) the vulnerable adult or the vulnerable adult's guardian or health care agent, when known, if the lead investigative agency knows them to be aware of the investigation; and (2) the facility, where applicable. The notice shall contain the reason for the delay and the projected completion date. If the lead investigative agency is unable to complete its final disposition by a subsequent projected completion date, the lead investigative agency shall again notify the vulnerable adult or the vulnerable adult's guardian or health care agent, when known if the lead investigative agency knows them to be aware of the investigation, and the facility, where applicable, of the reason for the delay and the revised projected completion date provided that the notification will not endanger the vulnerable adult or hamper the investigation. The lead investigative agency must notify the health care agent of the vulnerable adult only if the health care agent's authority to make health care decisions for the vulnerable adult is currently effective under section 145C.06 and not suspended under section 524.5-310 and the investigation relates to a duty assigned to the health care agent by the principal. A lead investigative agency's inability to complete the final disposition within 60 calendar days or by any projected completion date does not invalidate the final disposition.",
+        "MS 2024 [Repealed, 2026 c 95 art 7 s 27 ]",
+        "MS 1994 [Repealed, 1995 c 229 art 1 s 24 ]",
+        "MS 1994 [Repealed, 1995 c 229 art 1 s 24 ]",
+        "MS 1994 [Repealed, 1995 c 229 art 1 s 24 ]",
+        "MS 1994 [Repealed, 1995 c 229 art 1 s 24 ]",
+        "MS 1982 [Repealed, 1983 c 273 s 8 ]",
+        "MS 1994 [Repealed, 1995 c 229 art 1 s 24 ]",
+        "MS 1994 [Repealed, 1995 c 229 art 1 s 24 ]",
+        "MS 2012 [Repealed, 2014 c 262 art 4 s 9 ]",
+        "MS 1994 [Repealed, 1995 c 229 art 1 s 24 ]",
+        "When an appeal of a lead investigative agency determination results in a contested case hearing under chapter 245A or 245C, the administrative law judge shall notify the vulnerable adult who is the subject of the maltreatment determination and, if known, a guardian of the vulnerable adult appointed under section 524.5-310 , or a health care agent designated by the vulnerable adult in a health care directive that is currently effective under section 145C.06 , and whose authority to make health care decisions is not suspended under section 524.5-310 , of the hearing. The notice must be sent by certified mail and inform the vulnerable adult of the right to file a signed written statement in the proceedings. A guardian or health care agent who prepares or files a written statement for the vulnerable adult must indicate in the statement that the person is the vulnerable adult's guardian or health care agent and sign the statement in that capacity. The vulnerable adult, the guardian, or the health care agent may file a written statement with the administrative law judge hearing the case no later than five business days before commencement of the hearing. The administrative law judge shall include the written statement in the hearing record and consider the statement in deciding the appeal. This subdivision does not limit, prevent, or excuse the vulnerable adult from being called as a witness testifying at the hearing or grant the vulnerable adult, the guardian, or health care agent a right to participate in the proceedings or appeal the administrative law judge's decision in the case. The lead investigative agency must consider including the vulnerable adult victim of maltreatment as a witness in the hearing. If the lead investigative agency determines that participation in the hearing would endanger the well-being of the vulnerable adult or not be in the best interests of the vulnerable adult, the lead investigative agency shall inform the administrative law judge of the basis for this determination, which must be included in the final order. If the administrative law judge is not reasonably able to determine the address of the vulnerable adult, the guardian, or the health care agent, the administrative law judge is not required to send a hearing notice under this subdivision.",
+        "NOTE: The amendment to subdivision 13 by Laws 2026, chapter 121, article 7, section 53, is effective January 1, 2028. Laws 2026, chapter 121, article 7, section 56.",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 1994 [Repealed, 1996 c 310 s 1 ]",
+        "MS 2018 [Repealed, 1Sp2020 c 2 art 7 s 39 ]",
+        "MS 1995 Supp [Repealed, 1996 c 310 s 1 ]",
+        "MS 1994 [Repealed, 1996 c 310 s 1 ]",
+        "MS 1994 [Repealed, 1996 c 310 s 1 ]",
+        "MS 1994 [Repealed, 1996 c 310 s 1 ]",
+        "MS 1994 [Repealed, 1996 c 310 s 1 ]",
+        "MS 1994 [Repealed, 1996 c 310 s 1 ]",
+        "MS 1986 [Repealed, 1988 c 563 s 8 ]",
+        "The council shall be organized and administered under section 15.059 , except that the council does not expire. Council members serve at the pleasure of the appointing authority. The council shall select a chairperson from among the members by majority vote at its first meeting. The executive director of the board shall serve as the council's executive secretary.",
+        "MS 2010 [Repealed, 2011 c 76 art 1 s 80 ]",
+        "MS 1986 [Repealed, 1988 c 563 s 8 ]",
+        "(1) the needs of victims of these crimes and the most effective and sensitive way to meet those needs or arrange for them to be met;",
+        "(b) The board shall incorporate all applicable standards in sections 609.06, subdivision 3, and 609.066 , even if a standard has a delayed effective date. The revised model policy shall clearly identify the effective date of provisions with an effective date beyond September 1, 2020.",
+        "The legislature finds that emergency vehicle operations are an integral part of law enforcement's commitment to public safety. Law enforcement agencies shall make reasonable efforts to guide their officers in the safe and responsible performance of their emergency response duties. Although laws and rules provide the foundation for the conduct of law enforcement officers, continuous and effective training is essential to ensure proper law enforcement action during emergency vehicle operations, including police pursuits. This training must be designed to give officers both skills and decision-making ability so that emergency vehicle operations can be resolved safely and successfully.",
+        "MS 1978 [Repealed, 1980 c 578 s 12 ]",
+        "MS 1978 [Repealed, 1980 c 578 s 12 ]",
+        "MS 1978 [Repealed, 1980 c 578 s 12 ]",
+        "MS 1978 [Repealed, 1980 c 578 s 12 ]",
+        "MS 1998 [Repealed, 1999 c 216 art 5 s 15 ]",
+        "MS 2012 [Repealed, 2014 c 244 s 3 ]",
+        "MS 2012 [Repealed, 2014 c 244 s 3 ]",
+        "(c) Effective July 1, 2025, the Board of Regents of the University of Minnesota may request that the commissioner designate one or more campuses to provide intensive comprehensive law enforcement education and skills training to eligible peace officer candidates. Upon such a request, the commissioner may designate at least one of the requested campuses.",
+        "The commissioner, in consultation with community and law enforcement stakeholders, shall appoint a roster of six persons suited and qualified by training and experience to act as arbitrators for peace officer grievance arbitrations under this section. In making these appointments, and as applicable, the commissioner may consider the factors set forth in Minnesota Rules, parts 5530.0600 and 5530.0700 , subpart 6, as well as a candidate's familiarity with labor law, the grievance process, and the law enforcement profession; or experience and training in cultural competency, racism, implicit bias, and recognizing and valuing community diversity and cultural differences. The appointments are effective immediately upon filing with the secretary of state. Arbitrators on the roster created by this subdivision shall not serve as an arbitrator in a labor arbitration other than a grievance arbitration as defined in this section.",
+        "(1) two appointments to expire on the first Monday in January 2023;",
+        "(2) two appointments to expire on the first Monday in January 2024; and",
+        "(3) two appointments to expire on the first Monday in January 2025.",
+        "(b) Subsequent appointments to the roster of arbitrators shall be for three-year terms to expire on the first Monday in January, with the terms of no more than two arbitrators to expire in the same year.",
+        "(c) An arbitrator may be reappointed to the roster upon expiration of the arbitrator's term. If the arbitrator is not reappointed, the arbitrator may continue to serve until a successor is appointed, but in no case later than July 1 of the year in which the arbitrator's term expires.",
+        "MS 2022 [Repealed, 2023 c 52 art 10 s 34 ]",
+        "The commissioner of public safety shall establish a Blue Alert system to aid in the identification, location, and apprehension of an individual or individuals suspected of killing or seriously wounding a local, state, or federal law enforcement officer. The commissioner shall coordinate with local law enforcement agencies and public and commercial television and radio broadcasters to provide an effective alert system.",
+        "The commissioner shall regularly review the function of the Blue Alert system and revise its criteria and procedures to provide for efficient and effective public notification."
+      ],
+      "date_status": "unestablished; amendment evidence only",
+      "law_versions_added": 0,
+      "words": 54724,
+      "sections": 113,
+      "tables": 0,
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "session_law_evidence": [
+        {
+          "citation": "2026 c 97 art 7 s 5",
+          "ref": "/laws/2026/0/97/#laws.7.5.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/97/",
+          "source_sha256": "cc4917066b8e07af86c9949f5e72fb5990cb26b1f43c0127fb71eee9df55460a",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [
+            "new text begin This section is effective January 1, 2028. new text end"
+          ],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 18, 2026, 4:22 p.m."
+          ]
+        },
+        {
+          "citation": "2026 c 95 art 7 s 7",
+          "ref": "/laws/2026/0/95/#laws.7.7.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/95/",
+          "source_sha256": "5bcc6797971564bbd36de16bf99a8c4a6b9c17bd64a4d6d46744a4cbdb1d5ca9",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 14, 2026, 10:02 a.m."
+          ]
+        },
+        {
+          "citation": "2026 c 95 art 7 s 20",
+          "ref": "/laws/2026/0/95/#laws.7.20.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/95/",
+          "source_sha256": "5bcc6797971564bbd36de16bf99a8c4a6b9c17bd64a4d6d46744a4cbdb1d5ca9",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 14, 2026, 10:02 a.m."
+          ]
+        },
+        {
+          "citation": "2026 c 121 art 4 s 35",
+          "ref": "/laws/2026/0/121/#laws.4.35.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/121/",
+          "source_sha256": "3670403638d12fb110fb7462cd221b40c1ebed61fc286972272368c84b8becd2",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 27, 2026, 12:26 p.m."
+          ]
+        },
+        {
+          "citation": "2026 c 69 s 1",
+          "ref": "/laws/2026/0/69/#laws.0.1.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/69/",
+          "source_sha256": "7ffffca2cb14c80014bb69dba9e6808acb3063d687eac8cdb4e1e2baf53a58e7",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 5, 2026, 10:46 a.m."
+          ]
+        },
+        {
+          "citation": "2026 c 92 art 2 s 14",
+          "ref": "/laws/2026/0/92/#laws.2.14.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/92/",
+          "source_sha256": "3f0a90c5a06863f3b8deaf3fcdc00aacb0198eb7ea076555373758410da228dd",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [
+            "new text begin This section is effective January 1, 2027. new text end"
+          ],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 14, 2026, 9:59 a.m."
+          ]
+        },
+        {
+          "citation": "2026 c 59 s 9",
+          "ref": "/laws/2026/0/59/#laws.0.9.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/59/",
+          "source_sha256": "74aeb09a7dd8f80ebd8e7953310f7339a848e4e983a5c414662ceeadce00a641",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor April 29, 2026, 11:20 a.m."
+          ]
+        }
+      ]
+    },
+    {
+      "act": "ch-629",
+      "title": "CHAPTER 629. EXTRADITION, DETAINERS, ARREST, BAIL",
+      "official_source": "https://www.revisor.mn.gov/statutes/cite/629/full",
+      "official_sha256": "312adad82d85a02da95a27d8f869c22a68c63275b63bae1e71bfd607a7dee280",
+      "latest_history_year": 2026,
+      "latest_history_references": [
+        {
+          "citation": "2026 c 97 art 7 s 6",
+          "ref": "/laws/2026/0/97/#laws.7.6.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/97/"
+        },
+        {
+          "citation": "2026 c 75 s 9",
+          "ref": "/laws/2026/0/75/#laws.0.9.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/75/"
+        },
+        {
+          "citation": "2026 c 97 art 1 s 32",
+          "ref": "/laws/2026/0/97/#laws.1.32.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/97/"
+        }
+      ],
+      "exact_chapter_timing_paragraphs": [
+        "Each state party to this agreement shall designate an officer who, acting jointly with like officers of other party states, shall promulgate rules and regulations to carry out more effectively the terms and provisions of this agreement, and who shall provide, within and without the state, information necessary to the effective operation of this agreement.",
+        "This agreement shall enter into full force and effect as to a party state when such state has enacted the same into law. A state party to this agreement may withdraw herefrom by enacting a statute repealing the same. However, the withdrawal of any state shall not affect the status of any proceedings already initiated by inmates or by state officers at the time such withdrawal takes effect, nor shall it affect their rights in respect thereof.",
+        "MS 1992 [Repealed, 1993 c 326 art 7 s 22 ]",
+        "If the judge imposes as a condition of release a requirement that the person have no contact with the victim of the alleged crime, the judge may also, on its own motion or that of the prosecutor or on request of the victim, issue an ex parte temporary restraining order under section 609.748, subdivision 4 , or an ex parte temporary order for protection under section 518B.01, subdivision 7 . Notwithstanding section 518B.01, subdivision 7 , paragraph (b), or 609.748, subdivision 4 , paragraph (c), the temporary order is effective until the defendant is convicted or acquitted, or the charge is dismissed, provided that upon request the defendant is entitled to a full hearing on the restraining order under section 609.748, subdivision 5 , or on the order for protection under section 518B.01 . The hearing must be held within seven days of the defendant's request.",
+        "(d) If the judge imposes as a condition of release a requirement that the person have no contact with the alleged victim, the judge may also, on its own motion or that of the prosecutor or on request of the victim, issue an ex parte temporary restraining order under section 609.748, subdivision 4 , or an ex parte temporary order for protection under section 518B.01, subdivision 7 . Notwithstanding section 518B.01, subdivision 7 , paragraph (b), or 609.748, subdivision 4 , paragraph (c), the temporary order is effective until the defendant is convicted or acquitted, or the charge is dismissed, provided that upon request the defendant is entitled to a full hearing on the restraining order under section 609.748, subdivision 5 , or on the order for protection under section 518B.01 . The hearing must be held within seven days of the defendant's request.",
+        "MS 2024 [Repealed, 2026 c 97 art 7 s 10 ]"
+      ],
+      "date_status": "unestablished; amendment evidence only",
+      "law_versions_added": 0,
+      "words": 22765,
+      "sections": 89,
+      "tables": 0,
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "session_law_evidence": [
+        {
+          "citation": "2026 c 97 art 7 s 6",
+          "ref": "/laws/2026/0/97/#laws.7.6.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/97/",
+          "source_sha256": "cc4917066b8e07af86c9949f5e72fb5990cb26b1f43c0127fb71eee9df55460a",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 18, 2026, 4:22 p.m."
+          ]
+        },
+        {
+          "citation": "2026 c 75 s 9",
+          "ref": "/laws/2026/0/75/#laws.0.9.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/75/",
+          "source_sha256": "ef70958c431a9208fd08be789f9648498e7133014c02547c47c78fc8b68d54ac",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 7, 2026, 9:18 a.m."
+          ]
+        },
+        {
+          "citation": "2026 c 97 art 1 s 32",
+          "ref": "/laws/2026/0/97/#laws.1.32.0",
+          "year": 2026,
+          "law_url": "https://www.revisor.mn.gov/laws/2026/0/97/",
+          "source_sha256": "cc4917066b8e07af86c9949f5e72fb5990cb26b1f43c0127fb71eee9df55460a",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 18, 2026, 4:22 p.m."
+          ]
+        }
+      ]
+    },
+    {
+      "act": "ch-630",
+      "title": "CHAPTER 630. PRETRIAL PROCEDURE",
+      "official_source": "https://www.revisor.mn.gov/statutes/cite/630/full",
+      "official_sha256": "659bbba2a84cd93cf2fcb94abf0f84eef5f61a50ee5d38ccc712997a4a676ff3",
+      "latest_history_year": 2011,
+      "latest_history_references": [
+        {
+          "citation": "2011 c 76 art 3 s 6",
+          "ref": "/laws/2011/0/76/#laws.3.6.0",
+          "year": 2011,
+          "law_url": "https://www.revisor.mn.gov/laws/2011/0/76/"
+        }
+      ],
+      "exact_chapter_timing_paragraphs": [],
+      "date_status": "unestablished; amendment evidence only",
+      "law_versions_added": 0,
+      "words": 1556,
+      "sections": 9,
+      "tables": 0,
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "session_law_evidence": [
+        {
+          "citation": "2011 c 76 art 3 s 6",
+          "ref": "/laws/2011/0/76/#laws.3.6.0",
+          "year": 2011,
+          "law_url": "https://www.revisor.mn.gov/laws/2011/0/76/",
+          "source_sha256": "3b5416f661b97f224c569229123aae74408fb05e7cfb9c74f395dd06076c5a5f",
+          "anchor_found": true,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": [
+            "Signed by the governor May 24, 2011, 5:02 p.m."
+          ]
+        }
+      ]
+    },
+    {
+      "act": "ch-632",
+      "title": "CHAPTER 632. APPEAL; FIRST-DEGREE MURDER",
+      "official_source": "https://www.revisor.mn.gov/statutes/cite/632/full",
+      "official_sha256": "56dc536e1d3d84ae21000c6a9000dca672ffad8f25adb7f0552d6fe1d50148bb",
+      "latest_history_year": 1982,
+      "latest_history_references": [
+        {
+          "citation": "1982 c 501 s 21",
+          "ref": "/laws/1982/0/501/#laws.0.21.0",
+          "year": 1982,
+          "law_url": "https://www.revisor.mn.gov/laws/1982/0/501/"
+        }
+      ],
+      "exact_chapter_timing_paragraphs": [],
+      "date_status": "unestablished; amendment evidence only",
+      "law_versions_added": 0,
+      "words": 191,
+      "sections": 1,
+      "tables": 0,
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "session_law_evidence": [
+        {
+          "citation": "1982 c 501 s 21",
+          "ref": "/laws/1982/0/501/#laws.0.21.0",
+          "year": 1982,
+          "law_url": "https://www.revisor.mn.gov/laws/1982/0/501/",
+          "source_sha256": "9959c503c06d4d35d286623eeeac86a37ba35c75fea1686a50914f5c8b27d8cb",
+          "anchor_found": false,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": []
+        }
+      ]
+    },
+    {
+      "act": "ch-636",
+      "title": "CHAPTER 636. CARE OF JUVENILE OFFENDERS",
+      "official_source": "https://www.revisor.mn.gov/statutes/cite/636/full",
+      "official_sha256": "ff9ce3860f5c86f3a115532967b692c06733eacfe86fdc7a9840e4c437d73d78",
+      "latest_history_year": 1988,
+      "latest_history_references": [
+        {
+          "citation": "1988 c 515 s 4",
+          "ref": "/laws/1988/0/515/#laws.0.4.0",
+          "year": 1988,
+          "law_url": "https://www.revisor.mn.gov/laws/1988/0/515/"
+        }
+      ],
+      "exact_chapter_timing_paragraphs": [],
+      "date_status": "unestablished; amendment evidence only",
+      "law_versions_added": 0,
+      "words": 311,
+      "sections": 1,
+      "tables": 0,
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "session_law_evidence": [
+        {
+          "citation": "1988 c 515 s 4",
+          "ref": "/laws/1988/0/515/#laws.0.4.0",
+          "year": 1988,
+          "law_url": "https://www.revisor.mn.gov/laws/1988/0/515/",
+          "source_sha256": "98536c3a966f42635aee897a9a565cc3b667e8e6c8403d682b264ccb837c68e6",
+          "anchor_found": false,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": []
+        }
+      ]
+    },
+    {
+      "act": "ch-643",
+      "title": "CHAPTER 643. WORKHOUSE; WORK FARM",
+      "official_source": "https://www.revisor.mn.gov/statutes/cite/643/full",
+      "official_sha256": "2884ba090cd0cc7a4e46729a3364aac6d9bf05a4f99b0222024cef69bc6448d3",
+      "latest_history_year": 1999,
+      "latest_history_references": [
+        {
+          "citation": "1999 c 50 s 1",
+          "ref": "/laws/1999/0/50/#laws.0.1.0",
+          "year": 1999,
+          "law_url": "https://www.revisor.mn.gov/laws/1999/0/50/"
+        }
+      ],
+      "exact_chapter_timing_paragraphs": [],
+      "date_status": "unestablished; amendment evidence only",
+      "law_versions_added": 0,
+      "words": 1262,
+      "sections": 3,
+      "tables": 0,
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "session_law_evidence": [
+        {
+          "citation": "1999 c 50 s 1",
+          "ref": "/laws/1999/0/50/#laws.0.1.0",
+          "year": 1999,
+          "law_url": "https://www.revisor.mn.gov/laws/1999/0/50/",
+          "source_sha256": "c791c9ba6fe5d1a1552d24914daead9fbf94b3408cb4ef6818add9e8cc017daa",
+          "anchor_found": false,
+          "exact_local_timing_paragraphs": [],
+          "exact_signed_paragraphs": []
+        }
+      ]
+    }
+  ]
+}
